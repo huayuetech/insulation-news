@@ -390,3 +390,41 @@ a.nav-item{text-decoration:none}
 ::-webkit-scrollbar-track{background:transparent}
 ::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
 ::-webkit-scrollbar-thumb:hover{background:var(--text-3)}
+
+/* ===== 单页版（奥卡姆改版）===== */
+/* 分类 chips 行（⭐精选第一位） */
+.chip-bar{display:flex;gap:6px;flex-wrap:wrap;padding:10px 20px;background:var(--bg-card);border-bottom:1px solid var(--border)}
+.chip{font-size:.8rem;padding:5px 14px;border-radius:14px;border:1px solid var(--border);background:var(--bg);color:var(--text-2);transition:all .12s;white-space:nowrap}
+.chip:hover{border-color:var(--accent);color:var(--accent)}
+.chip.active{background:var(--accent-bg);border-color:var(--accent);color:var(--accent);font-weight:600}
+
+/* 左栏只剩国家筛选，放开高度限制 */
+.sidebar .country-groups{max-height:none;flex:1}
+
+/* 时间线日期分组 */
+.day-group{margin-bottom:6px}
+.day-header{position:sticky;top:-16px;z-index:50;display:flex;align-items:baseline;gap:10px;padding:10px 0 8px;background:var(--bg)}
+.day-header h3{font-size:.95rem;font-weight:700}
+.day-week{font-size:.75rem;color:var(--text-3)}
+.day-count{font-size:.72rem;color:var(--text-3);margin-left:auto}
+.day-items{position:relative;margin-left:5px;padding-left:20px;border-left:2px solid var(--border);padding-bottom:8px;display:flex;flex-direction:column;gap:10px}
+
+/* 时间线圆点（颜色=影响等级） */
+.news-card{position:relative}
+.news-card .t-dot{position:absolute;left:-27px;top:18px;width:10px;height:10px;border-radius:50%;background:var(--text-3);border:2px solid var(--bg)}
+.news-card.impact-high .t-dot{background:var(--red)}
+.news-card.impact-medium .t-dot{background:var(--orange)}
+.news-card.impact-high{border-left:3px solid var(--red)}
+.news-card.impact-medium{border-left:3px solid var(--orange)}
+
+/* 精选星标 */
+.card-star{margin-right:4px;font-size:.85rem}
+
+/* 选题建议：内联可展开（替代角色切换） */
+.card-topic-toggle{margin-top:8px;font-size:.74rem;color:var(--accent);cursor:pointer;user-select:none}
+.card-topic-toggle:hover{text-decoration:underline}
+.card-topic{display:none;margin-top:6px;padding:8px 10px;background:var(--accent-bg);border-radius:var(--radius);font-size:.75rem;color:var(--accent);line-height:1.4}
+.card-topic.open{display:block}
+
+/* 右栏空态 */
+.rail-empty{font-size:.76rem;color:var(--text-3);padding:8px 0;text-align:center}

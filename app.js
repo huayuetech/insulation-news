@@ -1,110 +1,76 @@
-/* ===== State ===== */
+/* ===== Insulation News 单页版 =====
+ * 信息架构（奥卡姆改版）：
+ *   一条时间线主流（按日分组）承担全部扫描任务，⭐精选为分类 chips 第一项；
+ *   左栏仅国家筛选，右栏仅政策预警 + 选题灵感；无角色切换、无独立日报视图。
+ */
 const state = {
   items: [],
-  dailyReport: null,
-  dailyDate: null,
   countries: null,
-  currentView: 'featured',
-  currentCategory: null,
-  currentRole: 'management',
-  impactFilter: null,
+  chip: 'featured',            // 'featured' | 'all' | 分类名
+  impactFilter: null,          // null | 'high'
   selectedCountries: new Set(),
   searchQuery: '',
   timeFilter: 'all',
   theme: localStorage.getItem('theme') || 'light',
 };
 
+const CATEGORIES = ['标准政策', '产品与材料', '市场价格', '工程应用', '企业展会', '技术观点'];
+const WEEKDAYS = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
 const today = new Date();
-
 const countryFlags = {};
-
-const sectionIcons = {
-  policy: '⚠',
-  product: '⚙',
-  market: '↗',
-  project: '⚒',
-  company: '★',
-  tech: '✎'
-};
 
 /* ===== Init ===== */
 async function init() {
   applyTheme();
-  let newsRes, countriesRes, dailyRes;
+  let newsRes, countriesRes;
   try {
     [newsRes, countriesRes] = await Promise.all([
       fetch('data/news.json').then(r => r.json()),
       fetch('data/countries.json').then(r => r.json()),
     ]);
-    // 日报按数据里记录的最新日期动态加载
-    const dDate = newsRes.dailyDate || (newsRes.lastUpdated || '').slice(0, 10);
-    dailyRes = await fetch(`data/daily-reports/${dDate}.json`)
-      .then(r => r.ok ? r.json() : null).catch(() => null);
   } catch (e) {
     // file:// 直接打开时 fetch 被浏览器拦截，降级使用 bundle.js 内嵌数据
     const d = window.__INSULATION_DATA__;
     if (!d) throw e;
     newsRes = d.news;
     countriesRes = d.countries;
-    dailyRes = d.daily;
-  }
-  if (!dailyRes && window.__INSULATION_DATA__) dailyRes = window.__INSULATION_DATA__.daily;
-  state.dailyDate = dailyRes?.date || newsRes.dailyDate || (newsRes.lastUpdated || '').slice(0, 10);
-  if (newsRes.totalSources) {
-    document.getElementById('sourceCount').textContent = newsRes.totalSources;
   }
 
   state.items = newsRes.items;
   state.countries = countriesRes;
-  state.dailyReport = dailyRes;
-
-  countriesRes.regions.forEach(r => r.countries.forEach(c => { countryFlags[c.code] = c.flag; countryFlags[c.name] = c.flag; }));
+  countriesRes.regions.forEach(r => r.countries.forEach(c => {
+    countryFlags[c.code] = c.flag;
+    countryFlags[c.name] = c.flag;
+  }));
 
   document.getElementById('updateTime').textContent = formatTime(newsRes.lastUpdated);
 
+  renderChips();
   renderCountryFilter();
-  renderSourceBars();
   bindEvents();
   render();
 }
 
-/* ===== Rendering ===== */
+/* ===== Render ===== */
 function render() {
   const filtered = getFilteredItems();
-  const view = state.currentView;
-
-  document.getElementById('feedList').hidden = (view === 'daily');
-  document.getElementById('dailyReportView').hidden = (view !== 'daily');
-
-  if (view === 'daily') {
-    renderDailyReport();
-    updateFeedHeader('每日简报', `${state.dailyDate || ''}`, filtered.length);
-  } else {
-    renderFeedList(filtered);
-    updateFeedHeader(
-      view === 'featured' ? '精选动态' : view === 'all' ? '全部动态' : state.currentCategory || '全部',
-      view === 'featured' ? '行业热点' : view === 'all' ? '信息流' : state.currentCategory,
-      filtered.length
-    );
-  }
+  const chipLabel = state.chip === 'featured' ? '精选' : state.chip === 'all' ? '全部动态' : state.chip;
+  document.getElementById('feedTitle').textContent = chipLabel + (state.impactFilter === 'high' ? ' · 高影响' : '');
+  document.getElementById('feedCount').textContent = `${filtered.length} 条`;
 
   renderStats(filtered);
+  renderTimeline(filtered);
   renderPolicyAlerts();
-  renderDailyBrief();
-  renderSignal(filtered);
-  renderMaterialTags(filtered);
-  renderCountryTags(filtered);
   renderTopics(filtered);
-  updateRoleVisibility();
 }
 
 function getFilteredItems() {
   let items = [...state.items];
 
-  if (state.currentView === 'featured') {
+  if (state.chip === 'featured') {
     items = items.filter(i => i.featured);
-  } else if (state.currentView === 'cat' && state.currentCategory) {
-    items = items.filter(i => i.category === state.currentCategory);
+  } else if (state.chip !== 'all') {
+    items = items.filter(i => i.category === state.chip);
   }
 
   if (state.impactFilter) {
@@ -125,6 +91,7 @@ function getFilteredItems() {
     items = items.filter(i =>
       i.title.toLowerCase().includes(q) ||
       i.summary.toLowerCase().includes(q) ||
+      (i.titleOriginal || '').toLowerCase().includes(q) ||
       (i.materials || []).some(m => m.toLowerCase().includes(q)) ||
       (i.applications || []).some(a => a.toLowerCase().includes(q)) ||
       (i.country || '').toLowerCase().includes(q) ||
@@ -133,8 +100,7 @@ function getFilteredItems() {
     );
   }
 
-  items.sort((a, b) => b.score - a.score);
-  return items;
+  return clusterItems(items);
 }
 
 function getTimeCutoff(filter) {
@@ -146,27 +112,6 @@ function getTimeCutoff(filter) {
   return d;
 }
 
-function updateFeedHeader(eyebrow, title, count) {
-  document.getElementById('feedEyebrow').textContent = eyebrow;
-  document.getElementById('feedTitle').textContent = title;
-  document.getElementById('feedCount').textContent = `${count} 条`;
-}
-
-function renderFeedList(items) {
-  const list = document.getElementById('feedList');
-  const empty = document.getElementById('emptyState');
-
-  if (items.length === 0) {
-    list.innerHTML = '';
-    empty.hidden = false;
-    return;
-  }
-  empty.hidden = true;
-
-  const clustered = clusterItems(items);
-  list.innerHTML = clustered.map(item => renderCard(item)).join('');
-}
-
 function clusterItems(items) {
   const seen = new Set();
   const result = [];
@@ -174,9 +119,7 @@ function clusterItems(items) {
     if (seen.has(item.id)) continue;
     seen.add(item.id);
     if (item.isMainEvent && item.relatedIds?.length > 0) {
-      item._related = item.relatedIds
-        .map(rid => items.find(i => i.id === rid))
-        .filter(Boolean);
+      item._related = item.relatedIds.map(rid => items.find(i => i.id === rid)).filter(Boolean);
       item._related.forEach(r => seen.add(r.id));
     }
     result.push(item);
@@ -184,13 +127,77 @@ function clusterItems(items) {
   return result;
 }
 
+/* ===== 分类 chips（⭐精选第一位） ===== */
+function renderChips() {
+  const bar = document.getElementById('chipBar');
+  const chips = [
+    { id: 'featured', label: '⭐ 精选' },
+    { id: 'all', label: '全部' },
+    ...CATEGORIES.map(c => ({ id: c, label: c })),
+  ];
+  bar.innerHTML = chips.map(c =>
+    `<button class="chip ${state.chip === c.id ? 'active' : ''}" data-chip="${c.id}">${c.label}</button>`
+  ).join('');
+
+  bar.onclick = (e) => {
+    const chip = e.target.closest('.chip');
+    if (!chip) return;
+    state.chip = chip.dataset.chip;
+    syncChips();
+    render();
+  };
+}
+
+function syncChips() {
+  document.querySelectorAll('#chipBar .chip').forEach(c =>
+    c.classList.toggle('active', c.dataset.chip === state.chip));
+}
+
+/* ===== 时间线主流 ===== */
+function renderTimeline(items) {
+  const timeline = document.getElementById('timeline');
+  const empty = document.getElementById('emptyState');
+
+  if (items.length === 0) {
+    timeline.innerHTML = '';
+    empty.hidden = false;
+    return;
+  }
+  empty.hidden = true;
+
+  const groups = {};
+  items.forEach(i => { (groups[i.date] = groups[i.date] || []).push(i); });
+  const dates = Object.keys(groups).sort((a, b) => b.localeCompare(a));
+
+  timeline.innerHTML = dates.map(date => {
+    const dayItems = groups[date].sort((a, b) => b.score - a.score);
+    const d = new Date(date + 'T00:00:00');
+    const policyN = dayItems.filter(i => i.category === '标准政策').length;
+    const highN = dayItems.filter(i => i.impact === 'high').length;
+    const parts = [`${dayItems.length} 条`];
+    if (policyN) parts.push(`${policyN} 条政策`);
+    if (highN) parts.push(`${highN} 条高影响`);
+    return `
+      <section class="day-group">
+        <div class="day-header">
+          <h3>${d.getMonth() + 1}月${d.getDate()}日</h3>
+          <span class="day-week">${WEEKDAYS[d.getDay()]}</span>
+          <span class="day-count">${parts.join(' · ')}</span>
+        </div>
+        <div class="day-items">
+          ${dayItems.map(renderCard).join('')}
+        </div>
+      </section>
+    `;
+  }).join('');
+}
+
 function renderCard(item) {
   const flag = countryFlags[item.country] || '';
   const countryName = getCountryName(item.country);
   const scoreClass = item.score >= 90 ? 'score-high' : item.score >= 75 ? 'score-med' : 'score-low';
-  const impactClass = item.impact === 'high' ? 'high-impact' : item.impact === 'medium' ? 'medium-impact' : '';
+  const impactClass = item.impact === 'high' ? 'impact-high' : item.impact === 'medium' ? 'impact-medium' : '';
   const tierClass = item.sourceTier === 'T1' ? 'tier-t1' : item.sourceTier === 'T1.5' ? 'tier-t15' : item.sourceTier === 'T2' ? 'tier-t2' : 'tier-t3';
-  const showTopic = state.currentRole === 'operations';
 
   let clusterHtml = '';
   if (item._related?.length > 0) {
@@ -210,9 +217,13 @@ function renderCard(item) {
   }
 
   return `
-    <article class="news-card ${impactClass} ${showTopic ? 'show-topic' : ''}">
+    <article class="news-card ${impactClass}">
+      <div class="t-dot" aria-hidden="true"></div>
       <div class="card-header">
-        <div class="card-title"><a href="${item.sourceUrl || '#'}" target="_blank" rel="noopener">${item.title}</a></div>
+        <div class="card-title">
+          ${item.featured ? '<span class="card-star" title="精选">⭐</span>' : ''}
+          <a href="${item.sourceUrl || '#'}" target="_blank" rel="noopener">${item.title}</a>
+        </div>
         <div class="card-score ${scoreClass}">${item.score}</div>
       </div>
       <p class="card-summary">${item.summary}</p>
@@ -230,76 +241,15 @@ function renderCard(item) {
         </div>
         <span>${item.date}</span>
       </div>
-      ${item.topic ? `<div class="card-topic">${item.topic}</div>` : ''}
+      ${item.topic ? `
+        <div class="card-topic-toggle" onclick="this.nextElementSibling.classList.toggle('open');this.classList.toggle('open')">&#9998; 选题建议</div>
+        <div class="card-topic">${item.topic}</div>` : ''}
       ${clusterHtml}
     </article>
   `;
 }
 
-/* ===== Daily Report ===== */
-function renderDailyReport() {
-  const view = document.getElementById('dailyReportView');
-  const report = state.dailyReport;
-
-  const navHtml = `
-    <div class="daily-date-nav">
-      <button onclick="loadDailyReport(-1)">&larr; 前一天</button>
-      <span class="current-date">${state.dailyDate || ''} 日报</span>
-      <button onclick="loadDailyReport(1)">后一天 &rarr;</button>
-    </div>
-  `;
-
-  if (!report || !report.sections?.length) {
-    view.innerHTML = navHtml + '<div class="empty-state"><strong>该日期暂无日报</strong><span>系统每天早上 08:00 自动生成日报，可切换日期查看。</span></div>';
-    return;
-  }
-
-  const sectionsHtml = report.sections.map(section => {
-    const iconClass = section.icon;
-    return `
-      <div class="daily-section">
-        <div class="daily-section-header">
-          <div class="daily-section-icon ${iconClass}">${sectionIcons[iconClass] || '●'}</div>
-          <span class="daily-section-title">${section.title}</span>
-          <span class="daily-section-count">${section.items.length} 条</span>
-        </div>
-        <div class="daily-items">
-          ${section.items.map(item => {
-            const flag = countryFlags[item.country] || '';
-            return `
-              <div class="daily-item">
-                <span class="daily-item-flag">${flag}</span>
-                <div class="daily-item-content">
-                  <div class="daily-item-title">${item.title}</div>
-                  <div class="daily-item-summary">${item.summary}</div>
-                  <div class="daily-item-meta">
-                    <span>${item.source}</span>
-                    <span class="daily-item-impact impact-${item.impact}">${item.impact === 'high' ? '高影响' : item.impact === 'medium' ? '中影响' : '低影响'}</span>
-                  </div>
-                </div>
-              </div>
-            `;
-          }).join('')}
-        </div>
-      </div>
-    `;
-  }).join('');
-
-  view.innerHTML = navHtml + sectionsHtml;
-}
-
-async function loadDailyReport(offset) {
-  const cur = new Date((state.dailyDate || new Date().toISOString().slice(0, 10)) + 'T00:00:00');
-  cur.setDate(cur.getDate() + offset);
-  const ds = `${cur.getFullYear()}-${String(cur.getMonth() + 1).padStart(2, '0')}-${String(cur.getDate()).padStart(2, '0')}`;
-  state.dailyDate = ds;
-  state.dailyReport = await fetch(`data/daily-reports/${ds}.json`)
-    .then(r => r.ok ? r.json() : null).catch(() => null);
-  renderDailyReport();
-  document.getElementById('feedTitle').textContent = ds;
-}
-
-/* ===== Stats ===== */
+/* ===== 统计卡（可点筛选） ===== */
 function renderStats(items) {
   const row = document.getElementById('statsRow');
   const policyCount = items.filter(i => i.category === '标准政策').length;
@@ -307,7 +257,8 @@ function renderStats(items) {
   const countries = new Set(items.map(i => i.country)).size;
   const featured = items.filter(i => i.featured).length;
 
-  const policyActive = state.currentView === 'cat' && state.currentCategory === '标准政策';
+  const policyActive = state.chip === '标准政策';
+  const featuredActive = state.chip === 'featured';
   const cards = [
     { action: 'total', label: '总资讯', value: items.length, cls: '',
       sub: `覆盖 ${countries} 个国家 · 点击清除筛选`, active: false, disabled: false },
@@ -318,8 +269,8 @@ function renderStats(items) {
       sub: policyActive ? '已筛选 · 点击取消' : '点击看标准更新',
       active: policyActive, disabled: policyCount === 0 && !policyActive },
     { action: 'featured', label: '精选', value: featured, cls: '',
-      sub: state.currentView === 'featured' ? '已筛选 · 点击取消' : '点击只看精选',
-      active: state.currentView === 'featured', disabled: featured === 0 && state.currentView !== 'featured' },
+      sub: featuredActive ? '已筛选 · 点击取消' : '点击只看精选',
+      active: featuredActive, disabled: featured === 0 && !featuredActive },
   ];
 
   row.innerHTML = cards.map(c => `
@@ -336,21 +287,9 @@ function renderStats(items) {
   };
 }
 
-function setNavActive(view, cat) {
-  document.querySelectorAll('.nav-item').forEach(b => {
-    const match = b.dataset.view === view && (view !== 'cat' || b.dataset.cat === cat);
-    b.classList.toggle('active', match);
-  });
-}
-
 function handleStatAction(action) {
-  // 日报视图下点击统计卡，先切回列表视图
-  if (state.currentView === 'daily' && action !== 'total') {
-    state.currentView = 'all';
-    state.currentCategory = null;
-    setNavActive('all');
-  }
   if (action === 'total') {
+    state.chip = 'all';
     state.impactFilter = null;
     state.searchQuery = '';
     document.getElementById('searchInput').value = '';
@@ -358,30 +297,18 @@ function handleStatAction(action) {
     document.querySelectorAll('.country-chip').forEach(c => c.classList.remove('selected'));
     state.timeFilter = 'all';
     document.getElementById('timeFilter').value = 'all';
-    state.currentView = 'all';
-    state.currentCategory = null;
-    setNavActive('all');
   } else if (action === 'impact') {
     state.impactFilter = state.impactFilter === 'high' ? null : 'high';
   } else if (action === 'policy') {
-    if (state.currentView === 'cat' && state.currentCategory === '标准政策') {
-      state.currentView = 'all';
-      state.currentCategory = null;
-      setNavActive('all');
-    } else {
-      state.currentView = 'cat';
-      state.currentCategory = '标准政策';
-      setNavActive('cat', '标准政策');
-    }
+    state.chip = state.chip === '标准政策' ? 'all' : '标准政策';
   } else if (action === 'featured') {
-    state.currentView = state.currentView === 'featured' ? 'all' : 'featured';
-    state.currentCategory = null;
-    setNavActive(state.currentView);
+    state.chip = state.chip === 'featured' ? 'all' : 'featured';
   }
+  syncChips();
   render();
 }
 
-/* ===== Policy Alerts ===== */
+/* ===== 政策预警 ===== */
 function renderPolicyAlerts() {
   const container = document.getElementById('policyAlerts');
   const alerts = state.items
@@ -395,17 +322,19 @@ function renderPolicyAlerts() {
 
   document.getElementById('alertCount').textContent = alerts.length;
 
-  container.innerHTML = alerts.map(a => {
-    const flag = countryFlags[a.country] || '';
-    const cn = getCountryName(a.country);
-    return `
-      <div class="alert-item ${a.impact === 'medium' ? 'medium' : ''}" data-url="${a.sourceUrl || ''}" title="点击查看原文">
-        <div class="alert-item-title">${a.title.length > 40 ? a.title.slice(0, 40) + '...' : a.title}</div>
-        <div class="alert-item-country">${flag} ${cn} | ${a.source}</div>
-        ${a.impactNote ? `<div class="alert-item-action">${a.impactNote}</div>` : ''}
-      </div>
-    `;
-  }).join('');
+  container.innerHTML = alerts.length === 0
+    ? '<div class="rail-empty">暂无政策预警</div>'
+    : alerts.map(a => {
+        const flag = countryFlags[a.country] || '';
+        const cn = getCountryName(a.country);
+        return `
+          <div class="alert-item ${a.impact === 'medium' ? 'medium' : ''}" data-url="${a.sourceUrl || ''}" title="点击查看原文">
+            <div class="alert-item-title">${a.title.length > 40 ? a.title.slice(0, 40) + '...' : a.title}</div>
+            <div class="alert-item-country">${flag} ${cn} | ${a.source}</div>
+            ${a.impactNote ? `<div class="alert-item-action">${a.impactNote}</div>` : ''}
+          </div>
+        `;
+      }).join('');
 
   container.onclick = (e) => {
     const el = e.target.closest('.alert-item');
@@ -413,81 +342,20 @@ function renderPolicyAlerts() {
   };
 }
 
-/* ===== Daily Brief (sidebar) ===== */
-function renderDailyBrief() {
-  const container = document.getElementById('dailyBrief');
-  const topItems = state.items
-    .filter(i => i.featured)
-    .sort((a, b) => b.score - a.score)
-    .slice(0, 5);
-
-  container.innerHTML = topItems.map(item => {
-    const flag = countryFlags[item.country] || '';
-    return `
-      <div class="brief-item" data-url="${item.sourceUrl || ''}" title="点击查看原文">
-        <div class="brief-item-title">${flag} ${item.title.length > 35 ? item.title.slice(0, 35) + '...' : item.title}</div>
-        <div class="brief-item-meta">${item.source} | ${item.score}分</div>
-      </div>
-    `;
-  }).join('');
-
+/* ===== 选题灵感 ===== */
+function renderTopics(items) {
+  const topics = items.filter(i => i.topic).slice(0, 5);
+  const container = document.getElementById('topicList');
+  container.innerHTML = topics.length === 0
+    ? '<div class="rail-empty">当前筛选下暂无选题</div>'
+    : topics.map(t => `<div class="topic-item" data-url="${t.sourceUrl || ''}" title="点击查看原文">${t.topic}</div>`).join('');
   container.onclick = (e) => {
-    const el = e.target.closest('.brief-item');
+    const el = e.target.closest('.topic-item');
     if (el?.dataset.url) window.open(el.dataset.url, '_blank', 'noopener');
   };
 }
 
-/* ===== Signal ===== */
-function renderSignal(items) {
-  const policyChanges = items.filter(i => i.category === '标准政策').length;
-  const newProducts = items.filter(i => i.category === '产品与材料').length;
-  const score = Math.min(99, policyChanges * 3 + newProducts * 2 + items.length);
-  document.getElementById('signalScore').textContent = score;
-  document.getElementById('signalCopy').innerHTML = `本周监测到 <strong>${policyChanges}</strong> 项政策变动、<strong>${newProducts}</strong> 款新产品发布`;
-}
-
-/* ===== Material Tags ===== */
-function renderMaterialTags(items) {
-  const counts = {};
-  items.forEach(i => (i.materials || []).forEach(m => { counts[m] = (counts[m] || 0) + 1; }));
-  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 12);
-
-  const el = document.getElementById('materialTags');
-  el.innerHTML = sorted.map(([name, count]) =>
-    `<span class="cloud-tag" data-keyword="${name}">${name}<span class="tag-count">${count}</span></span>`
-  ).join('');
-  el.onclick = (e) => { const t = e.target.closest('.cloud-tag'); if (t) searchFor(t.dataset.keyword); };
-}
-
-/* ===== Country Tags ===== */
-function renderCountryTags(items) {
-  const counts = {};
-  items.forEach(i => {
-    if (i.country) {
-      const name = getCountryName(i.country);
-      const flag = countryFlags[i.country] || '';
-      counts[i.country] = counts[i.country] || { name, flag, count: 0 };
-      counts[i.country].count++;
-    }
-  });
-  const sorted = Object.values(counts).sort((a, b) => b.count - a.count).slice(0, 10);
-
-  const ctEl = document.getElementById('countryTags');
-  ctEl.innerHTML = sorted.map(c =>
-    `<span class="cloud-tag" data-country="${c.name}">${c.flag} ${c.name}<span class="tag-count">${c.count}</span></span>`
-  ).join('');
-  ctEl.onclick = (e) => { const t = e.target.closest('.cloud-tag'); if (t) toggleCountry(t.dataset.country); };
-}
-
-/* ===== Topics ===== */
-function renderTopics(items) {
-  const topics = items.filter(i => i.topic).slice(0, 4);
-  document.getElementById('topicList').innerHTML = topics.map(t =>
-    `<div class="topic-item">${t.topic}</div>`
-  ).join('');
-}
-
-/* ===== Country Filter ===== */
+/* ===== 国家筛选 ===== */
 function renderCountryFilter() {
   const container = document.getElementById('countryGroups');
   container.innerHTML = state.countries.regions.map(region => `
@@ -504,106 +372,20 @@ function renderCountryFilter() {
   container.addEventListener('click', (e) => {
     const chip = e.target.closest('.country-chip');
     if (!chip) return;
-    toggleCountryChip(chip, chip.dataset.code);
-  });
-}
-
-function toggleCountryChip(el, code) {
-  if (state.selectedCountries.has(code)) {
-    state.selectedCountries.delete(code);
-    el.classList.remove('selected');
-  } else {
-    state.selectedCountries.add(code);
-    el.classList.add('selected');
-  }
-  render();
-}
-
-function toggleCountry(name) {
-  const region = state.countries.regions.flatMap(r => r.countries);
-  const country = region.find(c => c.name === name);
-  if (country) {
-    const chip = document.querySelector(`.country-chip[data-code="${country.code}"]`);
-    if (chip) toggleCountryChip(chip, country.code);
-  }
-}
-
-/* ===== Source Bars ===== */
-function renderSourceBars() {
-  const tiers = [
-    { label: '官方源', tier: 'T1', count: 0, color: 'var(--green)' },
-    { label: '官方社媒', tier: 'T1.5', count: 0, color: 'var(--accent)' },
-    { label: '行业媒体', tier: 'T2', count: 0, color: 'var(--orange)' },
-    { label: '市场观察', tier: 'T3', count: 0, color: 'var(--text-3)' },
-  ];
-
-  state.items.forEach(item => {
-    const t = tiers.find(t => t.tier === item.sourceTier);
-    if (t) t.count++;
-  });
-
-  const max = Math.max(...tiers.map(t => t.count), 1);
-
-  document.getElementById('sourceBars').innerHTML = tiers.map(t => `
-    <div class="source-bar">
-      <span class="source-bar-label">${t.label}</span>
-      <div class="source-bar-track">
-        <div class="source-bar-fill" style="width:${(t.count / max * 100)}%;background:${t.color}"></div>
-      </div>
-      <span class="source-bar-count">${t.count}</span>
-    </div>
-  `).join('');
-}
-
-/* ===== Role Visibility ===== */
-function updateRoleVisibility() {
-  const role = state.currentRole;
-  const policyCard = document.getElementById('policyAlertCard');
-  const topicCard = document.getElementById('topicCard');
-  const dailyBriefCard = document.getElementById('dailyBriefCard');
-
-  policyCard.style.display = (role === 'sales' || role === 'management') ? '' : 'none';
-  topicCard.style.display = (role === 'operations') ? '' : 'none';
-  dailyBriefCard.style.display = (role === 'management') ? '' : 'none';
-
-  document.querySelectorAll('.news-card').forEach(card => {
-    card.classList.toggle('show-topic', role === 'operations');
+    const code = chip.dataset.code;
+    if (state.selectedCountries.has(code)) {
+      state.selectedCountries.delete(code);
+      chip.classList.remove('selected');
+    } else {
+      state.selectedCountries.add(code);
+      chip.classList.add('selected');
+    }
+    render();
   });
 }
 
 /* ===== Events ===== */
 function bindEvents() {
-  // Navigation
-  document.querySelectorAll('.nav-item').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.nav-item').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      const view = btn.dataset.view;
-      state.currentView = view;
-      state.currentCategory = btn.dataset.cat || null;
-      render();
-    });
-  });
-
-  // Role tabs
-  document.querySelectorAll('.role-tab').forEach(tab => {
-    tab.addEventListener('click', () => {
-      document.querySelectorAll('.role-tab').forEach(t => { t.classList.remove('active'); t.setAttribute('aria-selected', 'false'); });
-      tab.classList.add('active');
-      tab.setAttribute('aria-selected', 'true');
-      state.currentRole = tab.dataset.role;
-
-      if (state.currentRole === 'sales' && state.currentView === 'daily') {
-        // Sales default to featured
-        state.currentView = 'featured';
-        document.querySelectorAll('.nav-item').forEach(b => b.classList.remove('active'));
-        document.querySelector('.nav-item[data-view="featured"]').classList.add('active');
-      }
-      render();
-    });
-  });
-
-  // Search
   let searchTimer;
   document.getElementById('searchInput').addEventListener('input', (e) => {
     clearTimeout(searchTimer);
@@ -613,20 +395,17 @@ function bindEvents() {
     }, 250);
   });
 
-  // Time filter
   document.getElementById('timeFilter').addEventListener('change', (e) => {
     state.timeFilter = e.target.value;
     render();
   });
 
-  // Theme
   document.getElementById('themeToggle').addEventListener('click', () => {
     state.theme = state.theme === 'light' ? 'dark' : 'light';
     applyTheme();
     localStorage.setItem('theme', state.theme);
   });
 
-  // Clear countries
   document.getElementById('clearCountries').addEventListener('click', () => {
     state.selectedCountries.clear();
     document.querySelectorAll('.country-chip').forEach(c => c.classList.remove('selected'));
@@ -645,12 +424,12 @@ function formatTime(iso) {
 }
 
 function getCountryName(code) {
-  if (!state.countries) return code;
+  if (!state.countries) return code || '';
   for (const region of state.countries.regions) {
     const c = region.countries.find(c => c.code === code);
     if (c) return c.name;
   }
-  return code;
+  return code === 'GLOBAL' ? '全球' : (code || '');
 }
 
 function searchFor(keyword) {
@@ -659,5 +438,4 @@ function searchFor(keyword) {
   render();
 }
 
-/* ===== Start ===== */
 document.addEventListener('DOMContentLoaded', init);
