@@ -9,29 +9,20 @@
 </head>
 <body>
   <div class="app-shell">
-    <header class="topbar">
-      <div class="brand">
-        <div class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></div>
-        <div>
-          <p class="brand-kicker">huayue</p>
-          <h1>Insulation News</h1>
-        </div>
-      </div>
-
-      <div class="top-actions">
-        <div class="search-wrap">
-          <input id="searchInput" type="search" placeholder="搜索国家、材料、标准、应用场景..." autocomplete="off" />
-        </div>
-        <button class="icon-button" id="themeToggle" type="button" aria-label="切换主题" title="切换主题">
-          <span class="theme-icon" aria-hidden="true"></span>
-        </button>
-      </div>
-    </header>
-
-    <div class="chip-bar" id="chipBar"></div>
-
     <main class="workspace">
       <aside class="sidebar" aria-label="筛选与菜单">
+        <div class="side-brand">
+          <div class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></div>
+          <div>
+            <p class="brand-kicker">huayue</p>
+            <h1>Insulation News</h1>
+          </div>
+        </div>
+
+        <section class="side-section">
+          <input id="searchInput" class="side-search" type="search" placeholder="搜索国家、材料、标准..." autocomplete="off" />
+        </section>
+
         <section class="side-section">
           <div class="panel-heading"><span>时间范围</span></div>
           <select id="timeFilter" class="side-select">
@@ -72,10 +63,14 @@
         </section>
 
         <div class="side-spacer"></div>
-        <nav class="side-menu" id="trialMenu"></nav>
+        <nav class="side-menu">
+          <div id="trialMenu"></div>
+          <button class="side-menu-item" id="themeToggle" type="button"><span class="side-menu-icon">&#9681;</span>切换深浅色</button>
+        </nav>
       </aside>
 
       <section class="feed-column">
+        <div class="chip-bar" id="chipBar"></div>
         <div class="feed-toolbar">
           <div class="feed-title-area">
             <h2 id="feedTitle">精选</h2>
