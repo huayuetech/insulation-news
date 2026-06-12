@@ -7,6 +7,7 @@ const state = {
   currentView: 'featured',
   currentCategory: null,
   currentRole: 'management',
+  impactFilter: null,
   selectedCountries: new Set(),
   searchQuery: '',
   timeFilter: 'all',
@@ -104,6 +105,10 @@ function getFilteredItems() {
     items = items.filter(i => i.featured);
   } else if (state.currentView === 'cat' && state.currentCategory) {
     items = items.filter(i => i.category === state.currentCategory);
+  }
+
+  if (state.impactFilter) {
+    items = items.filter(i => i.impact === state.impactFilter);
   }
 
   if (state.selectedCountries.size > 0) {
@@ -211,6 +216,7 @@ function renderCard(item) {
         <div class="card-score ${scoreClass}">${item.score}</div>
       </div>
       <p class="card-summary">${item.summary}</p>
+      ${item.impactNote ? `<div class="card-reason"><span>为什么值得看</span>${item.impactNote}</div>` : ''}
       <div class="card-tags">
         <span class="tag tag-country">${flag} ${countryName}</span>
         <span class="tag tag-category">${item.category}</span>
@@ -301,12 +307,78 @@ function renderStats(items) {
   const countries = new Set(items.map(i => i.country)).size;
   const featured = items.filter(i => i.featured).length;
 
-  row.innerHTML = `
-    <div class="stat-card"><div class="stat-label">总资讯</div><div class="stat-value">${items.length}</div><div class="stat-sub">覆盖 ${countries} 个国家</div></div>
-    <div class="stat-card alert"><div class="stat-label">高影响</div><div class="stat-value">${highImpact}</div><div class="stat-sub">需要关注</div></div>
-    <div class="stat-card"><div class="stat-label">政策变动</div><div class="stat-value">${policyCount}</div><div class="stat-sub">各国标准更新</div></div>
-    <div class="stat-card"><div class="stat-label">精选</div><div class="stat-value">${featured}</div><div class="stat-sub">值得深入了解</div></div>
-  `;
+  const policyActive = state.currentView === 'cat' && state.currentCategory === '标准政策';
+  const cards = [
+    { action: 'total', label: '总资讯', value: items.length, cls: '',
+      sub: `覆盖 ${countries} 个国家 · 点击清除筛选`, active: false, disabled: false },
+    { action: 'impact', label: '高影响', value: highImpact, cls: 'alert',
+      sub: state.impactFilter === 'high' ? '已筛选 · 点击取消' : '点击只看高影响',
+      active: state.impactFilter === 'high', disabled: highImpact === 0 && state.impactFilter !== 'high' },
+    { action: 'policy', label: '政策变动', value: policyCount, cls: '',
+      sub: policyActive ? '已筛选 · 点击取消' : '点击看标准更新',
+      active: policyActive, disabled: policyCount === 0 && !policyActive },
+    { action: 'featured', label: '精选', value: featured, cls: '',
+      sub: state.currentView === 'featured' ? '已筛选 · 点击取消' : '点击只看精选',
+      active: state.currentView === 'featured', disabled: featured === 0 && state.currentView !== 'featured' },
+  ];
+
+  row.innerHTML = cards.map(c => `
+    <div class="stat-card ${c.cls}${c.active ? ' active' : ''}${c.disabled ? ' disabled' : ''}" data-action="${c.action}" role="button" tabindex="0">
+      <div class="stat-label">${c.label}</div>
+      <div class="stat-value">${c.value}</div>
+      <div class="stat-sub">${c.sub}</div>
+    </div>`).join('');
+
+  row.onclick = (e) => {
+    const card = e.target.closest('.stat-card');
+    if (!card || card.classList.contains('disabled')) return;
+    handleStatAction(card.dataset.action);
+  };
+}
+
+function setNavActive(view, cat) {
+  document.querySelectorAll('.nav-item').forEach(b => {
+    const match = b.dataset.view === view && (view !== 'cat' || b.dataset.cat === cat);
+    b.classList.toggle('active', match);
+  });
+}
+
+function handleStatAction(action) {
+  // 日报视图下点击统计卡，先切回列表视图
+  if (state.currentView === 'daily' && action !== 'total') {
+    state.currentView = 'all';
+    state.currentCategory = null;
+    setNavActive('all');
+  }
+  if (action === 'total') {
+    state.impactFilter = null;
+    state.searchQuery = '';
+    document.getElementById('searchInput').value = '';
+    state.selectedCountries.clear();
+    document.querySelectorAll('.country-chip').forEach(c => c.classList.remove('selected'));
+    state.timeFilter = 'all';
+    document.getElementById('timeFilter').value = 'all';
+    state.currentView = 'all';
+    state.currentCategory = null;
+    setNavActive('all');
+  } else if (action === 'impact') {
+    state.impactFilter = state.impactFilter === 'high' ? null : 'high';
+  } else if (action === 'policy') {
+    if (state.currentView === 'cat' && state.currentCategory === '标准政策') {
+      state.currentView = 'all';
+      state.currentCategory = null;
+      setNavActive('all');
+    } else {
+      state.currentView = 'cat';
+      state.currentCategory = '标准政策';
+      setNavActive('cat', '标准政策');
+    }
+  } else if (action === 'featured') {
+    state.currentView = state.currentView === 'featured' ? 'all' : 'featured';
+    state.currentCategory = null;
+    setNavActive(state.currentView);
+  }
+  render();
 }
 
 /* ===== Policy Alerts ===== */
@@ -327,13 +399,18 @@ function renderPolicyAlerts() {
     const flag = countryFlags[a.country] || '';
     const cn = getCountryName(a.country);
     return `
-      <div class="alert-item ${a.impact === 'medium' ? 'medium' : ''}">
+      <div class="alert-item ${a.impact === 'medium' ? 'medium' : ''}" data-url="${a.sourceUrl || ''}" title="点击查看原文">
         <div class="alert-item-title">${a.title.length > 40 ? a.title.slice(0, 40) + '...' : a.title}</div>
         <div class="alert-item-country">${flag} ${cn} | ${a.source}</div>
         ${a.impactNote ? `<div class="alert-item-action">${a.impactNote}</div>` : ''}
       </div>
     `;
   }).join('');
+
+  container.onclick = (e) => {
+    const el = e.target.closest('.alert-item');
+    if (el?.dataset.url) window.open(el.dataset.url, '_blank', 'noopener');
+  };
 }
 
 /* ===== Daily Brief (sidebar) ===== */
@@ -347,12 +424,17 @@ function renderDailyBrief() {
   container.innerHTML = topItems.map(item => {
     const flag = countryFlags[item.country] || '';
     return `
-      <div class="brief-item">
+      <div class="brief-item" data-url="${item.sourceUrl || ''}" title="点击查看原文">
         <div class="brief-item-title">${flag} ${item.title.length > 35 ? item.title.slice(0, 35) + '...' : item.title}</div>
         <div class="brief-item-meta">${item.source} | ${item.score}分</div>
       </div>
     `;
   }).join('');
+
+  container.onclick = (e) => {
+    const el = e.target.closest('.brief-item');
+    if (el?.dataset.url) window.open(el.dataset.url, '_blank', 'noopener');
+  };
 }
 
 /* ===== Signal ===== */

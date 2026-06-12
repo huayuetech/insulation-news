@@ -142,6 +142,7 @@ function renderItem(item) {
         </div>
         <a class="t-title" href="${item.sourceUrl || '#'}" target="_blank" rel="noopener">${item.title}</a>
         <p class="t-summary">${item.summary}</p>
+        ${item.impactNote ? `<div class="t-reason"><span>为什么值得看</span>${item.impactNote}</div>` : ''}
         ${clusterHtml}
       </div>
     </article>

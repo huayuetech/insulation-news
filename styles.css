@@ -173,7 +173,13 @@ a.nav-item{text-decoration:none}
 .stat-card{
   flex:1;min-width:120px;padding:10px 14px;
   background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);
+  cursor:pointer;transition:border-color .15s,box-shadow .15s;
 }
+.stat-card:hover{border-color:var(--accent);box-shadow:var(--shadow-sm)}
+.stat-card.active{border-color:var(--accent);background:var(--accent-bg)}
+.stat-card.active .stat-label{color:var(--accent)}
+.stat-card.disabled{opacity:.45;cursor:default}
+.stat-card.disabled:hover{border-color:var(--border);box-shadow:none}
 .stat-card .stat-label{font-size:.7rem;color:var(--text-3);margin-bottom:2px}
 .stat-card .stat-value{font-size:1.3rem;font-weight:700;color:var(--text)}
 .stat-card .stat-sub{font-size:.7rem;color:var(--green);font-weight:500}
@@ -204,6 +210,15 @@ a.nav-item{text-decoration:none}
 .score-low{background:var(--bg);color:var(--text-3)}
 
 .card-summary{font-size:.82rem;color:var(--text-2);line-height:1.55;margin-bottom:8px}
+
+.card-reason{
+  display:flex;gap:8px;align-items:baseline;
+  font-size:.76rem;color:var(--text-2);line-height:1.5;
+  background:var(--bg);border-left:2px solid var(--orange);
+  border-radius:0 var(--radius) var(--radius) 0;
+  padding:6px 10px;margin-bottom:8px;
+}
+.card-reason span{flex-shrink:0;font-weight:700;color:var(--orange);font-size:.68rem;white-space:nowrap}
 
 .card-tags{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px}
 .tag{font-size:.68rem;padding:2px 8px;border-radius:10px;font-weight:500;white-space:nowrap}
@@ -293,7 +308,9 @@ a.nav-item{text-decoration:none}
 .alert-item{
   padding:8px 10px;border-radius:var(--radius);font-size:.78rem;
   border-left:3px solid var(--red);background:var(--red-bg);
+  cursor:pointer;transition:transform .1s;
 }
+.alert-item:hover{transform:translateX(2px)}
 .alert-item.medium{border-left-color:var(--orange);background:var(--orange-bg)}
 .alert-item-title{font-weight:600;line-height:1.3;margin-bottom:3px}
 .alert-item-country{font-size:.7rem;color:var(--text-3)}
@@ -302,8 +319,9 @@ a.nav-item{text-decoration:none}
 
 /* Brief List */
 .brief-list{display:flex;flex-direction:column;gap:6px}
-.brief-item{padding:6px 0;border-bottom:1px solid var(--border);font-size:.78rem}
+.brief-item{padding:6px 4px;border-bottom:1px solid var(--border);font-size:.78rem;cursor:pointer;border-radius:var(--radius)}
 .brief-item:last-child{border-bottom:none}
+.brief-item:hover{background:var(--bg-hover)}
 .brief-item-title{font-weight:600;line-height:1.3;margin-bottom:2px}
 .brief-item-meta{font-size:.68rem;color:var(--text-3)}
 
