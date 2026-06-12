@@ -1,0 +1,90 @@
+{
+  "regions": [
+    {
+      "id": "southeast-asia",
+      "name": "东南亚",
+      "countries": [
+        { "code": "VN", "name": "越南", "flag": "🇻🇳" },
+        { "code": "ID", "name": "印尼", "flag": "🇮🇩" },
+        { "code": "TH", "name": "泰国", "flag": "🇹🇭" },
+        { "code": "PH", "name": "菲律宾", "flag": "🇵🇭" },
+        { "code": "MY", "name": "马来西亚", "flag": "🇲🇾" }
+      ]
+    },
+    {
+      "id": "middle-east",
+      "name": "中东",
+      "countries": [
+        { "code": "SA", "name": "沙特", "flag": "🇸🇦" },
+        { "code": "AE", "name": "阿联酋", "flag": "🇦🇪" },
+        { "code": "QA", "name": "卡塔尔", "flag": "🇶🇦" },
+        { "code": "KW", "name": "科威特", "flag": "🇰🇼" },
+        { "code": "BH", "name": "巴林", "flag": "🇧🇭" }
+      ]
+    },
+    {
+      "id": "europe",
+      "name": "欧洲",
+      "countries": [
+        { "code": "EU", "name": "EU整体", "flag": "🇪🇺" },
+        { "code": "DE", "name": "德国", "flag": "🇩🇪" },
+        { "code": "GB", "name": "英国", "flag": "🇬🇧" },
+        { "code": "FR", "name": "法国", "flag": "🇫🇷" },
+        { "code": "PL", "name": "波兰", "flag": "🇵🇱" },
+        { "code": "TR", "name": "土耳其", "flag": "🇹🇷" }
+      ]
+    },
+    {
+      "id": "north-america",
+      "name": "北美",
+      "countries": [
+        { "code": "US", "name": "美国", "flag": "🇺🇸" },
+        { "code": "CA", "name": "加拿大", "flag": "🇨🇦" },
+        { "code": "MX", "name": "墨西哥", "flag": "🇲🇽" }
+      ]
+    },
+    {
+      "id": "south-america",
+      "name": "南美",
+      "countries": [
+        { "code": "BR", "name": "巴西", "flag": "🇧🇷" },
+        { "code": "CL", "name": "智利", "flag": "🇨🇱" },
+        { "code": "CO", "name": "哥伦比亚", "flag": "🇨🇴" }
+      ]
+    },
+    {
+      "id": "south-asia",
+      "name": "南亚",
+      "countries": [
+        { "code": "IN", "name": "印度", "flag": "🇮🇳" },
+        { "code": "PK", "name": "巴基斯坦", "flag": "🇵🇰" }
+      ]
+    },
+    {
+      "id": "africa",
+      "name": "非洲",
+      "countries": [
+        { "code": "ZA", "name": "南非", "flag": "🇿🇦" },
+        { "code": "EG", "name": "埃及", "flag": "🇪🇬" },
+        { "code": "NG", "name": "尼日利亚", "flag": "🇳🇬" }
+      ]
+    },
+    {
+      "id": "east-asia",
+      "name": "东亚",
+      "countries": [
+        { "code": "JP", "name": "日本", "flag": "🇯🇵" },
+        { "code": "KR", "name": "韩国", "flag": "🇰🇷" },
+        { "code": "CN", "name": "中国", "flag": "🇨🇳" }
+      ]
+    },
+    {
+      "id": "oceania",
+      "name": "大洋洲",
+      "countries": [
+        { "code": "AU", "name": "澳大利亚", "flag": "🇦🇺" },
+        { "code": "NZ", "name": "新西兰", "flag": "🇳🇿" }
+      ]
+    }
+  ]
+}

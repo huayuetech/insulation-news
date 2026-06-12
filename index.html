@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Insulation News | huayue</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="trial.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></div>
+        <div>
+          <p class="brand-kicker">huayue</p>
+          <h1>Insulation News</h1>
+        </div>
+      </div>
+
+      <div class="role-tabs" role="tablist" aria-label="角色视图">
+        <button class="role-tab active" data-role="management" role="tab" aria-selected="true">管理层</button>
+        <button class="role-tab" data-role="sales" role="tab" aria-selected="false">销售部</button>
+        <button class="role-tab" data-role="operations" role="tab" aria-selected="false">运营部</button>
+      </div>
+
+      <div class="top-actions">
+        <div class="search-wrap">
+          <input id="searchInput" type="search" placeholder="搜索国家、材料、标准、应用场景..." autocomplete="off" />
+        </div>
+        <div class="select-control">
+          <label for="timeFilter">时间</label>
+          <select id="timeFilter">
+            <option value="all">全部</option>
+            <option value="today">今天</option>
+            <option value="3" selected>近 3 天</option>
+            <option value="7">近 7 天</option>
+            <option value="month">本月</option>
+          </select>
+        </div>
+        <button class="icon-button" id="themeToggle" type="button" aria-label="切换主题" title="切换主题">
+          <span class="theme-icon" aria-hidden="true"></span>
+        </button>
+      </div>
+    </header>
+
+    <main class="workspace">
+      <aside class="sidebar" aria-label="导航">
+        <nav class="nav-list" id="mainNav">
+          <button class="nav-item active" data-view="featured"><span class="nav-icon">&#9733;</span>精选</button>
+          <button class="nav-item" data-view="daily"><span class="nav-icon">&#9783;</span>日报</button>
+          <a class="nav-item" href="feed.html"><span class="nav-icon">&#10148;</span>时间线</a>
+          <button class="nav-item" data-view="all"><span class="nav-icon">&#9776;</span>全部动态</button>
+          <div class="nav-divider"></div>
+          <button class="nav-item" data-view="cat" data-cat="标准政策"><span class="nav-icon">&#9878;</span>标准政策</button>
+          <button class="nav-item" data-view="cat" data-cat="产品与材料"><span class="nav-icon">&#9881;</span>产品与材料</button>
+          <button class="nav-item" data-view="cat" data-cat="市场价格"><span class="nav-icon">&#9733;</span>市场价格</button>
+          <button class="nav-item" data-view="cat" data-cat="工程应用"><span class="nav-icon">&#9874;</span>工程应用</button>
+          <button class="nav-item" data-view="cat" data-cat="企业展会"><span class="nav-icon">&#9737;</span>企业展会</button>
+          <button class="nav-item" data-view="cat" data-cat="技术观点"><span class="nav-icon">&#9998;</span>技术观点</button>
+        </nav>
+
+        <section class="country-filter-panel">
+          <div class="panel-heading">
+            <span>国家/地区</span>
+            <button class="link-button" id="clearCountries">清除</button>
+          </div>
+          <div class="country-groups" id="countryGroups"></div>
+        </section>
+
+        <section class="source-panel">
+          <div class="panel-heading">
+            <span>信源结构</span>
+            <strong id="sourceCount">168</strong>
+          </div>
+          <div class="source-bars" id="sourceBars"></div>
+        </section>
+      </aside>
+
+      <section class="feed-column">
+        <div class="feed-toolbar">
+          <div class="feed-title-area">
+            <p class="eyebrow" id="feedEyebrow">精选动态</p>
+            <h2 id="feedTitle">行业热点</h2>
+          </div>
+          <div class="feed-meta">
+            <span class="update-time" id="updateTime"></span>
+            <span class="feed-count" id="feedCount"></span>
+          </div>
+        </div>
+
+        <div class="stats-row" id="statsRow"></div>
+
+        <div id="feedContainer">
+          <div class="feed-list" id="feedList"></div>
+          <div id="dailyReportView" class="daily-report" hidden></div>
+        </div>
+
+        <div class="empty-state" id="emptyState" hidden>
+          <strong>没有匹配结果</strong>
+          <span>换个关键词或扩大时间范围试试。</span>
+        </div>
+      </section>
+
+      <aside class="insight-rail" aria-label="侧边栏">
+        <section class="brief-card" id="policyAlertCard">
+          <div class="panel-heading">
+            <span>政策预警</span>
+            <span class="badge badge-red" id="alertCount">0</span>
+          </div>
+          <div class="alert-list" id="policyAlerts"></div>
+        </section>
+
+        <section class="brief-card" id="dailyBriefCard">
+          <div class="panel-heading">
+            <span>今日简报</span>
+            <strong>08:00</strong>
+          </div>
+          <div class="brief-list" id="dailyBrief"></div>
+        </section>
+
+        <section class="brief-card visual-card">
+          <div class="panel-heading">
+            <span>本周信号</span>
+            <strong id="signalScore">0</strong>
+          </div>
+          <div class="signal-visual" aria-hidden="true">
+            <div class="signal-ring"></div>
+            <div class="signal-lines"><span></span><span></span><span></span></div>
+          </div>
+          <div class="signal-copy" id="signalCopy"></div>
+        </section>
+
+        <section class="brief-card">
+          <div class="panel-heading">
+            <span>热门材料</span>
+            <strong>Top</strong>
+          </div>
+          <div class="tag-cloud" id="materialTags"></div>
+        </section>
+
+        <section class="brief-card">
+          <div class="panel-heading">
+            <span>热门国家</span>
+            <strong>Top</strong>
+          </div>
+          <div class="tag-cloud" id="countryTags"></div>
+        </section>
+
+        <section class="brief-card" id="topicCard">
+          <div class="panel-heading">
+            <span>选题建议</span>
+            <strong>Tip</strong>
+          </div>
+          <div class="topic-list" id="topicList"></div>
+        </section>
+      </aside>
+    </main>
+  </div>
+
+  <script src="data/bundle.js"></script>
+  <script src="app.js"></script>
+  <script src="trial.js"></script>
+</body>
+</html>
