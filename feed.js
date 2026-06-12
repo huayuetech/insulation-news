@@ -1,6 +1,6 @@
 /* ===== 资讯流（时间线）===== */
 const state = {
-  mode: 'featured',          // featured | all
+  mode: 'all',               // featured | all（数据稀疏期默认全部，召回优先）
   cat: 'all',
   q: '',
   theme: localStorage.getItem('theme') || 'light',

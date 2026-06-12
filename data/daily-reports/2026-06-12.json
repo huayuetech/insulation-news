@@ -1,0 +1,42 @@
+{
+  "date": "2026-06-12",
+  "generatedAt": "2026-06-12T14:47:54.894607+08:00",
+  "sections": [
+    {
+      "title": "产品与材料动态",
+      "icon": "product",
+      "items": [
+        {
+          "id": "20260527-24ae3cf4",
+          "title": "Kingspan在沙特达曼启用新绝热材料工厂",
+          "summary": "Kingspan新厂生产保温板、屋面系统及HVAC风管保温，增强中东本土供应能力，加剧区域竞争。",
+          "country": "SA",
+          "source": "Global Insulation",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "工程与应用案例",
+      "icon": "project",
+      "items": [
+        {
+          "id": "20260611-a879cb73",
+          "title": "卡塔尔自由区与中国企业合作在乌姆阿尔胡尔建设保温材料工厂",
+          "summary": "中企与卡塔尔自由区合建保温材料工厂，直接利好中国出口商海外布局。",
+          "country": "QA",
+          "source": "Qatar Tribune",
+          "impact": "high"
+        },
+        {
+          "id": "20260513-aedde224",
+          "title": "Rockwool 与 Büchl 在德国建立岩棉回收合作并投产新设施",
+          "summary": "德国岩棉回收合作项目推动循环经济，或影响欧洲进口环保标准，出口商需提前布局。",
+          "country": "DE",
+          "source": "Global Insulation",
+          "impact": "high"
+        }
+      ]
+    }
+  ]
+}

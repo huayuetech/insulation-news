@@ -8,11 +8,11 @@ const state = {
   currentRole: 'management',
   selectedCountries: new Set(),
   searchQuery: '',
-  timeFilter: '3',
+  timeFilter: 'all',
   theme: localStorage.getItem('theme') || 'light',
 };
 
-const today = new Date('2026-05-19T09:00:00+08:00');
+const today = new Date();
 
 const countryFlags = {};
 
