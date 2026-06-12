@@ -2,6 +2,7 @@
 const state = {
   items: [],
   dailyReport: null,
+  dailyDate: null,
   countries: null,
   currentView: 'featured',
   currentCategory: null,
@@ -30,11 +31,14 @@ async function init() {
   applyTheme();
   let newsRes, countriesRes, dailyRes;
   try {
-    [newsRes, countriesRes, dailyRes] = await Promise.all([
+    [newsRes, countriesRes] = await Promise.all([
       fetch('data/news.json').then(r => r.json()),
       fetch('data/countries.json').then(r => r.json()),
-      fetch('data/daily-reports/2026-05-19.json').then(r => r.json()).catch(() => null),
     ]);
+    // 日报按数据里记录的最新日期动态加载
+    const dDate = newsRes.dailyDate || (newsRes.lastUpdated || '').slice(0, 10);
+    dailyRes = await fetch(`data/daily-reports/${dDate}.json`)
+      .then(r => r.ok ? r.json() : null).catch(() => null);
   } catch (e) {
     // file:// 直接打开时 fetch 被浏览器拦截，降级使用 bundle.js 内嵌数据
     const d = window.__INSULATION_DATA__;
@@ -42,6 +46,11 @@ async function init() {
     newsRes = d.news;
     countriesRes = d.countries;
     dailyRes = d.daily;
+  }
+  if (!dailyRes && window.__INSULATION_DATA__) dailyRes = window.__INSULATION_DATA__.daily;
+  state.dailyDate = dailyRes?.date || newsRes.dailyDate || (newsRes.lastUpdated || '').slice(0, 10);
+  if (newsRes.totalSources) {
+    document.getElementById('sourceCount').textContent = newsRes.totalSources;
   }
 
   state.items = newsRes.items;
@@ -68,7 +77,7 @@ function render() {
 
   if (view === 'daily') {
     renderDailyReport();
-    updateFeedHeader('每日简报', `${state.dailyReport?.date || ''}`, filtered.length);
+    updateFeedHeader('每日简报', `${state.dailyDate || ''}`, filtered.length);
   } else {
     renderFeedList(filtered);
     updateFeedHeader(
@@ -226,8 +235,16 @@ function renderDailyReport() {
   const view = document.getElementById('dailyReportView');
   const report = state.dailyReport;
 
-  if (!report) {
-    view.innerHTML = '<div class="empty-state"><strong>暂无日报数据</strong></div>';
+  const navHtml = `
+    <div class="daily-date-nav">
+      <button onclick="loadDailyReport(-1)">&larr; 前一天</button>
+      <span class="current-date">${state.dailyDate || ''} 日报</span>
+      <button onclick="loadDailyReport(1)">后一天 &rarr;</button>
+    </div>
+  `;
+
+  if (!report || !report.sections?.length) {
+    view.innerHTML = navHtml + '<div class="empty-state"><strong>该日期暂无日报</strong><span>系统每天早上 08:00 自动生成日报，可切换日期查看。</span></div>';
     return;
   }
 
@@ -262,18 +279,18 @@ function renderDailyReport() {
     `;
   }).join('');
 
-  view.innerHTML = `
-    <div class="daily-date-nav">
-      <button onclick="loadDailyReport(-1)">&larr; 前一天</button>
-      <span class="current-date">${report.date} 日报</span>
-      <button onclick="loadDailyReport(1)">后一天 &rarr;</button>
-    </div>
-    ${sectionsHtml}
-  `;
+  view.innerHTML = navHtml + sectionsHtml;
 }
 
-function loadDailyReport(offset) {
-  // Placeholder for loading other dates
+async function loadDailyReport(offset) {
+  const cur = new Date((state.dailyDate || new Date().toISOString().slice(0, 10)) + 'T00:00:00');
+  cur.setDate(cur.getDate() + offset);
+  const ds = `${cur.getFullYear()}-${String(cur.getMonth() + 1).padStart(2, '0')}-${String(cur.getDate()).padStart(2, '0')}`;
+  state.dailyDate = ds;
+  state.dailyReport = await fetch(`data/daily-reports/${ds}.json`)
+    .then(r => r.ok ? r.json() : null).catch(() => null);
+  renderDailyReport();
+  document.getElementById('feedTitle').textContent = ds;
 }
 
 /* ===== Stats ===== */

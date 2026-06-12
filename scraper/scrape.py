@@ -364,6 +364,7 @@ def main():
 
     news = {
         "lastUpdated": NOW.astimezone().isoformat(),
+        "dailyDate": NOW.strftime("%Y-%m-%d"),
         "totalSources": len(config.RSS_SOURCES) + len(config.GOOGLE_NEWS_QUERIES),
         "items": merged,
     }
