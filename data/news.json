@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T14:47:54.894607+08:00",
+  "lastUpdated": "2026-06-12T07:21:16.169981+00:00",
   "dailyDate": "2026-06-12",
   "totalSources": 6,
   "items": [
@@ -35,6 +35,37 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "卡塔尔保温材料本地化生产对中国出口的影响"
+    },
+    {
+      "id": "20260611-8f91ea21",
+      "title": "世界绝缘材料市场分析、预测、规模与趋势",
+      "titleOriginal": "World Insulation - Market Analysis, Forecast, Size, Trends and Insights",
+      "summary": "全球绝缘材料市场深度分析报告，提供趋势与预测数据，助出口商制定战略。",
+      "category": "市场价格",
+      "materials": [],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd25NcWdSWWVrbTNlZ2ZNYll2ZFl2ekM3T21iakdQUS1TaUZYUzZ3OEVwSjUwYnFPMURqajg1TGM0Tm1FU2ZtVXBZemZJNDE5c2pERHE1anRGblh4REFZZFhCRi1rLTZSZEUyN0tFb3B1czVNcURwQVEyWUxwc01mMnMyQ1h6WU1zWmNUTDJLYmsyWXRTcTdjanBWU1g4dVF6eWctb2Ryd0pERWZWbjVuN1NZX2IzaHBOZ2lvZTFWRGg4MWNF?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-11",
+      "score": 64,
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "提供市场参考，辅助决策",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注全球绝缘材料市场走向"
     },
     {
       "id": "20260611-3db0e6b7",
@@ -366,6 +397,37 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "分析Kingspan中东布局对中国出口商的竞争影响"
+    },
+    {
+      "id": "20260527-157ad12d",
+      "title": "Kingspan 收购 Duggan Profiles 及钢铁服务中心",
+      "titleOriginal": "Kingspan acquires Duggan Profiles & Steel Service Centre",
+      "summary": "Kingspan 收购爱尔兰钢铁构件商，可能整合供应链，间接影响保温材料配套。",
+      "category": "企业展会",
+      "materials": [],
+      "applications": [],
+      "country": "IE",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2207-kingspan-acquires-duggan-profiles-steel-service-centre",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-05-27",
+      "score": 38,
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 10,
+        "authority": 16,
+        "timeliness": 6,
+        "businessValue": 3,
+        "marketImpact": 3
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注Kingspan产业链整合动向"
     },
     {
       "id": "20260525-9b05d356",
