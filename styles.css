@@ -428,3 +428,59 @@ a.nav-item{text-decoration:none}
 
 /* 右栏空态 */
 .rail-empty{font-size:.76rem;color:var(--text-3);padding:8px 0;text-align:center}
+
+/* ===== 左侧菜单栏 ===== */
+.side-section{padding:0 12px;margin-bottom:6px}
+.side-select{
+  width:100%;padding:7px 10px;
+  border:1px solid var(--border);border-radius:var(--radius);
+  background:var(--bg-card);color:var(--text);font-size:.82rem;
+}
+.side-select:focus{outline:none;border-color:var(--accent)}
+
+/* 国家可搜索下拉 */
+.combo{position:relative}
+.combo input{
+  width:100%;padding:7px 10px;
+  border:1px solid var(--border);border-radius:var(--radius);
+  background:var(--bg-card);color:var(--text);font-size:.82rem;
+}
+.combo input:focus{outline:none;border-color:var(--accent)}
+.combo-dropdown{
+  position:absolute;top:calc(100% + 4px);left:0;right:0;
+  max-height:280px;overflow-y:auto;
+  background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);
+  box-shadow:var(--shadow-lg);z-index:300;padding:4px;
+}
+.combo-group-label{font-size:.66rem;font-weight:700;color:var(--text-3);padding:6px 8px 2px;letter-spacing:.04em}
+.combo-option{
+  display:flex;align-items:center;gap:6px;
+  padding:6px 8px;border-radius:4px;
+  font-size:.8rem;cursor:pointer;color:var(--text-2);
+}
+.combo-option:hover{background:var(--bg-hover);color:var(--text)}
+.combo-option.selected{color:var(--accent);font-weight:600}
+.combo-option.selected::after{content:"\2713";margin-left:auto;font-weight:700}
+.combo-empty{padding:12px;font-size:.76rem;color:var(--text-3);text-align:center}
+
+/* 已选国家 chips */
+.selected-countries{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
+.sel-chip{
+  display:inline-flex;align-items:center;gap:4px;
+  font-size:.74rem;padding:3px 9px;border-radius:12px;
+  background:var(--accent-bg);color:var(--accent);border:1px solid var(--accent);
+  cursor:pointer;transition:opacity .12s;
+}
+.sel-chip:hover{opacity:.75}
+
+/* 侧栏底部菜单 */
+.side-spacer{flex:1}
+.side-menu{display:flex;flex-direction:column;gap:2px;padding:8px 12px 4px;border-top:1px solid var(--border)}
+.side-menu-item{
+  display:flex;align-items:center;gap:8px;
+  padding:8px 10px;border-radius:var(--radius);
+  font-size:.84rem;color:var(--text-2);text-align:left;width:100%;
+  transition:all .12s;
+}
+.side-menu-item:hover{background:var(--bg-hover);color:var(--text)}
+.side-menu-icon{font-size:.9rem;width:18px;text-align:center;flex-shrink:0}

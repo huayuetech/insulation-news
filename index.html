@@ -22,16 +22,6 @@
         <div class="search-wrap">
           <input id="searchInput" type="search" placeholder="搜索国家、材料、标准、应用场景..." autocomplete="off" />
         </div>
-        <div class="select-control">
-          <label for="timeFilter">时间</label>
-          <select id="timeFilter">
-            <option value="all" selected>全部</option>
-            <option value="today">今天</option>
-            <option value="3">近 3 天</option>
-            <option value="7">近 7 天</option>
-            <option value="month">本月</option>
-          </select>
-        </div>
         <button class="icon-button" id="themeToggle" type="button" aria-label="切换主题" title="切换主题">
           <span class="theme-icon" aria-hidden="true"></span>
         </button>
@@ -41,14 +31,32 @@
     <div class="chip-bar" id="chipBar"></div>
 
     <main class="workspace">
-      <aside class="sidebar" aria-label="国家筛选">
-        <section class="country-filter-panel">
+      <aside class="sidebar" aria-label="筛选与菜单">
+        <section class="side-section">
+          <div class="panel-heading"><span>时间范围</span></div>
+          <select id="timeFilter" class="side-select">
+            <option value="all" selected>全部</option>
+            <option value="today">今天</option>
+            <option value="3">近 3 天</option>
+            <option value="7">近 7 天</option>
+            <option value="month">本月</option>
+          </select>
+        </section>
+
+        <section class="side-section">
           <div class="panel-heading">
             <span>国家/地区</span>
             <button class="link-button" id="clearCountries">清除</button>
           </div>
-          <div class="country-groups" id="countryGroups"></div>
+          <div class="combo" id="countryCombo">
+            <input id="countrySearch" type="text" placeholder="搜索或选择国家..." autocomplete="off" />
+            <div class="combo-dropdown" id="countryDropdown" hidden></div>
+          </div>
+          <div class="selected-countries" id="selectedCountries"></div>
         </section>
+
+        <div class="side-spacer"></div>
+        <nav class="side-menu" id="trialMenu"></nav>
       </aside>
 
       <section class="feed-column">

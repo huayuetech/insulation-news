@@ -9,15 +9,23 @@ const FEEDBACK_FORM_URL = 'https://zy93hohnod.feishu.cn/share/base/form/shrcnzvd
 const FEEDBACK_TO = 'marchtime2020@gmail.com';      // 反馈接收人（mailto 备用通道）
 const TRIAL_STORE_KEY = 'insulation_trial_feedback';
 
-/* ---------- 浮动按钮 ---------- */
+/* ---------- 侧栏菜单入口（无侧栏容器时降级为浮动按钮） ---------- */
 function trialMount() {
-  const wrap = document.createElement('div');
-  wrap.className = 'trial-fab-wrap';
-  wrap.innerHTML = `
-    <button class="trial-fab" id="trialHelpBtn" type="button">&#10067; 使用说明</button>
-    <button class="trial-fab primary" id="trialFeedbackBtn" type="button">&#128172; 反馈</button>
-  `;
-  document.body.appendChild(wrap);
+  const menu = document.getElementById('trialMenu');
+  if (menu) {
+    menu.innerHTML = `
+      <button class="side-menu-item" id="trialHelpBtn" type="button"><span class="side-menu-icon">&#10067;</span>使用说明</button>
+      <button class="side-menu-item" id="trialFeedbackBtn" type="button"><span class="side-menu-icon">&#128172;</span>反馈</button>
+    `;
+  } else {
+    const wrap = document.createElement('div');
+    wrap.className = 'trial-fab-wrap';
+    wrap.innerHTML = `
+      <button class="trial-fab" id="trialHelpBtn" type="button">&#10067; 使用说明</button>
+      <button class="trial-fab primary" id="trialFeedbackBtn" type="button">&#128172; 反馈</button>
+    `;
+    document.body.appendChild(wrap);
+  }
 
   document.getElementById('trialHelpBtn').addEventListener('click', openHelp);
   document.getElementById('trialFeedbackBtn').addEventListener('click', () => {

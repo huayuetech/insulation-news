@@ -294,7 +294,7 @@ function handleStatAction(action) {
     state.searchQuery = '';
     document.getElementById('searchInput').value = '';
     state.selectedCountries.clear();
-    document.querySelectorAll('.country-chip').forEach(c => c.classList.remove('selected'));
+    renderSelectedCountries();
     state.timeFilter = 'all';
     document.getElementById('timeFilter').value = 'all';
   } else if (action === 'impact') {
@@ -355,33 +355,71 @@ function renderTopics(items) {
   };
 }
 
-/* ===== 国家筛选 ===== */
+/* ===== 国家筛选（可搜索下拉，多选） ===== */
 function renderCountryFilter() {
-  const container = document.getElementById('countryGroups');
-  container.innerHTML = state.countries.regions.map(region => `
-    <div>
-      <div class="country-group-label">${region.name}</div>
-      <div class="country-chips">
-        ${region.countries.map(c => `
-          <span class="country-chip" data-code="${c.code}">${c.flag} ${c.name}</span>
-        `).join('')}
-      </div>
-    </div>
-  `).join('');
+  const input = document.getElementById('countrySearch');
+  const dropdown = document.getElementById('countryDropdown');
+  const combo = document.getElementById('countryCombo');
 
-  container.addEventListener('click', (e) => {
-    const chip = e.target.closest('.country-chip');
-    if (!chip) return;
-    const code = chip.dataset.code;
-    if (state.selectedCountries.has(code)) {
-      state.selectedCountries.delete(code);
-      chip.classList.remove('selected');
-    } else {
-      state.selectedCountries.add(code);
-      chip.classList.add('selected');
-    }
-    render();
+  const show = () => {
+    renderCountryDropdown(input.value.trim());
+    dropdown.hidden = false;
+  };
+  input.addEventListener('focus', show);
+  input.addEventListener('input', show);
+
+  // 点击下拉外部时收起
+  document.addEventListener('click', (e) => {
+    if (!combo.contains(e.target)) dropdown.hidden = true;
   });
+
+  // 选择国家（多选，选完不收起方便连选）
+  dropdown.addEventListener('click', (e) => {
+    const opt = e.target.closest('.combo-option');
+    if (!opt) return;
+    toggleCountry(opt.dataset.code);
+    renderCountryDropdown(input.value.trim());
+  });
+
+  renderSelectedCountries();
+}
+
+function renderCountryDropdown(query) {
+  const dropdown = document.getElementById('countryDropdown');
+  const q = (query || '').toLowerCase();
+  let html = '';
+  for (const region of state.countries.regions) {
+    const matches = region.countries.filter(c =>
+      !q || c.name.toLowerCase().includes(q) || c.code.toLowerCase().includes(q) || region.name.includes(q)
+    );
+    if (!matches.length) continue;
+    html += `<div class="combo-group-label">${region.name}</div>`;
+    html += matches.map(c =>
+      `<div class="combo-option ${state.selectedCountries.has(c.code) ? 'selected' : ''}" data-code="${c.code}">${c.flag} ${c.name}</div>`
+    ).join('');
+  }
+  dropdown.innerHTML = html || '<div class="combo-empty">没有匹配的国家</div>';
+}
+
+function toggleCountry(code) {
+  if (state.selectedCountries.has(code)) {
+    state.selectedCountries.delete(code);
+  } else {
+    state.selectedCountries.add(code);
+  }
+  renderSelectedCountries();
+  render();
+}
+
+function renderSelectedCountries() {
+  const box = document.getElementById('selectedCountries');
+  box.innerHTML = [...state.selectedCountries].map(code =>
+    `<span class="sel-chip" data-code="${code}" title="点击移除">${countryFlags[code] || ''} ${getCountryName(code)} &times;</span>`
+  ).join('');
+  box.onclick = (e) => {
+    const chip = e.target.closest('.sel-chip');
+    if (chip) toggleCountry(chip.dataset.code);
+  };
 }
 
 /* ===== Events ===== */
@@ -408,7 +446,7 @@ function bindEvents() {
 
   document.getElementById('clearCountries').addEventListener('click', () => {
     state.selectedCountries.clear();
-    document.querySelectorAll('.country-chip').forEach(c => c.classList.remove('selected'));
+    renderSelectedCountries();
     render();
   });
 }
