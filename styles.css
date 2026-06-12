@@ -28,7 +28,7 @@
   --shadow:    0 1px 3px rgba(0,0,0,.08);
   --shadow-lg: 0 4px 12px rgba(0,0,0,.1);
   --topbar-h:  56px;
-  --sidebar-w: 240px;
+  --sidebar-w: 272px;
   --rail-w:    300px;
   --font:      -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans SC",sans-serif;
 }
@@ -392,11 +392,11 @@ a.nav-item{text-decoration:none}
 ::-webkit-scrollbar-thumb:hover{background:var(--text-3)}
 
 /* ===== 单页版（奥卡姆改版）===== */
-/* 分类 chips 行（⭐精选第一位） */
-.chip-bar{display:flex;gap:6px;flex-wrap:wrap;padding:10px 20px;background:var(--bg-card);border-bottom:1px solid var(--border)}
-.chip{font-size:.8rem;padding:5px 14px;border-radius:14px;border:1px solid var(--border);background:var(--bg);color:var(--text-2);transition:all .12s;white-space:nowrap}
+/* 分类 chips 行（⭐精选第一位，主导航级体量） */
+.chip-bar{display:flex;gap:10px;flex-wrap:wrap;padding:14px 24px;background:var(--bg-card);border-bottom:1px solid var(--border)}
+.chip{font-size:.95rem;font-weight:500;padding:9px 22px;border-radius:20px;border:1px solid var(--border);background:var(--bg);color:var(--text-2);transition:all .12s;white-space:nowrap}
 .chip:hover{border-color:var(--accent);color:var(--accent)}
-.chip.active{background:var(--accent-bg);border-color:var(--accent);color:var(--accent);font-weight:600}
+.chip.active{background:var(--accent-bg);border-color:var(--accent);color:var(--accent);font-weight:700}
 
 /* 左栏只剩国家筛选，放开高度限制 */
 .sidebar .country-groups{max-height:none;flex:1}
@@ -426,8 +426,11 @@ a.nav-item{text-decoration:none}
 .card-topic{display:none;margin-top:6px;padding:8px 10px;background:var(--accent-bg);border-radius:var(--radius);font-size:.75rem;color:var(--accent);line-height:1.4}
 .card-topic.open{display:block}
 
-/* 右栏空态 */
+/* 空态 */
 .rail-empty{font-size:.76rem;color:var(--text-3);padding:8px 0;text-align:center}
+
+/* 右栏取消后：信息流限宽居中保证可读性 */
+.feed-toolbar,.stats-row,#timeline,.empty-state{max-width:980px;margin-left:auto;margin-right:auto;width:100%}
 
 /* ===== 左侧菜单栏 ===== */
 .side-section{padding:0 12px;margin-bottom:6px}
