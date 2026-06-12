@@ -58,10 +58,25 @@ function render() {
   document.getElementById('feedTitle').textContent = chipLabel + (state.impactFilter === 'high' ? ' · 高影响' : '');
   document.getElementById('feedCount').textContent = `${filtered.length} 条`;
 
-  renderStats(filtered);
+  const countries = new Set(filtered.map(i => i.country)).size;
+  document.getElementById('feedCoverage').textContent = filtered.length ? `覆盖 ${countries} 个国家` : '';
+
+  renderChips();
   renderTimeline(filtered);
   renderPolicyAlerts();
   renderTopics(filtered);
+}
+
+/* 在「地区+时间+搜索」范围内统计各集合数量（不含 chip 与 impact 维度，使徽标稳定可比） */
+function scopeFiltered() {
+  let items = [...state.items];
+  if (state.selectedCountries.size > 0) items = items.filter(i => state.selectedCountries.has(i.country));
+  if (state.timeFilter !== 'all') {
+    const cutoff = getTimeCutoff(state.timeFilter);
+    items = items.filter(i => new Date(i.date) >= cutoff);
+  }
+  if (state.searchQuery) items = matchSearch(items, state.searchQuery);
+  return items;
 }
 
 function getFilteredItems() {
@@ -86,21 +101,23 @@ function getFilteredItems() {
     items = items.filter(i => new Date(i.date) >= cutoff);
   }
 
-  if (state.searchQuery) {
-    const q = state.searchQuery.toLowerCase();
-    items = items.filter(i =>
-      i.title.toLowerCase().includes(q) ||
-      i.summary.toLowerCase().includes(q) ||
-      (i.titleOriginal || '').toLowerCase().includes(q) ||
-      (i.materials || []).some(m => m.toLowerCase().includes(q)) ||
-      (i.applications || []).some(a => a.toLowerCase().includes(q)) ||
-      (i.country || '').toLowerCase().includes(q) ||
-      getCountryName(i.country).toLowerCase().includes(q) ||
-      (i.source || '').toLowerCase().includes(q)
-    );
-  }
+  if (state.searchQuery) items = matchSearch(items, state.searchQuery);
 
   return clusterItems(items);
+}
+
+function matchSearch(items, query) {
+  const q = query.toLowerCase();
+  return items.filter(i =>
+    i.title.toLowerCase().includes(q) ||
+    i.summary.toLowerCase().includes(q) ||
+    (i.titleOriginal || '').toLowerCase().includes(q) ||
+    (i.materials || []).some(m => m.toLowerCase().includes(q)) ||
+    (i.applications || []).some(a => a.toLowerCase().includes(q)) ||
+    (i.country || '').toLowerCase().includes(q) ||
+    getCountryName(i.country).toLowerCase().includes(q) ||
+    (i.source || '').toLowerCase().includes(q)
+  );
 }
 
 function getTimeCutoff(filter) {
@@ -127,30 +144,60 @@ function clusterItems(items) {
   return result;
 }
 
-/* ===== 分类 chips（⭐精选第一位） ===== */
+/* ===== 分类 chips（⭐精选第一位，带计数徽标 + 高影响开关 + 清除） ===== */
 function renderChips() {
   const bar = document.getElementById('chipBar');
+  const scope = scopeFiltered();                 // 地区+时间+搜索范围内
+  const countOf = (id) =>
+    id === 'all' ? scope.length :
+    id === 'featured' ? scope.filter(i => i.featured).length :
+    scope.filter(i => i.category === id).length;
+
   const chips = [
     { id: 'featured', label: '⭐ 精选' },
     { id: 'all', label: '全部' },
     ...CATEGORIES.map(c => ({ id: c, label: c })),
   ];
-  bar.innerHTML = chips.map(c =>
-    `<button class="chip ${state.chip === c.id ? 'active' : ''}" data-chip="${c.id}">${c.label}</button>`
-  ).join('');
+
+  // 高影响开关：在「当前分类 + 地区时间搜索」范围内的高影响条数
+  let chipScope = scope;
+  if (state.chip === 'featured') chipScope = scope.filter(i => i.featured);
+  else if (state.chip !== 'all') chipScope = scope.filter(i => i.category === state.chip);
+  const highN = chipScope.filter(i => i.impact === 'high').length;
+
+  const hasFilter = state.impactFilter || state.selectedCountries.size > 0 ||
+                    state.searchQuery || state.timeFilter !== 'all' || state.chip !== 'featured';
+
+  bar.innerHTML =
+    chips.map(c => {
+      const n = countOf(c.id);
+      return `<button class="chip ${state.chip === c.id ? 'active' : ''} ${n === 0 ? 'dim' : ''}" data-chip="${c.id}">${c.label}<span class="chip-n">${n}</span></button>`;
+    }).join('') +
+    `<button class="chip chip-impact ${state.impactFilter === 'high' ? 'active' : ''} ${highN === 0 && state.impactFilter !== 'high' ? 'dim' : ''}" data-impact="high">🔥 高影响<span class="chip-n">${highN}</span></button>` +
+    (hasFilter ? `<button class="chip-clear" data-clear="1">清除筛选 ✕</button>` : '');
 
   bar.onclick = (e) => {
-    const chip = e.target.closest('.chip');
+    const clear = e.target.closest('[data-clear]');
+    if (clear) { clearAllFilters(); return; }
+    const imp = e.target.closest('[data-impact]');
+    if (imp) { state.impactFilter = state.impactFilter === 'high' ? null : 'high'; render(); return; }
+    const chip = e.target.closest('.chip[data-chip]');
     if (!chip) return;
     state.chip = chip.dataset.chip;
-    syncChips();
     render();
   };
 }
 
-function syncChips() {
-  document.querySelectorAll('#chipBar .chip').forEach(c =>
-    c.classList.toggle('active', c.dataset.chip === state.chip));
+function clearAllFilters() {
+  state.chip = 'featured';
+  state.impactFilter = null;
+  state.searchQuery = '';
+  document.getElementById('searchInput').value = '';
+  state.selectedCountries.clear();
+  renderSelectedCountries();
+  state.timeFilter = 'all';
+  document.getElementById('timeFilter').value = 'all';
+  render();
 }
 
 /* ===== 时间线主流 ===== */
@@ -247,65 +294,6 @@ function renderCard(item) {
       ${clusterHtml}
     </article>
   `;
-}
-
-/* ===== 统计卡（可点筛选） ===== */
-function renderStats(items) {
-  const row = document.getElementById('statsRow');
-  const policyCount = items.filter(i => i.category === '标准政策').length;
-  const highImpact = items.filter(i => i.impact === 'high').length;
-  const countries = new Set(items.map(i => i.country)).size;
-  const featured = items.filter(i => i.featured).length;
-
-  const policyActive = state.chip === '标准政策';
-  const featuredActive = state.chip === 'featured';
-  const cards = [
-    { action: 'total', label: '总资讯', value: items.length, cls: '',
-      sub: `覆盖 ${countries} 个国家 · 点击清除筛选`, active: false, disabled: false },
-    { action: 'impact', label: '高影响', value: highImpact, cls: 'alert',
-      sub: state.impactFilter === 'high' ? '已筛选 · 点击取消' : '点击只看高影响',
-      active: state.impactFilter === 'high', disabled: highImpact === 0 && state.impactFilter !== 'high' },
-    { action: 'policy', label: '政策变动', value: policyCount, cls: '',
-      sub: policyActive ? '已筛选 · 点击取消' : '点击看标准更新',
-      active: policyActive, disabled: policyCount === 0 && !policyActive },
-    { action: 'featured', label: '精选', value: featured, cls: '',
-      sub: featuredActive ? '已筛选 · 点击取消' : '点击只看精选',
-      active: featuredActive, disabled: featured === 0 && !featuredActive },
-  ];
-
-  row.innerHTML = cards.map(c => `
-    <div class="stat-card ${c.cls}${c.active ? ' active' : ''}${c.disabled ? ' disabled' : ''}" data-action="${c.action}" role="button" tabindex="0">
-      <div class="stat-label">${c.label}</div>
-      <div class="stat-value">${c.value}</div>
-      <div class="stat-sub">${c.sub}</div>
-    </div>`).join('');
-
-  row.onclick = (e) => {
-    const card = e.target.closest('.stat-card');
-    if (!card || card.classList.contains('disabled')) return;
-    handleStatAction(card.dataset.action);
-  };
-}
-
-function handleStatAction(action) {
-  if (action === 'total') {
-    state.chip = 'all';
-    state.impactFilter = null;
-    state.searchQuery = '';
-    document.getElementById('searchInput').value = '';
-    state.selectedCountries.clear();
-    renderSelectedCountries();
-    state.timeFilter = 'all';
-    document.getElementById('timeFilter').value = 'all';
-  } else if (action === 'impact') {
-    state.impactFilter = state.impactFilter === 'high' ? null : 'high';
-  } else if (action === 'policy') {
-    state.chip = state.chip === '标准政策' ? 'all' : '标准政策';
-  } else if (action === 'featured') {
-    state.chip = state.chip === 'featured' ? 'all' : 'featured';
-  }
-  syncChips();
-  render();
 }
 
 /* ===== 政策预警 ===== */

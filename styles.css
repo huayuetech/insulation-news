@@ -165,25 +165,9 @@ a.nav-item{text-decoration:none}
 .feed-title-area h2{font-size:1.15rem;font-weight:700}
 .feed-meta{display:flex;align-items:center;gap:12px;font-size:.75rem;color:var(--text-3)}
 .feed-count{font-weight:600;color:var(--accent)}
+.feed-coverage{color:var(--text-3)}
 .update-time{display:flex;align-items:center;gap:4px}
 .update-time::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--green);display:inline-block}
-
-/* Stats Row */
-.stats-row{display:flex;gap:10px;margin-bottom:16px;flex-wrap:wrap}
-.stat-card{
-  flex:1;min-width:120px;padding:10px 14px;
-  background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);
-  cursor:pointer;transition:border-color .15s,box-shadow .15s;
-}
-.stat-card:hover{border-color:var(--accent);box-shadow:var(--shadow-sm)}
-.stat-card.active{border-color:var(--accent);background:var(--accent-bg)}
-.stat-card.active .stat-label{color:var(--accent)}
-.stat-card.disabled{opacity:.45;cursor:default}
-.stat-card.disabled:hover{border-color:var(--border);box-shadow:none}
-.stat-card .stat-label{font-size:.7rem;color:var(--text-3);margin-bottom:2px}
-.stat-card .stat-value{font-size:1.3rem;font-weight:700;color:var(--text)}
-.stat-card .stat-sub{font-size:.7rem;color:var(--green);font-weight:500}
-.stat-card.alert .stat-value{color:var(--red)}
 
 /* Feed List */
 .feed-list{display:flex;flex-direction:column;gap:10px}
@@ -393,10 +377,20 @@ a.nav-item{text-decoration:none}
 
 /* ===== 单页版（奥卡姆改版）===== */
 /* 分类 chips 行（⭐精选第一位，主导航级体量，位于内容区顶部） */
-.chip-bar{display:flex;gap:10px;flex-wrap:wrap;padding:2px 0 14px;border-bottom:1px solid var(--border);margin-bottom:14px}
-.chip{font-size:.95rem;font-weight:500;padding:9px 22px;border-radius:20px;border:1px solid var(--border);background:var(--bg-card);color:var(--text-2);transition:all .12s;white-space:nowrap}
+.chip-bar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding:2px 0 14px;border-bottom:1px solid var(--border);margin-bottom:14px}
+.chip{display:inline-flex;align-items:center;gap:7px;font-size:.95rem;font-weight:500;padding:8px 18px;border-radius:20px;border:1px solid var(--border);background:var(--bg-card);color:var(--text-2);transition:all .12s;white-space:nowrap}
 .chip:hover{border-color:var(--accent);color:var(--accent)}
 .chip.active{background:var(--accent-bg);border-color:var(--accent);color:var(--accent);font-weight:700}
+.chip.dim{opacity:.5}
+.chip-n{font-size:.72rem;font-weight:700;min-width:18px;height:18px;padding:0 5px;display:inline-flex;align-items:center;justify-content:center;border-radius:9px;background:var(--bg);color:var(--text-3)}
+.chip.active .chip-n{background:var(--accent);color:#fff}
+/* 高影响开关 chip（独立维度，红色调） */
+.chip-impact{margin-left:6px}
+.chip-impact.active{background:var(--red-bg);border-color:var(--red);color:var(--red)}
+.chip-impact.active .chip-n{background:var(--red);color:#fff}
+.chip-impact:hover{border-color:var(--red);color:var(--red)}
+.chip-clear{font-size:.82rem;color:var(--text-3);background:none;border:none;padding:6px 10px;cursor:pointer;white-space:nowrap}
+.chip-clear:hover{color:var(--red)}
 
 /* 左栏只剩国家筛选，放开高度限制 */
 .sidebar .country-groups{max-height:none;flex:1}
@@ -430,7 +424,7 @@ a.nav-item{text-decoration:none}
 .rail-empty{font-size:.76rem;color:var(--text-3);padding:8px 0;text-align:center}
 
 /* 右栏取消后：信息流限宽居中保证可读性 */
-.chip-bar,.feed-toolbar,.stats-row,#timeline,.empty-state{max-width:980px;margin-left:auto;margin-right:auto;width:100%}
+.chip-bar,.feed-toolbar,#timeline,.empty-state{max-width:980px;margin-left:auto;margin-right:auto;width:100%}
 
 /* 侧栏品牌区与搜索框 */
 .side-brand{display:flex;align-items:center;gap:10px;padding:14px 16px 12px}
