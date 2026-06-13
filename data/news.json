@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-06-12T07:21:16.169981+00:00",
-  "dailyDate": "2026-06-12",
+  "lastUpdated": "2026-06-13T02:18:27.313502+00:00",
+  "dailyDate": "2026-06-13",
   "totalSources": 6,
   "items": [
+    {
+      "id": "20260612-90376164",
+      "title": "Isover 棉毡保温材料：为美国住宅提供玻璃棉舒适解决方案",
+      "titleOriginal": "Isover Batt Insulation: Fiberglass comfort for US homes",
+      "summary": "Isover玻璃棉产品进入美国住宅市场，预示北美需求增长，利于中国出口商跟进。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "AD HOC NEWS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVlpYTFHcERMLS11ZzhtOUNsc08wdmdHVUVfWExJSXpVdVNacXM5N0RYdTA1ZlRqb3ZkUklJM0h0VmZkeEtlVTdvMmhQRXhFNEhZdEhqZFRDYms1LUFydHpGLXhxTzRlRmFDd3JTbmFobTAxUmhMeXhZZ1J5bkpOdGYtYTdPS1VNcHR6R1A2aVJOVzFBaXgtVDcxTGo4LUpfT1lzeGRoZWVrZVNwNDQ4UG1HQQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-12",
+      "score": 78,
+      "featured": true,
+      "impact": "high",
+      "impactNote": "美国住宅保温市场空间大，对标产品机会",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 12,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "Isover美国住宅玻璃棉产品动态及本地化策略"
+    },
+    {
+      "id": "20260612-8c2e551e",
+      "title": "Rockwool A/S 股票（DK0010219153）：绝缘材料专业公司基本面和估值聚焦",
+      "titleOriginal": "Rockwool A/S Stock (DK0010219153): Fundamentals and valuation in focus for insulation specialist",
+      "summary": "关注全球岩棉龙头股票动态，反映行业景气度，为出口商提供竞争对标参考。",
+      "category": "企业展会",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "DK",
+      "region": "全球",
+      "source": "AD HOC NEWS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVzQzOHROQmFHSUphZFF1N2ZmaXdLd2drQUkzc2l4QUdkVHlaYkJwdlJvcDRiUS1Qb0Fjc0p3NTFNc3NrZDc2WmNvdW1McVlNTmFmTXVYQnQzMXNjVnQxbGk0NWNlcEdGS2UtVmZ4QXV3TkxRbThSWF9pekVlcjFKRE9iU3ZfRnpKb2VUemYzbjVQanZHUEh0cG4zZ242Y1A1Z2ZJdEYxbTl1VmxzMl9jQnRSakJyazQ2OFNHNlpJRjlzTmJaOEM3dEdR?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-12",
+      "score": 64,
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "关注龙头财报可预判价格趋势",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "追踪Rockwool估值变化，研判行业周期"
+    },
     {
       "id": "20260611-a879cb73",
       "title": "卡塔尔自由区与中国企业合作在乌姆阿尔胡尔建设保温材料工厂",
@@ -101,6 +167,41 @@
       "topic": "全球建筑保温市场规模与增长预测"
     },
     {
+      "id": "20260609-da744cf1",
+      "title": "全球矿棉板绝缘市场分析、预测、规模、趋势与洞察",
+      "titleOriginal": "World Mineral Wool Board Insulation - Market Analysis, Forecast, Size, Trends and Insights",
+      "summary": "全球矿棉板市场全景分析，为出口商制定区域拓展和产品策略提供数据支撑。",
+      "category": "市场价格",
+      "materials": [
+        "矿棉",
+        "岩棉",
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTl9WSXJISUZkMDFmZkpvVFRzNXlfS29sV01vRUFWSkJsSnJxWFBvWFpBLUZRVmJ6d2xhM0JZeDVQUFZoZUJNWk9UMTRXWjR6WnVnc3ZpUW9nSS1aeTVIWTFjLU5WSXdvR1UyMUpfOVhNcVhKdXVWVjFvaXIzSjFuVk0yb1huSEtFVl95bmxYZmE1NjVReUpXRi14aHFzNWE1dzViWFBIZFZRckZESTVMb2kxbG52d09HRkx0a0dZM3g5QnlsdmVSQUxtRFc?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-09",
+      "score": 68,
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "宏观趋势指导出口市场选择",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 14,
+        "businessValue": 10,
+        "marketImpact": 9
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "掌握矿棉板全球供需趋势，优化出口布局"
+    },
+    {
       "id": "20260608-1d33cefb",
       "title": "储罐保温市场中储罐占据主要份额",
       "titleOriginal": "Storage Tanks Held a Major Share of the Tank Insulation Market.",
@@ -133,6 +234,39 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "储罐保温材料需求分析及出口机会"
+    },
+    {
+      "id": "20260608-8ebf204d",
+      "title": "东盟热绝缘泡沫板材市场分析、预测、规模、趋势与洞察",
+      "titleOriginal": "ASEAN Thermal Insulation Sheets Foam - Market Analysis, Forecast, Size, Trends and Insights",
+      "summary": "东盟泡沫保温板材市场分析，提示替代材料竞争态势，为中国岩棉/玻璃棉出口提供对比参考。",
+      "category": "市场价格",
+      "materials": [
+        "泡沫板"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3g5UVpyTWIyUTVxV3kyRUltaER0d0ZRYTB3Vnc4VHB1enhkX3RHSHpVOHktNWpWemE4bWdVNGVOYWpJbjAxUERBbEJBbEt4SmozWU1oNkhhZGozSDdCeHNiLWwyZzR6bUUxWU0tbzZIclR5MDM3YmNnZTVoNkpXcUNGWU1hWWpUSG4xNFJzTHZWLVpleXJ5R21HdEtoUHFIeWFRd2JsOEp5S2phZ2R6SnhmamhFS01w?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-08",
+      "score": 49,
+      "featured": false,
+      "impact": "low",
+      "impactNote": "关注替代材料竞争动向",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 10,
+        "timeliness": 10,
+        "businessValue": 5,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "东盟保温材料市场格局，泡沫vs纤维类机会"
     },
     {
       "id": "20260606-7cbb848d",
@@ -622,39 +756,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "参考该内容制作中文版技术白皮书用于客户沟通"
-    },
-    {
-      "id": "20260513-aedde224",
-      "title": "Rockwool 与 Büchl 在德国建立岩棉回收合作并投产新设施",
-      "titleOriginal": "Rockwool and Büchl set up stone wool recycling partnership",
-      "summary": "德国岩棉回收合作项目推动循环经济，或影响欧洲进口环保标准，出口商需提前布局。",
-      "category": "工程应用",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "DE",
-      "region": "欧洲",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2206-rockwool-and-buechl-set-up-stone-wool-recycling-partnership",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-05-13",
-      "score": 74,
-      "featured": true,
-      "impact": "high",
-      "impactNote": "回收能力提升可能提高欧洲市场准入壁垒",
-      "dimensions": {
-        "relevance": 28,
-        "authority": 16,
-        "timeliness": 6,
-        "businessValue": 13,
-        "marketImpact": 11
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "分析欧洲岩棉回收政策对中国出口的影响"
     }
   ]
 }
