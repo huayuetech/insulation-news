@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-13T23:58:21.885412+08:00",
+  "lastUpdated": "2026-06-14T00:02:11.911233+08:00",
   "dailyDate": "2026-06-13",
-  "totalSources": 11,
+  "totalSources": 21,
   "items": [
     {
       "id": "20260613-07b9f5c6",
@@ -949,6 +949,37 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "追踪Kingspan股价与产能扩张联动，预判市场走向"
+    },
+    {
+      "id": "20260521-140573a0",
+      "title": "菲律宾能源部发布能效从业者认证指南（EEC法案）",
+      "titleOriginal": "Philippines DOE Issues Enhanced EE Practitioner Certification Guidelines under EEC Act",
+      "summary": "菲律宾加强能效认证，推动建筑节能市场规范化，利好中国保温材料出口。",
+      "category": "标准政策",
+      "materials": [],
+      "applications": [],
+      "country": "PH",
+      "region": "东南亚",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/southeast-asia/ph/report_15967",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-05-21",
+      "score": 57,
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "间接推动保温材料需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 6,
+        "businessValue": 8,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注菲律宾能效认证对保温材料出口的带动效应"
     },
     {
       "id": "20260521-f871b76b",

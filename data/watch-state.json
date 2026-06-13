@@ -1,7 +1,32 @@
 {
   "SASO 技术法规": {
     "hash": "d5aed1af9f78db6e3817e34670ccf0cf97d33885c357ae0f071005208253dbb3",
-    "lastCheck": "2026-06-13T15:58:21.885412+00:00",
+    "lastCheck": "2026-06-13T16:02:11.911233+00:00",
     "lastChange": "2026-06-13T15:57:03.183581+00:00"
+  },
+  "越南建设部": {
+    "hash": "a4e99c5830edf6860bf0a2ef0f6c7918daf3f673e8b74717cb74349e4afb5e09",
+    "lastCheck": "2026-06-13T16:02:11.911233+00:00",
+    "lastChange": "2026-06-13T16:02:11.911233+00:00"
+  },
+  "Thailand DEDE — Building Energy Code": {
+    "hash": "98e9626dfbe2858b135eccc422845d5a9248b151804e095c91184ff72ca79ae7",
+    "lastCheck": "2026-06-13T16:02:11.911233+00:00",
+    "lastChange": "2026-06-13T16:02:11.911233+00:00"
+  },
+  "SEDA Malaysia — MS 1525": {
+    "hash": "50d0ab84652dab2ecb952a4ab19c8981c8c838bc51bc813c75d80f1a1a56b927",
+    "lastCheck": "2026-06-13T16:02:11.911233+00:00",
+    "lastChange": "2026-06-13T16:02:11.911233+00:00"
+  },
+  "GORD — GSAS（卡塔尔）": {
+    "hash": "f86c171e130d81acaf82aac0b287dd53efa579381560f754cf8e9350072aefef",
+    "lastCheck": "2026-06-13T16:02:11.911233+00:00",
+    "lastChange": "2026-06-13T16:02:11.911233+00:00"
+  },
+  "Indonesia GBCI — Greenship": {
+    "hash": "9a76534b106a3a49980013a91fdbe6c36f982e4f678554f63aa44ea5bc84a636",
+    "lastCheck": "2026-06-13T16:02:11.911233+00:00",
+    "lastChange": "2026-06-13T16:02:11.911233+00:00"
   }
 }
