@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-06-13T09:41:11.684735+00:00",
+  "lastUpdated": "2026-06-13T14:34:02.153099+00:00",
   "dailyDate": "2026-06-13",
   "totalSources": 10,
   "items": [
+    {
+      "id": "20260613-07b9f5c6",
+      "title": "Isover InsulSafe SP：用于阁楼和墙壁的松散填充玻璃棉保温材料",
+      "titleOriginal": "ISOVER InsulSafe SP: loose-fill fiberglass insulation for attics and walls",
+      "summary": "Isover推出InsulSafe SP松散填充玻璃棉产品，针对阁楼和墙壁应用，出口商需关注竞争态势。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "AD HOC NEWS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNclFrcjFnSG9rNmRKQ3VZdnMtaDE1YU9vc2NVV1hianFiVk9QbkNSTXMyOGZuYjAxUnlCWlhyYWRhcHJ0a21vQVljZzJEVTRxOVpqVGRrQkI5NXdBOGZTY01hWHE4SENpWHBfbEg1NTlNRzRNb1lYYktGVS0wT2lUaEcwcE00VmNEMXpka25wd09id25CRDV2aTFjUWNfR29EalNpWHpmaVVvOS02dE1COGxGNzlHREVINk9MU2RSeW85ZmFjNUEtV0M5Ty0?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-13",
+      "score": 71,
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "同类新产品可能加剧市场竞争",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注Isover松散填充玻璃棉新品动向"
+    },
     {
       "id": "20260612-90376164",
       "title": "Isover 棉毡保温材料：为美国住宅提供玻璃棉舒适解决方案",
