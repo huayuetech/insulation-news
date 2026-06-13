@@ -357,15 +357,27 @@ def main():
     code2region = load_regions()
     new_items = assemble(fresh, ai_results, code2region)
 
+    print("=== 第4.5步 网页变化哨兵 ===")
+    watch_alerts = []
+    watch_sources = getattr(config, "WATCH_SOURCES", [])
+    if watch_sources:
+        from watcher import run_watchers
+        watch_alerts = run_watchers(watch_sources, os.path.join(DATA_DIR, "watch-state.json"), now=NOW)
+        for a in watch_alerts:
+            a["region"] = code2region.get(a["country"], "全球")
+        # 哨兵仅在页面哈希变化时产出，天然不重复（无需再按 url 去重，
+        # 否则同一页面的二次真实变动会被误压制）
+        print(f"哨兵新增提醒: {len(watch_alerts)} 条")
+
     # 合并历史，按日期+分数排序，丢弃超期
     cutoff = (NOW - timedelta(days=config.KEEP_DAYS)).strftime("%Y-%m-%d")
-    merged = new_items + [i for i in history if i["date"] >= cutoff]
+    merged = watch_alerts + new_items + [i for i in history if i["date"] >= cutoff]
     merged.sort(key=lambda x: (x["date"], x["score"]), reverse=True)
 
     news = {
         "lastUpdated": NOW.astimezone().isoformat(),
         "dailyDate": NOW.strftime("%Y-%m-%d"),
-        "totalSources": len(config.RSS_SOURCES) + len(config.GOOGLE_NEWS_QUERIES),
+        "totalSources": len(config.RSS_SOURCES) + len(config.GOOGLE_NEWS_QUERIES) + len(watch_sources),
         "items": merged,
     }
     with open(news_path, "w", encoding="utf-8") as f:

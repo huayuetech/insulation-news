@@ -46,6 +46,91 @@ RSS_SOURCES = [
         "sourceType": "行业媒体",
         "trusted": False,
     },
+    # 第3批（2026-06-13 接入，东南亚法规追踪主力，RSS 已验证每小时更新）
+    {
+        "name": "Enviliance ASIA",
+        "url": "https://enviliance.com/feed",
+        "tier": "T2",          # EHS/能效法规追踪服务，一站覆盖越南/泰国/印尼
+        "sourceType": "法规追踪",
+        "trusted": False,      # 泛 EHS 内容，需关键词预筛过滤非保温/非建筑
+    },
+]
+
+# 网页变化哨兵（T1 政府/标准源，无 RSS、页面结构乱，只监测"是否更新"不解析内容）
+# 变化后生成一条提醒资讯，由人工点进原文判断。content_selector 留空则用全文本去噪后比对。
+WATCH_SOURCES = [
+    # —— 中东 P0 ——
+    {
+        "name": "SASO 技术法规",
+        "url": "https://www.saso.gov.sa/en/Laws-And-Regulations/Technical_regulations/Pages/default.aspx",
+        "country": "SA",
+        "tier": "T1",
+        "note": "沙特标准组织技术法规页，建材/保温强制认证变动来源（SASO 2870 能效要求）",
+    },
+    {
+        "name": "Saudi Building Code (SBC)",
+        "url": "https://sbc.gov.sa/En",
+        "country": "SA",
+        "tier": "T1",
+        "note": "沙特建筑规范，2024 版含保温要求",
+    },
+    {
+        "name": "SEEC 节能中心",
+        "url": "https://www.seec.gov.sa/en/rules/saudi-building-code-thermal-insulation-guidelines",
+        "country": "SA",
+        "tier": "T1",
+        "note": "沙特节能中心，保温专页",
+    },
+    {
+        "name": "Dubai Civil Defence",
+        "url": "https://www.dcd.gov.ae",
+        "country": "AE",
+        "tier": "T1",
+        "note": "UAE Fire & Life Safety Code，覆层/NFPA 285 防火要求来源",
+    },
+    {
+        "name": "Emirates Safety Laboratory (ESL)",
+        "url": "https://www.dcd.gov.ae/portal/en/item/1537-the-uae-safety-lab-undergoes-major-service-transformation-starting-from-2024.jsp",
+        "country": "AE",
+        "tier": "T1",
+        "note": "2024 起负责 façade/覆层材料合格认证，保温材料准入风向标",
+    },
+    # —— 东南亚 P0 ——
+    {
+        "name": "越南建设部",
+        "url": "https://moc.gov.vn/en",
+        "country": "VN",
+        "tier": "T1",
+        "note": "越南建设部英文版，QCVN 09 建筑节能规范来源",
+    },
+    {
+        "name": "Thailand DEDE — Building Energy Code",
+        "url": "https://bec.dede.go.th/",
+        "country": "TH",
+        "tier": "T1",
+        "note": "泰国能源部 BEC，2023 生效、2025 起强制，含围护结构 OTTV/RTTV 保温要求",
+    },
+    {
+        "name": "SEDA Malaysia — MS 1525",
+        "url": "https://www.seda.gov.my/",
+        "country": "MY",
+        "tier": "T1",
+        "note": "马来 MS 1525:2019 能效标准，规定屋面 U 值上限，GBI 强制引用",
+    },
+    {
+        "name": "GORD — GSAS（卡塔尔）",
+        "url": "https://www.gord.qa/",
+        "country": "QA",
+        "tier": "T1.5",
+        "note": "海湾可持续评估体系 GSAS，QCS 2014 已部分强制，卡塔尔绿建/能效来源",
+    },
+    {
+        "name": "Indonesia GBCI — Greenship",
+        "url": "https://www.gbcindonesia.org/",
+        "country": "ID",
+        "tier": "T1.5",
+        "note": "印尼绿建委 Greenship 评级，英文可及，补 BSN SNI（印尼语）的不足",
+    },
 ]
 
 # Google News RSS 关键词组（兜底网）
