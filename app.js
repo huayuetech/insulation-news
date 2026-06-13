@@ -1,12 +1,13 @@
 /* ===== Insulation News 单页版 =====
- * 信息架构（奥卡姆改版）：
- *   一条时间线主流（按日分组）承担全部扫描任务，⭐精选为分类 chips 第一项；
- *   左栏仅国家筛选，右栏仅政策预警 + 选题灵感；无角色切换、无独立日报视图。
+ * 信息架构：
+ *   左栏顶部主视图切换（精选 / 全部动态）；右侧内容区顶部为分类筛选签
+ *   （全部 + 🔥高影响 + 6 大分类），在当前视图内做二级筛选。按日期降序分组。
  */
 const state = {
   items: [],
   countries: null,
-  chip: 'featured',            // 'featured' | 'all' | 分类名
+  view: 'featured',            // 'featured' | 'all'（左栏主视图）
+  chip: 'all',                 // 'all' | 分类名（右侧二级筛选）
   impactFilter: null,          // null | 'high'
   selectedCountries: new Set(),
   searchQuery: '',
@@ -54,22 +55,30 @@ async function init() {
 /* ===== Render ===== */
 function render() {
   const filtered = getFilteredItems();
-  const chipLabel = state.chip === 'featured' ? '精选' : state.chip === 'all' ? '全部动态' : state.chip;
-  document.getElementById('feedTitle').textContent = chipLabel + (state.impactFilter === 'high' ? ' · 高影响' : '');
+  const viewLabel = state.view === 'featured' ? '精选' : '全部动态';
+  const chipLabel = state.chip === 'all' ? '' : ' · ' + state.chip;
+  document.getElementById('feedTitle').textContent = viewLabel + chipLabel + (state.impactFilter === 'high' ? ' · 高影响' : '');
   document.getElementById('feedCount').textContent = `${filtered.length} 条`;
 
   const countries = new Set(filtered.map(i => i.country)).size;
   document.getElementById('feedCoverage').textContent = filtered.length ? `覆盖 ${countries} 个国家` : '';
 
+  syncViewNav();
   renderChips();
   renderTimeline(filtered);
   renderPolicyAlerts();
   renderTopics(filtered);
 }
 
-/* 在「地区+时间+搜索」范围内统计各集合数量（不含 chip 与 impact 维度，使徽标稳定可比） */
+function syncViewNav() {
+  document.querySelectorAll('.view-item').forEach(b =>
+    b.classList.toggle('active', b.dataset.view === state.view));
+}
+
+/* 在「视图+地区+时间+搜索」范围内统计各分类数量（不含 chip 与 impact，使徽标稳定可比） */
 function scopeFiltered() {
   let items = [...state.items];
+  if (state.view === 'featured') items = items.filter(i => i.featured);
   if (state.selectedCountries.size > 0) items = items.filter(i => state.selectedCountries.has(i.country));
   if (state.timeFilter !== 'all') {
     const cutoff = getTimeCutoff(state.timeFilter);
@@ -82,9 +91,11 @@ function scopeFiltered() {
 function getFilteredItems() {
   let items = [...state.items];
 
-  if (state.chip === 'featured') {
+  if (state.view === 'featured') {
     items = items.filter(i => i.featured);
-  } else if (state.chip !== 'all') {
+  }
+
+  if (state.chip !== 'all') {
     items = items.filter(i => i.category === state.chip);
   }
 
@@ -144,29 +155,24 @@ function clusterItems(items) {
   return result;
 }
 
-/* ===== 分类 chips（⭐精选第一位，带计数徽标 + 高影响开关 + 清除） ===== */
+/* ===== 分类筛选签（全部 + 6 分类 + 🔥高影响开关 + 清除，在当前视图内二级筛选） ===== */
 function renderChips() {
   const bar = document.getElementById('chipBar');
-  const scope = scopeFiltered();                 // 地区+时间+搜索范围内
+  const scope = scopeFiltered();                 // 视图+地区+时间+搜索范围内
   const countOf = (id) =>
-    id === 'all' ? scope.length :
-    id === 'featured' ? scope.filter(i => i.featured).length :
-    scope.filter(i => i.category === id).length;
+    id === 'all' ? scope.length : scope.filter(i => i.category === id).length;
 
   const chips = [
-    { id: 'featured', label: '⭐ 精选' },
     { id: 'all', label: '全部' },
     ...CATEGORIES.map(c => ({ id: c, label: c })),
   ];
 
-  // 高影响开关：在「当前分类 + 地区时间搜索」范围内的高影响条数
-  let chipScope = scope;
-  if (state.chip === 'featured') chipScope = scope.filter(i => i.featured);
-  else if (state.chip !== 'all') chipScope = scope.filter(i => i.category === state.chip);
+  // 高影响开关：在「当前分类 + 视图地区时间搜索」范围内的高影响条数
+  const chipScope = state.chip === 'all' ? scope : scope.filter(i => i.category === state.chip);
   const highN = chipScope.filter(i => i.impact === 'high').length;
 
   const hasFilter = state.impactFilter || state.selectedCountries.size > 0 ||
-                    state.searchQuery || state.timeFilter !== 'all' || state.chip !== 'featured';
+                    state.searchQuery || state.timeFilter !== 'all' || state.chip !== 'all';
 
   bar.innerHTML =
     chips.map(c => {
@@ -189,7 +195,8 @@ function renderChips() {
 }
 
 function clearAllFilters() {
-  state.chip = 'featured';
+  // 仅清空二级筛选，保留当前主视图（精选/全部动态）
+  state.chip = 'all';
   state.impactFilter = null;
   state.searchQuery = '';
   document.getElementById('searchInput').value = '';
@@ -412,6 +419,15 @@ function renderSelectedCountries() {
 
 /* ===== Events ===== */
 function bindEvents() {
+  document.getElementById('viewNav').addEventListener('click', (e) => {
+    const item = e.target.closest('.view-item');
+    if (!item || item.dataset.view === state.view) return;
+    state.view = item.dataset.view;
+    state.chip = 'all';            // 切视图时重置二级分类
+    state.impactFilter = null;
+    render();
+  });
+
   let searchTimer;
   document.getElementById('searchInput').addEventListener('input', (e) => {
     clearTimeout(searchTimer);

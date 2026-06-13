@@ -426,6 +426,13 @@ a.nav-item{text-decoration:none}
 /* 右栏取消后：信息流限宽居中保证可读性 */
 .chip-bar,.feed-toolbar,#timeline,.empty-state{max-width:980px;margin-left:auto;margin-right:auto;width:100%}
 
+/* 左栏主视图切换（精选 / 全部动态） */
+.view-nav{display:flex;flex-direction:column;gap:2px;padding:6px 12px 10px;margin-bottom:4px;border-bottom:1px solid var(--border)}
+.view-item{display:flex;align-items:center;gap:9px;padding:9px 12px;border-radius:var(--radius);font-size:.92rem;font-weight:600;color:var(--text-2);text-align:left;width:100%;transition:all .12s}
+.view-item:hover{background:var(--bg-hover);color:var(--text)}
+.view-item.active{background:var(--accent-bg);color:var(--accent)}
+.view-icon{font-size:1rem;width:20px;text-align:center;flex-shrink:0}
+
 /* 侧栏品牌区与搜索框 */
 .side-brand{display:flex;align-items:center;gap:10px;padding:14px 16px 12px}
 .side-brand h1{font-size:1rem;font-weight:700;line-height:1.2}
