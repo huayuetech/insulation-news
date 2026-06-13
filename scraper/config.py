@@ -17,6 +17,35 @@ RSS_SOURCES = [
         "sourceType": "行业媒体",
         "trusted": False,  # 泛建筑媒体，需要相关性预筛
     },
+    # 第2批（2026-06-13 接入，泛源→关键词预筛过滤非保温内容）
+    {
+        "name": "EU BUILD UP",
+        "url": "https://build-up.ec.europa.eu/en/rss.xml",
+        "tier": "T1",          # 欧盟委员会运营的建筑节能政策门户
+        "sourceType": "官方源",
+        "trusted": False,
+    },
+    {
+        "name": "CBNME",
+        "url": "https://www.cbnme.com/feed/",
+        "tier": "T2",
+        "sourceType": "行业媒体",
+        "trusted": False,
+    },
+    {
+        "name": "MEP Middle East",
+        "url": "https://www.mepmiddleeast.com/feed",
+        "tier": "T2",
+        "sourceType": "行业媒体",
+        "trusted": False,
+    },
+    {
+        "name": "The Investor (Vietnam)",
+        "url": "https://theinvestor.vn/feed.rss",
+        "tier": "T2",
+        "sourceType": "行业媒体",
+        "trusted": False,
+    },
 ]
 
 # Google News RSS 关键词组（兜底网）

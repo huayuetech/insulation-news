@@ -1,7 +1,21 @@
 {
   "date": "2026-06-13",
-  "generatedAt": "2026-06-13T02:18:27.313502+00:00",
+  "generatedAt": "2026-06-13T13:35:09.450240+08:00",
   "sections": [
+    {
+      "title": "政策法规变动",
+      "icon": "policy",
+      "items": [
+        {
+          "id": "20260608-f584f8f2",
+          "title": "荷兰房地产在EPBD IV上领先",
+          "summary": "荷兰率先实施欧洲建筑能效新指令EPBD IV，推动高能效保温材料需求升级。",
+          "country": "NL",
+          "source": "EU BUILD UP",
+          "impact": "medium"
+        }
+      ]
+    },
     {
       "title": "产品与材料动态",
       "icon": "product",

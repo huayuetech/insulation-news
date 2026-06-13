@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-13T02:18:27.313502+00:00",
+  "lastUpdated": "2026-06-13T13:35:09.450240+08:00",
   "dailyDate": "2026-06-13",
-  "totalSources": 6,
+  "totalSources": 10,
   "items": [
     {
       "id": "20260612-90376164",
@@ -200,6 +200,70 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "掌握矿棉板全球供需趋势，优化出口布局"
+    },
+    {
+      "id": "20260608-f584f8f2",
+      "title": "荷兰房地产在EPBD IV上领先",
+      "titleOriginal": "Why Dutch real estate is ahead on EPBD IV",
+      "summary": "荷兰率先实施欧洲建筑能效新指令EPBD IV，推动高能效保温材料需求升级。",
+      "category": "标准政策",
+      "materials": [],
+      "applications": [],
+      "country": "NL",
+      "region": "全球",
+      "source": "EU BUILD UP",
+      "sourceUrl": "https://build-up.ec.europa.eu/en/resources-and-tools/articles/why-dutch-real-estate-ahead-epbd-iv",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-06-08",
+      "score": 78,
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "荷兰市场对高端保温材料需求增加",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 25,
+        "timeliness": 10,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注EPBD IV执行对荷兰保温材料出口机会"
+    },
+    {
+      "id": "20260608-5824ffff",
+      "title": "GCC热绝缘泡沫板市场分析、预测、趋势与洞察",
+      "titleOriginal": "GCC Thermal Insulation Sheets Foam - Market Analysis, Forecast, Size, Trends and Insights",
+      "summary": "海湾地区泡沫保温板市场分析显示增长趋势，为中国出口商提供市场情报。",
+      "category": "市场价格",
+      "materials": [
+        "泡沫保温板"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1otRHFIX2JJMzFBUXRZb1pYMzlwemxYUFFzUlIwMEU1WG10MGhZZjNOajZBRFA5NmJhdzdfeDRucEoyUG5RdmxRXzVsM285QkZ4Mzh1LWdfZVNiN21HMjJIRW9UQ2loVGxMczZGSXRuVFNad3lNY3ZGazliRWx3dnc4V1BhQ3ljaW5iYW10blI1Mmk4bGVMSTQyM2hTVXJ6WnYzbVlkcFNyN0otQURTY2wwVHVfUQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-08",
+      "score": 70,
+      "featured": false,
+      "impact": "high",
+      "impactNote": "GCC泡沫保温板市场前景好，可针对性拓展",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 10,
+        "timeliness": 10,
+        "businessValue": 12,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "利用GCC市场报告制定区域营销策略"
     },
     {
       "id": "20260608-1d33cefb",
