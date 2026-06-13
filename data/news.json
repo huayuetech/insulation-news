@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-06-13T17:52:43.164896+00:00",
+  "lastUpdated": "2026-06-13T19:59:08.649615+00:00",
   "dailyDate": "2026-06-13",
   "totalSources": 21,
   "items": [
+    {
+      "id": "20260613-bc572a66",
+      "title": "⚠️ 越南建设部 页面有更新，建议人工查看",
+      "titleOriginal": "",
+      "summary": "越南建设部英文版，QCVN 09 建筑节能规范来源。系统检测到该官方页面内容发生变化，可能有新增/修订的法规或标准，请点击原文确认。",
+      "category": "标准政策",
+      "materials": [],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "越南建设部",
+      "sourceUrl": "https://moc.gov.vn/en",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-06-13",
+      "score": 95,
+      "featured": true,
+      "impact": "high",
+      "impactNote": "官方页面更新，可能含强制法规变动，需人工核实",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 25,
+        "timeliness": 20,
+        "businessValue": 14,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "核实 越南建设部 的具体变动，评估对相关市场出口的影响",
+      "isWatchAlert": true
+    },
     {
       "id": "20260613-07b9f5c6",
       "title": "ISOVER InsulSafe SP：用于阁楼和墙壁的松散填充玻璃棉保温材料",
