@@ -24,12 +24,17 @@ _CTX.verify_mode = ssl.CERT_NONE
 
 def _fetch_text(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    html = urllib.request.urlopen(req, timeout=30, context=_CTX).read().decode("utf-8", "ignore")
+    html = urllib.request.urlopen(req, timeout=20, context=_CTX).read().decode("utf-8", "ignore")
     # 去脚本/样式/标签，得到纯可见文本
     text = re.sub(r"<(script|style)[\s\S]*?</\1>", " ", html)
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"&#?[a-z0-9]+;", " ", text)
-    text = re.sub(r"\s+", " ", text).strip()
+    # 归一化：剔除易变内容（时间戳/会话令牌/长ID），避免环境差异或页面计数器造成误报，
+    # 但保留法规编号、年份等短数字（真正的变更信号会伴随文本变化）
+    text = re.sub(r"\b\d{8,}\b", " ", text)                 # 8位以上数字串（epoch/ID）
+    text = re.sub(r"\b[0-9a-fA-F]{16,}\b", " ", text)       # 长十六进制（CSRF/session token）
+    text = re.sub(r"\b\d{1,2}:\d{2}(:\d{2})?\b", " ", text) # 时分秒
+    text = re.sub(r"\s+", " ", text).strip().lower()
     return text
 
 
@@ -52,6 +57,8 @@ def run_watchers(watch_sources, state_path, now=None):
     alerts = []
 
     for src in watch_sources:
+        if src.get("enabled") is False:
+            continue  # 地理封锁/暂禁源，跳过（保留配置以备将来用代理接入）
         name, url = src["name"], src["url"]
         try:
             text = _fetch_text(url)

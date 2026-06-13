@@ -72,6 +72,7 @@ WATCH_SOURCES = [
         "url": "https://sbc.gov.sa/En",
         "country": "SA",
         "tier": "T1",
+        "enabled": False,  # GitHub Actions 美国IP被沙特政府站防火墙拒绝(Network unreachable)，待代理
         "note": "沙特建筑规范，2024 版含保温要求",
     },
     {
@@ -79,6 +80,7 @@ WATCH_SOURCES = [
         "url": "https://www.seec.gov.sa/en/rules/saudi-building-code-thermal-insulation-guidelines",
         "country": "SA",
         "tier": "T1",
+        "enabled": False,  # 同上，沙特政府站地理封锁
         "note": "沙特节能中心，保温专页",
     },
     {
@@ -86,6 +88,7 @@ WATCH_SOURCES = [
         "url": "https://www.dcd.gov.ae",
         "country": "AE",
         "tier": "T1",
+        "enabled": False,  # 迪拜政府站对美国IP超时(firewall timeout)，待代理
         "note": "UAE Fire & Life Safety Code，覆层/NFPA 285 防火要求来源",
     },
     {
@@ -93,6 +96,7 @@ WATCH_SOURCES = [
         "url": "https://www.dcd.gov.ae/portal/en/item/1537-the-uae-safety-lab-undergoes-major-service-transformation-starting-from-2024.jsp",
         "country": "AE",
         "tier": "T1",
+        "enabled": False,  # 同 dcd.gov.ae 地理封锁
         "note": "2024 起负责 façade/覆层材料合格认证，保温材料准入风向标",
     },
     # —— 东南亚 P0 ——
