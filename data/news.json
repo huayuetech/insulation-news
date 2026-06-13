@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T13:35:09.450240+08:00",
+  "lastUpdated": "2026-06-13T09:41:11.684735+00:00",
   "dailyDate": "2026-06-13",
   "totalSources": 10,
   "items": [
@@ -167,6 +167,40 @@
       "topic": "全球建筑保温市场规模与增长预测"
     },
     {
+      "id": "20260610-5dff274c",
+      "title": "沙特建筑保温市场：能效、绿色建筑与增长展望",
+      "titleOriginal": "Saudi Arabia Building Insulation Market: Energy Efficiency, Green Construction & Growth Outlook",
+      "summary": "沙特建筑保温市场受能效和绿色建筑推动增长，为中国保温材料出口商提供新机遇。",
+      "category": "市场价格",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SA",
+      "region": "中东",
+      "source": "vocal.media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVBiSUdXRElYRTNiRUQ5Vm53QWVXNUloN1VJYlRSNHBuMS00cTROOC1NY1JMS0pTenhUUkRmMHk1d0pGNUtWRXRScmRyRUxaZVM4VE5SSzk0RjVnOXVDR0VGLVhKME1sT1d5QzNNMnA5MzBiZ3B3TlZIYUtuWVhZczVyUGVvdVN3dmFIclFMVzdPcmVueFdNVVdXTUhnb3BScF8tNjlQZS1sdVlONm95dnc2YTdLekE2RDl3djY5cDJYdw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-10",
+      "score": 81,
+      "featured": true,
+      "impact": "high",
+      "impactNote": "沙特需求旺盛，利好出口",
+      "dimensions": {
+        "relevance": 30,
+        "authority": 10,
+        "timeliness": 14,
+        "businessValue": 15,
+        "marketImpact": 12
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注沙特绿色建筑政策与市场准入"
+    },
+    {
       "id": "20260609-da744cf1",
       "title": "全球矿棉板绝缘市场分析、预测、规模、趋势与洞察",
       "titleOriginal": "World Mineral Wool Board Insulation - Market Analysis, Forecast, Size, Trends and Insights",
@@ -266,6 +300,39 @@
       "topic": "利用GCC市场报告制定区域营销策略"
     },
     {
+      "id": "20260608-7722d9f2",
+      "title": "东南亚热绝缘泡沫板市场分析、预测与趋势",
+      "titleOriginal": "South-Eastern Asia Thermal Insulation Sheets Foam - Market Analysis, Forecast, Size, Trends and Insights",
+      "summary": "东南亚泡沫保温板市场增长，但与中国主营玻璃棉/岩棉形成竞争，需注意差异。",
+      "category": "市场价格",
+      "materials": [
+        "泡沫保温板"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObjJkSmw1SmZ2R1E4M19yRXpyNmxaOWxiYUVCczVDZHFMd3k5M0VFQWFidzNqUGJ1Q0plRXoxbGd6X0o1ZGhkMk9VcVVEQTNKaXlVSVVYSnEzY1kybHdnSWlBVW42VzhOd3A2dUV0ejJzR3FjNWlWZXNWbUwzTldXaXN6cFNzdUFfdjBzQTYxVnlfaTFxbUNWSzY2OC1sSUhzLU03NzFlQktQQWZ3QW5JcFFrRmVYejlyVmstM2RxX2pxQ0dVU21zZVd3?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-08",
+      "score": 56,
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "竞争加剧，需差异化策略",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 10,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "分析东南亚保温材料竞争格局"
+    },
+    {
       "id": "20260608-1d33cefb",
       "title": "储罐保温市场中储罐占据主要份额",
       "titleOriginal": "Storage Tanks Held a Major Share of the Tank Insulation Market.",
@@ -331,6 +398,37 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "东盟保温材料市场格局，泡沫vs纤维类机会"
+    },
+    {
+      "id": "20260607-caae4682",
+      "title": "现代互联热泵有助于保障室内环境质量与热舒适",
+      "titleOriginal": "‘Modern and connected heat pumps help ensure indoor environmental quality and thermal comfort’",
+      "summary": "欧盟推广热泵技术，间接推动建筑保温需求，对中国保温材料出口有长远利好。",
+      "category": "技术观点",
+      "materials": [],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "EU BUILD UP",
+      "sourceUrl": "https://build-up.ec.europa.eu/en/news-and-events/news/interview-thomas-nowak-modern-heat-pumps-indoor-environmental-quality",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-06-07",
+      "score": 60,
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "热泵普及带动保温需求",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 25,
+        "timeliness": 10,
+        "businessValue": 5,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "结合热泵趋势推广保温材料"
     },
     {
       "id": "20260606-7cbb848d",
@@ -626,6 +724,40 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注Kingspan产业链整合动向"
+    },
+    {
+      "id": "20260525-bae2a1b0",
+      "title": "矿物棉市场规模、份额、增长分析报告2034",
+      "titleOriginal": "Mineral Wool Market Size, Share, Growth, Analysis, Report, 2034",
+      "summary": "全球矿物棉（岩棉/矿渣棉）市场持续增长，为中国出口企业带来长期市场空间。",
+      "category": "市场价格",
+      "materials": [
+        "岩棉",
+        "矿渣棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "Straits Research",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yVVpqcEFpbVJYam9BNDRfUl9TMVpoSEtVQVQ2SmNBOEVSV21ZQjQ3U0xqcUZzNmstQ1NuQ3pjc0hIMnFIOWxQQUNVQ1Z3ZVliM3hBR3R1WWlVM1RGM0ZwWlpYaVo?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-05-25",
+      "score": 73,
+      "featured": true,
+      "impact": "high",
+      "impactNote": "全球岩棉需求利好出口",
+      "dimensions": {
+        "relevance": 30,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 15,
+        "marketImpact": 12
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "研究全球矿物棉市场细分与趋势"
     },
     {
       "id": "20260525-9b05d356",

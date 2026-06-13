@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generatedAt": "2026-06-13T13:35:09.450240+08:00",
+  "generatedAt": "2026-06-13T09:41:11.684735+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -34,6 +34,28 @@
           "summary": "Kingspan新厂生产保温板、屋面系统及HVAC风管保温，增强中东本土供应能力，加剧区域竞争。",
           "country": "SA",
           "source": "Global Insulation",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "市场价格信号",
+      "icon": "market",
+      "items": [
+        {
+          "id": "20260610-5dff274c",
+          "title": "沙特建筑保温市场：能效、绿色建筑与增长展望",
+          "summary": "沙特建筑保温市场受能效和绿色建筑推动增长，为中国保温材料出口商提供新机遇。",
+          "country": "SA",
+          "source": "vocal.media",
+          "impact": "high"
+        },
+        {
+          "id": "20260525-bae2a1b0",
+          "title": "矿物棉市场规模、份额、增长分析报告2034",
+          "summary": "全球矿物棉（岩棉/矿渣棉）市场持续增长，为中国出口企业带来长期市场空间。",
+          "country": "GLOBAL",
+          "source": "Straits Research",
           "impact": "high"
         }
       ]
