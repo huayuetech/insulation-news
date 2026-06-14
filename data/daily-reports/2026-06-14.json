@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-14",
+  "generatedAt": "2026-06-14T05:13:35.300139+00:00",
+  "sections": [
+    {
+      "title": "政策法规变动",
+      "icon": "policy",
+      "items": [
+        {
+          "id": "20260614-142e24eb",
+          "title": "⚠️ SASO 技术法规 页面有更新，建议人工查看",
+          "summary": "沙特标准组织技术法规页，建材/保温强制认证变动来源（SASO 2870 能效要求）。系统检测到该官方页面内容发生变化，可能有新增/修订的法规或标准，请点击原文确认。",
+          "country": "SA",
+          "source": "SASO 技术法规",
+          "impact": "high"
+        },
+        {
+          "id": "20260614-ab12be42",
+          "title": "⚠️ 越南建设部 页面有更新，建议人工查看",
+          "summary": "越南建设部英文版，QCVN 09 建筑节能规范来源。系统检测到该官方页面内容发生变化，可能有新增/修订的法规或标准，请点击原文确认。",
+          "country": "VN",
+          "source": "越南建设部",
+          "impact": "high"
+        },
+        {
+          "id": "20260614-517044f9",
+          "title": "⚠️ GORD — GSAS（卡塔尔） 页面有更新，建议人工查看",
+          "summary": "海湾可持续评估体系 GSAS，QCS 2014 已部分强制，卡塔尔绿建/能效来源。系统检测到该官方页面内容发生变化，可能有新增/修订的法规或标准，请点击原文确认。",
+          "country": "QA",
+          "source": "GORD — GSAS（卡塔尔）",
+          "impact": "high"
+        },
+        {
+          "id": "20260613-bc572a66",
+          "title": "⚠️ 越南建设部 页面有更新，建议人工查看",
+          "summary": "越南建设部英文版，QCVN 09 建筑节能规范来源。系统检测到该官方页面内容发生变化，可能有新增/修订的法规或标准，请点击原文确认。",
+          "country": "VN",
+          "source": "越南建设部",
+          "impact": "high"
+        },
+        {
+          "id": "20260608-f584f8f2",
+          "title": "荷兰房地产在EPBD IV上领先",
+          "summary": "荷兰率先实施欧洲建筑能效新指令EPBD IV，推动高能效保温材料需求升级。",
+          "country": "NL",
+          "source": "EU BUILD UP",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "产品与材料动态",
+      "icon": "product",
+      "items": [
+        {
+          "id": "20260612-90376164",
+          "title": "Isover 棉毡保温材料：为美国住宅提供玻璃棉舒适解决方案",
+          "summary": "Isover玻璃棉产品进入美国住宅市场，预示北美需求增长，利于中国出口商跟进。",
+          "country": "US",
+          "source": "AD HOC NEWS",
+          "impact": "high"
+        },
+        {
+          "id": "20260527-24ae3cf4",
+          "title": "Kingspan在沙特达曼启用新绝热材料工厂",
+          "summary": "Kingspan新厂生产保温板、屋面系统及HVAC风管保温，增强中东本土供应能力，加剧区域竞争。",
+          "country": "SA",
+          "source": "Global Insulation",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "市场价格信号",
+      "icon": "market",
+      "items": [
+        {
+          "id": "20260610-5dff274c",
+          "title": "沙特建筑保温市场：能效、绿色建筑与增长展望",
+          "summary": "沙特建筑保温市场受益于能效政策和绿色建筑趋势，出口增长潜力大。",
+          "country": "SA",
+          "source": "vocal.media",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "工程与应用案例",
+      "icon": "project",
+      "items": [
+        {
+          "id": "20260611-a879cb73",
+          "title": "卡塔尔自由区与中国企业合作在乌姆阿尔胡尔建设保温材料工厂",
+          "summary": "中企与卡塔尔自由区合建保温材料工厂，直接利好中国出口商海外布局。",
+          "country": "QA",
+          "source": "Qatar Tribune",
+          "impact": "high"
+        }
+      ]
+    }
+  ]
+}
