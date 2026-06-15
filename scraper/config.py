@@ -79,6 +79,8 @@ WATCH_SOURCES = [
         "url": "https://www.saso.gov.sa/en/Laws-And-Regulations/Technical_regulations/Pages/default.aspx",
         "country": "SA",
         "tier": "T1",
+        "enabled": False,  # "页面有更新"提醒说不出具体变化、且反复误报(SASO一天报2次)，价值低已停用。
+                           # 待将来升级为"抽取变化内容"再启用，仅靠监测哈希无意义
         "note": "沙特标准组织技术法规页，建材/保温强制认证变动来源（SASO 2870 能效要求）",
     },
     {
