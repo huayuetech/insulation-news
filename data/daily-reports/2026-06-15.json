@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generatedAt": "2026-06-15T17:20:44.905452+08:00",
+  "generatedAt": "2026-06-15T16:06:55.195837+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -21,33 +21,11 @@
       "icon": "product",
       "items": [
         {
-          "id": "20260612-90376164",
-          "title": "Isover 棉毡保温材料：为美国住宅提供玻璃棉舒适解决方案",
-          "summary": "Isover玻璃棉产品进入美国住宅市场，预示北美需求增长，利于中国出口商跟进。",
-          "country": "US",
-          "source": "AD HOC NEWS",
-          "impact": "high"
-        },
-        {
           "id": "20260527-24ae3cf4",
           "title": "Kingspan在沙特达曼启用新绝热材料工厂",
           "summary": "Kingspan新厂生产保温板、屋面系统及HVAC风管保温，增强中东本土供应能力，加剧区域竞争。",
           "country": "SA",
           "source": "Global Insulation",
-          "impact": "high"
-        }
-      ]
-    },
-    {
-      "title": "市场价格信号",
-      "icon": "market",
-      "items": [
-        {
-          "id": "20260610-5dff274c",
-          "title": "沙特建筑保温市场：能效、绿色建筑与增长展望",
-          "summary": "沙特建筑保温市场受益于能效政策和绿色建筑趋势，出口增长潜力大。",
-          "country": "SA",
-          "source": "vocal.media",
           "impact": "high"
         }
       ]

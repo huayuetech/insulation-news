@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T17:20:44.905452+08:00",
+  "lastUpdated": "2026-06-15T16:06:55.195837+00:00",
   "dailyDate": "2026-06-15",
   "totalSources": 13,
   "items": [
@@ -669,38 +669,6 @@
       "substance": "high"
     },
     {
-      "id": "20260521-f871b76b",
-      "title": "被禁90年的建材回归：隔热性能达混凝土15倍，可封存CO₂数百年",
-      "titleOriginal": "Banned for 90 Years, This Building Material Returns With 15x Concrete’s Insulation and Centuries of CO₂ Storage",
-      "summary": "新型高隔热材料崛起可能改变保温市场格局，中国出口商需关注技术替代风险与机遇。",
-      "category": "产品与材料",
-      "materials": [],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "The Daily Galaxy",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM0pLZmVtQkQzcDJMb2lYbmRiQk1FV080UmcyLU9QVkVkd0U3LXRDa1p0a1ZsRnZ3MTZ1SGFoZU9Gc0M1SnNLLUxUY3Rzb3VNdWFKV1RnaDh2MFp2QXhNZTZJSVAzcm1sU082ZEhIV0pVN3FfNjRFcVJabXVWV1Bia0VORFdEbURGTVpEWHk0emxxbENkeGFETElaclFZVkRJdUdWWHFhX1FwbjMzWUdHSjJoQVBhcThUdmgxMUZZSHhMMHM5Q0ZOZVg0a012YmhwNEVEOERyc0swSEZZVDZIc0VxTkU?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-05-21",
-      "score": 21,
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "新型材料可能分流传统保温市场",
-      "dimensions": {
-        "relevance": 22,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 6,
-        "marketImpact": 9
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "评估新型保温材料对传统岩棉/玻璃棉的竞争",
-      "substance": "low"
-    },
-    {
       "id": "20260521-4a6a3af0",
       "title": "Rockwool A/S 股票：2026年第一季度表现坚韧，业绩指引调整凸显保温材料专业优势",
       "titleOriginal": "Rockwool A/S stock (DK0010219153): resilient Q1 2026 and guidance tweak put insulation specialist in",
@@ -733,6 +701,38 @@
       "relatedIds": [],
       "topic": "跟踪Rockwool业绩，预判岩棉国际市场走势",
       "substance": "high"
+    },
+    {
+      "id": "20260521-f871b76b",
+      "title": "被禁90年的建材回归：隔热性能达混凝土15倍，可封存CO₂数百年",
+      "titleOriginal": "Banned for 90 Years, This Building Material Returns With 15x Concrete’s Insulation and Centuries of CO₂ Storage",
+      "summary": "新型高隔热材料崛起可能改变保温市场格局，中国出口商需关注技术替代风险与机遇。",
+      "category": "产品与材料",
+      "materials": [],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "The Daily Galaxy",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM0pLZmVtQkQzcDJMb2lYbmRiQk1FV080UmcyLU9QVkVkd0U3LXRDa1p0a1ZsRnZ3MTZ1SGFoZU9Gc0M1SnNLLUxUY3Rzb3VNdWFKV1RnaDh2MFp2QXhNZTZJSVAzcm1sU082ZEhIV0pVN3FfNjRFcVJabXVWV1Bia0VORFdEbURGTVpEWHk0emxxbENkeGFETElaclFZVkRJdUdWWHFhX1FwbjMzWUdHSjJoQVBhcThUdmgxMUZZSHhMMHM5Q0ZOZVg0a012YmhwNEVEOERyc0swSEZZVDZIc0VxTkU?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-05-21",
+      "score": 21,
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "新型材料可能分流传统保温市场",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 6,
+        "marketImpact": 9
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "评估新型保温材料对传统岩棉/玻璃棉的竞争",
+      "substance": "low"
     },
     {
       "id": "20260521-b0593c1a",
