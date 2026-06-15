@@ -54,6 +54,20 @@ RSS_SOURCES = [
         "sourceType": "法规追踪",
         "trusted": False,      # 泛 EHS 内容，需关键词预筛过滤非保温/非建筑
     },
+    {
+        "name": "Thailand DEDE BEC",
+        "url": "https://bec.dede.go.th/feed/",
+        "tier": "T1",          # 泰国官方 Building Energy Code 站点 RSS
+        "sourceType": "官方源",
+        "trusted": True,       # 专站内容集中在建筑节能规范/BEC 推进，跳过英文关键词预筛
+    },
+    {
+        "name": "SEDA Malaysia",
+        "url": "https://www.seda.gov.my/feed/",
+        "tier": "T1",
+        "sourceType": "官方源",
+        "trusted": False,      # SEDA RSS 很泛（招标/招聘/可再生能源），仍需关键词预筛
+    },
 ]
 
 # 网页变化哨兵（T1 政府/标准源，无 RSS、页面结构乱，只监测"是否更新"不解析内容）
@@ -105,6 +119,7 @@ WATCH_SOURCES = [
         "url": "https://moc.gov.vn/en",
         "country": "VN",
         "tier": "T1",
+        "enabled": False,  # 首页哈希变动没有实际内容价值；待定制 HTML 新闻列表解析
         "note": "越南建设部英文版，QCVN 09 建筑节能规范来源",
     },
     {
@@ -112,6 +127,7 @@ WATCH_SOURCES = [
         "url": "https://bec.dede.go.th/",
         "country": "TH",
         "tier": "T1",
+        "enabled": False,  # 已改用 https://bec.dede.go.th/feed/ 进入内容抓取管线
         "note": "泰国能源部 BEC，2023 生效、2025 起强制，含围护结构 OTTV/RTTV 保温要求",
     },
     {
@@ -119,6 +135,7 @@ WATCH_SOURCES = [
         "url": "https://www.seda.gov.my/",
         "country": "MY",
         "tier": "T1",
+        "enabled": False,  # 已改用 https://www.seda.gov.my/feed/，避免只报首页变化
         "note": "马来 MS 1525:2019 能效标准，规定屋面 U 值上限，GBI 强制引用",
     },
     {
@@ -126,6 +143,7 @@ WATCH_SOURCES = [
         "url": "https://www.gord.qa/",
         "country": "QA",
         "tier": "T1.5",
+        "enabled": False,  # 官网首页变化无法产出可读资讯；待找到新闻/RSS/API 后再接入
         "note": "海湾可持续评估体系 GSAS，QCS 2014 已部分强制，卡塔尔绿建/能效来源",
     },
     {
@@ -133,6 +151,7 @@ WATCH_SOURCES = [
         "url": "https://www.gbcindonesia.org/",
         "country": "ID",
         "tier": "T1.5",
+        "enabled": False,  # 新闻列表为动态接口，需单独解析，首页哈希报警价值低
         "note": "印尼绿建委 Greenship 评级，英文可及，补 BSN SNI（印尼语）的不足",
     },
 ]
@@ -152,6 +171,8 @@ RELEVANCE_KEYWORDS = [
     "aerogel", "thermal", "cladding", "fireproof", "fire safety", "fire-rated",
     "energy efficiency", "energy code", "epbd", "hvac", "façade", "facade",
     "PIR", "polyiso", "polyurethane", "EPS", "XPS", "foam board",
+    "building energy code", "bec", "ms 1525", "green building", "greenship",
+    "building envelope", "u-value", "ottv", "rttv", "qcvn 09",
 ]
 
 # 单次运行处理条数上限（控制 AI 成本与运行时间）

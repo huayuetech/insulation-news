@@ -162,7 +162,7 @@ def prefilter(raw, existing_urls, existing_titles):
 
 # ---------- AI 处理 ----------
 AI_PROMPT = """你是建筑保温材料行业的资讯分析师，服务于一家中国保温材料出口企业（主营玻璃棉、岩棉等，面向全球B2B市场）。
-对下面每条英文资讯输出 JSON 对象，所有条目组成 JSON 数组，不要输出任何其他文字。
+对下面每条外文资讯输出 JSON 对象，所有条目组成 JSON 数组，不要输出任何其他文字。
 
 每个对象的字段：
 - idx: 条目序号（与输入一致）
@@ -360,9 +360,10 @@ def main():
     print("=== 第4.5步 网页变化哨兵 ===")
     watch_alerts = []
     watch_sources = getattr(config, "WATCH_SOURCES", [])
-    if watch_sources:
+    enabled_watch_sources = [s for s in watch_sources if s.get("enabled") is not False]
+    if enabled_watch_sources:
         from watcher import run_watchers
-        watch_alerts = run_watchers(watch_sources, os.path.join(DATA_DIR, "watch-state.json"), now=NOW)
+        watch_alerts = run_watchers(enabled_watch_sources, os.path.join(DATA_DIR, "watch-state.json"), now=NOW)
         for a in watch_alerts:
             a["region"] = code2region.get(a["country"], "全球")
         # 哨兵仅在页面哈希变化时产出，天然不重复（无需再按 url 去重，
@@ -377,7 +378,7 @@ def main():
     news = {
         "lastUpdated": NOW.astimezone().isoformat(),
         "dailyDate": NOW.strftime("%Y-%m-%d"),
-        "totalSources": len(config.RSS_SOURCES) + len(config.GOOGLE_NEWS_QUERIES) + len(watch_sources),
+        "totalSources": len(config.RSS_SOURCES) + len(config.GOOGLE_NEWS_QUERIES) + len(enabled_watch_sources),
         "items": merged,
     }
     with open(news_path, "w", encoding="utf-8") as f:
