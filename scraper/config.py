@@ -177,6 +177,25 @@ RELEVANCE_KEYWORDS = [
     "building envelope", "u-value", "ottv", "rttv", "qcvn 09",
 ]
 
+# 屏蔽：付费市场研究报告软文（"市场规模/预测/趋势"模板化内容，信息价值低）
+# 按来源名屏蔽（不区分大小写，子串匹配）
+BLOCKED_SOURCES = [
+    "indexbox", "market.us", "marketsandmarkets", "mordor intelligence",
+    "grand view research", "straits research", "fortune business insights",
+    "research and markets", "globe newswire", "openpr", "einpresswire",
+    "future market insights", "precedence research",
+    "cognitive market research", "polaris market research", "imarc",
+    "data bridge", "verified market", "persistence market", "fact.mr",
+]
+# 按标题模板屏蔽（命中即丢弃，针对"World X - Market Analysis, Forecast, Size, Trends"类）
+BLOCKED_TITLE_PATTERNS = [
+    "market analysis, forecast, size",
+    "market size, share, growth",
+    "market size, share & trends",
+    "market to grow", "market worth", "market forecast to 20",
+    "cagr", "billion by 20",
+]
+
 # 单次运行处理条数上限（控制 AI 成本与运行时间）
 MAX_ITEMS_PER_RUN = 60
 # 每批送 AI 处理的条数

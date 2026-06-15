@@ -123,6 +123,16 @@ def fetch_all():
     return raw
 
 # ---------- 预筛与去重 ----------
+def is_blocked(item):
+    """付费市场研究报告软文屏蔽：按来源名或标题模板命中即丢弃。"""
+    src = (item.get("source") or "").lower()
+    if any(b in src for b in config.BLOCKED_SOURCES):
+        return True
+    title = (item.get("titleOriginal") or "").lower()
+    if any(p in title for p in config.BLOCKED_TITLE_PATTERNS):
+        return True
+    return False
+
 def keyword_relevant(item):
     text = (item["titleOriginal"] + " " + item["summaryOriginal"]).lower()
     return any(k.lower() in text for k in config.RELEVANCE_KEYWORDS)
@@ -147,6 +157,8 @@ def prefilter(raw, existing_urls, existing_titles):
             continue
         nt = norm_title(it["titleOriginal"])
         if nt in seen_norm or nt in existing_titles:
+            continue
+        if is_blocked(it):           # 付费报告软文，直接丢弃（即便 trusted 源也屏蔽）
             continue
         if not it["_trusted"] and not keyword_relevant(it):
             continue
