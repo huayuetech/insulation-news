@@ -190,6 +190,10 @@ AI_PROMPT = """你是建筑保温材料行业的资讯分析师，服务于一�
 - relevance: 行业相关度 0-30 整数
 - businessValue: 业务价值 0-15 整数（政策强制变化、大额采购信号给高分）
 - marketImpact: 市场影响力 0-12 整数
+- substance: 内容实质性，从 "high"/"medium"/"low" 选一（这是判断"有没有真实新闻价值"，与"是否相关"无关，务必严格）：
+  · high = 真实新闻事件：政策/标准变更、具体项目/订单/合资/收购、含具体参数或日期的新品发布、含真实数字的市场数据
+  · medium = 有实质的行业动态或分析，含部分新信息或**真实数据**（如含真实统计数字的市场分析）
+  · low = 没有真实新闻价值的内容，必须判 low：营销软文/产品推广、AI生成或SEO常青科普（"什么是X"、安装指南、产品好处罗列）、PR通稿、无新意的转述拼凑、**不含真实数据的泛泛市场展望/预测**（如"某国市场预计增长"但无具体数字）；出现"created with AI"、"not investment advice"等字样的基本都是 low
 
 输入条目：
 {items}"""
@@ -276,7 +280,10 @@ def assemble(items, ai_results, code2region):
         mkt = max(0, min(12, int(ai.get("marketImpact", 5))))
         auth = config.TIER_AUTHORITY.get(it["sourceTier"], 10)
         tim = timeliness_score(it["date"])
-        score = rel + bus + mkt + auth + tim
+        raw = rel + bus + mkt + auth + tim
+        substance = ai.get("substance") if ai.get("substance") in config.SUBSTANCE_MULTIPLIER else "medium"
+        score = round(raw * config.SUBSTANCE_MULTIPLIER[substance])
+        featured = score >= config.FEATURED_THRESHOLD and substance not in config.SUBSTANCE_FEATURED_BLOCK
         country = (ai.get("country") or "GLOBAL").upper()
         uid = hashlib.md5(it["sourceUrl"].encode()).hexdigest()[:8]
         out.append({
@@ -295,7 +302,8 @@ def assemble(items, ai_results, code2region):
             "sourceType": it["sourceType"],
             "date": it["date"],
             "score": score,
-            "featured": score >= config.FEATURED_THRESHOLD,
+            "substance": substance,
+            "featured": featured,
             "impact": ai.get("impact") if ai.get("impact") in ("high", "medium", "low") else "low",
             "impactNote": ai.get("impactNote", ""),
             "dimensions": {"relevance": rel, "authority": auth, "timeliness": tim,

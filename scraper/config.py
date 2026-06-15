@@ -209,6 +209,12 @@ TIER_AUTHORITY = {"T1": 25, "T1.5": 22, "T2": 16, "T3": 10}
 # 精选阈值（recall 优先，宁松勿紧）
 FEATURED_THRESHOLD = 72
 
+# 实质性系数：AI 判内容类型，代码乘罚分。解决"软文/科普最切题却最没价值"的漏洞。
+# high=真实新闻事件 / medium=有实质或含真实数据 / low=营销软文/科普/无数据市场展望
+SUBSTANCE_MULTIPLIER = {"high": 1.0, "medium": 0.85, "low": 0.4}
+# low 实质性永不进精选（硬门槛，即便原始分很高）
+SUBSTANCE_FEATURED_BLOCK = ("low",)
+
 CATEGORIES = ["标准政策", "产品与材料", "市场价格", "工程应用", "企业展会", "技术观点"]
 
 # 日报版块 ↔ 分类映射

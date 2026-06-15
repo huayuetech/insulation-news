@@ -20,7 +20,7 @@
       "sourceTier": "T3",
       "sourceType": "市场观察",
       "date": "2026-06-13",
-      "score": 69,
+      "score": 28,
       "featured": false,
       "impact": "medium",
       "impactNote": "新品类或拓宽海外客户选择",
@@ -34,7 +34,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "关注ISOVER松散填充玻璃棉的技术特点与市场应用"
+      "topic": "关注ISOVER松散填充玻璃棉的技术特点与市场应用",
+      "substance": "low"
     },
     {
       "id": "20260612-90376164",
@@ -53,8 +54,8 @@
       "sourceTier": "T3",
       "sourceType": "市场观察",
       "date": "2026-06-12",
-      "score": 78,
-      "featured": true,
+      "score": 31,
+      "featured": false,
       "impact": "high",
       "impactNote": "美国住宅保温市场空间大，对标产品机会",
       "dimensions": {
@@ -67,7 +68,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "Isover美国住宅玻璃棉产品动态及本地化策略"
+      "topic": "Isover美国住宅玻璃棉产品动态及本地化策略",
+      "substance": "low"
     },
     {
       "id": "20260612-8c2e551e",
@@ -86,7 +88,7 @@
       "sourceTier": "T3",
       "sourceType": "市场观察",
       "date": "2026-06-12",
-      "score": 64,
+      "score": 26,
       "featured": false,
       "impact": "medium",
       "impactNote": "关注龙头财报可预判价格趋势",
@@ -100,7 +102,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "追踪Rockwool估值变化，研判行业周期"
+      "topic": "追踪Rockwool估值变化，研判行业周期",
+      "substance": "low"
     },
     {
       "id": "20260611-a879cb73",
@@ -133,7 +136,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "卡塔尔保温材料本地化生产对中国出口的影响"
+      "topic": "卡塔尔保温材料本地化生产对中国出口的影响",
+      "substance": "high"
     },
     {
       "id": "20260610-5dff274c",
@@ -153,8 +157,8 @@
       "sourceTier": "T3",
       "sourceType": "市场观察",
       "date": "2026-06-10",
-      "score": 74,
-      "featured": true,
+      "score": 30,
+      "featured": false,
       "impact": "high",
       "impactNote": "沙特市场高需求，利好中国出口",
       "dimensions": {
@@ -167,7 +171,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "分析沙特保温市场趋势，制定区域营销策略"
+      "topic": "分析沙特保温市场趋势，制定区域营销策略",
+      "substance": "low"
     },
     {
       "id": "20260609-4709c4dd",
@@ -198,7 +203,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "跟踪迪拜大型社区项目保温材料招标信息"
+      "topic": "跟踪迪拜大型社区项目保温材料招标信息",
+      "substance": "high"
     },
     {
       "id": "20260608-f584f8f2",
@@ -229,7 +235,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "关注EPBD IV执行对荷兰保温材料出口机会"
+      "topic": "关注EPBD IV执行对荷兰保温材料出口机会",
+      "substance": "high"
     },
     {
       "id": "20260607-caae4682",
@@ -246,7 +253,7 @@
       "sourceTier": "T1",
       "sourceType": "官方源",
       "date": "2026-06-07",
-      "score": 56,
+      "score": 22,
       "featured": false,
       "impact": "low",
       "impactNote": "间接关联，可作技术趋势参考",
@@ -260,7 +267,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "关注热泵与保温系统集成方案"
+      "topic": "关注热泵与保温系统集成方案",
+      "substance": "low"
     },
     {
       "id": "20260606-73b2adf3",
@@ -279,7 +287,7 @@
       "sourceTier": "T3",
       "sourceType": "市场观察",
       "date": "2026-06-06",
-      "score": 57,
+      "score": 23,
       "featured": false,
       "impact": "medium",
       "impactNote": "美国住宅保温市场动态参考",
@@ -293,7 +301,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "美国住宅保温材料消费者认知趋势"
+      "topic": "美国住宅保温材料消费者认知趋势",
+      "substance": "low"
     },
     {
       "id": "20260603-88b4333d",
@@ -326,7 +335,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "罗马尼亚保温板扩产对中国出口的潜在竞争"
+      "topic": "罗马尼亚保温板扩产对中国出口的潜在竞争",
+      "substance": "high"
     },
     {
       "id": "20260602-16b8144a",
@@ -357,7 +367,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "关注英国保温材料防火法规更新及出口认证变化"
+      "topic": "关注英国保温材料防火法规更新及出口认证变化",
+      "substance": "high"
     },
     {
       "id": "20260602-b64fd675",
@@ -390,7 +401,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "欧洲加气混凝土行业并购动态"
+      "topic": "欧洲加气混凝土行业并购动态",
+      "substance": "high"
     },
     {
       "id": "20260528-3a6bcef4",
@@ -409,7 +421,7 @@
       "sourceTier": "T2",
       "sourceType": "行业媒体",
       "date": "2026-05-28",
-      "score": 39,
+      "score": 16,
       "featured": false,
       "impact": "low",
       "impactNote": "",
@@ -423,7 +435,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "可借鉴其北美市场技术营销策略"
+      "topic": "可借鉴其北美市场技术营销策略",
+      "substance": "low"
     },
     {
       "id": "20260527-24ae3cf4",
@@ -456,7 +469,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "分析Kingspan中东布局对中国出口商的竞争影响"
+      "topic": "分析Kingspan中东布局对中国出口商的竞争影响",
+      "substance": "high"
     },
     {
       "id": "20260527-157ad12d",
@@ -487,7 +501,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "关注Kingspan产业链整合动向"
+      "topic": "关注Kingspan产业链整合动向",
+      "substance": "high"
     },
     {
       "id": "20260525-40ede554",
@@ -504,7 +519,7 @@
       "sourceTier": "T2",
       "sourceType": "行业媒体",
       "date": "2026-05-25",
-      "score": 39,
+      "score": 16,
       "featured": false,
       "impact": "low",
       "impactNote": "间接影响，仅作行业背景",
@@ -518,7 +533,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "了解阿联酋HVAC行业对保温材料的配套要求"
+      "topic": "了解阿联酋HVAC行业对保温材料的配套要求",
+      "substance": "low"
     },
     {
       "id": "20260524-60f5a2dd",
@@ -537,7 +553,7 @@
       "sourceTier": "T3",
       "sourceType": "市场观察",
       "date": "2026-05-24",
-      "score": 31,
+      "score": 12,
       "featured": false,
       "impact": "low",
       "impactNote": "",
@@ -551,7 +567,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "研究Isover美国项目案例以优化出口产品方案"
+      "topic": "研究Isover美国项目案例以优化出口产品方案",
+      "substance": "low"
     },
     {
       "id": "20260522-b6528261",
@@ -584,7 +601,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "研究循环经济对保温材料行业的影响"
+      "topic": "研究循环经济对保温材料行业的影响",
+      "substance": "high"
     },
     {
       "id": "20260522-a115a2d3",
@@ -615,7 +633,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "追踪Kingspan股价与产能扩张联动，预判市场走向"
+      "topic": "追踪Kingspan股价与产能扩张联动，预判市场走向",
+      "substance": "high"
     },
     {
       "id": "20260521-140573a0",
@@ -646,7 +665,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "关注菲律宾能效认证对保温材料出口的带动效应"
+      "topic": "关注菲律宾能效认证对保温材料出口的带动效应",
+      "substance": "high"
     },
     {
       "id": "20260521-f871b76b",
@@ -663,7 +683,7 @@
       "sourceTier": "T3",
       "sourceType": "市场观察",
       "date": "2026-05-21",
-      "score": 53,
+      "score": 21,
       "featured": false,
       "impact": "medium",
       "impactNote": "新型材料可能分流传统保温市场",
@@ -677,7 +697,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "评估新型保温材料对传统岩棉/玻璃棉的竞争"
+      "topic": "评估新型保温材料对传统岩棉/玻璃棉的竞争",
+      "substance": "low"
     },
     {
       "id": "20260521-4a6a3af0",
@@ -710,7 +731,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "跟踪Rockwool业绩，预判岩棉国际市场走势"
+      "topic": "跟踪Rockwool业绩，预判岩棉国际市场走势",
+      "substance": "high"
     },
     {
       "id": "20260521-b0593c1a",
@@ -729,7 +751,7 @@
       "sourceTier": "T3",
       "sourceType": "市场观察",
       "date": "2026-05-21",
-      "score": 27,
+      "score": 11,
       "featured": false,
       "impact": "low",
       "impactNote": "",
@@ -743,7 +765,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "参考该内容制作中文版技术白皮书用于客户沟通"
+      "topic": "参考该内容制作中文版技术白皮书用于客户沟通",
+      "substance": "low"
     },
     {
       "id": "20260518-66a60489",
@@ -774,7 +797,8 @@
       "eventCluster": null,
       "isMainEvent": true,
       "relatedIds": [],
-      "topic": "分析迪拜净零能耗建筑保温技术方案"
+      "topic": "分析迪拜净零能耗建筑保温技术方案",
+      "substance": "high"
     }
   ]
 }
