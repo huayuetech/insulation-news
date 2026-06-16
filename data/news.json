@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-06-15T16:06:55.195837+00:00",
-  "dailyDate": "2026-06-15",
+  "lastUpdated": "2026-06-16T00:06:30.305594+00:00",
+  "dailyDate": "2026-06-16",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260615-ec70dc7f",
+      "title": "帝人富瑞特将扩大松山工厂OCTAIR™保温纤维产能",
+      "titleOriginal": "Teijin Frontier To Expand Production Capacity For OCTAIR™ Insulation Fiber At Matsuyama Plant",
+      "summary": "日本帝人扩大化纤保温材料产能，可能影响全球保温材料竞争格局，对中国玻璃棉/岩棉出口构成替代威胁。",
+      "category": "产品与材料",
+      "materials": [
+        "保温纤维"
+      ],
+      "applications": [],
+      "country": "JP",
+      "region": "东亚",
+      "source": "Textile World",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR2xUM2RQZzNEZjVLc3BjLVJfbmVGV0NpeEhSQktFcDBLODI2VTJPUWZEekZaTzBqT0Vvc29RcnJQVmFOLU9MeF9WcnBGUVgzdVpKMnJhaFJoeGZlU0R4QlNYVkp1bjRkeUdZaXM1RTFaVmlvU0JmLTNyZGdXSGtYeHVFMFYyNEtLQW1NNkVZYktpUXZEOU82cDlrbkRSeF9seExJNlNVdWZyVXlLd2ctdC12WWxOcTJWbGRxbUhxVDZfRE1KTUljYU9jQnR6XzVkMENlZjdzdFYwVEZ1cnpvVC1RYXdUZUJEckxkTQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-15",
+      "score": 64,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "替代性保温材料产能扩张，需关注竞争态势。",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注OCTAIR纤维对传统保温材料的替代趋势"
+    },
     {
       "id": "20260613-07b9f5c6",
       "title": "ISOVER InsulSafe SP：用于阁楼和墙壁的松散填充玻璃棉保温材料",
