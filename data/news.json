@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-06-16T23:52:23.891096+00:00",
-  "dailyDate": "2026-06-16",
+  "lastUpdated": "2026-06-17T14:06:05.357418+00:00",
+  "dailyDate": "2026-06-17",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260617-1f165c21",
+      "title": "帝人前沿宣布扩大绝缘纤维产能",
+      "titleOriginal": "Teijin Frontier Announces Expansion of Insulation Fiber Production Capacity",
+      "summary": "日本帝人前沿宣布扩大绝缘纤维产能，虽非玻璃棉/岩棉直接竞品，但可能影响全球保温材料市场竞争格局。",
+      "category": "产品与材料",
+      "materials": [
+        "绝热纤维"
+      ],
+      "applications": [],
+      "country": "JP",
+      "region": "东亚",
+      "source": "ChemAnalyst",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMzctRlBxbFZSNW1MUE9zam55US00SThSRzlqWVM2YmNMNk9ZRTNnejdZbmZ0UDI0azRoOExkRlc0NzVkSVVqTG03UlZFWmxQQzZDeVlON25GNkJoWklPZ29HTVU2ZXBXZkxNeUNCdmVxZHlzWEhlRzI1clhWOFZpaVVudlE5XzE1eFpFMjJIZlB2NFdMQkthUnlocHlhWFdVQS1wQjZXTnV5VGdUd2hnZ0p0VWtaUk5CRTE5ZFFBV2Z1Z00?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-17",
+      "score": 66,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "日本竞争对手扩产，或加剧竞争",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注帝人前沿的产能扩张对市场的影响"
+    },
     {
       "id": "20260615-ec70dc7f",
       "title": "帝人富瑞特将扩大松山工厂OCTAIR™保温纤维产能",
