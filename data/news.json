@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-17T23:53:57.712258+00:00",
-  "dailyDate": "2026-06-17",
+  "lastUpdated": "2026-06-18T13:44:43.277138+00:00",
+  "dailyDate": "2026-06-18",
   "totalSources": 13,
   "items": [
     {
@@ -835,38 +835,6 @@
       "relatedIds": [],
       "topic": "参考该内容制作中文版技术白皮书用于客户沟通",
       "substance": "low"
-    },
-    {
-      "id": "20260518-66a60489",
-      "title": "Al Shera'a：迪拜全球最智能净正能量政府大楼",
-      "titleOriginal": "Al Shera’a, The World’s Smartest Net-Positive Government Building, Dubai",
-      "summary": "迪拜智能净零能耗建筑示范项目，保温材料是实现能效的关键。",
-      "category": "工程应用",
-      "materials": [],
-      "applications": [],
-      "country": "AE",
-      "region": "中东",
-      "source": "MEP Middle East",
-      "sourceUrl": "https://www.mepmiddleeast.com/news/al-sheraa-the-worlds-smartest-net-positive-government-building-dubai",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-05-18",
-      "score": 57,
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "零能耗建筑提升高品质保温需求",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 6,
-        "businessValue": 7,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "分析迪拜净零能耗建筑保温技术方案",
-      "substance": "high"
     }
   ]
 }

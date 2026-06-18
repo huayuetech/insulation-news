@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-18",
+  "generatedAt": "2026-06-18T13:44:43.277138+00:00",
+  "sections": [
+    {
+      "title": "政策法规变动",
+      "icon": "policy",
+      "items": [
+        {
+          "id": "20260608-f584f8f2",
+          "title": "荷兰房地产在EPBD IV上领先",
+          "summary": "荷兰率先实施欧洲建筑能效新指令EPBD IV，推动高能效保温材料需求升级。",
+          "country": "NL",
+          "source": "EU BUILD UP",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "产品与材料动态",
+      "icon": "product",
+      "items": [
+        {
+          "id": "20260527-24ae3cf4",
+          "title": "Kingspan在沙特达曼启用新绝热材料工厂",
+          "summary": "Kingspan新厂生产保温板、屋面系统及HVAC风管保温，增强中东本土供应能力，加剧区域竞争。",
+          "country": "SA",
+          "source": "Global Insulation",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "工程与应用案例",
+      "icon": "project",
+      "items": [
+        {
+          "id": "20260611-a879cb73",
+          "title": "卡塔尔自由区与中国企业合作在乌姆阿尔胡尔建设保温材料工厂",
+          "summary": "中企与卡塔尔自由区合建保温材料工厂，直接利好中国出口商海外布局。",
+          "country": "QA",
+          "source": "Qatar Tribune",
+          "impact": "high"
+        }
+      ]
+    }
+  ]
+}
