@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-06-18T13:44:43.277138+00:00",
-  "dailyDate": "2026-06-18",
+  "lastUpdated": "2026-06-19T00:02:13.243885+00:00",
+  "dailyDate": "2026-06-19",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260618-b138ec82",
+      "title": "现代能源法规隐藏的危险",
+      "titleOriginal": "Inside Outside Guys: The hidden danger of modern energy codes",
+      "summary": "专栏文章探讨现代建筑能效规范可能引发的密闭性过强、通风不足等问题，提醒业界关注保温与气密平衡。",
+      "category": "技术观点",
+      "materials": [
+        "保温材料"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "The Detroit News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObVVTak5LanA3b1lRRXlpcXQ0dC1udWJia2dpYWhFM2tnc015N3VmaGZ1clY3dS1XWEFUQzlIeUVqUjAzcDJrZVNoWDFPNmYxeDJvNmRQN1BLZDJNbTBtUXprZ3cyZlR0bURFaXBkN3hCbHF5T2x0TlFpWDlZdDZVcWdIQTBGTkRCUHdrVmtOSzlQRXRRSU9IS3JqU3B0Q19oS3huS0VsWGFGNmpIdnZqYVczMl9hQ2h0aWpXRTVqSG1aUzFBSUVtdmt6V0JNYkRyakRfdGFR?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-18",
+      "score": 17,
+      "substance": "low",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 10,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 3,
+        "marketImpact": 2
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "能源法规对保温施工的影响讨论"
+    },
     {
       "id": "20260617-1f165c21",
       "title": "帝人前沿宣布扩大绝缘纤维产能",
