@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T13:52:20.904609+00:00",
+  "lastUpdated": "2026-06-19T23:32:51.569613+00:00",
   "dailyDate": "2026-06-19",
   "totalSources": 13,
   "items": [
@@ -505,6 +505,38 @@
       "relatedIds": [],
       "topic": "美国住宅保温材料消费者认知趋势",
       "substance": "low"
+    },
+    {
+      "id": "20260605-ed75219b",
+      "title": "Jayasom在沙特Amaala推出旗舰健康度假村",
+      "titleOriginal": "Jayasom To Launch Flagship Wellness Resort At Amaala",
+      "summary": "沙特Amaala大型旅游项目启动健康度假村建设，为保温材料出口商带来工程采购机会。",
+      "category": "工程应用",
+      "materials": [],
+      "applications": [],
+      "country": "SA",
+      "region": "中东",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/news/jayasom-to-launch-flagship-wellness-resort-at-amaala",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-06-05",
+      "score": 60,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "沙特重点开发项目，保温材料潜在需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 6,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪Amaala项目保温材料招标信息"
     },
     {
       "id": "20260603-e92e06ab",
