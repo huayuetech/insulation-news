@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-06-19T23:32:51.569613+00:00",
-  "dailyDate": "2026-06-19",
+  "lastUpdated": "2026-06-20T12:13:03.816978+00:00",
+  "dailyDate": "2026-06-20",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260620-0809dd24",
+      "title": "洛科威股票长期策略与保温需求分析",
+      "titleOriginal": "Rockwool Stock - long-term strategy and insulation demand",
+      "summary": "分析洛科威长期策略与绝缘材料需求，但缺乏具体数据，对出口商参考价值有限。",
+      "category": "技术观点",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "AD HOC NEWS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2ZRaHRvbXY1UEFsSmZUV1FCWXZXdzM4N0N5d0pkV1dPSUFpdVh5bGttb0VVY0hXUmhGZm1SbC1pUXgxa1hpRzQzNmVOdTV1OUtVTVQzbnYwNUExYXJXYmVPV1MxbFpLOXNMSFhHTHZ3bE9YdFJoUW96UXNEOXU3NVM4Skl6bmlHYXh6QkxSVElnRUJqejlTSFdHbVZSZEVYODE2dXNYaEJQdVRTWGJtek9sYjU?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-20",
+      "score": 18,
+      "substance": "low",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "泛泛分析，无直接行动信号",
+      "dimensions": {
+        "relevance": 10,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 2,
+        "marketImpact": 3
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注洛科威市场动态与竞争格局"
+    },
     {
       "id": "20260619-97d52258",
       "title": "Rockwool俄罗斯在国资管理下推进价值1.19亿欧元的工厂升级计划",
