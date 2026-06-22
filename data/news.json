@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-06-21T23:48:58.121793+00:00",
-  "dailyDate": "2026-06-21",
+  "lastUpdated": "2026-06-22T15:34:34.743775+00:00",
+  "dailyDate": "2026-06-22",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260622-2b8693bb",
+      "title": "豪瑞完成18.5亿欧元收购Xella，扩大建筑解决方案组合",
+      "titleOriginal": "Holcim completes acquisition of Xella",
+      "summary": "瑞士水泥巨头豪瑞收购欧洲建材商Xella，预计2026年净销售额达10亿欧元，协同效应6000万欧元。",
+      "category": "企业展会",
+      "materials": [],
+      "applications": [],
+      "country": "DE",
+      "region": "欧洲",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2214-holcim-completes-acquisition-of-xella",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-06-22",
+      "score": 66,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "行业整合可能影响欧洲保温材料供应链格局",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注收购后Xella保温产品线调整与市场策略"
+    },
     {
       "id": "20260620-0809dd24",
       "title": "洛科威股票长期策略与保温需求分析",
@@ -872,72 +904,6 @@
       "relatedIds": [],
       "topic": "研究Isover美国项目案例以优化出口产品方案",
       "substance": "low"
-    },
-    {
-      "id": "20260522-b6528261",
-      "title": "Holcim阿联酋推出ECOCycle®闭环循环建材",
-      "titleOriginal": "Closing the Loop, Holcim UAE Launches ECOCycle®",
-      "summary": "Holcim推出循环建筑产品，推动再生材料在建筑中的应用。",
-      "category": "产品与材料",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "AE",
-      "region": "中东",
-      "source": "MEP Middle East",
-      "sourceUrl": "https://www.mepmiddleeast.com/news/closing-the-loop-holcim-uae-launches-ecocycle",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-05-22",
-      "score": 48,
-      "featured": false,
-      "impact": "low",
-      "impactNote": "循环理念可借鉴，但直接竞争有限",
-      "dimensions": {
-        "relevance": 15,
-        "authority": 16,
-        "timeliness": 6,
-        "businessValue": 5,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "研究循环经济对保温材料行业的影响",
-      "substance": "high"
-    },
-    {
-      "id": "20260522-a115a2d3",
-      "title": "Kingspan集团股票（IE0004927939）：沙特新工厂扩大全球版图",
-      "titleOriginal": "Kingspan Group stock (IE0004927939): insulation specialist expands global footprint with new Saudi p",
-      "summary": "Kingspan股票因沙特新厂投产受关注，反映其在海湾地区扩张战略，对华出口商构成竞争压力。",
-      "category": "企业展会",
-      "materials": [],
-      "applications": [],
-      "country": "SA",
-      "region": "中东",
-      "source": "AD HOC NEWS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON1NNUlVDQ3ZBZGpVR21leEhXc0t4T1hIZHJIbFBkRE1kTGh5dnE2ckJMOWtIN3VJSkRJeDMwcjFESFhIZVc2Y28tNjNYU08yaXBKajlvWjVhMzREaHgtb01LTk8wWkU5d3RBTVZ4YlRXWC1fb2hLSmdMZ0c0Q3NrY0NBcGxBYU1HeVQtbWRoVlpwd1AzU1hoWkxWdUdiTGQ0WjVRUEdjOXB4UVZsUkhkRTlvSDZlVk94RUVPVWJFRVN6bS1XWmt6Rw?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-05-22",
-      "score": 47,
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "资本市场认可其全球布局，需关注竞争动态",
-      "dimensions": {
-        "relevance": 18,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 6,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "追踪Kingspan股价与产能扩张联动，预判市场走向",
-      "substance": "high"
     }
   ]
 }
