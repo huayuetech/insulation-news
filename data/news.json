@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-22T23:47:03.077779+00:00",
-  "dailyDate": "2026-06-22",
+  "lastUpdated": "2026-06-23T13:18:58.411546+00:00",
+  "dailyDate": "2026-06-23",
   "totalSources": 13,
   "items": [
     {
@@ -168,6 +168,38 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "EU能效数据协调对保温出口的潜在影响"
+    },
+    {
+      "id": "20260618-35c10410",
+      "title": "热泵与新型热能存储系统集成：建筑能源灵活性的推动者",
+      "titleOriginal": "Heat pump integration with novel thermal energy storage systems as an enabler of building energy flexibility",
+      "summary": "欧盟探讨热泵与热能存储结合提升建筑能效，可能间接影响保温材料在储能系统中的应用需求。",
+      "category": "技术观点",
+      "materials": [],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "EU BUILD UP",
+      "sourceUrl": "https://build-up.ec.europa.eu/en/resources-and-tools/articles/heat-pump-integration-novel-thermal-energy-storage-systems-enabler",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-06-18",
+      "score": 19,
+      "substance": "low",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "间接关联，无直接出口影响",
+      "dimensions": {
+        "relevance": 8,
+        "authority": 25,
+        "timeliness": 10,
+        "businessValue": 2,
+        "marketImpact": 3
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注欧盟建筑能源灵活性技术趋势"
     },
     {
       "id": "20260618-b138ec82",
