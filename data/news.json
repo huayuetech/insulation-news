@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T12:31:14.724225+00:00",
+  "lastUpdated": "2026-06-24T23:37:52.513132+00:00",
   "dailyDate": "2026-06-24",
   "totalSources": 13,
   "items": [
@@ -171,6 +171,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪中国能效标准对保温材料出口的间接影响"
+    },
+    {
+      "id": "20260619-4cb73c78",
+      "title": "中东地区HVAC系统水垢控制为何至关重要",
+      "titleOriginal": "Why Scale Control Matters for HVAC Systems",
+      "summary": "文章指出水垢增加HVAC能耗与故障率，暗示对高效保温材料的需求，利好中国保温材料出口。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/news/why-hvac-scale-control-matters-for-cooling-systems",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-06-19",
+      "score": 47,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "间接提示保温材料在节能中的价值",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 16,
+        "timeliness": 10,
+        "businessValue": 6,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "中东HVAC水垢问题与保温材料关联分析"
     },
     {
       "id": "20260618-162c8157",
@@ -540,6 +575,41 @@
       "relatedIds": [],
       "topic": "跟踪迪拜大型社区项目保温材料招标信息",
       "substance": "high"
+    },
+    {
+      "id": "20260609-25b72ee7",
+      "title": "酒店项目中分布式音频与智能建筑基础设施的融合",
+      "titleOriginal": "The Convergence of Distributed Audio and Smart Building Infrastructure in Hospitality Projects",
+      "summary": "酒店智能建筑趋势提升对高性能保温材料的需求，为中国出口商提供高端市场切入点。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/opinion/the-convergence-of-distributed-audio-and-smart-building-infrastructure-in-hospitality-projects",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-06-09",
+      "score": 40,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "智能建筑趋势带动保温材料需求",
+      "dimensions": {
+        "relevance": 16,
+        "authority": 16,
+        "timeliness": 6,
+        "businessValue": 5,
+        "marketImpact": 4
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "酒店智能建筑对保温材料的新要求"
     },
     {
       "id": "20260608-f584f8f2",
