@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T23:33:15.057816+00:00",
-  "dailyDate": "2026-06-23",
+  "lastUpdated": "2026-06-24T12:31:14.724225+00:00",
+  "dailyDate": "2026-06-24",
   "totalSources": 13,
   "items": [
     {
@@ -136,6 +136,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "IKO加拿大XPS工厂动工影响分析"
+    },
+    {
+      "id": "20260619-c389ee73",
+      "title": "中国标准化研究院发布房间空调器能效标准修订草案",
+      "titleOriginal": "China National Institute of Standardization Issues Draft Amendment for Room Air Conditioners",
+      "summary": "中国拟修订空调能效标准，可能影响建筑保温材料在节能建筑中的配套需求，出口商需关注标准联动。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "CN",
+      "region": "东亚",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/east-asia/cn/report_16299",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-06-19",
+      "score": 58,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "能效标准升级或带动保温材料需求",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 16,
+        "timeliness": 10,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪中国能效标准对保温材料出口的间接影响"
     },
     {
       "id": "20260618-162c8157",
@@ -901,40 +936,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "了解阿联酋HVAC行业对保温材料的配套要求",
-      "substance": "low"
-    },
-    {
-      "id": "20260524-60f5a2dd",
-      "title": "Isover保温材料用于美国节能建筑",
-      "titleOriginal": "Isover insulation for energy-efficient building in the US",
-      "summary": "Isover玻璃棉保温产品在美国节能建筑项目中得到应用，展示其工程适配性。",
-      "category": "工程应用",
-      "materials": [
-        "玻璃棉"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "AD HOC NEWS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVnlKbVplenk5UnNuNDJXRk5OLWthYnk4Y3Q4aVFwd2RGTlByMk1WNGppNm50YnVxbUYyb0VLX19ONUFtMjNVWUQyZkhkVl8zUE5uNllaVUdLeEdsU2JHM3VxYmNRb04telc2dGh4V0JuMWMtUHo5NEdQQmxRWTROQ3lhWHY3Vzg4OTVyMy1kQ1VHY3N6dkwyOXRUZnFUbV9uaFJuYnN2VXlhcjlhU3M4QlZCSDdYNVE?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-05-24",
-      "score": 12,
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 10,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 2,
-        "marketImpact": 3
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "研究Isover美国项目案例以优化出口产品方案",
       "substance": "low"
     }
   ]
