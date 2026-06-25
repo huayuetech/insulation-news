@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-06-24T23:37:52.513132+00:00",
-  "dailyDate": "2026-06-24",
+  "lastUpdated": "2026-06-25T12:35:09.890378+00:00",
+  "dailyDate": "2026-06-25",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260625-a7cf44e8",
+      "title": "越南Vinhomes计划发行5.7亿美元私募债券以资助项目",
+      "titleOriginal": "Vinhomes plans up to $570 mln private bond issue to fund projects",
+      "summary": "越南最大地产商Vinhomes大规模融资，预示其住宅项目对保温材料有潜在需求，利好中国出口商。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/vinhomes-plans-up-to-570-mln-private-bond-issue-to-fund-projects-d19402.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-06-25",
+      "score": 70,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "越南大型项目增加，保温材料需求可能上升。",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注越南大型地产项目保温材料采购机会"
+    },
     {
       "id": "20260622-2b8693bb",
       "title": "豪瑞完成18.5亿欧元收购Xella，扩大建筑解决方案组合",
@@ -975,38 +1010,6 @@
       "relatedIds": [],
       "topic": "关注Kingspan产业链整合动向",
       "substance": "high"
-    },
-    {
-      "id": "20260525-40ede554",
-      "title": "SKM空调Burhan Jaber谈定制化HVAC方案、可持续性与本地价值",
-      "titleOriginal": "SKM Air Conditioning’s Burhan Jaber on Customised HVAC Solutions, Sustainability and In-Country Value",
-      "summary": "阿联酋HVAC企业强调定制化与本地化，保温材料需适配系统需求。",
-      "category": "技术观点",
-      "materials": [],
-      "applications": [],
-      "country": "AE",
-      "region": "中东",
-      "source": "MEP Middle East",
-      "sourceUrl": "https://www.mepmiddleeast.com/people/skm-air-conditionings-burhan-jaber-on-customised-hvac-solutions-sustainability-and-in-country-value",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-05-25",
-      "score": 16,
-      "featured": false,
-      "impact": "low",
-      "impactNote": "间接影响，仅作行业背景",
-      "dimensions": {
-        "relevance": 10,
-        "authority": 16,
-        "timeliness": 6,
-        "businessValue": 3,
-        "marketImpact": 4
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "了解阿联酋HVAC行业对保温材料的配套要求",
-      "substance": "low"
     }
   ]
 }
