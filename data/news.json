@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-26T23:38:36.738404+00:00",
-  "dailyDate": "2026-06-26",
+  "lastUpdated": "2026-06-27T11:50:07.548842+00:00",
+  "dailyDate": "2026-06-27",
   "totalSources": 13,
   "items": [
     {
@@ -944,72 +944,6 @@
       "relatedIds": [],
       "topic": "可借鉴其北美市场技术营销策略",
       "substance": "low"
-    },
-    {
-      "id": "20260527-24ae3cf4",
-      "title": "Kingspan在沙特达曼启用新绝热材料工厂",
-      "titleOriginal": "Kingspan commissions Dammam insulation plant",
-      "summary": "Kingspan新厂生产保温板、屋面系统及HVAC风管保温，增强中东本土供应能力，加剧区域竞争。",
-      "category": "产品与材料",
-      "materials": [
-        "保温材料"
-      ],
-      "applications": [],
-      "country": "SA",
-      "region": "中东",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2208-kingspan-commissions-dammam-insulation-plant",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-05-27",
-      "score": 72,
-      "featured": true,
-      "impact": "high",
-      "impactNote": "沙特本土产能扩张，挤压中国出口空间",
-      "dimensions": {
-        "relevance": 28,
-        "authority": 16,
-        "timeliness": 6,
-        "businessValue": 12,
-        "marketImpact": 10
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "分析Kingspan中东布局对中国出口商的竞争影响",
-      "substance": "high"
-    },
-    {
-      "id": "20260527-157ad12d",
-      "title": "Kingspan 收购 Duggan Profiles 及钢铁服务中心",
-      "titleOriginal": "Kingspan acquires Duggan Profiles & Steel Service Centre",
-      "summary": "Kingspan 收购爱尔兰钢铁构件商，可能整合供应链，间接影响保温材料配套。",
-      "category": "企业展会",
-      "materials": [],
-      "applications": [],
-      "country": "IE",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2207-kingspan-acquires-duggan-profiles-steel-service-centre",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-05-27",
-      "score": 38,
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 10,
-        "authority": 16,
-        "timeliness": 6,
-        "businessValue": 3,
-        "marketImpact": 3
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注Kingspan产业链整合动向",
-      "substance": "high"
     }
   ]
 }
