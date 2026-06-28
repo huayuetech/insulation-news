@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-27T23:32:32.777258+00:00",
-  "dailyDate": "2026-06-27",
+  "lastUpdated": "2026-06-28T12:00:02.660037+00:00",
+  "dailyDate": "2026-06-28",
   "totalSources": 13,
   "items": [
     {
@@ -910,40 +910,6 @@
       "relatedIds": [],
       "topic": "欧洲加气混凝土行业并购动态",
       "substance": "high"
-    },
-    {
-      "id": "20260528-3a6bcef4",
-      "title": "Knauf北美为美国建筑师协会举办系列网络研讨会",
-      "titleOriginal": "Knauf Insulation North America announces American Institute of Architects webinars",
-      "summary": "Knauf Insulation面向建筑师举办材料选择与室内空气质量、玻璃棉透明度等主题研讨会，提升产品认知。",
-      "category": "技术观点",
-      "materials": [
-        "玻璃棉"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2209-knauf-insulation-north-america-announces-american-institute-of-architects-webinars",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-05-28",
-      "score": 16,
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 12,
-        "authority": 16,
-        "timeliness": 6,
-        "businessValue": 3,
-        "marketImpact": 2
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "可借鉴其北美市场技术营销策略",
-      "substance": "low"
     }
   ]
 }
