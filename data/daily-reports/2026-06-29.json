@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-29",
+  "generatedAt": "2026-06-29T14:31:12.427463+00:00",
+  "sections": [
+    {
+      "title": "政策法规变动",
+      "icon": "policy",
+      "items": [
+        {
+          "id": "20260608-f584f8f2",
+          "title": "荷兰房地产在EPBD IV上领先",
+          "summary": "荷兰率先实施欧洲建筑能效新指令EPBD IV，推动高能效保温材料需求升级。",
+          "country": "NL",
+          "source": "EU BUILD UP",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "工程与应用案例",
+      "icon": "project",
+      "items": [
+        {
+          "id": "20260611-a879cb73",
+          "title": "卡塔尔自由区与中国企业合作在乌姆阿尔胡尔建设保温材料工厂",
+          "summary": "中企与卡塔尔自由区合建保温材料工厂，直接利好中国出口商海外布局。",
+          "country": "QA",
+          "source": "Qatar Tribune",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "企业与展会动态",
+      "icon": "company",
+      "items": [
+        {
+          "id": "20260619-97d52258",
+          "title": "Rockwool俄罗斯在国资管理下推进价值1.19亿欧元的工厂升级计划",
+          "summary": "俄罗斯岩棉巨头扩产，可能改变当地供需格局，为中国岩棉出口至俄罗斯带来新的竞争或机会。",
+          "country": "RU",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260619-1a378fa9",
+          "title": "IKO在安大略省布兰特福德破土动工，建设价值3190万美元的挤塑聚苯乙烯保温板工厂",
+          "summary": "竞争对手IKO在加拿大扩产XPS保温板，加剧北美市场竞争，需关注对中国玻璃棉、岩棉出口的替代影响。",
+          "country": "CA",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}
