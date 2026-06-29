@@ -1,8 +1,110 @@
 {
-  "lastUpdated": "2026-06-29T14:31:12.427463+00:00",
+  "lastUpdated": "2026-06-29T23:30:06.919559+00:00",
   "dailyDate": "2026-06-29",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260629-269aa6ba",
+      "title": "圣戈班推出Isover Ultimate更薄矿棉通过严苛防火标准",
+      "titleOriginal": "Isover Ultimate from Saint-Gobain - thinner mineral wool hits tough fire standards",
+      "summary": "圣戈班发布更薄矿棉新品，满足严格防火标准，对中国出口商意味着高性能产品竞争加剧。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "AD HOC NEWS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGRnblB2aVF0THJpNTFpMW91TmZHenpEeHc4Z284R3ZtdlBYaXdWNExNMFNmaGZnRml4ekYySVloclRDcUhrR1pHTUFQS19jMU9BV09UbTRvZGdOTGtDQ1pPcjQ0Q0p3RlJheTBsMVVGUzB4RGxMU0ZQcjUwQmZlNVFWcGZUTkZYbHJYLTFmTW1tUXZEbEZCNDNhaWMxZHpZbnpaNVB1TlRhZGFrTl9zS0JGN2trbW5aTVdtNzYzSnJBR2FuaUdfMA?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-29",
+      "score": 64,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "高端市场竞争压力增加",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注圣戈班超薄矿棉阻燃技术趋势"
+    },
+    {
+      "id": "20260629-155584c4",
+      "title": "瑞士Schilliger新增Lignatherm木纤维保温材料产能",
+      "titleOriginal": "Schilliger adds Swiss wood-fibre insulation capacity with Lignatherm plant",
+      "summary": "瑞士企业扩大木纤维保温产能，欧洲替代材料竞争加剧，中国岩棉/玻璃棉出口商需关注份额变化。",
+      "category": "产品与材料",
+      "materials": [
+        "木纤维"
+      ],
+      "applications": [],
+      "country": "CH",
+      "region": "全球",
+      "source": "Fordaq",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaDdQRkFmUE1TejlrOVlRak45TkthaEp1NXNIRGxFRzJjcnllUFJnTDJnT1BrNHd0RGxsR251blN4aW9qLXppREZ3cUZoLV9SX0tkUWtObUc0NmktV0NRdVhiNHRTdnBTUmlZNXlaS3Z4ZFBZc2puQ044YXhhSmhYLTlVRkhHazQ1alhF?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-29",
+      "score": 60,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "欧洲市场替代材料扩容",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 6,
+        "marketImpact": 4
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注木纤维保温在欧洲的扩张对矿棉的影响"
+    },
+    {
+      "id": "20260628-1a92371a",
+      "title": "圣戈班推出ISOVER CLIMCOVER Roll Alu2柔性HVAC保温卷材",
+      "titleOriginal": "ISOVER CLIMCOVER Roll Alu2 from Saint-Gobain - flexible HVAC insulation for tight spaces",
+      "summary": "圣戈班发布针对狭小空间的柔性HVAC保温新品，对出口商在细分应用领域竞争形成压力。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "AD HOC NEWS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOFpMNzBsWi1ZSnVCaXVmN1hRMWNQeHlZOVJiVVptSHhKemlwZTRGTFI3V1pqLVhLSE1acFowd1NtdzMyU1Ffa0dfZkVab2RBTWtyY2JTNk9VX01Rc0pzOEJMRE5IYm9jbW5hRklmSk1GQUdXc3NfT21hZU9sRU5nUEhLeEctZS0wakFVUmZ0TnJOYnJDcC1rbHJmREtnVUtZYlljNk1LRUJfcmg1UVZYOGlSWEJCdlBiX2U1dzNHZk05MkZvd2hV?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-06-28",
+      "score": 58,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "细分市场竞争加剧",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 5,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注圣戈班HVAC保温新品的技术特点"
+    },
     {
       "id": "20260625-a7cf44e8",
       "title": "越南Vinhomes计划发行5.7亿美元私募债券以资助项目",
