@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generatedAt": "2026-06-30T12:26:48.199263+00:00",
+  "generatedAt": "2026-06-30T23:40:44.202234+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -48,6 +48,14 @@
           "summary": "竞争对手IKO在加拿大扩产XPS保温板，加剧北美市场竞争，需关注对中国玻璃棉、岩棉出口的替代影响。",
           "country": "CA",
           "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260630-99fdee42",
+          "title": "圣戈班在印度金奈新建玻璃与保温材料工厂，扩大制造版图",
+          "summary": "圣戈班在印度金奈新建玻璃棉等保温材料工厂，显示印度市场需求增长，可能加剧中国出口商在亚洲市场的竞争。",
+          "country": "IN",
+          "source": "Machine Maker",
           "impact": "medium"
         }
       ]
