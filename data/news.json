@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-30T23:40:44.202234+00:00",
-  "dailyDate": "2026-06-30",
+  "lastUpdated": "2026-07-01T13:14:56.491144+00:00",
+  "dailyDate": "2026-07-01",
   "totalSources": 13,
   "items": [
     {
@@ -104,6 +104,38 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注木纤维保温在欧洲的扩张对矿棉的影响"
+    },
+    {
+      "id": "20260629-7139bd5b",
+      "title": "气候韧性行动：如何改造城市与建筑以适应气候变化？",
+      "titleOriginal": "Climate resilience in action: how to adapt cities and buildings?",
+      "summary": "欧盟聚焦建筑气候韧性改造，涉及能效和可再生能源，将拉动保温材料需求。",
+      "category": "技术观点",
+      "materials": [],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "EU BUILD UP",
+      "sourceUrl": "https://build-up.ec.europa.eu/en/news-and-events/events/climate-resilience-action-how-adapt-cities-and-buildings",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-06-29",
+      "score": 58,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "推动建筑能效提升，利好保温材料出口。",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 25,
+        "timeliness": 18,
+        "businessValue": 6,
+        "marketImpact": 4
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "欧盟建筑气候韧性政策对保温材料出口的影响"
     },
     {
       "id": "20260628-1a92371a",
@@ -509,6 +541,38 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注帝人前沿的产能扩张对市场的影响"
+    },
+    {
+      "id": "20260615-80ce89a4",
+      "title": "欧洲能源效率联盟回应2030年后能效法律框架证据征询",
+      "titleOriginal": "EPEE’s reply to the call for evidence on the Energy Efficiency legal framework after 2030",
+      "summary": "欧盟2030年后能效框架征询反馈，可能强化建筑保温要求，利好中国出口。",
+      "category": "标准政策",
+      "materials": [],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "EU BUILD UP",
+      "sourceUrl": "https://build-up.ec.europa.eu/en/resources-and-tools/publications/epees-reply-call-evidence-energy-efficiency-legal-framework-after",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-06-15",
+      "score": 76,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "欧盟能效框架更新将影响保温材料标准与需求。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 25,
+        "timeliness": 6,
+        "businessValue": 12,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "欧盟2030后能效政策对保温材料出口的机遇"
     },
     {
       "id": "20260615-ec70dc7f",
