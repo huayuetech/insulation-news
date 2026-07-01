@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-07-01T13:14:56.491144+00:00",
+  "lastUpdated": "2026-07-01T23:48:49.997054+00:00",
   "dailyDate": "2026-07-01",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260701-ee62a023",
+      "title": "Gulf-O-Flex在迪拜开设中东首家热声绝缘体验中心",
+      "titleOriginal": "Gulf-O-Flex Opens the Region’s First Thermal and Acoustic Insulation Experience Center in Dubai",
+      "summary": "Gulf-O-Flex在迪拜设立区域首个热声绝缘体验中心，推动技术创新与行业合作，对中国出口商展示中东市场品牌化趋势。",
+      "category": "企业展会",
+      "materials": [
+        "保温材料"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/news/gulf-o-flex-first-thermal-acoustic-insulation-experience",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-01",
+      "score": 67,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "中东市场品牌体验建设提速，出口商需关注渠道升级",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 6,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "中东保温材料体验中心模式对华出口启示"
+    },
     {
       "id": "20260630-99fdee42",
       "title": "圣戈班在印度金奈新建玻璃与保温材料工厂，扩大制造版图",
