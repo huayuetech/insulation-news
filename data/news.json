@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-07-02T12:24:05.569895+00:00",
+  "lastUpdated": "2026-07-02T23:33:25.445854+00:00",
   "dailyDate": "2026-07-02",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260702-6506e528",
+      "title": "大华银行越南在胡志明市国际金融中心破土动工新总部大楼",
+      "titleOriginal": "UOB Vietnam breaks ground on new headquarters building at Vietnam International Financial Center - Ho Chi Minh City",
+      "summary": "大华银行越南新总部大楼开建，为中国保温材料出口商提供潜在工程采购机会。",
+      "category": "工程应用",
+      "materials": [],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/uob-vietnam-breaks-ground-on-new-headquarters-building-at-vietnam-international-financial-center--ho-chi-minh-city-d19448.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-02",
+      "score": 70,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "新建筑项目增加保温需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注越南新地标建筑保温需求"
+    },
     {
       "id": "20260702-11f369b0",
       "title": "加拿大爱德华王子岛启动新家庭保温翻新补助计划",
