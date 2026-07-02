@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-07-01T23:48:49.997054+00:00",
-  "dailyDate": "2026-07-01",
+  "lastUpdated": "2026-07-02T12:24:05.569895+00:00",
+  "dailyDate": "2026-07-02",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260702-11f369b0",
+      "title": "加拿大爱德华王子岛启动新家庭保温翻新补助计划",
+      "titleOriginal": "New home insulation grant scheme launches in Prince Edward Island",
+      "summary": "加拿大政府重启PEI家庭保温翻新补助，资助符合CAN/ULC-S70标准的安装，利好当地保温材料需求。",
+      "category": "标准政策",
+      "materials": [
+        "保温材料"
+      ],
+      "applications": [],
+      "country": "CA",
+      "region": "北美",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2215-new-home-insulation-grant-scheme-launches-in-prince-edward-island",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-02",
+      "score": 67,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "增加当地保温材料需求，但市场体量有限。",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 6,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注加拿大保温补助标准对出口的影响"
+    },
     {
       "id": "20260701-ee62a023",
       "title": "Gulf-O-Flex在迪拜开设中东首家热声绝缘体验中心",
@@ -36,6 +70,40 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "中东保温材料体验中心模式对华出口启示"
+    },
+    {
+      "id": "20260630-13e09194",
+      "title": "欧洲建筑围护结构联盟成立以加强创新",
+      "titleOriginal": "Building Envelope Alliance launched to strengthen innovation in building envelopes across Europe",
+      "summary": "欧洲成立建筑围护结构联盟，推动围护结构创新，可能影响保温材料技术标准与市场准入。",
+      "category": "标准政策",
+      "materials": [
+        "保温材料"
+      ],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "EU BUILD UP",
+      "sourceUrl": "https://build-up.ec.europa.eu/en/news-and-events/news/building-envelope-alliance-launched-strengthen-innovation-building-envelopes",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-06-30",
+      "score": 83,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "联盟或推动新标准，需跟踪动态。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 25,
+        "timeliness": 18,
+        "businessValue": 7,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪欧洲建筑围护结构创新动态"
     },
     {
       "id": "20260630-99fdee42",
