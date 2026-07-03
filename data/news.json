@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-07-02T23:33:25.445854+00:00",
-  "dailyDate": "2026-07-02",
+  "lastUpdated": "2026-07-03T12:22:28.884272+00:00",
+  "dailyDate": "2026-07-03",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260702-d43e7e38",
+      "title": "阿曼启动10亿美元太阳能项目招标，含电池储能",
+      "titleOriginal": "Nama launches RFQ process for US $1bn solar projects in Oman",
+      "summary": "阿曼启动10亿美元太阳能IPP项目招标，含电池储能，将带动保温材料在管道和储罐领域的应用需求。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "OM",
+      "region": "全球",
+      "source": "Middle East Construction News",
+      "sourceUrl": "https://meconstructionnews.com/68190/nama-launches-rfq-process-for-us-1bn-solar-projects-in-oman",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-02",
+      "score": 74,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "中东大型能源项目增加保温材料采购机会",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 16,
+        "timeliness": 18,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注阿曼太阳能项目保温材料招标动态"
+    },
     {
       "id": "20260702-6506e528",
       "title": "大华银行越南在胡志明市国际金融中心破土动工新总部大楼",
@@ -1177,72 +1212,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "罗马尼亚保温板扩产对中国出口的潜在竞争",
-      "substance": "high"
-    },
-    {
-      "id": "20260602-16b8144a",
-      "title": "英国格伦费尔大火涉事公司与个人最迟2027年6月被起诉",
-      "titleOriginal": "Charges for Grenfell tower fire companies and individuals by June 2027",
-      "summary": "伦敦警察局称20家公司和77名个人将在2027年6月前被起诉，可能包括过失杀人罪。该事件持续影响英国建筑保温材料安全监管。",
-      "category": "标准政策",
-      "materials": [],
-      "applications": [],
-      "country": "GB",
-      "region": "欧洲",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2210-charges-for-grenfell-tower-fire-companies-and-individuals-by-june-2027",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-06-02",
-      "score": 56,
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "英国防火标准趋严，间接影响出口合规要求",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 6,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注英国保温材料防火法规更新及出口认证变化",
-      "substance": "high"
-    },
-    {
-      "id": "20260602-b64fd675",
-      "title": "Holcim接近获得欧盟委员会批准收购Xella",
-      "titleOriginal": "Holcim nears EU Commission approval for Xella acquisition",
-      "summary": "Holcim收购Xella需出售罗马尼亚加气混凝土业务，行业整合影响有限。",
-      "category": "企业展会",
-      "materials": [
-        "加气混凝土"
-      ],
-      "applications": [],
-      "country": "EU",
-      "region": "欧洲",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2211-holcim-nears-eu-commission-approval-for-xella-acquisition",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-06-02",
-      "score": 42,
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 12,
-        "authority": 16,
-        "timeliness": 6,
-        "businessValue": 3,
-        "marketImpact": 5
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "欧洲加气混凝土行业并购动态",
       "substance": "high"
     }
   ]
