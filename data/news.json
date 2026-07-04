@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-03T23:31:59.085070+00:00",
-  "dailyDate": "2026-07-03",
+  "lastUpdated": "2026-07-04T11:48:51.335035+00:00",
+  "dailyDate": "2026-07-04",
   "totalSources": 13,
   "items": [
     {
@@ -172,6 +172,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "中东保温材料体验中心模式对华出口启示"
+    },
+    {
+      "id": "20260701-43142d73",
+      "title": "Mered在阿尔雷姆岛推出法式里维埃拉风格别墅，含400余套公寓和11栋别墅",
+      "titleOriginal": "Mered introduces French Riviera-inspired villas on Al Reem Island",
+      "summary": "该项目提供大量高端住宅，对保温材料有潜在需求，值得关注中东高端建筑市场机遇。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "Middle East Construction News",
+      "sourceUrl": "https://meconstructionnews.com/68202/mered-introduces-french-riviera-inspired-villas-on-al-reem-island",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-01",
+      "score": 48,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "高端项目增多，保温材料需求有望提升。",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 16,
+        "timeliness": 14,
+        "businessValue": 6,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注阿联酋高端住宅项目保温材料需求"
     },
     {
       "id": "20260630-13e09194",
@@ -1179,75 +1214,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪Amaala项目保温材料招标信息"
-    },
-    {
-      "id": "20260603-e92e06ab",
-      "title": "爱尔兰推进EPBD转换，修订建筑能源评级系统",
-      "titleOriginal": "Ireland advances EPBD transposition with a revised Building Energy Rating system",
-      "summary": "爱尔兰能效评级体系更新，将影响建筑保温材料的标准要求，出口企业需及时调整产品认证策略。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "IE",
-      "region": "全球",
-      "source": "EU BUILD UP",
-      "sourceUrl": "https://build-up.ec.europa.eu/en/news-and-events/news/ireland-advances-epbd-transposition-revised-building-energy-rating-system",
-      "sourceTier": "T1",
-      "sourceType": "官方源",
-      "date": "2026-06-03",
-      "score": 70,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "爱尔兰能效评级修订，或需调整产品",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 25,
-        "timeliness": 6,
-        "businessValue": 7,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "爱尔兰建筑能源评级更新跟踪"
-    },
-    {
-      "id": "20260603-88b4333d",
-      "title": "罗马尼亚企业家考虑1500万欧元扩建保温板工厂",
-      "titleOriginal": "Romanian entrepreneur ponders EUR 15 mln expansion of thermal insulation panel factory",
-      "summary": "罗马尼亚本地保温板产能扩张，可能减少进口需求，需评估竞争。",
-      "category": "工程应用",
-      "materials": [
-        "保温板"
-      ],
-      "applications": [],
-      "country": "RO",
-      "region": "全球",
-      "source": "Romania Insider",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3JneHZ4SzVuT2Y0Q0UzUXZPLUNEdEJwTTNjTjRPMk43NVZCYzJOUTRZeHBEMWZablEtZU5nU25MWWxKdTkwTUZFNE1CNmJrTDBLekhTa0hIcTFjaUpDVjM1T0U3NTRuZWVicWtNaDNnaTAydndyN0EtbDhRcnBCQXBYdlg2eGo4bnBqZDdfOHUzZ1E1WF9n0gGcAUFVX3lxTE5iR2pUa0otbURjeEtWUlFsQktudkNzUkFubTVOa3dzZkROMUNkU1pIRjc0WVRUd0JRcUxQTzZnTlNQbzl6T0hNQkszNkMwamtrMjBwRmpEaTVTU3pKX3hzQXlDRXZsaWkzZ1JKQkZPdGlHZzRUWVZob25rUFZQRUp0TURfaGpsWDlvMlJIcU5MUWN2N0dGeGlPVEl1bg?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-06-03",
-      "score": 45,
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "本地产能增加，或影响中国出口",
-      "dimensions": {
-        "relevance": 18,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 5,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "罗马尼亚保温板扩产对中国出口的潜在竞争",
-      "substance": "high"
     }
   ]
 }
