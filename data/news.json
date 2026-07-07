@@ -1,8 +1,77 @@
 {
-  "lastUpdated": "2026-07-06T23:34:03.172068+00:00",
-  "dailyDate": "2026-07-06",
+  "lastUpdated": "2026-07-07T12:39:49.320897+00:00",
+  "dailyDate": "2026-07-07",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260707-e25e6eb9",
+      "title": "Ceresana发布《世界保温材料报告2026》：PUR/PIR增长最快，全球市场至2035年达660Mm³",
+      "titleOriginal": "Ceresana’s World Insulation Materials Report 2026 forecasts fastest growth for polyurethane and polyisocyanurate insulation",
+      "summary": "报告预测聚氨酯和聚异氰脲酸酯保温材料需求增速领先，中国出口商可关注此细分市场机会。",
+      "category": "市场价格",
+      "materials": [
+        "聚氨酯",
+        "聚异氰脲酸酯"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2216-ceresana-s-world-insulation-materials-report-2026-forecasts-fastest-growth-for-polyurethane-and-polyisocyanurate-insulation",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-07",
+      "score": 75,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "全球趋势影响产品布局",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 9,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "PUR/PIR市场增长机遇"
+    },
+    {
+      "id": "20260707-ec26118c",
+      "title": "韩国法院确认LX Hausys对Myungil Foam的酚醛泡沫保温专利侵权",
+      "titleOriginal": "Court confirms LX Hausys’ patent claim against Myungil Foam",
+      "summary": "韩国LX Hausys赢得针对Myungil Foam的酚醛泡沫专利诉讼，维持侵权禁令，提醒中国出口商注意海外专利风险。",
+      "category": "产品与材料",
+      "materials": [
+        "酚醛泡沫"
+      ],
+      "applications": [],
+      "country": "KR",
+      "region": "东亚",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2217-court-confirms-lx-hausys-patent-claim-against-myungil-foam",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-07",
+      "score": 68,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "关注韩国酚醛泡沫专利壁垒",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "韩国酚醛泡沫专利诉讼启示"
+    },
     {
       "id": "20260706-674f872c",
       "title": "阿布扎比发布建筑冷却负荷手册以提升能效",
@@ -880,6 +949,41 @@
       "topic": "关注帝人前沿的产能扩张对市场的影响"
     },
     {
+      "id": "20260617-780efafc",
+      "title": "西班牙EPBD实施分析与建议：推动建筑能效快速落实",
+      "titleOriginal": "Análisis y recomendaciones para la rápida y eficaz implementación de la EPBD en España",
+      "summary": "分析西班牙EPBD实施建议，预示建筑保温材料需求将提升，利好中国出口商关注西班牙市场。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "ES",
+      "region": "全球",
+      "source": "EU BUILD UP",
+      "sourceUrl": "https://build-up.ec.europa.eu/en/resources-and-tools/publications/analisis-y-recomendaciones-para-la-rapida-y-eficaz-implementacion",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-06-17",
+      "score": 63,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "西班牙政策变化带动需求",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 25,
+        "timeliness": 6,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "西班牙EPBD对保温材料影响"
+    },
+    {
       "id": "20260615-80ce89a4",
       "title": "欧洲能源效率联盟回应2030年后能效法律框架证据征询",
       "titleOriginal": "EPEE’s reply to the call for evidence on the Energy Efficiency legal framework after 2030",
@@ -1245,40 +1349,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注热泵与保温系统集成方案",
-      "substance": "low"
-    },
-    {
-      "id": "20260606-73b2adf3",
-      "title": "Isover保温：美国房主现在应了解的知识",
-      "titleOriginal": "Isover insulation: what US homeowners should know now",
-      "summary": "Isover向美国房主推广玻璃棉保温，提醒中国出口商关注美国住宅市场。",
-      "category": "产品与材料",
-      "materials": [
-        "玻璃棉"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "AD HOC NEWS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPem1RZzJCT0ttSUtzMVVPOTJEbVhlaDdTZ2MxSVBsaVMxZzd2T0RKSGg5OWdlR2R3UVI4UjNzTTZmdWV6OUkzNzNSX3JhblY0ZEEybEdDZ280UEcyR3Z4emVlODhieF91eXNVcUowUWtDLVZQazJzSkgtUHlHTEFXeEdOWko5bm80UXRaWVE2MmxDeVJTcjZvN3ZyM3dFeWlmOGdDUGxFTzZ4XzdpcVgybA?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-06-06",
-      "score": 23,
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "美国住宅保温市场动态参考",
-      "dimensions": {
-        "relevance": 22,
-        "authority": 10,
-        "timeliness": 10,
-        "businessValue": 8,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "美国住宅保温材料消费者认知趋势",
       "substance": "low"
     }
   ]
