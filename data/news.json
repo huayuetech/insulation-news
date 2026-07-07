@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T12:39:49.320897+00:00",
+  "lastUpdated": "2026-07-07T23:26:17.699764+00:00",
   "dailyDate": "2026-07-07",
   "totalSources": 13,
   "items": [
@@ -71,6 +71,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "韩国酚醛泡沫专利诉讼启示"
+    },
+    {
+      "id": "20260707-ea7c7dc3",
+      "title": "Tadweer授予阿布扎比新废物回收设施合同，目标2031年80%垃圾填埋转移",
+      "titleOriginal": "Tadweer Awards Contract for Abu Dhabi’s New Waste Recovery Facility",
+      "summary": "阿布扎比新建废物回收设施预计2028年运营，为工业保温材料带来潜在采购机会。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉",
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/business/contracts/tadweer-contract-new-waste-facility",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-07",
+      "score": 65,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "新设施建设带来保温材料需求",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注废物设施保温材料招标"
     },
     {
       "id": "20260706-674f872c",
