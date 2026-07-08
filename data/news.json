@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T23:26:17.699764+00:00",
-  "dailyDate": "2026-07-07",
+  "lastUpdated": "2026-07-08T11:59:12.478494+00:00",
+  "dailyDate": "2026-07-08",
   "totalSources": 13,
   "items": [
     {
@@ -1353,38 +1353,6 @@
       "relatedIds": [],
       "topic": "关注EPBD IV执行对荷兰保温材料出口机会",
       "substance": "high"
-    },
-    {
-      "id": "20260607-caae4682",
-      "title": "现代联网热泵助力室内环境质量与热舒适",
-      "titleOriginal": "‘Modern and connected heat pumps help ensure indoor environmental quality and thermal comfort’",
-      "summary": "热泵技术与建筑保温协同提升能效，间接推动保温材料需求。",
-      "category": "技术观点",
-      "materials": [],
-      "applications": [],
-      "country": "EU",
-      "region": "欧洲",
-      "source": "EU BUILD UP",
-      "sourceUrl": "https://build-up.ec.europa.eu/en/news-and-events/news/interview-thomas-nowak-modern-heat-pumps-indoor-environmental-quality",
-      "sourceTier": "T1",
-      "sourceType": "官方源",
-      "date": "2026-06-07",
-      "score": 22,
-      "featured": false,
-      "impact": "low",
-      "impactNote": "间接关联，可作技术趋势参考",
-      "dimensions": {
-        "relevance": 12,
-        "authority": 25,
-        "timeliness": 10,
-        "businessValue": 4,
-        "marketImpact": 5
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注热泵与保温系统集成方案",
-      "substance": "low"
     }
   ]
 }
