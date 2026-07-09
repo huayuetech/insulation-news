@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-08T23:33:11.136108+00:00",
-  "dailyDate": "2026-07-08",
+  "lastUpdated": "2026-07-09T23:40:51.552154+00:00",
+  "dailyDate": "2026-07-09",
   "totalSources": 13,
   "items": [
     {
@@ -1321,38 +1321,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "酒店智能建筑对保温材料的新要求"
-    },
-    {
-      "id": "20260608-f584f8f2",
-      "title": "荷兰房地产在EPBD IV上领先",
-      "titleOriginal": "Why Dutch real estate is ahead on EPBD IV",
-      "summary": "荷兰率先实施欧洲建筑能效新指令EPBD IV，推动高能效保温材料需求升级。",
-      "category": "标准政策",
-      "materials": [],
-      "applications": [],
-      "country": "NL",
-      "region": "全球",
-      "source": "EU BUILD UP",
-      "sourceUrl": "https://build-up.ec.europa.eu/en/resources-and-tools/articles/why-dutch-real-estate-ahead-epbd-iv",
-      "sourceTier": "T1",
-      "sourceType": "官方源",
-      "date": "2026-06-08",
-      "score": 78,
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "荷兰市场对高端保温材料需求增加",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 25,
-        "timeliness": 10,
-        "businessValue": 10,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注EPBD IV执行对荷兰保温材料出口机会",
-      "substance": "high"
     }
   ]
 }
