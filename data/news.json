@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-10T23:25:48.204469+00:00",
-  "dailyDate": "2026-07-10",
+  "lastUpdated": "2026-07-11T11:27:43.474220+00:00",
+  "dailyDate": "2026-07-11",
   "totalSources": 13,
   "items": [
     {
@@ -1392,41 +1392,6 @@
       "relatedIds": [],
       "topic": "卡塔尔保温材料本地化生产对中国出口的影响",
       "substance": "high"
-    },
-    {
-      "id": "20260610-5dff274c",
-      "title": "沙特建筑保温市场：能效、绿色建筑与增长展望",
-      "titleOriginal": "Saudi Arabia Building Insulation Market: Energy Efficiency, Green Construction & Growth Outlook",
-      "summary": "沙特建筑保温市场受益于能效政策和绿色建筑趋势，出口增长潜力大。",
-      "category": "市场价格",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "SA",
-      "region": "中东",
-      "source": "vocal.media",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVBiSUdXRElYRTNiRUQ5Vm53QWVXNUloN1VJYlRSNHBuMS00cTROOC1NY1JMS0pTenhUUkRmMHk1d0pGNUtWRXRScmRyRUxaZVM4VE5SSzk0RjVnOXVDR0VGLVhKME1sT1d5QzNNMnA5MzBiZ3B3TlZIYUtuWVhZczVyUGVvdVN3dmFIclFMVzdPcmVueFdNVVdXTUhnb3BScF8tNjlQZS1sdVlONm95dnc2YTdLekE2RDl3djY5cDJYdw?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-06-10",
-      "score": 30,
-      "featured": false,
-      "impact": "high",
-      "impactNote": "沙特市场高需求，利好中国出口",
-      "dimensions": {
-        "relevance": 28,
-        "authority": 10,
-        "timeliness": 14,
-        "businessValue": 12,
-        "marketImpact": 10
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "分析沙特保温市场趋势，制定区域营销策略",
-      "substance": "low"
     }
   ]
 }

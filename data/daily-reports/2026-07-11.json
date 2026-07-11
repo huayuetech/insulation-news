@@ -1,0 +1,118 @@
+{
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-11T11:27:43.474220+00:00",
+  "sections": [
+    {
+      "title": "政策法规变动",
+      "icon": "policy",
+      "items": [
+        {
+          "id": "20260710-a344bc20",
+          "title": "新加坡发布四项节能附属法规（2026年能源节约法）",
+          "summary": "新加坡2026年6月发布四项节能附属法规，涉及最低能效标准（MEPS），将影响保温材料在建筑节能中的应用要求。",
+          "country": "SG",
+          "source": "Enviliance ASIA",
+          "impact": "high"
+        },
+        {
+          "id": "20260630-13e09194",
+          "title": "欧洲建筑围护结构联盟成立以加强创新",
+          "summary": "欧洲成立建筑围护结构联盟，推动围护结构创新，可能影响保温材料技术标准与市场准入。",
+          "country": "EU",
+          "source": "EU BUILD UP",
+          "impact": "medium"
+        },
+        {
+          "id": "20260615-80ce89a4",
+          "title": "欧洲能源效率联盟回应2030年后能效法律框架证据征询",
+          "summary": "欧盟2030年后能效框架征询反馈，可能强化建筑保温要求，利好中国出口。",
+          "country": "EU",
+          "source": "EU BUILD UP",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "市场价格信号",
+      "icon": "market",
+      "items": [
+        {
+          "id": "20260707-e25e6eb9",
+          "title": "Ceresana发布《世界保温材料报告2026》：PUR/PIR增长最快，全球市场至2035年达660Mm³",
+          "summary": "报告预测聚氨酯和聚异氰脲酸酯保温材料需求增速领先，中国出口商可关注此细分市场机会。",
+          "country": "GLOBAL",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "工程与应用案例",
+      "icon": "project",
+      "items": [
+        {
+          "id": "20260710-c2ef8dc3",
+          "title": "沙特国王萨勒曼国际机场将招标两项基础设施合同",
+          "summary": "沙特国王萨勒曼国际机场（57平方公里）即将招标基础设施合同，大型机场建设将催生大量保温材料需求。",
+          "country": "SA",
+          "source": "MEP Middle East",
+          "impact": "high"
+        },
+        {
+          "id": "20260611-a879cb73",
+          "title": "卡塔尔自由区与中国企业合作在乌姆阿尔胡尔建设保温材料工厂",
+          "summary": "中企与卡塔尔自由区合建保温材料工厂，直接利好中国出口商海外布局。",
+          "country": "QA",
+          "source": "Qatar Tribune",
+          "impact": "high"
+        },
+        {
+          "id": "20260702-d43e7e38",
+          "title": "阿曼启动10亿美元太阳能项目招标，含电池储能",
+          "summary": "阿曼启动10亿美元太阳能IPP项目招标，含电池储能，将带动保温材料在管道和储罐领域的应用需求。",
+          "country": "OM",
+          "source": "Middle East Construction News",
+          "impact": "medium"
+        },
+        {
+          "id": "20260710-bd2e8f10",
+          "title": "越南Becamex成立子公司推进1.76亿美元宁春1号工业园项目",
+          "summary": "越南大型工业地产商Becamex设立全资子公司，推进中部庆和省1.76亿美元工业园项目，预示当地工业建筑保温材料需求增长。",
+          "country": "VN",
+          "source": "The Investor (Vietnam)",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "企业与展会动态",
+      "icon": "company",
+      "items": [
+        {
+          "id": "20260619-97d52258",
+          "title": "Rockwool俄罗斯在国资管理下推进价值1.19亿欧元的工厂升级计划",
+          "summary": "俄罗斯岩棉巨头扩产，可能改变当地供需格局，为中国岩棉出口至俄罗斯带来新的竞争或机会。",
+          "country": "RU",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260619-1a378fa9",
+          "title": "IKO在安大略省布兰特福德破土动工，建设价值3190万美元的挤塑聚苯乙烯保温板工厂",
+          "summary": "竞争对手IKO在加拿大扩产XPS保温板，加剧北美市场竞争，需关注对中国玻璃棉、岩棉出口的替代影响。",
+          "country": "CA",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260630-99fdee42",
+          "title": "圣戈班在印度金奈新建玻璃与保温材料工厂，扩大制造版图",
+          "summary": "圣戈班在印度金奈新建玻璃棉等保温材料工厂，显示印度市场需求增长，可能加剧中国出口商在亚洲市场的竞争。",
+          "country": "IN",
+          "source": "Machine Maker",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}
