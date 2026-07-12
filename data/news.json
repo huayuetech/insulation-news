@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-11T23:14:16.302059+00:00",
-  "dailyDate": "2026-07-11",
+  "lastUpdated": "2026-07-12T11:34:53.710901+00:00",
+  "dailyDate": "2026-07-12",
   "totalSources": 13,
   "items": [
     {
@@ -1358,40 +1358,6 @@
       "relatedIds": [],
       "topic": "追踪Rockwool估值变化，研判行业周期",
       "substance": "low"
-    },
-    {
-      "id": "20260611-a879cb73",
-      "title": "卡塔尔自由区与中国企业合作在乌姆阿尔胡尔建设保温材料工厂",
-      "titleOriginal": "QFZ, Chinese firms join hands for insulation plant in Umm Alhoul",
-      "summary": "中企与卡塔尔自由区合建保温材料工厂，直接利好中国出口商海外布局。",
-      "category": "工程应用",
-      "materials": [
-        "保温材料"
-      ],
-      "applications": [],
-      "country": "QA",
-      "region": "中东",
-      "source": "Qatar Tribune",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjh0YlNHclM3Vk1wNmxlaFNLN1YzSE9MbGJabXM2YVNBTFJEUDZBdnhpZUxTNm9SYk9PZkZKWUdYT1RjdnFxY0dHNjktczJQU00yYkVQX2Y4a19qWmUxcVZINjdic3BYbk5EaXRBSks2Nm1DRUZKc3lGUTFRZTA3WVdwODRCNEVaOVBDZldZYmVmdlhacm5YUFRldktrMU5YVUR4a3dmZ3otYzlxTzk1MG9rdVRlSEYx0gG-AUFVX3lxTFB4dm85Y055WDdlVHlQWGg5YVNkb3V5SEdPckJzbTQwdGRrUTg2WlNkelZQeDMwbnpkdDBBemZRLVNFS0NmbXJnN2NEcFVUT2s1SGJKa3gta19zOFJ4SEpPZlRMSHkzeVhKWDViYnhQNFJEYXZPWk45Sk8xcEp1V1E2TjdnY2NWS0lPd0FmLWJsSzBDeHlzTUdDNl9XTVp4blE3Y1MtRXlTVXBaNl9QMzVJRmd6b01kZGtkS0Z4aUE?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-06-11",
-      "score": 81,
-      "featured": true,
-      "impact": "high",
-      "impactNote": "中国公司直接参与建厂，出口机会增加",
-      "dimensions": {
-        "relevance": 28,
-        "authority": 10,
-        "timeliness": 18,
-        "businessValue": 14,
-        "marketImpact": 11
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "卡塔尔保温材料本地化生产对中国出口的影响",
-      "substance": "high"
     }
   ]
 }
