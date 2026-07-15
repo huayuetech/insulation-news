@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-07-15T11:54:17.827758+00:00",
+  "lastUpdated": "2026-07-15T23:25:18.896527+00:00",
   "dailyDate": "2026-07-15",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260715-f9490611",
+      "title": "韩国建筑法修改将停车隔热市场导向大企业",
+      "titleOriginal": "Korea’s Building Act shift funnels parking insulation market to conglomerates - CHOSUNBIZ",
+      "summary": "韩国建筑法变更可能改变保温材料采购格局，中国出口商需关注大企业主导趋势。",
+      "category": "标准政策",
+      "materials": [],
+      "applications": [],
+      "country": "KR",
+      "region": "东亚",
+      "source": "Chosunbiz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0pJcmY2TUpIZFVDTGFGaHJuZ1BrZTdkSHZUQklZVm5hMFdHbXhXVWFtaVUwS3Q4ckdlMG5LWUhZZGs3Q1JnN240dFY2dTZnTTNVa1U1VDNtSnZMTGxwYm9kaXZackFQZ1o3Z0lyRjNFMzYwYzdPLTY5RnBxQTVlRnZB0gGWAUFVX3lxTE9EZmVjYVNLQlMwVGk2R1gydDFaWjZiWE9UWFhNUnZaSEZ6aHpZWE9lblFhSDJiS2VWanU0b1dPd0dCakROOEFqdmpGYi1DOUtUa1dnQ3pseHJrYm4wcDRpTFAwNV9ZSTVjWFppTE5QdkZzYm50dTFfbkJZNER6anNCTmVYOGdVSGhOSnpTcmViRGdwNFZpdw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-07-15",
+      "score": 64,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "法规变化影响市场准入结构",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪韩国建筑法对保温材料的影响"
+    },
     {
       "id": "20260715-6e437166",
       "title": "数据中心绝缘材料市场规模预测报告2026-2035",
