@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-07-15T23:25:18.896527+00:00",
-  "dailyDate": "2026-07-15",
+  "lastUpdated": "2026-07-16T11:56:38.816980+00:00",
+  "dailyDate": "2026-07-16",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260716-af77a964",
+      "title": "捷克Rockwool 2025年销售额微增但净亏损，运营成本上升6%",
+      "titleOriginal": "Rockwool Czech Republic raises sales in 2025",
+      "summary": "Rockwool捷克子公司2025年销售额9250万美元同比微增，但净亏损127万美元，反映成本压力，提示欧洲岩棉市场竞争加剧。",
+      "category": "市场价格",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "CZ",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2220-rockwool-czech-republic-raises-sales-in-2025",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-16",
+      "score": 77,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "竞争对手财务表现疲软，可能影响出口定价空间",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪Rockwool欧洲业绩，评估竞争态势"
+    },
     {
       "id": "20260715-f9490611",
       "title": "韩国建筑法修改将停车隔热市场导向大企业",
@@ -1456,72 +1490,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "欧洲节能建筑案例参考"
-    },
-    {
-      "id": "20260615-80ce89a4",
-      "title": "欧洲能源效率联盟回应2030年后能效法律框架证据征询",
-      "titleOriginal": "EPEE’s reply to the call for evidence on the Energy Efficiency legal framework after 2030",
-      "summary": "欧盟2030年后能效框架征询反馈，可能强化建筑保温要求，利好中国出口。",
-      "category": "标准政策",
-      "materials": [],
-      "applications": [],
-      "country": "EU",
-      "region": "欧洲",
-      "source": "EU BUILD UP",
-      "sourceUrl": "https://build-up.ec.europa.eu/en/resources-and-tools/publications/epees-reply-call-evidence-energy-efficiency-legal-framework-after",
-      "sourceTier": "T1",
-      "sourceType": "官方源",
-      "date": "2026-06-15",
-      "score": 76,
-      "substance": "high",
-      "featured": true,
-      "impact": "high",
-      "impactNote": "欧盟能效框架更新将影响保温材料标准与需求。",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 25,
-        "timeliness": 6,
-        "businessValue": 12,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "欧盟2030后能效政策对保温材料出口的机遇"
-    },
-    {
-      "id": "20260615-ec70dc7f",
-      "title": "帝人富瑞特将扩大松山工厂OCTAIR™保温纤维产能",
-      "titleOriginal": "Teijin Frontier To Expand Production Capacity For OCTAIR™ Insulation Fiber At Matsuyama Plant",
-      "summary": "日本帝人扩大化纤保温材料产能，可能影响全球保温材料竞争格局，对中国玻璃棉/岩棉出口构成替代威胁。",
-      "category": "产品与材料",
-      "materials": [
-        "保温纤维"
-      ],
-      "applications": [],
-      "country": "JP",
-      "region": "东亚",
-      "source": "Textile World",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR2xUM2RQZzNEZjVLc3BjLVJfbmVGV0NpeEhSQktFcDBLODI2VTJPUWZEekZaTzBqT0Vvc29RcnJQVmFOLU9MeF9WcnBGUVgzdVpKMnJhaFJoeGZlU0R4QlNYVkp1bjRkeUdZaXM1RTFaVmlvU0JmLTNyZGdXSGtYeHVFMFYyNEtLQW1NNkVZYktpUXZEOU82cDlrbkRSeF9seExJNlNVdWZyVXlLd2ctdC12WWxOcTJWbGRxbUhxVDZfRE1KTUljYU9jQnR6XzVkMENlZjdzdFYwVEZ1cnpvVC1RYXdUZUJEckxkTQ?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-06-15",
-      "score": 64,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "替代性保温材料产能扩张，需关注竞争态势。",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 18,
-        "businessValue": 8,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注OCTAIR纤维对传统保温材料的替代趋势"
     }
   ]
 }
