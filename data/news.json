@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-07-18T11:26:56.184810+00:00",
+  "lastUpdated": "2026-07-18T23:14:10.489755+00:00",
   "dailyDate": "2026-07-18",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260718-467abc1f",
+      "title": "圣戈班推出Isover CLIMA 34保温材料，专注节能屋顶保温",
+      "titleOriginal": "Isover Dämmung CLIMA 34 by Saint-Gobain - focus on energy-efficient roof insulation - ad-hoc-news.de",
+      "summary": "圣戈班发布Isover CLIMA 34屋顶保温产品，系常规新品推广，对我司出口业务直接影响有限。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMFZqZ0hlNGlJbktxYlE2LUUyUm1ubktVdXVScjdFZ1FSSEtLR2Z0cTBUUHlGUFJYOW16U3ZzQmpmR016TWpGMFdCcVBsNnpDNF81T0g1QjlmYzRSSDJaelVZQ2x3amJWdWZwa19UbHp1MG1HdUVqSnFZYV9VM3BmVFRVRzEya2VqVUJNQkk2ZlN1aDI5N3QyaC1sUk13cTFmR0MwQWEyNUkxQ05HajZaRmY2QnZ5LTRsNG5TLUJGa1FONWpKMm5PTnRB?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-07-18",
+      "score": 20,
+      "substance": "low",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 2,
+        "marketImpact": 3
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注竞品新品动向，可作对标参考"
+    },
     {
       "id": "20260716-af77a964",
       "title": "捷克Rockwool 2025年销售额微增但净亏损，运营成本上升6%",
