@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-07-20T12:27:56.077336+00:00",
+  "lastUpdated": "2026-07-20T23:27:50.779657+00:00",
   "dailyDate": "2026-07-20",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260720-1ea77e15",
+      "title": "持续改进对保温材料制造商满足未来住宅标准至关重要",
+      "titleOriginal": "Continuous improvement is vital for insulation manufacturers to meet the Future Homes Standard",
+      "summary": "英国未来住宅标准对保温性能要求提升，促使制造商持续技术改进，中国出口商需关注产品认证与升级。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GB",
+      "region": "欧洲",
+      "source": "Planning, Building & Construction Today",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSExqUElHcG15cmRMSnZSQjN6d2hnNkt5SFZkREdVQUVzS0VFdlVaOW9Sb3I5dkFUSDU4dkRKVHNvR2F1aThEWWszNUhyYkg3TGdXWEl0eExjRTg5eXJ1VWJkcmgxbVcyalN3MXJUX1lhSm9PQmFWRDdKQ3liWUtsM0lJQ05jSndFZnJPbmVtUnBrMktVcUJvRVY2XzRjZHhBQVpnSWRJb1pFOVFWUVN3Z2RfU0Q5dW16a1dsLWVrNXBqSkw4ZTRXeEF5NjdTMnlCVHZ2TGZQS1hWdw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-07-20",
+      "score": 60,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "需关注FHS标准认证与性能升级",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "英国FHS标准对保温材料的技术要求分析"
+    },
     {
       "id": "20260718-467abc1f",
       "title": "圣戈班推出Isover CLIMA 34保温材料，专注节能屋顶保温",
