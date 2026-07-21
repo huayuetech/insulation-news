@@ -1,8 +1,76 @@
 {
-  "lastUpdated": "2026-07-20T23:27:50.779657+00:00",
-  "dailyDate": "2026-07-20",
+  "lastUpdated": "2026-07-21T12:04:31.560621+00:00",
+  "dailyDate": "2026-07-21",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260721-2b5689e8",
+      "title": "英国弗林特郡议会批准可耐福岩棉工厂用地，计划投资2.12亿欧元",
+      "titleOriginal": "Local council approves land use for Knauf Insulation’s upcoming Shotton stone wool insulation plant",
+      "summary": "英国议会批准可耐福在迪赛德工业园建设岩棉工厂的土地使用权，将新增欧洲岩棉产能，加剧市场竞争。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GB",
+      "region": "欧洲",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2223-local-council-approves-land-use-for-knauf-insulation-s-upcoming-shotton-stone-wool-insulation-plant",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-21",
+      "score": 77,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "欧洲新增产能，竞争加剧",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 5,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪可耐福英国岩棉厂建设进展"
+    },
+    {
+      "id": "20260721-49d7839d",
+      "title": "金斯潘向爱尔兰创新博士项目捐赠300万欧元，支持可持续建材研究",
+      "titleOriginal": "Kingspan donates €3m to Innovate for Ireland doctoral programme",
+      "summary": "金斯潘捐赠300万欧元资助博士生研究建筑材料的可持续性，体现行业龙头对绿色技术的投入。",
+      "category": "企业展会",
+      "materials": [
+        "保温材料"
+      ],
+      "applications": [],
+      "country": "IE",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2222-kingspan-donates-3m-to-innovate-for-ireland-doctoral-programme",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-21",
+      "score": 56,
+      "substance": "high",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 2,
+        "marketImpact": 3
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注金斯潘可持续研发投入动向"
+    },
     {
       "id": "20260720-1ea77e15",
       "title": "持续改进对保温材料制造商满足未来住宅标准至关重要",
@@ -1348,40 +1416,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注收购后Xella保温产品线调整与市场策略"
-    },
-    {
-      "id": "20260620-0809dd24",
-      "title": "洛科威股票长期策略与保温需求分析",
-      "titleOriginal": "Rockwool Stock - long-term strategy and insulation demand",
-      "summary": "分析洛科威长期策略与绝缘材料需求，但缺乏具体数据，对出口商参考价值有限。",
-      "category": "技术观点",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "AD HOC NEWS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2ZRaHRvbXY1UEFsSmZUV1FCWXZXdzM4N0N5d0pkV1dPSUFpdVh5bGttb0VVY0hXUmhGZm1SbC1pUXgxa1hpRzQzNmVOdTV1OUtVTVQzbnYwNUExYXJXYmVPV1MxbFpLOXNMSFhHTHZ3bE9YdFJoUW96UXNEOXU3NVM4Skl6bmlHYXh6QkxSVElnRUJqejlTSFdHbVZSZEVYODE2dXNYaEJQdVRTWGJtek9sYjU?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-06-20",
-      "score": 18,
-      "substance": "low",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "泛泛分析，无直接行动信号",
-      "dimensions": {
-        "relevance": 10,
-        "authority": 10,
-        "timeliness": 20,
-        "businessValue": 2,
-        "marketImpact": 3
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注洛科威市场动态与竞争格局"
     }
   ]
 }
