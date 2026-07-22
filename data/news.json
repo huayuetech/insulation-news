@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T23:16:58.002257+00:00",
-  "dailyDate": "2026-07-21",
+  "lastUpdated": "2026-07-22T12:09:08.452326+00:00",
+  "dailyDate": "2026-07-22",
   "totalSources": 13,
   "items": [
     {
@@ -36,6 +36,40 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪可耐福英国岩棉厂建设进展"
+    },
+    {
+      "id": "20260721-3b18387c",
+      "title": "圣戈班推出Isover Ultimate Cladding，押注稳健外墙保温",
+      "titleOriginal": "The Isover Ultimate Cladding - Saint-Gobain bets on robust facade insulation - Ad-hoc-news.de",
+      "summary": "圣戈班发布新型外墙保温系统，强化高端市场布局，对中国出口商构成竞争压力。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUkF6LWZaWlJtTndoaDNaejZOUHJjZ0tLaTBqT2ZST1B1VzBudnF2THZBTERzMXlSRDhyZE90T29KbE5FVnhxODI0SG5vUzI3cjRkZk45MGN5cjU5MmpjV0k3a1R0d1N4YnpLSV94cEpQSWR2TWdONTJDd1RJQlZlRkQ2aDQxVFM3QjhTbGU2aFMwQ0NHLUJIcDI1VzY3bm92TU9wNXI0VzFyZzZ2R19GRGtiUHJlcE1iTnp1NmlkOA?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-07-21",
+      "score": 61,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "圣戈班高端产品可能挤压中国出口商份额",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注圣戈班新型外墙保温系统及市场影响"
     },
     {
       "id": "20260721-49d7839d",
