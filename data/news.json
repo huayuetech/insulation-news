@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-22T23:27:20.906578+00:00",
-  "dailyDate": "2026-07-22",
+  "lastUpdated": "2026-07-23T12:07:35.387925+00:00",
+  "dailyDate": "2026-07-23",
   "totalSources": 13,
   "items": [
     {
@@ -813,6 +813,40 @@
       "topic": "关注阿联酋建筑节能新规"
     },
     {
+      "id": "20260706-7a0900d4",
+      "title": "智能冷却新方向：将相变材料集成到建筑构件中实现节能热舒适",
+      "titleOriginal": "Towards smarter cooling: integrating phase change materials in building elements for energy-efficient thermal comfort",
+      "summary": "欧盟建筑平台探讨相变材料在建筑构件中的应用，为节能冷却提供新思路，值得中国保温材料出口商关注技术趋势。",
+      "category": "技术观点",
+      "materials": [
+        "相变材料"
+      ],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "EU BUILD UP",
+      "sourceUrl": "https://build-up.ec.europa.eu/en/resources-and-tools/articles/smarter-cooling-integrating-phase-change-materials-building-elements",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-07-06",
+      "score": 22,
+      "substance": "low",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "技术趋势跟踪，对产品创新有参考价值",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 25,
+        "timeliness": 6,
+        "businessValue": 5,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "相变材料在建筑冷却中的应用前景"
+    },
+    {
       "id": "20260706-f615bb33",
       "title": "洛克威ComfortBatt矿棉保温材料——防火隔音级",
       "titleOriginal": "The ROCKWOOL ComfortBatt. Mineral wool insulation rated for fire and sound",
@@ -1418,38 +1452,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "欧洲学校节能保温方案案例"
-    },
-    {
-      "id": "20260622-2b8693bb",
-      "title": "豪瑞完成18.5亿欧元收购Xella，扩大建筑解决方案组合",
-      "titleOriginal": "Holcim completes acquisition of Xella",
-      "summary": "瑞士水泥巨头豪瑞收购欧洲建材商Xella，预计2026年净销售额达10亿欧元，协同效应6000万欧元。",
-      "category": "企业展会",
-      "materials": [],
-      "applications": [],
-      "country": "DE",
-      "region": "欧洲",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2214-holcim-completes-acquisition-of-xella",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-06-22",
-      "score": 66,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "行业整合可能影响欧洲保温材料供应链格局",
-      "dimensions": {
-        "relevance": 15,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注收购后Xella保温产品线调整与市场策略"
     }
   ]
 }
