@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-07-24T11:57:46.563916+00:00",
+  "lastUpdated": "2026-07-24T23:29:41.779642+00:00",
   "dailyDate": "2026-07-24",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260724-87e1f43a",
+      "title": "圣戈班推出Isover Ultimate外墙卷毡岩棉产品用于工业建筑",
+      "titleOriginal": "The Isover Ultimate Cladding Roll by Saint-Gobain - rock wool insulation for industrial facades",
+      "summary": "圣戈班发布岩棉外墙卷毡新品，对中国岩棉出口商构成品牌竞争压力。",
+      "category": "产品与材料",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "AD HOC NEWS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVl84R3IyZi1qcXlfNExydWZWdkpXaWkybFpXZ3duYU1maGkybVZydEw4RzJlY1lsUkVoT0ZUckpyWjdfQUM1TjE1OXdaNXRaRjhEODVQUlhtc3g0bXdKRkw5R3F5SnFheHlFdm5FZ3BQdzVrVUhCWTZYU2kzZW1obmtTYVFHOVM3bV9OQS1jb1pxclZkTFdwMWZfNTVadXRZNjB4VHc1cVFhUUxDMUNSOWJTbjZsZ2c4MDJyV2tPVWRGYTRjdTRzZ2E4Mmc?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-07-24",
+      "score": 24,
+      "substance": "low",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 5,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注圣戈班新品对华出口竞争影响"
+    },
     {
       "id": "20260721-2b5689e8",
       "title": "英国弗林特郡议会批准可耐福岩棉工厂用地，计划投资2.12亿欧元",
