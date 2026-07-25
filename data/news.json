@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-07-24T23:29:41.779642+00:00",
-  "dailyDate": "2026-07-24",
+  "lastUpdated": "2026-07-25T11:39:23.439010+00:00",
+  "dailyDate": "2026-07-25",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260725-09843f3c",
+      "title": "越南Petrovietnam与大型银行签署2.77亿美元信贷协议，用于湄公河三角洲热电厂项目",
+      "titleOriginal": "Petrovietnam, top local banks sign $277 mln credit agreement for thermal power plant in Mekong Delta",
+      "summary": "越南国有石油公司与银行签署信贷协议，建设O Mon IV热电厂，可能带动保温材料采购需求。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/petrovietnam-top-local-banks-sign-277-mln-credit-agreement-for-thermal-power-plant-in-mekong-delta-d19632.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-07-25",
+      "score": 70,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "越南热电厂项目带来保温材料潜在需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注越南能源项目保温材料采购机会"
+    },
     {
       "id": "20260724-87e1f43a",
       "title": "圣戈班推出Isover Ultimate外墙卷毡岩棉产品用于工业建筑",
