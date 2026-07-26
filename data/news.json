@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T11:41:05.048141+00:00",
+  "lastUpdated": "2026-07-26T23:25:10.546676+00:00",
   "dailyDate": "2026-07-26",
   "totalSources": 13,
   "items": [
@@ -241,6 +241,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注竞品新品动向，可作对标参考"
+    },
+    {
+      "id": "20260717-61ea1227",
+      "title": "ASHRAE发布建筑脱碳与能效标准新框架",
+      "titleOriginal": "ASHRAE unveils new framework for building decarbonization and energy efficiency standards",
+      "summary": "ASHRAE新框架将推动美国建筑节能标准升级，利好中国保温材料出口商进入高端市场。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "American School & University",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWllxaHJ4MEpXeEZrUkV1Z0l3UHVDMUlhb05lUUhJOVVqdnlJREhadGxPN3hJTHVfaHVNelhmWjB5eVRlRnBUTU1VYkllSXpFT29JWWY4YkVmZFF0WFNtYXI4QjZDeG55UXg3eko0cU1fV25RZHFjZVh4ZXBteUZKTWkxdHVaRTRaVmsyNUxlTmU3WDJYZkZmOFJGVl9Qb1JNZk5jb29vY2U2OXU3SWo5bXpETlNYeU1Vd1oyVWFpQnVtWExqX0VQbGM4MTg1dVNwOXlGV2diNnFlb3pxX3owSVFuTlBaOTFqcXBKZ0tUTDU4UQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-07-17",
+      "score": 67,
+      "substance": "high",
+      "featured": false,
+      "impact": "high",
+      "impactNote": "标准升级将带动保温材料需求增长",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 13,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪ASHRAE标准更新，提前布局认证"
     },
     {
       "id": "20260716-af77a964",
