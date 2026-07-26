@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-25T23:24:36.908024+00:00",
-  "dailyDate": "2026-07-25",
+  "lastUpdated": "2026-07-26T11:41:05.048141+00:00",
+  "dailyDate": "2026-07-26",
   "totalSources": 13,
   "items": [
     {
@@ -1453,73 +1453,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注圣戈班HVAC保温新品的技术特点"
-    },
-    {
-      "id": "20260625-a7cf44e8",
-      "title": "越南Vinhomes计划发行5.7亿美元私募债券以资助项目",
-      "titleOriginal": "Vinhomes plans up to $570 mln private bond issue to fund projects",
-      "summary": "越南最大地产商Vinhomes大规模融资，预示其住宅项目对保温材料有潜在需求，利好中国出口商。",
-      "category": "工程应用",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "VN",
-      "region": "东南亚",
-      "source": "The Investor (Vietnam)",
-      "sourceUrl": "https://theinvestor.vn/vinhomes-plans-up-to-570-mln-private-bond-issue-to-fund-projects-d19402.html",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-06-25",
-      "score": 70,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "越南大型项目增加，保温材料需求可能上升。",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注越南大型地产项目保温材料采购机会"
-    },
-    {
-      "id": "20260625-0f17229f",
-      "title": "学校被动冷却与热舒适：Poissy案例研究",
-      "titleOriginal": "Passive cooling and thermal comfort in schools: the Poissy case study",
-      "summary": "法国学校被动冷却案例研究，展示建筑保温与热舒适结合，为欧洲学校节能改造提供参考。",
-      "category": "工程应用",
-      "materials": [],
-      "applications": [],
-      "country": "EU",
-      "region": "欧洲",
-      "source": "EU BUILD UP",
-      "sourceUrl": "https://build-up.ec.europa.eu/en/resources-and-tools/articles/passive-cooling-and-thermal-comfort-schools-poissy-case-study",
-      "sourceTier": "T1",
-      "sourceType": "官方源",
-      "date": "2026-06-25",
-      "score": 48,
-      "substance": "medium",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "案例参考价值有限，无直接出口信号",
-      "dimensions": {
-        "relevance": 18,
-        "authority": 25,
-        "timeliness": 6,
-        "businessValue": 3,
-        "marketImpact": 4
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "欧洲学校节能保温方案案例"
     }
   ]
 }
