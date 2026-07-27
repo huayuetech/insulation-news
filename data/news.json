@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-26T23:25:10.546676+00:00",
-  "dailyDate": "2026-07-26",
+  "lastUpdated": "2026-07-27T13:23:11.534354+00:00",
+  "dailyDate": "2026-07-27",
   "totalSources": 13,
   "items": [
     {
@@ -1185,6 +1185,38 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟进欧盟能效数据协调对保温材料出口影响"
+    },
+    {
+      "id": "20260702-b054fff1",
+      "title": "整合‘冷却阶梯’：夏季热舒适与防止过热",
+      "titleOriginal": "Integrating the ‘Ladder of Cooling’: summer thermal comfort and prevent overheating",
+      "summary": "欧盟平台探讨通过建筑隔热设计整合冷却阶梯，提升夏季热舒适并防止过热，提示欧洲市场对保温材料的新需求方向。",
+      "category": "技术观点",
+      "materials": [],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "EU BUILD UP",
+      "sourceUrl": "https://build-up.ec.europa.eu/en/resources-and-tools/publications/integrating-ladder-cooling-summer-thermal-comfort-and-prevent",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-07-02",
+      "score": 26,
+      "substance": "low",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "欧洲建筑节能标准趋严，利好保温材料出口",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 25,
+        "timeliness": 6,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注欧洲被动式隔热与主动冷却结合趋势"
     },
     {
       "id": "20260701-ee62a023",
