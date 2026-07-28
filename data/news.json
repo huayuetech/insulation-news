@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-27T23:30:30.464290+00:00",
-  "dailyDate": "2026-07-27",
+  "lastUpdated": "2026-07-28T12:17:18.774043+00:00",
+  "dailyDate": "2026-07-28",
   "totalSources": 13,
   "items": [
     {
@@ -1217,6 +1217,38 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注欧洲被动式隔热与主动冷却结合趋势"
+    },
+    {
+      "id": "20260702-402be6a7",
+      "title": "PEEB助力能源共同体EECG会议深化建筑能效区域合作",
+      "titleOriginal": "PEEB contributes to regional cooperation on building energy efficiency at the Energy Community’s EECG meeting",
+      "summary": "PEEB项目在能源共同体会议上推动建筑能效合作，间接影响保温材料出口商关注区域政策动向。",
+      "category": "工程应用",
+      "materials": [],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "EU BUILD UP",
+      "sourceUrl": "https://build-up.ec.europa.eu/en/news-and-events/news/peeb-contributes-regional-cooperation-building-energy-efficiency-energy",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-07-02",
+      "score": 15,
+      "substance": "low",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 5,
+        "authority": 25,
+        "timeliness": 6,
+        "businessValue": 1,
+        "marketImpact": 1
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "区域建筑能效合作动态"
     },
     {
       "id": "20260701-ee62a023",
