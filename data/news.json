@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T12:25:37.398442+00:00",
+  "lastUpdated": "2026-07-29T23:27:03.641939+00:00",
   "dailyDate": "2026-07-29",
   "totalSources": 13,
   "items": [
@@ -509,6 +509,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "西卡新品对施工效率提升"
+    },
+    {
+      "id": "20260714-53e7c70d",
+      "title": "建筑保温材料市场规模报告2035年发布",
+      "titleOriginal": "Building Thermal Insulation Market Size, Share Report 2035",
+      "summary": "市场研究机构发布建筑保温材料市场长期预测，为出口商提供战略参考。",
+      "category": "市场价格",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "Market Research Future",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NadUxzeW1YN3dyci1xMjB1QlF6QXZyUFY4UjE0ZTMtdHJMUkFJaTRtRXFFTTVzSHBweXNzd0R5SkpWNlFzX0dLdEQ2TEhJeUtnOUhSdmlQN0pXNS1Ba01Bc1kxWFlRWnNNTUx3R0FBMjVJM2pqZUEzYTdqSElHYU84QkE3ejFrT3A3LQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-07-14",
+      "score": 47,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "市场数据可辅助出口决策，非直接订单信号",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注2035年保温材料市场增长趋势"
     },
     {
       "id": "20260713-95aa7743",
