@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-07-28T23:27:11.521773+00:00",
-  "dailyDate": "2026-07-28",
+  "lastUpdated": "2026-07-29T12:25:37.398442+00:00",
+  "dailyDate": "2026-07-29",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260729-99f20f96",
+      "title": "马里兰州因缩减能效计划及拟议建筑规范变更面临批评",
+      "titleOriginal": "Maryland Faces Criticism Over Scaled-Back Energy Efficiency Program and Proposed Building Code Changes",
+      "summary": "美国马里兰州调整建筑节能法规，可能提升保温材料需求，为出口企业创造新契机。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "Inside Climate News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3FvUmN5RGhWcmlEeG9Zb2ZWbGNxTF9WQWtKZmphZDZ4cjZvbTY1RTRDTzEwWkJpdGZRVW1zMjh0Q2hwelR1YjQ1X2ZsaFJpc1FudWw0d2NjOVNVWjVMUUttVUluendiejQwdnFrSTdRLTd4VElONWZEV2JIdnFZeTRZRDBxaHBueW1ndXdzS19jSVdCTUE?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-07-29",
+      "score": 73,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "建筑节能标准趋严，利好保温材料出口。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪马里兰州建筑规范最终修订动态"
+    },
     {
       "id": "20260725-09843f3c",
       "title": "越南Petrovietnam与大型银行签署2.77亿美元信贷协议，用于湄公河三角洲热电厂项目",
@@ -1518,40 +1553,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "欧盟建筑气候韧性政策对保温材料出口的影响"
-    },
-    {
-      "id": "20260628-1a92371a",
-      "title": "圣戈班推出ISOVER CLIMCOVER Roll Alu2柔性HVAC保温卷材",
-      "titleOriginal": "ISOVER CLIMCOVER Roll Alu2 from Saint-Gobain - flexible HVAC insulation for tight spaces",
-      "summary": "圣戈班发布针对狭小空间的柔性HVAC保温新品，对出口商在细分应用领域竞争形成压力。",
-      "category": "产品与材料",
-      "materials": [
-        "玻璃棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "AD HOC NEWS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOFpMNzBsWi1ZSnVCaXVmN1hRMWNQeHlZOVJiVVptSHhKemlwZTRGTFI3V1pqLVhLSE1acFowd1NtdzMyU1Ffa0dfZkVab2RBTWtyY2JTNk9VX01Rc0pzOEJMRE5IYm9jbW5hRklmSk1GQUdXc3NfT21hZU9sRU5nUEhLeEctZS0wakFVUmZ0TnJOYnJDcC1rbHJmREtnVUtZYlljNk1LRUJfcmg1UVZYOGlSWEJCdlBiX2U1dzNHZk05MkZvd2hV?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-06-28",
-      "score": 58,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "细分市场竞争加剧",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 18,
-        "businessValue": 5,
-        "marketImpact": 5
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注圣戈班HVAC保温新品的技术特点"
     }
   ]
 }
