@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T12:09:03.430084+00:00",
+  "lastUpdated": "2026-07-30T23:29:10.985559+00:00",
   "dailyDate": "2026-07-30",
   "totalSources": 13,
   "items": [
@@ -211,6 +211,41 @@
       "topic": "关注越南能源项目保温材料采购机会"
     },
     {
+      "id": "20260724-46df3eff",
+      "title": "印尼发布清洁水泵最低能效标准第212/2026号法令",
+      "titleOriginal": "Indonesia Issues Energy Efficiency Standards for Clean Water Pumps",
+      "summary": "印尼出台水泵能效新标，可能带动配套保温材料需求，利好中国玻璃棉、岩棉出口。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "ID",
+      "region": "东南亚",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/southeast-asia/id/report_16792",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-07-24",
+      "score": 60,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "能效标准间接利好保温材料配套出口。",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 10,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注印尼能效标准对保温材料配套需求影响"
+    },
+    {
       "id": "20260724-87e1f43a",
       "title": "圣戈班推出Isover Ultimate外墙卷毡岩棉产品用于工业建筑",
       "titleOriginal": "The Isover Ultimate Cladding Roll by Saint-Gobain - rock wool insulation for industrial facades",
@@ -345,6 +380,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注金斯潘可持续研发投入动向"
+    },
+    {
+      "id": "20260721-847f6ff6",
+      "title": "Weidmann投资1.5亿美元扩建俄亥俄州变压器绝缘材料工厂",
+      "titleOriginal": "Weidmann Invests $150 Million To Expand Transformer Insulation Materials Manufacturing Facility In Ohio",
+      "summary": "海外变压器绝缘材料扩产，反映电力设备需求增长，间接利好中国玻璃棉、岩棉出口。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "megaproject.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSVVYNDVfbGN1ek5GdjJMQkpNaUdJWEFFRlJ0bWtQdklKSUs3bF9Pc2lyUEIzdzVVVFBLMnp2UjdiYUF5WFFyS2tqQVYtTmtKYVlXRWJLczhhQm15bXJzR2VtNXlPb3JVWWtRbjdsb01qRTRMX1pRdkdka2lqNkRCVHlXazN2dDNtVGxoekhoS1JCSzZDVENtRTBNQ0RuVVB2OXlCdXVGVk5tX3dKa05xT0RqOWdTb1RoNjFwcThOajYwWloxWFR6WW1kZEZhem1kY0FPMHl3?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-07-21",
+      "score": 46,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "电力设备扩产带动保温材料需求。",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 7,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注美国电力设备投资对保温材料需求拉动"
     },
     {
       "id": "20260720-1ea77e15",
