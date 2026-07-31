@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-30T23:29:10.985559+00:00",
-  "dailyDate": "2026-07-30",
+  "lastUpdated": "2026-07-31T12:23:04.810809+00:00",
+  "dailyDate": "2026-07-31",
   "totalSources": 13,
   "items": [
     {
@@ -1628,74 +1628,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注阿联酋高端住宅项目保温材料需求"
-    },
-    {
-      "id": "20260630-13e09194",
-      "title": "欧洲建筑围护结构联盟成立以加强创新",
-      "titleOriginal": "Building Envelope Alliance launched to strengthen innovation in building envelopes across Europe",
-      "summary": "欧洲成立建筑围护结构联盟，推动围护结构创新，可能影响保温材料技术标准与市场准入。",
-      "category": "标准政策",
-      "materials": [
-        "保温材料"
-      ],
-      "applications": [],
-      "country": "EU",
-      "region": "欧洲",
-      "source": "EU BUILD UP",
-      "sourceUrl": "https://build-up.ec.europa.eu/en/news-and-events/news/building-envelope-alliance-launched-strengthen-innovation-building-envelopes",
-      "sourceTier": "T1",
-      "sourceType": "官方源",
-      "date": "2026-06-30",
-      "score": 83,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "联盟或推动新标准，需跟踪动态。",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 25,
-        "timeliness": 18,
-        "businessValue": 7,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪欧洲建筑围护结构创新动态"
-    },
-    {
-      "id": "20260630-99fdee42",
-      "title": "圣戈班在印度金奈新建玻璃与保温材料工厂，扩大制造版图",
-      "titleOriginal": "Saint-Gobain Expands Manufacturing Footprint in India with New Glass and Insulation Plants in Chennai",
-      "summary": "圣戈班在印度金奈新建玻璃棉等保温材料工厂，显示印度市场需求增长，可能加剧中国出口商在亚洲市场的竞争。",
-      "category": "企业展会",
-      "materials": [
-        "玻璃棉"
-      ],
-      "applications": [],
-      "country": "IN",
-      "region": "南亚",
-      "source": "Machine Maker",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNG9qcnJfZU1nclpXSUxkckQxQW5JblkxQml3Q2s1c3FBYzZ0RXhxbGFNSmhhcjNFenRNNl9SWWxGemtaaEJVVXVqcGhRM2NiRm9FOV9xeTNPbTQxX203em1VZXg3UTNJaXBESjJhUVdNZlJORU4yMzBVYW1PTU9GeWszRlJhVWdpVjRVa2NjNzNNbmpQN0tVZ2NBVTRiTHRBOWlvMF9hWHNqZGl2MWdEdDFTTExscnFOa09EaF9OaUdHdXJKZGlMNXJn?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-06-30",
-      "score": 73,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "竞争对手扩产，可能影响中国对印出口份额",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 10,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 10
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注圣戈班印度布局对亚洲保温材料竞争格局的影响"
     }
   ]
 }
