@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-08-01T11:37:24.777428+00:00",
+  "lastUpdated": "2026-08-01T23:23:27.800708+00:00",
   "dailyDate": "2026-08-01",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260801-eca0c240",
+      "title": "越南Vingroup联合体提议35亿美元河内双子塔地标",
+      "titleOriginal": "Vingroup-backed consortium proposes $3.5 bln twin-tower landmark in Hanoi",
+      "summary": "越南Vingroup相关联合体提议在河内建设35亿美元双子塔，若获批将成为全球最高双子塔，需关注潜在保温材料需求。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/vingroup-backed-consortium-proposes-35-bln-twin-tower-landmark-in-hanoi-d19695.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-08-01",
+      "score": 68,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "大型项目带来潜在保温采购需求，但尚在提案阶段",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 9,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪项目进展，提前布局越南市场"
+    },
     {
       "id": "20260730-eb9ab09f",
       "title": "Masterplast 2026上半年销售额同比增长53%，营收1.01亿欧元",
