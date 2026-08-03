@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-02T23:24:14.570580+00:00",
-  "dailyDate": "2026-08-02",
+  "lastUpdated": "2026-08-03T13:21:39.388691+00:00",
+  "dailyDate": "2026-08-03",
   "totalSources": 13,
   "items": [
     {
@@ -1295,73 +1295,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注洛克威尔新品动向"
-    },
-    {
-      "id": "20260703-6d3de57d",
-      "title": "Ceresana发布全球保温材料市场分析报告",
-      "titleOriginal": "Ceresana Analyzes the Global Insulation Materials Market",
-      "summary": "专业市场研究为出口商提供全球保温材料供需与价格趋势参考，辅助战略决策。",
-      "category": "市场价格",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "AZoBuild",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDWDNaSjlXSmpOZWhnVEpvUTlKeE9CbnlzZlhoZDByb1EwM3BqQzBobV9KQkZFNWlhV0t0RG9JV0hscExWZEZLQ1dKSGdYN1lUZmRNVTlJbW4zVms?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-03",
-      "score": 62,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "提供全球市场趋势，辅助出口决策",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 10,
-        "timeliness": 20,
-        "businessValue": 10,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注Ceresana保温材料市场报告数据"
-    },
-    {
-      "id": "20260703-eac3606c",
-      "title": "迪拜及全球长寿住宅或将重新定义奢华生活",
-      "titleOriginal": "Longevity-Led Homes Could Redefine Luxury Living In Dubai And Beyond",
-      "summary": "文章探讨健康设计住宅趋势，未直接涉及保温材料，但可能影响高端建筑保温需求。",
-      "category": "技术观点",
-      "materials": [],
-      "applications": [],
-      "country": "AE",
-      "region": "中东",
-      "source": "CBNME",
-      "sourceUrl": "https://www.cbnme.com/expert-insight/longevity-led-homes-could-redefine-luxury-living-in-dubai-and-beyond/",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-07-03",
-      "score": 18,
-      "substance": "low",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 10,
-        "authority": 16,
-        "timeliness": 14,
-        "businessValue": 2,
-        "marketImpact": 2
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注迪拜高端住宅市场趋势"
     }
   ]
 }
