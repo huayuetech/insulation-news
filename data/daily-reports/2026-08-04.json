@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T12:22:03.887231+00:00",
+  "sections": [
+    {
+      "title": "政策法规变动",
+      "icon": "policy",
+      "items": [
+        {
+          "id": "20260710-a344bc20",
+          "title": "新加坡发布四项节能附属法规（2026年能源节约法）",
+          "summary": "新加坡2026年6月发布四项节能附属法规，涉及最低能效标准（MEPS），将影响保温材料在建筑节能中的应用要求。",
+          "country": "SG",
+          "source": "Enviliance ASIA",
+          "impact": "high"
+        },
+        {
+          "id": "20260729-99f20f96",
+          "title": "马里兰州因缩减能效计划及拟议建筑规范变更面临批评",
+          "summary": "美国马里兰州调整建筑节能法规，可能提升保温材料需求，为出口企业创造新契机。",
+          "country": "US",
+          "source": "Inside Climate News",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "产品与材料动态",
+      "icon": "product",
+      "items": [
+        {
+          "id": "20260804-c5256a56",
+          "title": "塔吉克斯坦图尔松佐达新岩棉隔热厂投产",
+          "summary": "塔吉克斯坦一家私营公司新岩棉厂产出首批产品，原料来自当地玄武岩，对中亚市场供应格局有影响。",
+          "country": "TJ",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "市场价格信号",
+      "icon": "market",
+      "items": [
+        {
+          "id": "20260716-af77a964",
+          "title": "捷克Rockwool 2025年销售额微增但净亏损，运营成本上升6%",
+          "summary": "Rockwool捷克子公司2025年销售额9250万美元同比微增，但净亏损127万美元，反映成本压力，提示欧洲岩棉市场竞争加剧。",
+          "country": "CZ",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260707-e25e6eb9",
+          "title": "Ceresana发布《世界保温材料报告2026》：PUR/PIR增长最快，全球市场至2035年达660Mm³",
+          "summary": "报告预测聚氨酯和聚异氰脲酸酯保温材料需求增速领先，中国出口商可关注此细分市场机会。",
+          "country": "GLOBAL",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "工程与应用案例",
+      "icon": "project",
+      "items": [
+        {
+          "id": "20260710-c2ef8dc3",
+          "title": "沙特国王萨勒曼国际机场将招标两项基础设施合同",
+          "summary": "沙特国王萨勒曼国际机场（57平方公里）即将招标基础设施合同，大型机场建设将催生大量保温材料需求。",
+          "country": "SA",
+          "source": "MEP Middle East",
+          "impact": "high"
+        },
+        {
+          "id": "20260721-2b5689e8",
+          "title": "英国弗林特郡议会批准可耐福岩棉工厂用地，计划投资2.12亿欧元",
+          "summary": "英国议会批准可耐福在迪赛德工业园建设岩棉工厂的土地使用权，将新增欧洲岩棉产能，加剧市场竞争。",
+          "country": "GB",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260710-bd2e8f10",
+          "title": "越南Becamex成立子公司推进1.76亿美元宁春1号工业园项目",
+          "summary": "越南大型工业地产商Becamex设立全资子公司，推进中部庆和省1.76亿美元工业园项目，预示当地工业建筑保温材料需求增长。",
+          "country": "VN",
+          "source": "The Investor (Vietnam)",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}
