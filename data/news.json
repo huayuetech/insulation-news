@@ -1,8 +1,76 @@
 {
-  "lastUpdated": "2026-08-05T23:25:48.286950+00:00",
-  "dailyDate": "2026-08-05",
+  "lastUpdated": "2026-08-06T12:22:50.164187+00:00",
+  "dailyDate": "2026-08-06",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260806-bec4d4d3",
+      "title": "可耐福在克罗地亚投产年产6万吨电熔岩棉生产线",
+      "titleOriginal": "Knauf Group commissions 60,000t/yr electric melting line at Novi Marof stone wool insulation plant",
+      "summary": "可耐福投资1.2亿欧元在克罗地亚Novi Marof投产年产6万吨电熔岩棉线，可回收50%原料，增强欧洲供应。",
+      "category": "企业展会",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "HR",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2229-knauf-group-commissions-60-000t-yr-electric-melting-line-at-novi-marof-stone-wool-insulation-plant",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-08-06",
+      "score": 82,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "欧洲岩棉供给增加，全球竞争加剧",
+      "dimensions": {
+        "relevance": 30,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 6,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "可耐福新岩棉线投产，关注电熔技术趋势"
+    },
+    {
+      "id": "20260806-415faa57",
+      "title": "中资背景投资集团拟在乌兹别克斯坦建设保温板工厂",
+      "titleOriginal": "Wonderful International Investment Group plans Nurafshon insulation plant",
+      "summary": "中资Wonderful International投资集团与塔什干州政府会谈，拟在努拉夫尚建设保温板工厂，布局中亚市场。",
+      "category": "企业展会",
+      "materials": [
+        "保温板"
+      ],
+      "applications": [],
+      "country": "UZ",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2228-wonderful-international-investment-group-plans-nurafshon-insulation-plant",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-08-06",
+      "score": 67,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "中亚本地化生产或替代部分中国出口需求",
+      "dimensions": {
+        "relevance": 30,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 7,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "中资布局中亚保温板产能，关注乌兹别克斯坦市场"
+    },
     {
       "id": "20260804-c5256a56",
       "title": "塔吉克斯坦图尔松佐达新岩棉隔热厂投产",
@@ -1263,106 +1331,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "评估特朗普政策对保温出口的潜在冲击"
-    },
-    {
-      "id": "20260706-674f872c",
-      "title": "阿布扎比发布建筑冷却负荷手册以提升能效",
-      "titleOriginal": "Abu Dhabi Launches Cooling Load Manual to Improve Energy Efficiency in Buildings",
-      "summary": "阿布扎比发布冷却负荷手册，优化空调设计，节能降本，对保温材料出口商意味着建筑节能标准趋严，利好保温材料需求。",
-      "category": "标准政策",
-      "materials": [],
-      "applications": [],
-      "country": "AE",
-      "region": "中东",
-      "source": "MEP Middle East",
-      "sourceUrl": "https://www.mepmiddleeast.com/news/abu-dhabi-launches-cooling-load-manual-to-improve-energy-efficiency-in-buildings",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-07-06",
-      "score": 63,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "能效标准提高将带动保温材料需求",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 10,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注阿联酋建筑节能新规"
-    },
-    {
-      "id": "20260706-7a0900d4",
-      "title": "智能冷却新方向：将相变材料集成到建筑构件中实现节能热舒适",
-      "titleOriginal": "Towards smarter cooling: integrating phase change materials in building elements for energy-efficient thermal comfort",
-      "summary": "欧盟建筑平台探讨相变材料在建筑构件中的应用，为节能冷却提供新思路，值得中国保温材料出口商关注技术趋势。",
-      "category": "技术观点",
-      "materials": [
-        "相变材料"
-      ],
-      "applications": [],
-      "country": "EU",
-      "region": "欧洲",
-      "source": "EU BUILD UP",
-      "sourceUrl": "https://build-up.ec.europa.eu/en/resources-and-tools/articles/smarter-cooling-integrating-phase-change-materials-building-elements",
-      "sourceTier": "T1",
-      "sourceType": "官方源",
-      "date": "2026-07-06",
-      "score": 22,
-      "substance": "low",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "技术趋势跟踪，对产品创新有参考价值",
-      "dimensions": {
-        "relevance": 15,
-        "authority": 25,
-        "timeliness": 6,
-        "businessValue": 5,
-        "marketImpact": 5
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "相变材料在建筑冷却中的应用前景"
-    },
-    {
-      "id": "20260706-f615bb33",
-      "title": "洛克威ComfortBatt矿棉保温材料——防火隔音级",
-      "titleOriginal": "The ROCKWOOL ComfortBatt. Mineral wool insulation rated for fire and sound",
-      "summary": "洛克威尔推出ComfortBatt矿棉产品，主打防火隔音，但为产品推广软文，实质性低。",
-      "category": "产品与材料",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "AD HOC NEWS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2d2YXNIczBWbHU0Ym5fUVk4THRMN1B6NEtjUkNvTDFFODRMQXJSa1J1Y2I2ZXIzcy1JTUNjc0lHX0lWZnk4NHhSdnp2OEZNWXNoMDcxRjlSTGNNQ0dCX2VjMl9kMDlaaDBvVHhPaG1jdlRybmhmaldGM0dXbWo2cGNiUzJjMVhIcm5zRlZPQlplRjd1YzFFMG1JS2xrdktXM0RvWUFQVDA4Q2E4REtZWW9zTDJVWlRyVExaS29DNkZVQ1hiUUFoUjU5Mng?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-06",
-      "score": 20,
-      "substance": "low",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 15,
-        "authority": 10,
-        "timeliness": 20,
-        "businessValue": 3,
-        "marketImpact": 2
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注洛克威尔新品动向"
     }
   ]
 }
