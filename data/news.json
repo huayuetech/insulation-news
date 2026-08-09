@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-08T22:51:59.799609+00:00",
-  "dailyDate": "2026-08-08",
+  "lastUpdated": "2026-08-09T10:57:31.927522+00:00",
+  "dailyDate": "2026-08-09",
   "totalSources": 13,
   "items": [
     {
@@ -1131,70 +1131,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注Rockwool财报与市场策略"
-    },
-    {
-      "id": "20260709-7a3f4c75",
-      "title": "建筑能效标准延迟对商业造成巨大打击",
-      "titleOriginal": "Building energy efficiency standard delays are an enormous blow for businesses",
-      "summary": "美国建筑能效标准推迟实施，可能短期抑制保温材料需求，出口商需调整策略。",
-      "category": "标准政策",
-      "materials": [],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "BusinessGreen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjJFdHlWVzQ3Mm9oRkFhbkhab3Y3bFFBMlZkbGdqR2NrRXhFcVk3WUpwUnZjSjVSa1VpSWtIcHJRS3lmZWkydHd6MjVVWVlXUHVQZ0l1ZDF1UkwtTmtRLTBxZnVBZVVjbk1zVnRLYUJwVXo4T1l0NUZpa0x6a0ZvYkUtb0ltc1E2SXJvMUk2cHliZm5UQ0l3RWJEZTh5eU9DbFkyNXh4d3NFZGlpSTlLbzd2NA?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-09",
-      "score": 53,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "标准延迟可能导致需求放缓",
-      "dimensions": {
-        "relevance": 22,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 8,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "分析标准延迟对保温出口的影响"
-    },
-    {
-      "id": "20260709-31f39c09",
-      "title": "政府模糊计算将削弱能效节约成果",
-      "titleOriginal": "Administration’s Fuzzy Math Will Undermine Energy Efficiency Savings",
-      "summary": "美国能源效率分析存疑，可能削弱节能政策，影响保温材料市场预期。",
-      "category": "标准政策",
-      "materials": [],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "Mother Jones",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeEZPTm9ESll2eHZpZHZkZk5sUDVTNmV4LUlwLTZ1Wi00dGhPdjJpSERudHV4SjZiQmNXQTNPWUhJT0Vsb1h6VU11aEEwWkZCbDJ4V2FMMmlKYkhLSmhiLXJlN3BoOXFKYXFPZFozQnRGWU42a3dvb3JKbmt1eTN3MGthbVBFS2tueU9HZEFGXzlxdEw2NUlLcjM0WUJXQjl0OHJLNTY1d1dVSVZhdkRoZXZURDhDSlpMLUZOZlhIVU9jb01LOEZ0NWJlZllqdUhjU0Z3SmJkQVZBX1VuYS0zeU5xWmVQMEx3Q1FBQ3hlQlh1QWxI?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-09",
-      "score": 49,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "政策不确定性增加市场风险",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 7,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注美国能效政策计算方式变化"
     }
   ]
 }
