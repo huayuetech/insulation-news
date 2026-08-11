@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T11:09:59.700197+00:00",
+  "sections": [
+    {
+      "title": "政策法规变动",
+      "icon": "policy",
+      "items": [
+        {
+          "id": "20260729-99f20f96",
+          "title": "马里兰州因缩减能效计划及拟议建筑规范变更面临批评",
+          "summary": "美国马里兰州调整建筑节能法规，可能提升保温材料需求，为出口企业创造新契机。",
+          "country": "US",
+          "source": "Inside Climate News",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "产品与材料动态",
+      "icon": "product",
+      "items": [
+        {
+          "id": "20260804-c5256a56",
+          "title": "塔吉克斯坦图尔松佐达新岩棉隔热厂投产",
+          "summary": "塔吉克斯坦一家私营公司新岩棉厂产出首批产品，原料来自当地玄武岩，对中亚市场供应格局有影响。",
+          "country": "TJ",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "市场价格信号",
+      "icon": "market",
+      "items": [
+        {
+          "id": "20260716-af77a964",
+          "title": "捷克Rockwool 2025年销售额微增但净亏损，运营成本上升6%",
+          "summary": "Rockwool捷克子公司2025年销售额9250万美元同比微增，但净亏损127万美元，反映成本压力，提示欧洲岩棉市场竞争加剧。",
+          "country": "CZ",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "工程与应用案例",
+      "icon": "project",
+      "items": [
+        {
+          "id": "20260721-2b5689e8",
+          "title": "英国弗林特郡议会批准可耐福岩棉工厂用地，计划投资2.12亿欧元",
+          "summary": "英国议会批准可耐福在迪赛德工业园建设岩棉工厂的土地使用权，将新增欧洲岩棉产能，加剧市场竞争。",
+          "country": "GB",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "企业与展会动态",
+      "icon": "company",
+      "items": [
+        {
+          "id": "20260806-bec4d4d3",
+          "title": "可耐福在克罗地亚投产年产6万吨电熔岩棉生产线",
+          "summary": "可耐福投资1.2亿欧元在克罗地亚Novi Marof投产年产6万吨电熔岩棉线，可回收50%原料，增强欧洲供应。",
+          "country": "HR",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}
