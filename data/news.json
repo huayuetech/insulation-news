@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T11:09:59.700197+00:00",
+  "lastUpdated": "2026-08-11T23:07:34.859521+00:00",
   "dailyDate": "2026-08-11",
   "totalSources": 13,
   "items": [
@@ -788,6 +788,38 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪韩国建筑法对保温材料的影响"
+    },
+    {
+      "id": "20260715-c491e89e",
+      "title": "建筑能源法规处于十字路口",
+      "titleOriginal": "Building energy codes at a crossroads",
+      "summary": "美国绿色建筑委员会发文探讨建筑能源法规走向，可能影响建筑保温材料需求与标准。",
+      "category": "标准政策",
+      "materials": [],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "USGBC | U.S. Green Building Council",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYVV9ObDl4T3RWdmJQTUUyeXo3MGNMc2tmaW8xUDJScEFKYlRROVhpMGJ5SjVWV2x1amFrSWVrUTM3d045aVplM3pjNksycW9HbF9UMEJuY3FlMG9jREZmRS1hOXN0djc4OHNOZmFaQXE?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-07-15",
+      "score": 20,
+      "substance": "low",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "法规方向影响保温材料市场需求，需跟踪政策变化。",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 6,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注美国建筑节能法规动态对保温出口的影响"
     },
     {
       "id": "20260715-6e437166",
