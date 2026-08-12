@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T11:13:14.788435+00:00",
+  "lastUpdated": "2026-08-12T23:06:36.512042+00:00",
   "dailyDate": "2026-08-12",
   "totalSources": 13,
   "items": [
@@ -311,6 +311,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪马里兰州建筑规范最终修订动态"
+    },
+    {
+      "id": "20260727-9b05d356",
+      "title": "隔音保温材料市场规模、份额及增长报告[2034]",
+      "titleOriginal": "Acoustic Insulation Market Size, Share | Growth Report [2034]",
+      "summary": "全球声学隔音保温材料市场报告发布，预测至2034年增长，可作中国玻璃棉、岩棉出口商海外市场参考。",
+      "category": "市场价格",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "fortunebusinessinsights.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlbzVrZFlJbE5XQlRpUGtUNVVVNlNKYldGWmlKOWR6QTBKaUZ3UU9FR0g3RFRObEpwSzRLXzlHT2V0ODdsNEwzVGV4QjI3d0tLUWFXRS1rVy1sbkltWHo5bk1IcGVodl84UkR2RnJraVdreDZLZzlQVlM4alVkZw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-07-27",
+      "score": 22,
+      "substance": "low",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "全球隔音保温需求增长，利好玻璃棉、岩棉出口市场开拓。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注声学保温细分市场和地区需求，制定出口策略。"
     },
     {
       "id": "20260727-d794ab8f",
