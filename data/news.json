@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-08-12T23:06:36.512042+00:00",
-  "dailyDate": "2026-08-12",
+  "lastUpdated": "2026-08-13T11:14:11.031842+00:00",
+  "dailyDate": "2026-08-13",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260813-313cdaa0",
+      "title": "越南北宁省动工建设65万千瓦热电厂，投资约11.5亿美元",
+      "titleOriginal": "Northern Vietnam industrial hub breaks grounds on thermal power plant amid rising electricity demand",
+      "summary": "越南 Bac Ninh 动工建设65万千瓦热电厂，投资11.5亿美元，将拉动工业保温材料需求。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉",
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/northern-vietnam-industrial-hub-breaks-grounds-on-thermal-power-plant-amid-rising-electricity-demand-d19774.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-08-13",
+      "score": 79,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "电厂建设带来保温材料采购需求，可关注项目分包。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "越南火电项目启动，保温材料配套机会"
+    },
     {
       "id": "20260806-bec4d4d3",
       "title": "可耐福在克罗地亚投产年产6万吨电熔岩棉生产线",
@@ -990,41 +1025,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注2035年保温材料市场增长趋势"
-    },
-    {
-      "id": "20260713-95aa7743",
-      "title": "台湾经济部发布产品能效标签与节能标签问答",
-      "titleOriginal": "Taiwan Ministry of Economic Affairs Publishes Q&A on Product Energy Efficiency Labels and Energy Conservation Labels",
-      "summary": "台湾经济部发布能效标签问答，可能涉及保温材料的热阻标签要求，出口企业需关注合规。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "TW",
-      "region": "全球",
-      "source": "Enviliance ASIA",
-      "sourceUrl": "https://enviliance.com/regions/east-asia/cn/report_16657",
-      "sourceTier": "T2",
-      "sourceType": "法规追踪",
-      "date": "2026-07-13",
-      "score": 58,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "可能影响台湾能效标签合规要求",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 7,
-        "marketImpact": 5
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注台湾能效标签新要求"
     }
   ]
 }
