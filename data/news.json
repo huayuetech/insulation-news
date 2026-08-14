@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-08-13T23:07:58.885164+00:00",
-  "dailyDate": "2026-08-13",
+  "lastUpdated": "2026-08-14T11:11:57.576092+00:00",
+  "dailyDate": "2026-08-14",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260814-14bdbab3",
+      "title": "英国羊毛保温材料开发商Wull Technologies商务总监荣获女性创新奖",
+      "titleOriginal": "Wull Technologies commercial director wins Women in Innovation award",
+      "summary": "Wull Technologies凭借商务总监入选英国创新署女性创新奖，获8.77万欧元奖金，表明保温材料领域创新备受认可。",
+      "category": "产品与材料",
+      "materials": [
+        "羊毛"
+      ],
+      "applications": [],
+      "country": "UK",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2230-wull-technologies-commercial-director-wins-women-in-innovation-award",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-08-14",
+      "score": 52,
+      "substance": "medium",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 3,
+        "marketImpact": 2
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注英国羊毛保温创新企业获奖，可跟踪技术合作机会"
+    },
     {
       "id": "20260813-313cdaa0",
       "title": "越南北宁省动工建设65万千瓦热电厂，投资约11.5亿美元",
@@ -956,109 +990,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注数据中心保温市场报告发布"
-    },
-    {
-      "id": "20260714-55c4c0ae",
-      "title": "洛科威亚得里亚海公司宣布在皮坎岩棉厂新建1300万欧元压块车间",
-      "titleOriginal": "Rockwool Adriatic announces upcoming €13m Pićan stone wool plant briquetting unit",
-      "summary": "洛科威在克罗地亚投资建设岩棉厂压块单元，预计2026年投产，提升生产效率，对中国出口商竞争格局影响有限。",
-      "category": "工程应用",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "HR",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2219-rockwool-adriatic-announces-upcoming-13m-pican-stone-wool-plant-briquetting-unit",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-07-14",
-      "score": 67,
-      "substance": "high",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 5,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注洛科威欧洲产能布局"
-    },
-    {
-      "id": "20260714-13517675",
-      "title": "西卡推出Sikatherm Impact外墙保温系统，简化安装流程",
-      "titleOriginal": "Sika launches Sikatherm Impact façade insulation system",
-      "summary": "西卡在西班牙推出新型外墙外保温复合系统，安装步骤从7-8步减至6步，为中国出口商提供产品差异化参考。",
-      "category": "产品与材料",
-      "materials": [
-        "保温材料"
-      ],
-      "applications": [],
-      "country": "ES",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2218-sika-launches-sikatherm-impact-facade-insulation-system",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-07-14",
-      "score": 58,
-      "substance": "high",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 15,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 3,
-        "marketImpact": 4
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "西卡新品对施工效率提升"
-    },
-    {
-      "id": "20260714-53e7c70d",
-      "title": "建筑保温材料市场规模报告2035年发布",
-      "titleOriginal": "Building Thermal Insulation Market Size, Share Report 2035",
-      "summary": "市场研究机构发布建筑保温材料市场长期预测，为出口商提供战略参考。",
-      "category": "市场价格",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "Market Research Future",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NadUxzeW1YN3dyci1xMjB1QlF6QXZyUFY4UjE0ZTMtdHJMUkFJaTRtRXFFTTVzSHBweXNzd0R5SkpWNlFzX0dLdEQ2TEhJeUtnOUhSdmlQN0pXNS1Ba01Bc1kxWFlRWnNNTUx3R0FBMjVJM2pqZUEzYTdqSElHYU84QkE3ejFrT3A3LQ?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-14",
-      "score": 47,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "市场数据可辅助出口决策，非直接订单信号",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注2035年保温材料市场增长趋势"
     }
   ]
 }
