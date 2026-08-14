@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "generatedAt": "2026-08-14T11:11:57.576092+00:00",
+  "generatedAt": "2026-08-14T22:44:42.952720+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -75,6 +75,14 @@
           "title": "可耐福在克罗地亚投产年产6万吨电熔岩棉生产线",
           "summary": "可耐福投资1.2亿欧元在克罗地亚Novi Marof投产年产6万吨电熔岩棉线，可回收50%原料，增强欧洲供应。",
           "country": "HR",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260814-fc03d8a4",
+          "title": "Kingspan 2026上半年销售额48.6亿欧元 同比增8%",
+          "summary": "Kingspan上半年销售额48.6亿欧元增8%，欧洲强美国弱，显示保温需求分化，中国出口商可关注欧洲机会。",
+          "country": "IE",
           "source": "Global Insulation",
           "impact": "medium"
         }

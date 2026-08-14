@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-14T11:11:57.576092+00:00",
+  "lastUpdated": "2026-08-14T22:44:42.952720+00:00",
   "dailyDate": "2026-08-14",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260814-fc03d8a4",
+      "title": "Kingspan 2026上半年销售额48.6亿欧元 同比增8%",
+      "titleOriginal": "Kingspan raises sales in first half of 2026",
+      "summary": "Kingspan上半年销售额48.6亿欧元增8%，欧洲强美国弱，显示保温需求分化，中国出口商可关注欧洲机会。",
+      "category": "企业展会",
+      "materials": [],
+      "applications": [],
+      "country": "IE",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2232-kingspan-raises-sales-in-first-half-of-2026",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-08-14",
+      "score": 81,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "欧洲需求增长利于出口，美国疲软需留意",
+      "dimensions": {
+        "relevance": 27,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 9,
+        "marketImpact": 9
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注Kingspan中报欧洲市场，跟进出口机会"
+    },
     {
       "id": "20260814-14bdbab3",
       "title": "英国羊毛保温材料开发商Wull Technologies商务总监荣获女性创新奖",
