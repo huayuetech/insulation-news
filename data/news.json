@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T10:43:57.763449+00:00",
+  "lastUpdated": "2026-08-15T22:42:58.931521+00:00",
   "dailyDate": "2026-08-15",
   "totalSources": 13,
   "items": [
@@ -34,6 +34,38 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注Kingspan中报欧洲市场，跟进出口机会"
+    },
+    {
+      "id": "20260814-a749b0de",
+      "title": "Kingspan以8.5亿欧元收购BMC制造集团，拓展数据中心设备业务",
+      "titleOriginal": "Kingspan to diversify data centres equipment offering with BMC Manufacturing Group acquisition",
+      "summary": "Kingspan同意以8.5亿欧元收购爱尔兰BMC制造集团，强化数据中心低压配电设备，对保温材料出口暂无直接利好。",
+      "category": "企业展会",
+      "materials": [],
+      "applications": [],
+      "country": "IE",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2231-kingspan-to-diversify-data-centres-equipment-offering-with-bmc-manufacturing-group-acquisition",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-08-14",
+      "score": 56,
+      "substance": "high",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "并购标的为电气设备，非保温材料，短期无直接影响",
+      "dimensions": {
+        "relevance": 12,
+        "authority": 16,
+        "timeliness": 18,
+        "businessValue": 4,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "可分析Kingspan数据中心布局对保温材料协同需求"
     },
     {
       "id": "20260814-14bdbab3",
