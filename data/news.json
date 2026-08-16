@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T22:42:58.931521+00:00",
-  "dailyDate": "2026-08-15",
+  "lastUpdated": "2026-08-16T10:44:16.798684+00:00",
+  "dailyDate": "2026-08-16",
   "totalSources": 13,
   "items": [
     {
@@ -892,72 +892,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪ASHRAE标准更新，提前布局认证"
-    },
-    {
-      "id": "20260716-af77a964",
-      "title": "捷克Rockwool 2025年销售额微增但净亏损，运营成本上升6%",
-      "titleOriginal": "Rockwool Czech Republic raises sales in 2025",
-      "summary": "Rockwool捷克子公司2025年销售额9250万美元同比微增，但净亏损127万美元，反映成本压力，提示欧洲岩棉市场竞争加剧。",
-      "category": "市场价格",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "CZ",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2220-rockwool-czech-republic-raises-sales-in-2025",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-07-16",
-      "score": 77,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "竞争对手财务表现疲软，可能影响出口定价空间",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪Rockwool欧洲业绩，评估竞争态势"
-    },
-    {
-      "id": "20260716-725fc76c",
-      "title": "ASHRAE加强标准90.1基础，重新强调商业建筑能效",
-      "titleOriginal": "ASHRAE Strengthens Standard 90.1 Foundation With Renewed Emphasis on Commercial Building Energy Efficiency",
-      "summary": "ASHRAE更新标准90.1，提升商业建筑能效要求，利好保温材料出口商需关注技术合规。",
-      "category": "标准政策",
-      "materials": [],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "PHCPPros",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGVVSDNpNXNyajlYTmdfQ1RIN0V4RmRTYU1TRmRNRExRMXNNdi1vdlZZSDlobEQ4VUFjTS1VZVZjYTFKY2liRnEzZGlldDRLamFRUzNKa1E0Zlp4Z1NXdjRDcnF0OU1QeFozSzQxVnB3RktUMi1NZVNpYkJiYTU1RF9mMWROWTNfTVoxd0VlSmc2Qm1sMTZrU2FPRDY1LXRVRi1hazBPTjBLTkVmVTNpdk1acWtjSm80LW5hc0RpZXduaUVSSXpuT1hwLVFUdTVyZE9TSlJseEFiRHpWcVE?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-16",
-      "score": 71,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "美国标准收紧可能增加保温材料需求",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 10,
-        "timeliness": 18,
-        "businessValue": 10,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪ASHRAE 90.1最新修订要点"
     }
   ]
 }
