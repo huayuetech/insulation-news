@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-16T22:42:06.172125+00:00",
-  "dailyDate": "2026-08-16",
+  "lastUpdated": "2026-08-17T10:51:56.520895+00:00",
+  "dailyDate": "2026-08-17",
   "totalSources": 13,
   "items": [
     {
@@ -169,6 +169,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "越南火电项目开工，关注当地保温材料采购"
+    },
+    {
+      "id": "20260810-dd926f68",
+      "title": "加州2026年建筑能效法规与制冷剂强制令重塑中央谷商业暖通空调规划",
+      "titleOriginal": "California’s 2026 Building Energy Code & Refrigerant Mandates Reshape Commercial HVAC Planning Across Central Valley",
+      "summary": "加州2026年建筑能效标准升级，将推动商业建筑保温需求，利好中国玻璃棉、岩棉出口商。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "EIN News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdFdUVWdBSG5tRTdwMndaUEtIczVzZ1FaLWtTOVY0cUZSMjRYSzlEZ0pyb1JXa2JDbjhXOXc5b29aUE94dzQxMlBrbmZWMGhLRXBzWloxUWpYWHRzQlVHSWI2MkMtQlpKalRQSE9FdGVETC15XzRUZnFueU1aejZJLS1kX1NicTFMVkp0ejZDWDZrbUozVDNYWkZwS3JEWjBBYUFUeHItQnVKNjdpdGpoX2dab05HVUZzeUtfQWFlcVdMUFJZVk9oLUl0cEoyczhQMllWOEg4Y0MyUXZyajlFSGt6Z2Y4ekp2alowVQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-08-10",
+      "score": 73,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "能效标准升级，保温材料需求增加",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 10,
+        "timeliness": 10,
+        "businessValue": 14,
+        "marketImpact": 11
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪加州2026能效标准对保温材料的具体要求"
     },
     {
       "id": "20260806-bec4d4d3",
@@ -857,41 +892,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注竞品新品动向，可作对标参考"
-    },
-    {
-      "id": "20260717-61ea1227",
-      "title": "ASHRAE发布建筑脱碳与能效标准新框架",
-      "titleOriginal": "ASHRAE unveils new framework for building decarbonization and energy efficiency standards",
-      "summary": "ASHRAE新框架将推动美国建筑节能标准升级，利好中国保温材料出口商进入高端市场。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "American School & University",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWllxaHJ4MEpXeEZrUkV1Z0l3UHVDMUlhb05lUUhJOVVqdnlJREhadGxPN3hJTHVfaHVNelhmWjB5eVRlRnBUTU1VYkllSXpFT29JWWY4YkVmZFF0WFNtYXI4QjZDeG55UXg3eko0cU1fV25RZHFjZVh4ZXBteUZKTWkxdHVaRTRaVmsyNUxlTmU3WDJYZkZmOFJGVl9Qb1JNZk5jb29vY2U2OXU3SWo5bXpETlNYeU1Vd1oyVWFpQnVtWExqX0VQbGM4MTg1dVNwOXlGV2diNnFlb3pxX3owSVFuTlBaOTFqcXBKZ0tUTDU4UQ?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-17",
-      "score": 67,
-      "substance": "high",
-      "featured": false,
-      "impact": "high",
-      "impactNote": "标准升级将带动保温材料需求增长",
-      "dimensions": {
-        "relevance": 28,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 13,
-        "marketImpact": 10
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪ASHRAE标准更新，提前布局认证"
     }
   ]
 }
