@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-08-19T22:46:09.411301+00:00",
-  "dailyDate": "2026-08-19",
+  "lastUpdated": "2026-08-20T10:52:12.240970+00:00",
+  "dailyDate": "2026-08-20",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260820-472d7884",
+      "title": "洛科威2026上半年销售额增长5%至19.1亿欧元",
+      "titleOriginal": "Rockwool raises sales in first half of 2026",
+      "summary": "全球岩棉龙头洛科威销量增长但利润微降，显示市场回暖但竞争加剧，对中国出口商有对标参考价值。",
+      "category": "市场价格",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "DK",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2233-rockwool-raises-sales-in-first-half-of-2026",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-08-20",
+      "score": 79,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "行业龙头业绩回暖，竞争压力增大。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "洛科威业绩分析及对中国岩棉出口的启示"
+    },
     {
       "id": "20260814-fc03d8a4",
       "title": "Kingspan 2026上半年销售额48.6亿欧元 同比增8%",
@@ -823,41 +857,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注美国电力设备投资对保温材料需求拉动"
-    },
-    {
-      "id": "20260720-1ea77e15",
-      "title": "持续改进对保温材料制造商满足未来住宅标准至关重要",
-      "titleOriginal": "Continuous improvement is vital for insulation manufacturers to meet the Future Homes Standard",
-      "summary": "英国未来住宅标准对保温性能要求提升，促使制造商持续技术改进，中国出口商需关注产品认证与升级。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GB",
-      "region": "欧洲",
-      "source": "Planning, Building & Construction Today",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSExqUElHcG15cmRMSnZSQjN6d2hnNkt5SFZkREdVQUVzS0VFdlVaOW9Sb3I5dkFUSDU4dkRKVHNvR2F1aThEWWszNUhyYkg3TGdXWEl0eExjRTg5eXJ1VWJkcmgxbVcyalN3MXJUX1lhSm9PQmFWRDdKQ3liWUtsM0lJQ05jSndFZnJPbmVtUnBrMktVcUJvRVY2XzRjZHhBQVpnSWRJb1pFOVFWUVN3Z2RfU0Q5dW16a1dsLWVrNXBqSkw4ZTRXeEF5NjdTMnlCVHZ2TGZQS1hWdw?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-20",
-      "score": 60,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "需关注FHS标准认证与性能升级",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 10,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "英国FHS标准对保温材料的技术要求分析"
     }
   ]
 }
