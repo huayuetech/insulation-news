@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T22:42:50.476636+00:00",
-  "dailyDate": "2026-08-23",
+  "lastUpdated": "2026-08-24T10:57:53.616629+00:00",
+  "dailyDate": "2026-08-24",
   "totalSources": 13,
   "items": [
     {
@@ -442,6 +442,38 @@
       "topic": "跟踪乌兹别克保温板厂谈判，预判产能转移和出口机会"
     },
     {
+      "id": "20260804-72aa5eda",
+      "title": "中国拟限制热塑性聚氨酯塑料中有害物质",
+      "titleOriginal": "China Proposes Limits on Hazardous Substances in TPU Plastics",
+      "summary": "中国工信部发布TPU塑料有害物质限值国标草案，虽非直接针对保温材料，但预示化工环保监管趋严，出口商需关注上游原料合规风险。",
+      "category": "标准政策",
+      "materials": [],
+      "applications": [],
+      "country": "CN",
+      "region": "东亚",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/east-asia/cn/report_16950",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-08-04",
+      "score": 31,
+      "substance": "high",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "非直接相关，但需关注上游原料政策趋势",
+      "dimensions": {
+        "relevance": 5,
+        "authority": 16,
+        "timeliness": 6,
+        "businessValue": 2,
+        "marketImpact": 2
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注中国化工环保标准对保温材料上游影响"
+    },
+    {
       "id": "20260801-eca0c240",
       "title": "越南Vingroup联合体提议35亿美元河内双子塔地标",
       "titleOriginal": "Vingroup-backed consortium proposes $3.5 bln twin-tower landmark in Hanoi",
@@ -717,75 +749,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注越南能源项目保温材料采购机会"
-    },
-    {
-      "id": "20260724-46df3eff",
-      "title": "印尼发布清洁水泵最低能效标准第212/2026号法令",
-      "titleOriginal": "Indonesia Issues Energy Efficiency Standards for Clean Water Pumps",
-      "summary": "印尼出台水泵能效新标，可能带动配套保温材料需求，利好中国玻璃棉、岩棉出口。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "ID",
-      "region": "东南亚",
-      "source": "Enviliance ASIA",
-      "sourceUrl": "https://enviliance.com/regions/southeast-asia/id/report_16792",
-      "sourceTier": "T2",
-      "sourceType": "法规追踪",
-      "date": "2026-07-24",
-      "score": 60,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "能效标准间接利好保温材料配套出口。",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 10,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注印尼能效标准对保温材料配套需求影响"
-    },
-    {
-      "id": "20260724-87e1f43a",
-      "title": "圣戈班推出Isover Ultimate外墙卷毡岩棉产品用于工业建筑",
-      "titleOriginal": "The Isover Ultimate Cladding Roll by Saint-Gobain - rock wool insulation for industrial facades",
-      "summary": "圣戈班发布岩棉外墙卷毡新品，对中国岩棉出口商构成品牌竞争压力。",
-      "category": "产品与材料",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "AD HOC NEWS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVl84R3IyZi1qcXlfNExydWZWdkpXaWkybFpXZ3duYU1maGkybVZydEw4RzJlY1lsUkVoT0ZUckpyWjdfQUM1TjE1OXdaNXRaRjhEODVQUlhtc3g0bXdKRkw5R3F5SnFheHlFdm5FZ3BQdzVrVUhCWTZYU2kzZW1obmtTYVFHOVM3bV9OQS1jb1pxclZkTFdwMWZfNTVadXRZNjB4VHc1cVFhUUxDMUNSOWJTbjZsZ2c4MDJyV2tPVWRGYTRjdTRzZ2E4Mmc?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-24",
-      "score": 24,
-      "substance": "low",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 20,
-        "businessValue": 5,
-        "marketImpact": 5
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注圣戈班新品对华出口竞争影响"
     }
   ]
 }
