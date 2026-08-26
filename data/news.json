@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-08-25T22:50:00.518698+00:00",
-  "dailyDate": "2026-08-25",
+  "lastUpdated": "2026-08-26T10:56:01.505992+00:00",
+  "dailyDate": "2026-08-26",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260826-858b8b09",
+      "title": "越南EVN与TKV领导视察永新4电厂，讨论长期煤炭供应",
+      "titleOriginal": "EVN, TKV leaders inspect Vinh Tan 4 power plant, discuss long-term coal supplies",
+      "summary": "越南电力集团与煤炭矿业集团视察永新4燃煤电厂，保障长期煤炭供应，利好中国保温材料出口商关注电厂维护与新建项目。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/evn-tkv-leaders-inspect-vinh-tan-4-power-plant-discuss-long-term-coal-supplies-d19873.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-08-26",
+      "score": 70,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "电厂维护与新建可能带动保温材料需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "越南燃煤电厂保温材料采购机会"
+    },
     {
       "id": "20260821-633d51fd",
       "title": "圣戈班印度CEO欲用石膏板和玻璃棉改变印度建筑方式",
