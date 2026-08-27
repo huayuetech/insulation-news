@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-26T10:56:01.505992+00:00",
-  "dailyDate": "2026-08-26",
+  "lastUpdated": "2026-08-27T03:23:18.571168+00:00",
+  "dailyDate": "2026-08-27",
   "totalSources": 13,
   "items": [
     {
@@ -37,6 +37,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "越南燃煤电厂保温材料采购机会"
+    },
+    {
+      "id": "20260826-09af2e37",
+      "title": "当热量成为成本：薄涂层如何改变沙特阿拉伯的能效实践",
+      "titleOriginal": "When heat becomes a cost item: How thin coatings are changing energy-efficiency practices in Saudi Arabia",
+      "summary": "沙特推广薄涂层节能技术，可能影响建筑保温材料市场格局，对中国玻璃棉、岩棉出口构成替代竞争或合作机会。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SA",
+      "region": "中东",
+      "source": "Arab News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wYlNKWTVGc2pudmFoYXpOQmxkdjJrTGxNVEEya3VXdUxvanVuX3JYQlNXaTFZUC0tMTMzR09jUC1MZTFfT0RKbUlKU3FfNkk1aFNB?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-08-26",
+      "score": 54,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "新型涂层技术可能分流传统保温材料需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注沙特薄涂层技术对传统保温材料的替代趋势"
     },
     {
       "id": "20260821-633d51fd",
@@ -680,76 +715,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪马里兰州建筑规范最终修订动态"
-    },
-    {
-      "id": "20260727-9b05d356",
-      "title": "隔音保温材料市场规模、份额及增长报告[2034]",
-      "titleOriginal": "Acoustic Insulation Market Size, Share | Growth Report [2034]",
-      "summary": "全球声学隔音保温材料市场报告发布，预测至2034年增长，可作中国玻璃棉、岩棉出口商海外市场参考。",
-      "category": "市场价格",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "fortunebusinessinsights.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlbzVrZFlJbE5XQlRpUGtUNVVVNlNKYldGWmlKOWR6QTBKaUZ3UU9FR0g3RFRObEpwSzRLXzlHT2V0ODdsNEwzVGV4QjI3d0tLUWFXRS1rVy1sbkltWHo5bk1IcGVodl84UkR2RnJraVdreDZLZzlQVlM4alVkZw?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-27",
-      "score": 22,
-      "substance": "low",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "全球隔音保温需求增长，利好玻璃棉、岩棉出口市场开拓。",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注声学保温细分市场和地区需求，制定出口策略。"
-    },
-    {
-      "id": "20260727-d794ab8f",
-      "title": "欧洲绝缘材料市场预测报告（2034年）",
-      "titleOriginal": "Europe Insulation Market Size, Share and Analysis, 2034",
-      "summary": "市场数据公司发布欧洲绝缘材料预测报告，但未提供具体数据，对中国出口商参考价值有限，需关注后续详实数据。",
-      "category": "市场价格",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "EU",
-      "region": "欧洲",
-      "source": "Market Data Forecast",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XRTNoZmpUZ3JEUXVCVmN5WkwzWGx0R2pXeEtxZW1ueTlkUjJ0QkFRa1dfcmdIcEVHakJ5MmJhc0xoYkg2eEhVRjNGUmRidnFaUm93Tnp1QXJxSjEyU3R4Z2JTZ3UxTGRaQURzYU9mRlI1UnpwR0pmdWJjYU1hUms?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-27",
-      "score": 16,
-      "substance": "low",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 10,
-        "authority": 10,
-        "timeliness": 14,
-        "businessValue": 2,
-        "marketImpact": 3
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "等待更详细的市场数据报告再跟进"
     }
   ]
 }
