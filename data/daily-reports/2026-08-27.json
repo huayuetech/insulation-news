@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generatedAt": "2026-08-27T03:23:18.571168+00:00",
+  "generatedAt": "2026-08-27T20:36:11.163399+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -83,6 +83,22 @@
           "title": "Kingspan 2026上半年销售额48.6亿欧元 同比增8%",
           "summary": "Kingspan上半年销售额48.6亿欧元增8%，欧洲强美国弱，显示保温需求分化，中国出口商可关注欧洲机会。",
           "country": "IE",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260827-2ea8dea6",
+          "title": "GMS 收购 Evergreen Building Products，拓展外墙保温与装饰系统分销",
+          "summary": "美国建材分销商并购，增强外墙保温系统渠道，为中国保温材料出口商提供潜在新客户或合作机会。",
+          "country": "US",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260827-c65f05d5",
+          "title": "Austrotherm 进入独家谈判，拟收购 Etex 旗下 Ursa 挤塑聚苯乙烯保温材料业务",
+          "summary": "欧洲保温材料巨头收购 XPS 产能，可能改变欧洲市场竞争格局，对中国玻璃棉/岩棉出口欧洲构成间接竞争压力。",
+          "country": "EU",
           "source": "Global Insulation",
           "impact": "medium"
         }

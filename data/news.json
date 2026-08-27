@@ -1,8 +1,77 @@
 {
-  "lastUpdated": "2026-08-27T03:23:18.571168+00:00",
+  "lastUpdated": "2026-08-27T20:36:11.163399+00:00",
   "dailyDate": "2026-08-27",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260827-2ea8dea6",
+      "title": "GMS 收购 Evergreen Building Products，拓展外墙保温与装饰系统分销",
+      "titleOriginal": "GMS acquires Evergreen Building Products",
+      "summary": "美国建材分销商并购，增强外墙保温系统渠道，为中国保温材料出口商提供潜在新客户或合作机会。",
+      "category": "企业展会",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2234-gms-acquires-evergreen-building-products",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-08-27",
+      "score": 75,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "美国分销渠道整合，可能带来新合作机会。",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 9,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪美国建材分销商并购，评估新客户开发可能。"
+    },
+    {
+      "id": "20260827-c65f05d5",
+      "title": "Austrotherm 进入独家谈判，拟收购 Etex 旗下 Ursa 挤塑聚苯乙烯保温材料业务",
+      "titleOriginal": "Austrotherm enters exclusive negotiations to acquire Ursa extruded polystyrene insulation from Etex",
+      "summary": "欧洲保温材料巨头收购 XPS 产能，可能改变欧洲市场竞争格局，对中国玻璃棉/岩棉出口欧洲构成间接竞争压力。",
+      "category": "企业展会",
+      "materials": [
+        "挤塑聚苯乙烯"
+      ],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2235-austrotherm-enters-exclusive-negotiations-to-acquire-ursa-extruded-polystyrene-insulation-from-etex",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-08-27",
+      "score": 74,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "欧洲保温市场整合，间接影响中国出口竞争环境。",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注欧洲保温材料行业并购动态及对中国出口影响。"
+    },
     {
       "id": "20260826-858b8b09",
       "title": "越南EVN与TKV领导视察永新4电厂，讨论长期煤炭供应",
