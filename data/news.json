@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T06:11:07.372951+00:00",
+  "lastUpdated": "2026-08-28T21:11:46.862054+00:00",
   "dailyDate": "2026-08-28",
   "totalSources": 13,
   "items": [
@@ -176,6 +176,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注沙特薄涂层技术对传统保温材料的替代趋势"
+    },
+    {
+      "id": "20260824-e0b46200",
+      "title": "HVAC保温材料市场规模、份额与增长报告 | MRFR",
+      "titleOriginal": "HVAC Insulation Market Size, Share & Growth Report | MRFR",
+      "summary": "报告显示全球HVAC保温材料市场持续增长，为中国玻璃棉和岩棉出口商提供需求信号。",
+      "category": "市场价格",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "Market Research Future",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yT0ZuU2t6WmpTUHI0Z1BQR0liS2xvelpSUnJGNXoxUjN2eHlMYm45bTFlVzhWT3lrOHdYMHRZVEk1MU95TGY5OHZIR2hqLWdGRDd2U1p6YUl3U0NlUWh2T2pKYjFueU51cmk0dS14YmFJeWpBcGlEWmhCTV8?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-08-24",
+      "score": 51,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "市场增长信号，需关注具体数据",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 14,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注HVAC保温材料市场增长趋势"
     },
     {
       "id": "20260821-633d51fd",
