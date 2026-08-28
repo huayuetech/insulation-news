@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-08-27T20:36:11.163399+00:00",
-  "dailyDate": "2026-08-27",
+  "lastUpdated": "2026-08-28T06:11:07.372951+00:00",
+  "dailyDate": "2026-08-28",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260828-d045f30b",
+      "title": "新加坡推进2030年建筑环境能效目标，发布脱碳设计研究",
+      "titleOriginal": "Singapore Advances Toward Its 2030 Energy Efficiency Targets for the Built Environment Sector",
+      "summary": "新加坡BCA发布DPfD研究，推动建筑能效提升，利好中国高效保温材料出口。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SG",
+      "region": "全球",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/southeast-asia/sg/report_17227",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-08-28",
+      "score": 79,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "建筑能效目标提升保温材料需求",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注新加坡绿色建筑标准更新"
+    },
     {
       "id": "20260827-2ea8dea6",
       "title": "GMS 收购 Evergreen Building Products，拓展外墙保温与装饰系统分销",
