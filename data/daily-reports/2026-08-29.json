@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T03:45:03.470390+00:00",
+  "sections": [
+    {
+      "title": "政策法规变动",
+      "icon": "policy",
+      "items": [
+        {
+          "id": "20260828-d045f30b",
+          "title": "新加坡推进2030年建筑环境能效目标，发布脱碳设计研究",
+          "summary": "新加坡BCA发布DPfD研究，推动建筑能效提升，利好中国高效保温材料出口。",
+          "country": "SG",
+          "source": "Enviliance ASIA",
+          "impact": "medium"
+        },
+        {
+          "id": "20260810-dd926f68",
+          "title": "加州2026年建筑能效法规与制冷剂强制令重塑中央谷商业暖通空调规划",
+          "summary": "加州2026年建筑能效标准升级，将推动商业建筑保温需求，利好中国玻璃棉、岩棉出口商。",
+          "country": "US",
+          "source": "EIN News",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "产品与材料动态",
+      "icon": "product",
+      "items": [
+        {
+          "id": "20260804-c5256a56",
+          "title": "塔吉克斯坦图尔松佐达新岩棉隔热厂投产",
+          "summary": "塔吉克斯坦一家私营公司新岩棉厂产出首批产品，原料来自当地玄武岩，对中亚市场供应格局有影响。",
+          "country": "TJ",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "市场价格信号",
+      "icon": "market",
+      "items": [
+        {
+          "id": "20260820-472d7884",
+          "title": "洛科威2026上半年销售额增长5%至19.1亿欧元",
+          "summary": "全球岩棉龙头洛科威销量增长但利润微降，显示市场回暖但竞争加剧，对中国出口商有对标参考价值。",
+          "country": "DK",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "工程与应用案例",
+      "icon": "project",
+      "items": [
+        {
+          "id": "20260813-313cdaa0",
+          "title": "越南北宁省动工建设65万千瓦热电厂，投资约11.5亿美元",
+          "summary": "越南 Bac Ninh 动工建设65万千瓦热电厂，投资11.5亿美元，将拉动工业保温材料需求。",
+          "country": "VN",
+          "source": "The Investor (Vietnam)",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "企业与展会动态",
+      "icon": "company",
+      "items": [
+        {
+          "id": "20260806-bec4d4d3",
+          "title": "可耐福在克罗地亚投产年产6万吨电熔岩棉生产线",
+          "summary": "可耐福投资1.2亿欧元在克罗地亚Novi Marof投产年产6万吨电熔岩棉线，可回收50%原料，增强欧洲供应。",
+          "country": "HR",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260814-fc03d8a4",
+          "title": "Kingspan 2026上半年销售额48.6亿欧元 同比增8%",
+          "summary": "Kingspan上半年销售额48.6亿欧元增8%，欧洲强美国弱，显示保温需求分化，中国出口商可关注欧洲机会。",
+          "country": "IE",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260827-2ea8dea6",
+          "title": "GMS 收购 Evergreen Building Products，拓展外墙保温与装饰系统分销",
+          "summary": "美国建材分销商并购，增强外墙保温系统渠道，为中国保温材料出口商提供潜在新客户或合作机会。",
+          "country": "US",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260827-c65f05d5",
+          "title": "Austrotherm 进入独家谈判，拟收购 Etex 旗下 Ursa 挤塑聚苯乙烯保温材料业务",
+          "summary": "欧洲保温材料巨头收购 XPS 产能，可能改变欧洲市场竞争格局，对中国玻璃棉/岩棉出口欧洲构成间接竞争压力。",
+          "country": "EU",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}

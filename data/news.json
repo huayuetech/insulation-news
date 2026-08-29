@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-28T21:11:46.862054+00:00",
-  "dailyDate": "2026-08-28",
+  "lastUpdated": "2026-08-29T03:45:03.470390+00:00",
+  "dailyDate": "2026-08-29",
   "totalSources": 13,
   "items": [
     {
@@ -819,41 +819,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "分析欧洲岩棉厂脱碳改造对中国出口的影响"
-    },
-    {
-      "id": "20260729-99f20f96",
-      "title": "马里兰州因缩减能效计划及拟议建筑规范变更面临批评",
-      "titleOriginal": "Maryland Faces Criticism Over Scaled-Back Energy Efficiency Program and Proposed Building Code Changes",
-      "summary": "美国马里兰州调整建筑节能法规，可能提升保温材料需求，为出口企业创造新契机。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "Inside Climate News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3FvUmN5RGhWcmlEeG9Zb2ZWbGNxTF9WQWtKZmphZDZ4cjZvbTY1RTRDTzEwWkJpdGZRVW1zMjh0Q2hwelR1YjQ1X2ZsaFJpc1FudWw0d2NjOVNVWjVMUUttVUluendiejQwdnFrSTdRLTd4VElONWZEV2JIdnFZeTRZRDBxaHBueW1ndXdzS19jSVdCTUE?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-07-29",
-      "score": 73,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "建筑节能标准趋严，利好保温材料出口。",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 10,
-        "timeliness": 20,
-        "businessValue": 10,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪马里兰州建筑规范最终修订动态"
     }
   ]
 }
