@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-29T15:07:49.335780+00:00",
-  "dailyDate": "2026-08-29",
+  "lastUpdated": "2026-08-30T00:26:40.991876+00:00",
+  "dailyDate": "2026-08-30",
   "totalSources": 13,
   "items": [
     {
@@ -716,109 +716,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪项目进展，提前布局越南市场"
-    },
-    {
-      "id": "20260730-eb9ab09f",
-      "title": "Masterplast 2026上半年销售额同比增长53%，营收1.01亿欧元",
-      "titleOriginal": "Masterplast raises sales in first half of 2026",
-      "summary": "匈牙利保温材料商Masterplast上半年营收1.01亿欧元，绝缘材料销量增17%，显示欧洲市场需求回暖，对中国出口商有竞争参考价值。",
-      "category": "企业展会",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "HU",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2226-masterplast-raises-sales-in-first-half-of-2026",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-07-30",
-      "score": 70,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "竞争对手增长，需关注其市场策略",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪Masterplast销售增长背后的市场驱动因素"
-    },
-    {
-      "id": "20260730-c182e1fb",
-      "title": "Sarda Metals & Alloys批准3140万美元扩产印度Vizianagaram矿物棉厂",
-      "titleOriginal": "Sarda Metals & Alloys announces upcoming US$31.4m Vizianagaram mineral wool plant expansion",
-      "summary": "印度Sarda子公司投资3140万美元扩产矿物棉及建设废热回收电厂，加剧亚洲市场竞争，对中国出口商形成价格压力。",
-      "category": "工程应用",
-      "materials": [
-        "矿物棉"
-      ],
-      "applications": [],
-      "country": "IN",
-      "region": "南亚",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2224-sarda-metals-alloys-announces-upcoming-us-31-4m-vizianagaram-mineral-wool-plant-expansion",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-07-30",
-      "score": 65,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "印度产能扩张，可能挤压中国出口份额",
-      "dimensions": {
-        "relevance": 18,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 6,
-        "marketImpact": 5
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪印度矿物棉扩产对亚洲供需格局的影响"
-    },
-    {
-      "id": "20260730-1032c487",
-      "title": "Rockwool Peninsular投资6000万欧元升级西班牙Caparroso岩棉厂",
-      "titleOriginal": "Rockwool Peninsular to upgrade Caparroso insulation plant",
-      "summary": "Rockwool计划2028年前投资6000万欧元，将岩棉厂炉窑改为电炉以脱碳，获政府补贴1800万欧元，预示欧洲绿色生产趋势。",
-      "category": "工程应用",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "ES",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2225-rockwool-peninsular-to-upgrade-caparroso-insulation-plant",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-07-30",
-      "score": 60,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "欧洲环保标准升级，出口企业需关注技术壁垒",
-      "dimensions": {
-        "relevance": 15,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 5,
-        "marketImpact": 4
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "分析欧洲岩棉厂脱碳改造对中国出口的影响"
     }
   ]
 }
