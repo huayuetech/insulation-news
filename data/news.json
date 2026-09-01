@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-08-31T17:38:57.564300+00:00",
-  "dailyDate": "2026-08-31",
+  "lastUpdated": "2026-09-01T01:19:19.258198+00:00",
+  "dailyDate": "2026-09-01",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260901-22c3c4db",
+      "title": "马来西亚发布2026-2035年国家能效政策与行动计划",
+      "titleOriginal": "Malaysia Announces Its 2026-2035 Energy Efficiency Policy",
+      "summary": "马来西亚公布新十年能效政策，将推动建筑保温材料需求，利好中国玻璃棉、岩棉出口。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "MY",
+      "region": "东南亚",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/southeast-asia/my/report_17294",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-09-01",
+      "score": 88,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "能效政策升级，保温材料需求将显著增长。",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 14,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪马来西亚能效政策对保温材料进口影响"
+    },
     {
       "id": "20260828-d045f30b",
       "title": "新加坡推进2030年建筑环境能效目标，发布脱碳设计研究",
@@ -681,41 +716,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注中国化工环保标准对保温材料上游影响"
-    },
-    {
-      "id": "20260801-eca0c240",
-      "title": "越南Vingroup联合体提议35亿美元河内双子塔地标",
-      "titleOriginal": "Vingroup-backed consortium proposes $3.5 bln twin-tower landmark in Hanoi",
-      "summary": "越南Vingroup相关联合体提议在河内建设35亿美元双子塔，若获批将成为全球最高双子塔，需关注潜在保温材料需求。",
-      "category": "工程应用",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "VN",
-      "region": "东南亚",
-      "source": "The Investor (Vietnam)",
-      "sourceUrl": "https://theinvestor.vn/vingroup-backed-consortium-proposes-35-bln-twin-tower-landmark-in-hanoi-d19695.html",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-08-01",
-      "score": 68,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "大型项目带来潜在保温采购需求，但尚在提案阶段",
-      "dimensions": {
-        "relevance": 28,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 9,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪项目进展，提前布局越南市场"
     }
   ]
 }
