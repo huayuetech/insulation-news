@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-02T14:33:56.225752+00:00",
-  "dailyDate": "2026-09-02",
+  "lastUpdated": "2026-09-03T00:22:00.757556+00:00",
+  "dailyDate": "2026-09-03",
   "totalSources": 13,
   "items": [
     {
@@ -37,6 +37,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪马来西亚能效政策对保温材料进口影响"
+    },
+    {
+      "id": "20260830-a299965c",
+      "title": "劣化隔热膜可能成为视线障碍",
+      "titleOriginal": "Degraded thermal insulation films can turn into obstacles to vision",
+      "summary": "报道指出劣化隔热膜影响视线，提示出口商需关注建筑用玻璃棉、岩棉等替代保温材料的质量与耐久性。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "Laodong.vn",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFZxNGNWWE5mMmNNeG9ZQUJodEpmTzJtWlFWN2RsSUxNTzVrdHY4RGtfMG5mcGN2cE5mWC10cUs1SE9TWmxkaHA0bDZ6QmhtN3RmWU1BRTYzQkxoWE1rcWpKeFF1WW9wTGxVbDRHZWdOYTI3Sk5XcU1kNlJLWmtxeS1xX0pNaHZYRGtIQS1Cd2NtU014U0NGV1hvelU3TEFDQzBxZHZ4SQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-08-30",
+      "score": 18,
+      "substance": "low",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 10,
+        "timeliness": 14,
+        "businessValue": 3,
+        "marketImpact": 2
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注越南市场对保温材料耐久性的需求"
     },
     {
       "id": "20260828-d045f30b",
