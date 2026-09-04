@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-03T14:38:08.575837+00:00",
-  "dailyDate": "2026-09-03",
+  "lastUpdated": "2026-09-04T00:10:28.904008+00:00",
+  "dailyDate": "2026-09-04",
   "totalSources": 13,
   "items": [
     {
@@ -721,106 +721,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "中资布局中亚保温板产能，关注乌兹别克斯坦市场"
-    },
-    {
-      "id": "20260804-c5256a56",
-      "title": "塔吉克斯坦图尔松佐达新岩棉隔热厂投产",
-      "titleOriginal": "Production commences at new Tursunzoda stone wool insulation plant",
-      "summary": "塔吉克斯坦一家私营公司新岩棉厂产出首批产品，原料来自当地玄武岩，对中亚市场供应格局有影响。",
-      "category": "产品与材料",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "TJ",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2227-production-commences-at-new-tursunzoda-stone-wool-insulation-plant",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-08-04",
-      "score": 76,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "中亚新增岩棉产能，或影响区域出口竞争",
-      "dimensions": {
-        "relevance": 26,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注中亚岩棉新产能对出口价格和市场的冲击"
-    },
-    {
-      "id": "20260804-7833b0ec",
-      "title": "乌兹别克斯坦塔什干与中国投资者商讨保温面板厂项目",
-      "titleOriginal": "Uzbekistan's Tashkent, Chinese investor discuss insulation panel plant",
-      "summary": "乌兹别克斯坦塔什干正与中国投资者讨论建设保温面板厂，可能为中国保温材料企业提供海外产能合作机会。",
-      "category": "工程应用",
-      "materials": [
-        "保温面板"
-      ],
-      "applications": [],
-      "country": "UZ",
-      "region": "全球",
-      "source": "trend.az",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BNW5aSXBKRnR1SHZGeVdFQXpkbjh2UXdPRzJoTHc3eExENUtDQUJzdDJNNUFmU1VVYlA1TGNGWGJSeV9qb2ZWcGFaeGV3ejJ4S2p2YnZjSXhxc3RaVHgw?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-08-04",
-      "score": 63,
-      "substance": "medium",
-      "featured": false,
-      "impact": "high",
-      "impactNote": "中资参与乌兹别克生产基地，利于拓展中亚市场",
-      "dimensions": {
-        "relevance": 27,
-        "authority": 10,
-        "timeliness": 20,
-        "businessValue": 10,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪乌兹别克保温板厂谈判，预判产能转移和出口机会"
-    },
-    {
-      "id": "20260804-72aa5eda",
-      "title": "中国拟限制热塑性聚氨酯塑料中有害物质",
-      "titleOriginal": "China Proposes Limits on Hazardous Substances in TPU Plastics",
-      "summary": "中国工信部发布TPU塑料有害物质限值国标草案，虽非直接针对保温材料，但预示化工环保监管趋严，出口商需关注上游原料合规风险。",
-      "category": "标准政策",
-      "materials": [],
-      "applications": [],
-      "country": "CN",
-      "region": "东亚",
-      "source": "Enviliance ASIA",
-      "sourceUrl": "https://enviliance.com/regions/east-asia/cn/report_16950",
-      "sourceTier": "T2",
-      "sourceType": "法规追踪",
-      "date": "2026-08-04",
-      "score": 31,
-      "substance": "high",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "非直接相关，但需关注上游原料政策趋势",
-      "dimensions": {
-        "relevance": 5,
-        "authority": 16,
-        "timeliness": 6,
-        "businessValue": 2,
-        "marketImpact": 2
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注中国化工环保标准对保温材料上游影响"
     }
   ]
 }
