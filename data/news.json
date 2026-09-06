@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-05T13:28:43.428718+00:00",
-  "dailyDate": "2026-09-05",
+  "lastUpdated": "2026-09-06T00:00:58.129180+00:00",
+  "dailyDate": "2026-09-06",
   "totalSources": 13,
   "items": [
     {
@@ -653,74 +653,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪加州2026能效标准对保温材料的具体要求"
-    },
-    {
-      "id": "20260806-bec4d4d3",
-      "title": "可耐福在克罗地亚投产年产6万吨电熔岩棉生产线",
-      "titleOriginal": "Knauf Group commissions 60,000t/yr electric melting line at Novi Marof stone wool insulation plant",
-      "summary": "可耐福投资1.2亿欧元在克罗地亚Novi Marof投产年产6万吨电熔岩棉线，可回收50%原料，增强欧洲供应。",
-      "category": "企业展会",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "HR",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2229-knauf-group-commissions-60-000t-yr-electric-melting-line-at-novi-marof-stone-wool-insulation-plant",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-08-06",
-      "score": 82,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "欧洲岩棉供给增加，全球竞争加剧",
-      "dimensions": {
-        "relevance": 30,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 6,
-        "marketImpact": 10
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "可耐福新岩棉线投产，关注电熔技术趋势"
-    },
-    {
-      "id": "20260806-415faa57",
-      "title": "中资背景投资集团拟在乌兹别克斯坦建设保温板工厂",
-      "titleOriginal": "Wonderful International Investment Group plans Nurafshon insulation plant",
-      "summary": "中资Wonderful International投资集团与塔什干州政府会谈，拟在努拉夫尚建设保温板工厂，布局中亚市场。",
-      "category": "企业展会",
-      "materials": [
-        "保温板"
-      ],
-      "applications": [],
-      "country": "UZ",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2228-wonderful-international-investment-group-plans-nurafshon-insulation-plant",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-08-06",
-      "score": 67,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "中亚本地化生产或替代部分中国出口需求",
-      "dimensions": {
-        "relevance": 30,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 7,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "中资布局中亚保温板产能，关注乌兹别克斯坦市场"
     }
   ]
 }
