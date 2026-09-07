@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-06T13:43:21.805282+00:00",
-  "dailyDate": "2026-09-06",
+  "lastUpdated": "2026-09-07T00:04:26.719679+00:00",
+  "dailyDate": "2026-09-07",
   "totalSources": 13,
   "items": [
     {
@@ -72,6 +72,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪马来西亚能效政策对保温材料进口影响"
+    },
+    {
+      "id": "20260831-07e70a68",
+      "title": "在模块化建筑中应用连续保温的实践指南",
+      "titleOriginal": "Getting Comfortable with Continuous Insulation in Modular Construction",
+      "summary": "介绍模块化建筑中连续保温的应用方法，提示中国保温材料出口商关注北美模块化建筑市场对连续保温的需求。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "Pro Builder",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFllRzBvSU1wM3JjVTRmeTRhVmg1aHk5ZVdHelpXWjZEaS1qcUdHRndjZl9abmF5TEtQVVB0YXozZDVERFVmMU5UTzFHbm5UZ3RTT3JQRDRlVFVSVTBsdHROT3gtVGc1dGlPZmpTdGFrTjJ2eWY3b3AwbG02VHlYeEFDeFNrNk9qNm1zbXljejdaUzZ5ZlBrRHBVTk4wcnFHVU84OTk2ZzRhUTVXTUVwMmt2NWRmcG5CN3p6OWp2eXhHRnQ5QWc?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-08-31",
+      "score": 22,
+      "substance": "low",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "模块化建筑趋势利好保温材料出口",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 10,
+        "timeliness": 10,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪北美模块化建筑保温需求"
     },
     {
       "id": "20260830-a299965c",
