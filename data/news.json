@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-08T14:38:55.355030+00:00",
-  "dailyDate": "2026-09-08",
+  "lastUpdated": "2026-09-09T00:22:04.514701+00:00",
+  "dailyDate": "2026-09-09",
   "totalSources": 13,
   "items": [
     {
@@ -486,6 +486,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "俄罗斯建筑节能技术趋势分析"
+    },
+    {
+      "id": "20260817-9b05d356",
+      "title": "隔音保温材料市场规模与份额增长报告（至2034年）",
+      "titleOriginal": "Acoustic Insulation Market Size, Share | Growth Report [2034]",
+      "summary": "报告预测全球隔音保温材料市场至2034年持续增长，为出口商提供长期市场扩容信号。",
+      "category": "市场价格",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "fortunebusinessinsights.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlbzVrZFlJbE5XQlRpUGtUNVVVNlNKYldGWmlKOWR6QTBKaUZ3UU9FR0g3RFRObEpwSzRLXzlHT2V0ODdsNEwzVGV4QjI3d0tLUWFXRS1rVy1sbkltWHo5bk1IcGVodl84UkR2RnJraVdreDZLZzlQVlM4alVkZw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-08-17",
+      "score": 44,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "市场增长趋势利好出口布局",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注隔音保温材料细分市场增长点"
     },
     {
       "id": "20260814-fc03d8a4",
