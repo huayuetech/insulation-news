@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-09-09T00:22:04.514701+00:00",
+  "lastUpdated": "2026-09-09T14:40:06.975063+00:00",
   "dailyDate": "2026-09-09",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260909-9fd7e008",
+      "title": "阿联酋绿色建筑委员会联合行业领袖与学生共庆世界绿色建筑周",
+      "titleOriginal": "EmiratesGBC is uniting industry leaders and students for World Green Building Week",
+      "summary": "迪拜活动旨在将高层气候愿景转化为实际执行，推动绿色建筑实践，为保温材料出口商提供市场参与机会。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "Middle East Construction News",
+      "sourceUrl": "https://meconstructionnews.com/68959/emiratesgbc-is-uniting-industry-leaders-and-students-for-world-green-building-week",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-09-09",
+      "score": 61,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "绿色建筑活动提升保温材料需求预期",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注阿联酋绿色建筑周对保温材料采购的推动"
+    },
     {
       "id": "20260903-bdeabccf",
       "title": "越南发布能效标签计划下五类产品能效标准",
