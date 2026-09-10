@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-09-09T14:40:06.975063+00:00",
-  "dailyDate": "2026-09-09",
+  "lastUpdated": "2026-09-10T00:19:48.541133+00:00",
+  "dailyDate": "2026-09-10",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260910-a6660b7b",
+      "title": "日本修订《建筑能源效率法》",
+      "titleOriginal": "Japan Amends Building Energy Efficiency Act",
+      "summary": "日本修订建筑节能法规，将提升保温材料能效标准，为中国出口商带来合规挑战与市场机遇。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "JP",
+      "region": "东亚",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/east-asia/jp/report_17368",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-09-10",
+      "score": 88,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "法规变更直接影响产品准入标准",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 14,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注日本新规对保温材料性能要求变化"
+    },
     {
       "id": "20260909-9fd7e008",
       "title": "阿联酋绿色建筑委员会联合行业领袖与学生共庆世界绿色建筑周",
@@ -37,6 +72,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注阿联酋绿色建筑周对保温材料采购的推动"
+    },
+    {
+      "id": "20260909-7fa83d7a",
+      "title": "ASSA ABLOY与阿联酋绿色建筑委员会深化绿色建筑对话",
+      "titleOriginal": "ASSA ABLOY, EmiratesGBC Deepen Green Building Dialogue",
+      "summary": "ASSA ABLOY与阿联酋绿建委交流可持续制造，预示中东绿色建筑市场对保温材料需求增长。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "CBNME",
+      "sourceUrl": "https://www.cbnme.com/news/assa-abloy-emiratesgbc-deepen-green-building-dialogue/",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-09-09",
+      "score": 59,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "市场趋势信号，非直接订单",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "中东绿色建筑趋势对保温材料出口机会"
     },
     {
       "id": "20260903-bdeabccf",
@@ -723,41 +793,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "越南火电项目开工，关注当地保温材料采购"
-    },
-    {
-      "id": "20260810-dd926f68",
-      "title": "加州2026年建筑能效法规与制冷剂强制令重塑中央谷商业暖通空调规划",
-      "titleOriginal": "California’s 2026 Building Energy Code & Refrigerant Mandates Reshape Commercial HVAC Planning Across Central Valley",
-      "summary": "加州2026年建筑能效标准升级，将推动商业建筑保温需求，利好中国玻璃棉、岩棉出口商。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "EIN News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdFdUVWdBSG5tRTdwMndaUEtIczVzZ1FaLWtTOVY0cUZSMjRYSzlEZ0pyb1JXa2JDbjhXOXc5b29aUE94dzQxMlBrbmZWMGhLRXBzWloxUWpYWHRzQlVHSWI2MkMtQlpKalRQSE9FdGVETC15XzRUZnFueU1aejZJLS1kX1NicTFMVkp0ejZDWDZrbUozVDNYWkZwS3JEWjBBYUFUeHItQnVKNjdpdGpoX2dab05HVUZzeUtfQWFlcVdMUFJZVk9oLUl0cEoyczhQMllWOEg4Y0MyUXZyajlFSGt6Z2Y4ekp2alowVQ?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-08-10",
-      "score": 73,
-      "substance": "high",
-      "featured": true,
-      "impact": "high",
-      "impactNote": "能效标准升级，保温材料需求增加",
-      "dimensions": {
-        "relevance": 28,
-        "authority": 10,
-        "timeliness": 10,
-        "businessValue": 14,
-        "marketImpact": 11
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪加州2026能效标准对保温材料的具体要求"
     }
   ]
 }
