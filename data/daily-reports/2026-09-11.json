@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "generatedAt": "2026-09-11T00:15:26.809799+00:00",
+  "generatedAt": "2026-09-11T14:30:31.753532+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -33,6 +33,20 @@
       ]
     },
     {
+      "title": "产品与材料动态",
+      "icon": "product",
+      "items": [
+        {
+          "id": "20260911-16585140",
+          "title": "SigmaRoc以1.1亿欧元收购立陶宛Dolomitas，保障岩棉原料供应",
+          "summary": "SigmaRoc收购白云石生产商，确保岩棉原料供应，显示上游整合趋势。",
+          "country": "LT",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
       "title": "市场价格信号",
       "icon": "market",
       "items": [
@@ -50,6 +64,14 @@
       "title": "工程与应用案例",
       "icon": "project",
       "items": [
+        {
+          "id": "20260911-0657c133",
+          "title": "圣戈班印度将新建玻璃棉与岩棉工厂，推进2031年100家工厂目标",
+          "summary": "圣戈班印度计划新建玻璃棉和岩棉工厂，目标2031年达100家工厂，显示印度保温材料市场需求强劲。",
+          "country": "IN",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
         {
           "id": "20260813-313cdaa0",
           "title": "越南北宁省动工建设65万千瓦热电厂，投资约11.5亿美元",
