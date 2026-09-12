@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-11T14:30:31.753532+00:00",
-  "dailyDate": "2026-09-11",
+  "lastUpdated": "2026-09-12T00:23:17.238364+00:00",
+  "dailyDate": "2026-09-12",
   "totalSources": 13,
   "items": [
     {
@@ -71,6 +71,40 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注岩棉原料供应链变化"
+    },
+    {
+      "id": "20260911-f54760a5",
+      "title": "Vallourec深化与沙特阿美合作，在巴西启动保温材料制造项目",
+      "titleOriginal": "Vallourec strengthens Aramco partnership, launches Brazil insulation manufacturing project",
+      "summary": "国际管材巨头在巴西启动保温材料制造项目，可能影响全球高端保温材料供应链格局。",
+      "category": "工程应用",
+      "materials": [
+        "保温材料"
+      ],
+      "applications": [],
+      "country": "BR",
+      "region": "南美",
+      "source": "Offshore Magazine",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRDF1c084MEdlYjgyM3dIODEwRkhacGVGem13T0h2cF8wQUhPRTJCRFRIVGdTenJ6UjNSUTJuWm4zMnJHenp1YUJKMEJVWG1yUUo5UzRmWGVTYUx3QU9TSlM3N05pcjBIU1ZaSTNncUhXa2xOOE56YjlGbk9iMTJBd3lRZFJYcEo5ZVVRUzc5RmUtTU9YVjRWc2dhbjNpZ2JKY1lFY3p5dTlyajRtLWFybEZOVUdzRjZLaDlzTGo4NzR1NXo3SFlyb2ZWSzAzU3FPRXZnRjZmYm1lcmtuV0V1RzJUTkJ6NkIwVFdMWFFvRWh4dw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-09-11",
+      "score": 66,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "竞争对手布局南美制造基地，需关注其产品定位。",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注Vallourec巴西工厂的保温材料品类与产能。"
     },
     {
       "id": "20260911-589ed1ca",
