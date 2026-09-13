@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-12T13:39:04.702540+00:00",
-  "dailyDate": "2026-09-12",
+  "lastUpdated": "2026-09-13T00:03:40.392565+00:00",
+  "dailyDate": "2026-09-13",
   "totalSources": 13,
   "items": [
     {
@@ -959,75 +959,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注英国羊毛保温创新企业获奖，可跟踪技术合作机会"
-    },
-    {
-      "id": "20260813-313cdaa0",
-      "title": "越南北宁省动工建设65万千瓦热电厂，投资约11.5亿美元",
-      "titleOriginal": "Northern Vietnam industrial hub breaks grounds on thermal power plant amid rising electricity demand",
-      "summary": "越南 Bac Ninh 动工建设65万千瓦热电厂，投资11.5亿美元，将拉动工业保温材料需求。",
-      "category": "工程应用",
-      "materials": [
-        "岩棉",
-        "玻璃棉"
-      ],
-      "applications": [],
-      "country": "VN",
-      "region": "东南亚",
-      "source": "The Investor (Vietnam)",
-      "sourceUrl": "https://theinvestor.vn/northern-vietnam-industrial-hub-breaks-grounds-on-thermal-power-plant-amid-rising-electricity-demand-d19774.html",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-08-13",
-      "score": 79,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "电厂建设带来保温材料采购需求，可关注项目分包。",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 10,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "越南火电项目启动，保温材料配套机会"
-    },
-    {
-      "id": "20260813-f28dd6c8",
-      "title": "越南北宁省奠基开工安庆-北江火电厂，容量650MW",
-      "titleOriginal": "Northern Vietnam industrial hub breaks ground on thermal power plant amid rising electricity demand",
-      "summary": "越南投资11.5亿美元建设650MW火电厂，可能带动工业保温材料需求，利于中国出口商关注。",
-      "category": "工程应用",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "VN",
-      "region": "东南亚",
-      "source": "The Investor (Vietnam)",
-      "sourceUrl": "https://theinvestor.vn/northern-vietnam-industrial-hub-breaks-ground-on-thermal-power-plant-amid-rising-electricity-demand-d19774.html",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-08-13",
-      "score": 70,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "火电厂建设带来保温材料潜在需求",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "越南火电项目开工，关注当地保温材料采购"
     }
   ]
 }
