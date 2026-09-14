@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-09-14T00:16:37.522116+00:00",
+  "lastUpdated": "2026-09-14T16:24:11.951403+00:00",
   "dailyDate": "2026-09-14",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260914-46db7f54",
+      "title": "阿联酋Empower公司JBH工厂获LEED金级认证",
+      "titleOriginal": "Empower’s JBH plant receives LEED Gold certification",
+      "summary": "该认证认可工厂在能效与可持续设计方面符合全球标准，体现中东市场对绿色建筑材料的偏好。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "Middle East Construction News",
+      "sourceUrl": "https://meconstructionnews.com/69040/empowers-jbh-plant-receives-leed-gold-certification",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-09-14",
+      "score": 70,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "绿色认证项目增加，利好节能保温材料出口。",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "中东绿色建筑认证趋势对保温材料需求影响"
+    },
     {
       "id": "20260911-0657c133",
       "title": "圣戈班印度将新建玻璃棉与岩棉工厂，推进2031年100家工厂目标",
@@ -622,6 +657,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注沙特薄涂层技术对传统保温材料的替代趋势"
+    },
+    {
+      "id": "20260826-00628d0a",
+      "title": "英国建筑保温材料市场展望报告（至2033年）",
+      "titleOriginal": "UK Building Thermal Insulation Market Outlook, 2033",
+      "summary": "报告预测英国建筑保温市场未来十年趋势，为出口商制定英国市场策略提供宏观参考。",
+      "category": "市场价格",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GB",
+      "region": "欧洲",
+      "source": "grandviewresearch.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZTgyMDlVV0loanVwTU5nN2pnal9lS3ZDdEtkS2ZlVUd6dWRadFdha1ZsWm9MYzIwY0h2d3VhcDNvZXBaYTNiWlJPN3VSS01jcEpzRFk2V3NGVXVMTTUxUzk3b1E3YmNKSlZUNUhrNER0czJ6bmhkVzItUE5mYXpFSFNRQVNvMVJBemtZQW9nOGw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-08-26",
+      "score": 48,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "市场增长信号，需关注具体数据以评估机会。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 7,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "英国保温材料市场增长潜力分析"
     },
     {
       "id": "20260824-e0b46200",
