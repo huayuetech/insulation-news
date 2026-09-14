@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-13T14:29:08.417163+00:00",
-  "dailyDate": "2026-09-13",
+  "lastUpdated": "2026-09-14T00:16:37.522116+00:00",
+  "dailyDate": "2026-09-14",
   "totalSources": 13,
   "items": [
     {
@@ -861,104 +861,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注隔音保温材料细分市场增长点"
-    },
-    {
-      "id": "20260814-fc03d8a4",
-      "title": "Kingspan 2026上半年销售额48.6亿欧元 同比增8%",
-      "titleOriginal": "Kingspan raises sales in first half of 2026",
-      "summary": "Kingspan上半年销售额48.6亿欧元增8%，欧洲强美国弱，显示保温需求分化，中国出口商可关注欧洲机会。",
-      "category": "企业展会",
-      "materials": [],
-      "applications": [],
-      "country": "IE",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2232-kingspan-raises-sales-in-first-half-of-2026",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-08-14",
-      "score": 81,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "欧洲需求增长利于出口，美国疲软需留意",
-      "dimensions": {
-        "relevance": 27,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 9,
-        "marketImpact": 9
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注Kingspan中报欧洲市场，跟进出口机会"
-    },
-    {
-      "id": "20260814-a749b0de",
-      "title": "Kingspan以8.5亿欧元收购BMC制造集团，拓展数据中心设备业务",
-      "titleOriginal": "Kingspan to diversify data centres equipment offering with BMC Manufacturing Group acquisition",
-      "summary": "Kingspan同意以8.5亿欧元收购爱尔兰BMC制造集团，强化数据中心低压配电设备，对保温材料出口暂无直接利好。",
-      "category": "企业展会",
-      "materials": [],
-      "applications": [],
-      "country": "IE",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2231-kingspan-to-diversify-data-centres-equipment-offering-with-bmc-manufacturing-group-acquisition",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-08-14",
-      "score": 56,
-      "substance": "high",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "并购标的为电气设备，非保温材料，短期无直接影响",
-      "dimensions": {
-        "relevance": 12,
-        "authority": 16,
-        "timeliness": 18,
-        "businessValue": 4,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "可分析Kingspan数据中心布局对保温材料协同需求"
-    },
-    {
-      "id": "20260814-14bdbab3",
-      "title": "英国羊毛保温材料开发商Wull Technologies商务总监荣获女性创新奖",
-      "titleOriginal": "Wull Technologies commercial director wins Women in Innovation award",
-      "summary": "Wull Technologies凭借商务总监入选英国创新署女性创新奖，获8.77万欧元奖金，表明保温材料领域创新备受认可。",
-      "category": "产品与材料",
-      "materials": [
-        "羊毛"
-      ],
-      "applications": [],
-      "country": "UK",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2230-wull-technologies-commercial-director-wins-women-in-innovation-award",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-08-14",
-      "score": 52,
-      "substance": "medium",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 3,
-        "marketImpact": 2
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注英国羊毛保温创新企业获奖，可跟踪技术合作机会"
     }
   ]
 }
