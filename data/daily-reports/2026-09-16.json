@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generatedAt": "2026-09-16T00:31:44.875530+00:00",
+  "generatedAt": "2026-09-16T15:02:05.677780+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -23,11 +23,27 @@
           "impact": "high"
         },
         {
+          "id": "20260916-89a534d8",
+          "title": "沙特阿拉伯：建筑强制保温即将实施",
+          "summary": "沙特即将实施建筑强制保温政策，利好中国玻璃棉、岩棉等保温材料出口商开拓中东市场。",
+          "country": "SA",
+          "source": "arabnews.com",
+          "impact": "high"
+        },
+        {
           "id": "20260828-d045f30b",
           "title": "新加坡推进2030年建筑环境能效目标，发布脱碳设计研究",
           "summary": "新加坡BCA发布DPfD研究，推动建筑能效提升，利好中国高效保温材料出口。",
           "country": "SG",
           "source": "Enviliance ASIA",
+          "impact": "medium"
+        },
+        {
+          "id": "20260916-9fae162d",
+          "title": "卡塔尔：无需额外保温层即可达到0.57 W/m²K U值要求",
+          "summary": "卡塔尔QCS 2014强制要求墙体U值≤0.57，推动自保温砌块技术，减少对外加保温层依赖，可能影响中国玻璃棉、岩棉出口需求。",
+          "country": "QA",
+          "source": "CBNME",
           "impact": "medium"
         }
       ]

@@ -1,8 +1,78 @@
 {
-  "lastUpdated": "2026-09-16T00:31:44.875530+00:00",
+  "lastUpdated": "2026-09-16T15:02:05.677780+00:00",
   "dailyDate": "2026-09-16",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260916-89a534d8",
+      "title": "沙特阿拉伯：建筑强制保温即将实施",
+      "titleOriginal": "Mandatory thermal insulation of buildings soon",
+      "summary": "沙特即将实施建筑强制保温政策，利好中国玻璃棉、岩棉等保温材料出口商开拓中东市场。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SA",
+      "region": "中东",
+      "source": "arabnews.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaEF1RUpkbHFtNVd1ak9DeXdqOHVGbFBsWnc5aEkxdTlfS1llVUdzaHJmQm15R25pdklpcmRWdVlFSmpXVVJQZTVVVjdzZjdlYmgwbVNhMy1PU3p6T3RyM3I5NmVYM2lDV0Q0ZzJsTEVRYU5NRTVhUDVNRThDd09Fay0yXzVyQ3FKOVkzU0E5TlFkdHQ2bUE?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-09-16",
+      "score": 87,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "强制政策将大幅拉动保温材料需求",
+      "dimensions": {
+        "relevance": 30,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 15,
+        "marketImpact": 12
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪沙特强制保温政策落地时间与标准"
+    },
+    {
+      "id": "20260916-9fae162d",
+      "title": "卡塔尔：无需额外保温层即可达到0.57 W/m²K U值要求",
+      "titleOriginal": "Qatar: Meeting A 0.57 W/m²K U-Value Without An Added Insulation Layer",
+      "summary": "卡塔尔QCS 2014强制要求墙体U值≤0.57，推动自保温砌块技术，减少对外加保温层依赖，可能影响中国玻璃棉、岩棉出口需求。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "QA",
+      "region": "中东",
+      "source": "CBNME",
+      "sourceUrl": "https://www.cbnme.com/expert-insight/qatar-meeting-a-0-57-w-m%c2%b2k-u-value-without-an-added-insulation-layer/",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-09-16",
+      "score": 77,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "自保温技术可能替代部分保温材料需求",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注海湾国家自保温技术对出口影响"
+    },
     {
       "id": "20260914-46db7f54",
       "title": "阿联酋Empower公司JBH工厂获LEED金级认证",
