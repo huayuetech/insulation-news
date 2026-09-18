@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-17T15:05:29.647516+00:00",
-  "dailyDate": "2026-09-17",
+  "lastUpdated": "2026-09-18T00:29:14.498183+00:00",
+  "dailyDate": "2026-09-18",
   "totalSources": 13,
   "items": [
     {
@@ -900,72 +900,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "洛科威业绩分析及对中国岩棉出口的启示"
-    },
-    {
-      "id": "20260818-6fed59c9",
-      "title": "喷涂聚氨酯泡沫建筑规范要点",
-      "titleOriginal": "Building Code Essentials for Spray Polyurethane Foam Applications",
-      "summary": "文章介绍喷涂聚氨酯泡沫应用中的建筑规范要求，对出口商了解北美市场标准有参考价值。",
-      "category": "标准政策",
-      "materials": [
-        "聚氨酯泡沫"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "Spray Foam Magazine",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc1EtSXptQzZUcWhsSGN5bTFtODFXWW1nQjBLM1hLM2l3RU80WS1DSVoxb3Fsd2VUaGZpX2w0UF9uOElrOElLR1k1cWt4c1hpeE0wSWJCVXNmTlkydU4xRjJ2Wl9iVm9ROGd0ZXg5ZnZRbllDUnBkX3pUaFhCVHQzVEttUnpHRncwM3RkQVM5aTBaTzN0aEhMUUQxVTVLUFZzUkxvTFA1SVlTYWlmbFFnZS1qN0Y?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-08-18",
-      "score": 19,
-      "substance": "low",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "了解规范有助于产品合规出口",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 7,
-        "marketImpact": 5
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "梳理北美喷涂泡沫建筑规范要点"
-    },
-    {
-      "id": "20260818-34f232d5",
-      "title": "俄罗斯制造：建筑节能、安全与成本控制的实用技术",
-      "titleOriginal": "Made in Russia: Practical technologies for energy efficiency, safety and cost control in construction",
-      "summary": "俄罗斯推广建筑节能实用技术，可能涉及保温材料，为中国出口商提供市场机会。",
-      "category": "工程应用",
-      "materials": [],
-      "applications": [],
-      "country": "RU",
-      "region": "全球",
-      "source": "Construction Week Online",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2lYRUpETlA4Y2MyZjJEQ0xUb0ZiNGJHb2tXalRhdEVmaHJ1emwxVS1VZzlfQ28wV2gyQm9raUxyZ2xOaW9XUl85ZjM3SlJRazA1Vmo5XzBvMnhfanBwNjVPYkpzeWl0QW5LOW1lcE5KbXlXXy0xN0VPS0FveTZhbg?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-08-18",
-      "score": 19,
-      "substance": "low",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 15,
-        "authority": 10,
-        "timeliness": 14,
-        "businessValue": 5,
-        "marketImpact": 4
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "俄罗斯建筑节能技术趋势分析"
     }
   ]
 }
