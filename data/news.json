@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-18T14:33:00.184584+00:00",
-  "dailyDate": "2026-09-18",
+  "lastUpdated": "2026-09-19T00:25:24.911662+00:00",
+  "dailyDate": "2026-09-19",
   "totalSources": 13,
   "items": [
     {
@@ -109,6 +109,41 @@
       "topic": "中东绿色建筑认证趋势对保温材料需求影响"
     },
     {
+      "id": "20260914-3dfb9d83",
+      "title": "菲律宾屋顶太阳能发电：市场增长、驱动因素与监管进展",
+      "titleOriginal": "Rooftop Solar Power Generation in the Philippines: Market Growth, Drivers, and Regulatory Developments",
+      "summary": "菲律宾屋顶太阳能市场增长，高日照与建筑屋顶潜力大，利好保温材料在光伏建筑一体化中的应用。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "PH",
+      "region": "东南亚",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/southeast-asia/ph/ph-rooftop-solar-power-gen",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-09-14",
+      "score": 51,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "光伏建筑增长带动保温需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 10,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注菲律宾光伏建筑保温材料配套机会"
+    },
+    {
       "id": "20260911-0657c133",
       "title": "圣戈班印度将新建玻璃棉与岩棉工厂，推进2031年100家工厂目标",
       "titleOriginal": "Saint-Gobain India to advance 100-plant target with upcoming glass wool and stone wool plant",
@@ -176,6 +211,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注岩棉原料供应链变化"
+    },
+    {
+      "id": "20260911-83b7f92d",
+      "title": "马来西亚SEDA招标：工业能效与节能指南更新咨询项目",
+      "titleOriginal": "SEDA(SH)-12/2026 – PELANTIKAN PERKHIDMATAN FIRMA PERUNDING BAGI PROJEK PENGEMASKINIAN PANDUAN ENERGY EFFICIENCY AND CONSERVATION FOR MALAYSIAN INDUSTRIES (EECMI) SEDA MALAYSIA",
+      "summary": "马来西亚启动工业能效指南更新招标，预示工业保温标准趋严，为出口商提供政策合规参考。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "MY",
+      "region": "东南亚",
+      "source": "SEDA Malaysia",
+      "sourceUrl": "https://www.seda.gov.my/sedash-12-2026-pelantikan-perkhidmatan-firma-perunding-bagi-projek-pengemaskinian-panduan-energy-efficiency-and-conservation-for-malaysian-industries-eecmi-seda-malaysia/",
+      "sourceTier": "T1",
+      "sourceType": "官方源",
+      "date": "2026-09-11",
+      "score": 69,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "能效标准升级或影响保温材料需求",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 25,
+        "timeliness": 6,
+        "businessValue": 9,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪马来西亚工业保温标准更新动态"
     },
     {
       "id": "20260911-f54760a5",
