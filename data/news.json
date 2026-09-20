@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-09-19T13:56:31.312042+00:00",
-  "dailyDate": "2026-09-19",
+  "lastUpdated": "2026-09-20T00:11:03.169267+00:00",
+  "dailyDate": "2026-09-20",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260919-a65b6db9",
+      "title": "乌兹别克斯坦在努库斯启动年产5万吨、投资5000万美元的玄武岩保温材料工厂",
+      "titleOriginal": "Uzbekistan launches $50mn basalt insulation plant in Nukus with 50,000-ton annual capacity",
+      "summary": "乌兹别克斯坦新建大型玄武岩保温材料厂，年产能5万吨，将加剧中亚市场竞争，对中国出口商构成价格与份额压力。",
+      "category": "产品与材料",
+      "materials": [
+        "玄武岩棉"
+      ],
+      "applications": [],
+      "country": "UZ",
+      "region": "全球",
+      "source": "Daryo.uz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjhuRzV2bXViQ1RUSzFSVUZ6cUVaX1NiemxYZmRidGpvS2JjZ2pyZ3lXUG9Id2lsdlJPcVpMOUhGX0gyLXBrMGtnVm13cEtaYTVtQ1ZmZDJmQnFFS2xfcFhiZEdnVm1KNExEZ0dkangyYS1wSDJFTDR4MzF2ekYwNXFxSFhFdTFsaDNzdUYtRTQ4UnNwREJlZVpPYkxSZWg2ZEtTMHZXUG9JcnZFb1lmajJfRnBmbkc4MEJ1Sw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-09-19",
+      "score": 78,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "中亚新增5万吨产能，竞争加剧",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 12,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注中亚保温材料产能扩张对华出口影响"
+    },
     {
       "id": "20260916-89a534d8",
       "title": "沙特阿拉伯：建筑强制保温即将实施",
@@ -936,40 +970,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注圣戈班在印度的玻璃棉推广策略"
-    },
-    {
-      "id": "20260820-472d7884",
-      "title": "洛科威2026上半年销售额增长5%至19.1亿欧元",
-      "titleOriginal": "Rockwool raises sales in first half of 2026",
-      "summary": "全球岩棉龙头洛科威销量增长但利润微降，显示市场回暖但竞争加剧，对中国出口商有对标参考价值。",
-      "category": "市场价格",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "DK",
-      "region": "全球",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2233-rockwool-raises-sales-in-first-half-of-2026",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-08-20",
-      "score": 79,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "行业龙头业绩回暖，竞争压力增大。",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 10
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "洛科威业绩分析及对中国岩棉出口的启示"
     }
   ]
 }
