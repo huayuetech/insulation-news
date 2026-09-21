@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-20T14:17:00.887087+00:00",
-  "dailyDate": "2026-09-20",
+  "lastUpdated": "2026-09-21T00:19:09.703733+00:00",
+  "dailyDate": "2026-09-21",
   "totalSources": 13,
   "items": [
     {
@@ -936,40 +936,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "全球保温材料市场数据参考"
-    },
-    {
-      "id": "20260821-633d51fd",
-      "title": "圣戈班印度CEO欲用石膏板和玻璃棉改变印度建筑方式",
-      "titleOriginal": "Saint-Gobain's India CEO wants to change how Indians build homes and offices, using gypsum boards and glass wool",
-      "summary": "圣戈班印度CEO推动使用石膏板和玻璃棉，改变印度建筑方式，利好中国玻璃棉出口商。",
-      "category": "企业展会",
-      "materials": [
-        "玻璃棉"
-      ],
-      "applications": [],
-      "country": "IN",
-      "region": "南亚",
-      "source": "TradingView",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbFZSdVZrbnZwUE1abENZYjNaUkFwYllLZ1BlOGZRNE1GSVE3ZXhMaVhNQUFGT0NwSUpYcUlkZHpDS3psdUxmREoyZDRCVk5CeUJ6OEsxSTFTdHpCYzRPczgyeTk1SzRneWoySVY5ZVhIVXNVTkF5eEtYbDFXYnNKQjFGRGU4Z3FBcEtuM2d1dVRRSUVzVXNrREsyeE41eEk2QVZSRHlWVU1EZlAzQ2ZoN00tQnU5LXBoc1dXa0V5R3U1d3VrTHZrdUYwWldQdFJzMzFhUkM1Sm5ac2N2TXlWOEdqMzBmZ3dBNG9rUmk0bUFQb09nMndkbk0xUS0?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-08-21",
-      "score": 53,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "印度市场推广玻璃棉，增加潜在需求。",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 18,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注圣戈班在印度的玻璃棉推广策略"
     }
   ]
 }
