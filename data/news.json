@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-09-21T00:19:09.703733+00:00",
+  "lastUpdated": "2026-09-21T16:30:36.711047+00:00",
   "dailyDate": "2026-09-21",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260921-fcacb7f4",
+      "title": "柬埔寨推动建筑节能规范，应对制冷需求与建设热潮",
+      "titleOriginal": "Cambodia Pushes Building Energy Code as Cooling Demand and Construction Surge",
+      "summary": "柬埔寨因建筑和制冷需求激增，正推动建筑节能规范，利好中国保温材料出口。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "KH",
+      "region": "全球",
+      "source": "Cambodianess",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXlnQjdSMlRHdFhMR2Y0REtkcFhzMXJlZUFPcTBMdFRPaWJsdW1vQ2hpUXlhMUxNdGRZM2pkekhjd2E5LXE3bU0ydEJmOVlxTWVJOWFpUC1FcHVSYXVpTzhsYUJpOGxiNmVlM0syRWRNX3FHR2RheDRGaHVkTVJRc3JhTUVmQVNrSUpJNVB6TmZ6TW1PZXpuTHRrQXV4QUJ2WDJ1MlFnaUQ0aUJnTjhr?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-09-21",
+      "score": 73,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "节能规范将提升保温材料需求",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注柬埔寨建筑节能标准动态"
+    },
     {
       "id": "20260919-a65b6db9",
       "title": "乌兹别克斯坦在努库斯启动年产5万吨、投资5000万美元的玄武岩保温材料工厂",
