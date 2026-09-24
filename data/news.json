@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-23T15:05:39.098534+00:00",
-  "dailyDate": "2026-09-23",
+  "lastUpdated": "2026-09-24T00:36:25.167509+00:00",
+  "dailyDate": "2026-09-24",
   "totalSources": 13,
   "items": [
     {
@@ -901,76 +901,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "英国保温材料市场增长潜力分析"
-    },
-    {
-      "id": "20260824-e0b46200",
-      "title": "HVAC保温材料市场规模、份额与增长报告 | MRFR",
-      "titleOriginal": "HVAC Insulation Market Size, Share & Growth Report | MRFR",
-      "summary": "报告显示全球HVAC保温材料市场持续增长，为中国玻璃棉和岩棉出口商提供需求信号。",
-      "category": "市场价格",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "Market Research Future",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yT0ZuU2t6WmpTUHI0Z1BQR0liS2xvelpSUnJGNXoxUjN2eHlMYm45bTFlVzhWT3lrOHdYMHRZVEk1MU95TGY5OHZIR2hqLWdGRDd2U1p6YUl3U0NlUWh2T2pKYjFueU51cmk0dS14YmFJeWpBcGlEWmhCTV8?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-08-24",
-      "score": 51,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "市场增长信号，需关注具体数据",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 14,
-        "businessValue": 8,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注HVAC保温材料市场增长趋势"
-    },
-    {
-      "id": "20260824-53e7c70d",
-      "title": "建筑保温材料市场规模、份额与增长报告",
-      "titleOriginal": "Building Thermal Insulation Market Size, Share & Growth Report | MRFR",
-      "summary": "市场研究报告提供建筑保温材料行业数据，但缺乏具体新信息，对出口商参考价值有限。",
-      "category": "市场价格",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "Market Research Future",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NadUxzeW1YN3dyci1xMjB1QlF6QXZyUFY4UjE0ZTMtdHJMUkFJaTRtRXFFTTVzSHBweXNzd0R5SkpWNlFzX0dLdEQ2TEhJeUtnOUhSdmlQN0pXNS1Ba01Bc1kxWFlRWnNNTUx3R0FBMjVJM2pqZUEzYTdqSElHYU84QkE3ejFrT3A3LQ?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-08-24",
-      "score": 15,
-      "substance": "low",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 15,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 3,
-        "marketImpact": 4
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "全球保温材料市场数据参考"
     }
   ]
 }
