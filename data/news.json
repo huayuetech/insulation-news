@@ -1,8 +1,78 @@
 {
-  "lastUpdated": "2026-09-24T15:16:48.907402+00:00",
-  "dailyDate": "2026-09-24",
+  "lastUpdated": "2026-09-25T00:36:57.561623+00:00",
+  "dailyDate": "2026-09-25",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260925-6fd7a41e",
+      "title": "澳大利亚发布热泵热水器MEPS实施草案并公开征求意见",
+      "titleOriginal": "Australia Releases Exposure Draft on MEPS Implementation for Heat Pump Water Heaters, Opens Public Consultation",
+      "summary": "澳大利亚拟对热泵热水器实施最低能效标准，可能带动保温材料需求，出口商需关注合规要求。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AU",
+      "region": "大洋洲",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/oceania/au/report_17525",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-09-25",
+      "score": 72,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "能效标准升级或增加保温材料用量",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注澳洲MEPS对保温材料出口影响"
+    },
+    {
+      "id": "20260924-a510053e",
+      "title": "德国fischer获沙特15亿美元吉达塔供应合同",
+      "titleOriginal": "Germany’s fischer Wins Supply Deal For Saudi Arabia’s $1.5bn Jeddah Tower",
+      "summary": "吉达塔项目选用德国锚固方案，中国保温材料出口商可关注该超高层建筑保温分包机会。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉",
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "SA",
+      "region": "中东",
+      "source": "CBNME",
+      "sourceUrl": "https://www.cbnme.com/suppliers/germanys-fischer-wins-supply-deal-for-saudi-arabias-1-5bn-jeddah-tower/",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-09-24",
+      "score": 81,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "标志性项目带动中东保温需求",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 16,
+        "timeliness": 18,
+        "businessValue": 12,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪吉达塔保温材料采购动态"
+    },
     {
       "id": "20260921-fcacb7f4",
       "title": "柬埔寨推动建筑节能规范，应对制冷需求与建设热潮",
