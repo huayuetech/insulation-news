@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-25T15:21:01.532530+00:00",
-  "dailyDate": "2026-09-25",
+  "lastUpdated": "2026-09-26T00:41:31.107936+00:00",
+  "dailyDate": "2026-09-26",
   "totalSources": 13,
   "items": [
     {
@@ -866,111 +866,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注欧洲保温材料行业并购动态及对中国出口影响。"
-    },
-    {
-      "id": "20260826-858b8b09",
-      "title": "越南EVN与TKV领导视察永新4电厂，讨论长期煤炭供应",
-      "titleOriginal": "EVN, TKV leaders inspect Vinh Tan 4 power plant, discuss long-term coal supplies",
-      "summary": "越南电力集团与煤炭矿业集团视察永新4燃煤电厂，保障长期煤炭供应，利好中国保温材料出口商关注电厂维护与新建项目。",
-      "category": "工程应用",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "VN",
-      "region": "东南亚",
-      "source": "The Investor (Vietnam)",
-      "sourceUrl": "https://theinvestor.vn/evn-tkv-leaders-inspect-vinh-tan-4-power-plant-discuss-long-term-coal-supplies-d19873.html",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-08-26",
-      "score": 70,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "电厂维护与新建可能带动保温材料需求",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "越南燃煤电厂保温材料采购机会"
-    },
-    {
-      "id": "20260826-09af2e37",
-      "title": "当热量成为成本：薄涂层如何改变沙特阿拉伯的能效实践",
-      "titleOriginal": "When heat becomes a cost item: How thin coatings are changing energy-efficiency practices in Saudi Arabia",
-      "summary": "沙特推广薄涂层节能技术，可能影响建筑保温材料市场格局，对中国玻璃棉、岩棉出口构成替代竞争或合作机会。",
-      "category": "技术观点",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "SA",
-      "region": "中东",
-      "source": "Arab News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wYlNKWTVGc2pudmFoYXpOQmxkdjJrTGxNVEEya3VXdUxvanVuX3JYQlNXaTFZUC0tMTMzR09jUC1MZTFfT0RKbUlKU3FfNkk1aFNB?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-08-26",
-      "score": 54,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "新型涂层技术可能分流传统保温材料需求",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 18,
-        "businessValue": 8,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注沙特薄涂层技术对传统保温材料的替代趋势"
-    },
-    {
-      "id": "20260826-00628d0a",
-      "title": "英国建筑保温材料市场展望报告（至2033年）",
-      "titleOriginal": "UK Building Thermal Insulation Market Outlook, 2033",
-      "summary": "报告预测英国建筑保温市场未来十年趋势，为出口商制定英国市场策略提供宏观参考。",
-      "category": "市场价格",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GB",
-      "region": "欧洲",
-      "source": "grandviewresearch.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZTgyMDlVV0loanVwTU5nN2pnal9lS3ZDdEtkS2ZlVUd6dWRadFdha1ZsWm9MYzIwY0h2d3VhcDNvZXBaYTNiWlJPN3VSS01jcEpzRFk2V3NGVXVMTTUxUzk3b1E3YmNKSlZUNUhrNER0czJ6bmhkVzItUE5mYXpFSFNRQVNvMVJBemtZQW9nOGw?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-08-26",
-      "score": 48,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "市场增长信号，需关注具体数据以评估机会。",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 7,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "英国保温材料市场增长潜力分析"
     }
   ]
 }
