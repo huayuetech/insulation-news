@@ -1,8 +1,111 @@
 {
-  "lastUpdated": "2026-09-28T00:55:08.976495+00:00",
+  "lastUpdated": "2026-09-28T18:11:35.201429+00:00",
   "dailyDate": "2026-09-28",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260928-241c9d64",
+      "title": "英国政府设定高层住宅覆层修复截止日期至2029年底",
+      "titleOriginal": "UK government to set deadline for high-rise residential building cladding remediation",
+      "summary": "英国强制要求高层住宅外墙覆层修复，涉及3700栋建筑，将拉动保温材料需求，利好中国出口商。",
+      "category": "标准政策",
+      "materials": [
+        "岩棉",
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GB",
+      "region": "欧洲",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2241-uk-government-to-set-deadline-for-high-rise-residential-building-cladding-remediation",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-09-28",
+      "score": 89,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "强制修复政策将带来大量保温材料订单。",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 14,
+        "marketImpact": 11
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "英国覆层修复政策带来出口机会"
+    },
+    {
+      "id": "20260928-ca530752",
+      "title": "塔吉克斯坦 Dilroz Gayur 在粟特州投产5万吨/年矿棉工厂",
+      "titleOriginal": "Dilroz Gayur commissions 50,000t/yr mineral wool plant in Sughd",
+      "summary": "塔吉克斯坦新矿棉厂投产，年产能5万吨，可能影响中亚市场竞争格局，对中国出口商构成潜在竞争。",
+      "category": "产品与材料",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "TJ",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2243-dilroz-gayur-commissions-50-000t-yr-mineral-wool-plant-in-sughd",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-09-28",
+      "score": 77,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "中亚新增产能，可能挤压中国出口空间。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注中亚矿棉产能扩张对出口影响"
+    },
+    {
+      "id": "20260928-89b7ec31",
+      "title": "马贝西班牙合并防水保温企业 Tecnopol Sistemas",
+      "titleOriginal": "Mapei Spain merges Tecnopol Sistemas into itself",
+      "summary": "马贝西班牙整合防水保温业务，强化本地生产，对中国保温材料出口西班牙市场影响有限。",
+      "category": "企业展会",
+      "materials": [
+        "保温材料"
+      ],
+      "applications": [],
+      "country": "ES",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2242-mapei-spain-merges-tecnopol-sistemas-into-itself",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-09-28",
+      "score": 49,
+      "substance": "medium",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 3,
+        "marketImpact": 4
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注欧洲企业并购对供应链影响"
+    },
     {
       "id": "20260925-6fd7a41e",
       "title": "澳大利亚发布热泵热水器MEPS实施草案并公开征求意见",

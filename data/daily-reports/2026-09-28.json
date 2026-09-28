@@ -1,11 +1,19 @@
 {
   "date": "2026-09-28",
-  "generatedAt": "2026-09-28T00:55:08.976495+00:00",
+  "generatedAt": "2026-09-28T18:11:35.201429+00:00",
   "sections": [
     {
       "title": "政策法规变动",
       "icon": "policy",
       "items": [
+        {
+          "id": "20260928-241c9d64",
+          "title": "英国政府设定高层住宅覆层修复截止日期至2029年底",
+          "summary": "英国强制要求高层住宅外墙覆层修复，涉及3700栋建筑，将拉动保温材料需求，利好中国出口商。",
+          "country": "GB",
+          "source": "Global Insulation",
+          "impact": "high"
+        },
         {
           "id": "20260910-a6660b7b",
           "title": "日本修订《建筑能源效率法》",
@@ -37,14 +45,6 @@
           "country": "QA",
           "source": "CBNME",
           "impact": "medium"
-        },
-        {
-          "id": "20260921-fcacb7f4",
-          "title": "柬埔寨推动建筑节能规范，应对制冷需求与建设热潮",
-          "summary": "柬埔寨因建筑和制冷需求激增，正推动建筑节能规范，利好中国保温材料出口。",
-          "country": "KH",
-          "source": "Cambodianess",
-          "impact": "medium"
         }
       ]
     },
@@ -59,6 +59,14 @@
           "country": "UZ",
           "source": "Daryo.uz",
           "impact": "high"
+        },
+        {
+          "id": "20260928-ca530752",
+          "title": "塔吉克斯坦 Dilroz Gayur 在粟特州投产5万吨/年矿棉工厂",
+          "summary": "塔吉克斯坦新矿棉厂投产，年产能5万吨，可能影响中亚市场竞争格局，对中国出口商构成潜在竞争。",
+          "country": "TJ",
+          "source": "Global Insulation",
+          "impact": "medium"
         },
         {
           "id": "20260911-16585140",
