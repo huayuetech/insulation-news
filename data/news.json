@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-09-28T18:11:35.201429+00:00",
-  "dailyDate": "2026-09-28",
+  "lastUpdated": "2026-09-29T02:04:40.215218+00:00",
+  "dailyDate": "2026-09-29",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20260929-e4510034",
+      "title": "新加坡发布修订版建筑能效标准 SS 530:2024+A1:2026",
+      "titleOriginal": "Singapore Issues Revised Building Energy Efficiency Standard",
+      "summary": "新加坡更新建筑能效标准，新增对保温材料性能要求，影响中国玻璃棉、岩棉出口合规与市场准入。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SG",
+      "region": "全球",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/southeast-asia/sg/report_17608",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-09-29",
+      "score": 88,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "标准更新可能提高出口门槛，需及时调整产品认证。",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 14,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪新加坡能效标准修订，评估对华保温材料出口影响。"
+    },
     {
       "id": "20260928-241c9d64",
       "title": "英国政府设定高层住宅覆层修复截止日期至2029年底",
