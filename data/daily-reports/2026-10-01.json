@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T01:20:22.741250+00:00",
+  "sections": [
+    {
+      "title": "政策法规变动",
+      "icon": "policy",
+      "items": [
+        {
+          "id": "20260928-241c9d64",
+          "title": "英国政府设定高层住宅覆层修复截止日期至2029年底",
+          "summary": "英国强制要求高层住宅外墙覆层修复，涉及3700栋建筑，将拉动保温材料需求，利好中国出口商。",
+          "country": "GB",
+          "source": "Global Insulation",
+          "impact": "high"
+        },
+        {
+          "id": "20261001-16ca7a83",
+          "title": "日本批准修订版《建筑节能法》实施日期及执行细则内阁令",
+          "summary": "日本通过建筑节能法修正案内阁令，将推动建筑保温材料需求，利好中国出口商关注合规与市场准入。",
+          "country": "JP",
+          "source": "Enviliance ASIA",
+          "impact": "high"
+        },
+        {
+          "id": "20260929-e4510034",
+          "title": "新加坡发布修订版建筑能效标准 SS 530:2024+A1:2026",
+          "summary": "新加坡更新建筑能效标准，新增对保温材料性能要求，影响中国玻璃棉、岩棉出口合规与市场准入。",
+          "country": "SG",
+          "source": "Enviliance ASIA",
+          "impact": "high"
+        },
+        {
+          "id": "20260910-a6660b7b",
+          "title": "日本修订《建筑能源效率法》",
+          "summary": "日本修订建筑节能法规，将提升保温材料能效标准，为中国出口商带来合规挑战与市场机遇。",
+          "country": "JP",
+          "source": "Enviliance ASIA",
+          "impact": "high"
+        },
+        {
+          "id": "20260901-22c3c4db",
+          "title": "马来西亚发布2026-2035年国家能效政策与行动计划",
+          "summary": "马来西亚公布新十年能效政策，将推动建筑保温材料需求，利好中国玻璃棉、岩棉出口。",
+          "country": "MY",
+          "source": "Enviliance ASIA",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "产品与材料动态",
+      "icon": "product",
+      "items": [
+        {
+          "id": "20260919-a65b6db9",
+          "title": "乌兹别克斯坦在努库斯启动年产5万吨、投资5000万美元的玄武岩保温材料工厂",
+          "summary": "乌兹别克斯坦新建大型玄武岩保温材料厂，年产能5万吨，将加剧中亚市场竞争，对中国出口商构成价格与份额压力。",
+          "country": "UZ",
+          "source": "Daryo.uz",
+          "impact": "high"
+        },
+        {
+          "id": "20260928-ca530752",
+          "title": "塔吉克斯坦 Dilroz Gayur 在粟特州投产5万吨/年矿棉工厂",
+          "summary": "塔吉克斯坦新矿棉厂投产，年产能5万吨，可能影响中亚市场竞争格局，对中国出口商构成潜在竞争。",
+          "country": "TJ",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260911-16585140",
+          "title": "SigmaRoc以1.1亿欧元收购立陶宛Dolomitas，保障岩棉原料供应",
+          "summary": "SigmaRoc收购白云石生产商，确保岩棉原料供应，显示上游整合趋势。",
+          "country": "LT",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "市场价格信号",
+      "icon": "market",
+      "items": [
+        {
+          "id": "20260929-4cb8bd11",
+          "title": "印度延长对中国产玻璃棉卷毡反倾销税六个月",
+          "summary": "印度延长对中国玻璃棉卷毡反倾销税，出口商需关注关税成本及市场替代风险。",
+          "country": "IN",
+          "source": "taxscan.in",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "工程与应用案例",
+      "icon": "project",
+      "items": [
+        {
+          "id": "20260924-a510053e",
+          "title": "德国fischer获沙特15亿美元吉达塔供应合同",
+          "summary": "吉达塔项目选用德国锚固方案，中国保温材料出口商可关注该超高层建筑保温分包机会。",
+          "country": "SA",
+          "source": "CBNME",
+          "impact": "high"
+        },
+        {
+          "id": "20260911-0657c133",
+          "title": "圣戈班印度将新建玻璃棉与岩棉工厂，推进2031年100家工厂目标",
+          "summary": "圣戈班印度计划新建玻璃棉和岩棉工厂，目标2031年达100家工厂，显示印度保温材料市场需求强劲。",
+          "country": "IN",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20260930-5dc10336",
+          "title": "越南16亿美元广泽1号燃煤电厂第二台汽轮机并网成功",
+          "summary": "越南大型燃煤电厂并网，将带动保温材料需求，利好中国玻璃棉、岩棉出口。",
+          "country": "VN",
+          "source": "The Investor (Vietnam)",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}

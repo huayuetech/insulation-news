@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-09-30T16:26:23.885901+00:00",
-  "dailyDate": "2026-09-30",
+  "lastUpdated": "2026-10-01T01:20:22.741250+00:00",
+  "dailyDate": "2026-10-01",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261001-16ca7a83",
+      "title": "日本批准修订版《建筑节能法》实施日期及执行细则内阁令",
+      "titleOriginal": "Japan Approves Cabinet Orders on the Enforcement Date and Implementation Provisions of the Amended Building Energy Efficiency Act",
+      "summary": "日本通过建筑节能法修正案内阁令，将推动建筑保温材料需求，利好中国出口商关注合规与市场准入。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "JP",
+      "region": "东亚",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/east-asia/jp/report_17580",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-10-01",
+      "score": 88,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "法规升级将影响产品准入与出口标准",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 14,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪日本节能法细则，提前调整产品认证"
+    },
     {
       "id": "20260930-5dc10336",
       "title": "越南16亿美元广泽1号燃煤电厂第二台汽轮机并网成功",
@@ -72,6 +107,40 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪新加坡能效标准修订，评估对华保温材料出口影响。"
+    },
+    {
+      "id": "20260929-4cb8bd11",
+      "title": "印度延长对中国产玻璃棉卷毡反倾销税六个月",
+      "titleOriginal": "India extends ADD on Faced Glass Wool in Rolls imported from China by six months",
+      "summary": "印度延长对中国玻璃棉卷毡反倾销税，出口商需关注关税成本及市场替代风险。",
+      "category": "市场价格",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "IN",
+      "region": "南亚",
+      "source": "taxscan.in",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONTNuTTJiV1RnN3ZWcGEyLWNieFpJQWxqSkQ3bFZJNXM0MFByYmd6WXN1ZTNRZVYzNUlDQkZyR3BSSVdXeVlQbVIxTnBCb1dXeWc1Q0RZMTZCaWowNVVPTWFpamRGbVVqQUphWUVheFhkb2VaYkNuX1k3blM4SWZOOGV6Zmd0SDcyR256aExlcF9lQzJid3hFY3M4VUxyN28tcnZFMXUtYzZDY3ozN2xlSndIUm1tekJPcHVpS21aQW5CRXhVTEE?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-09-29",
+      "score": 85,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "反倾销税延长直接增加出口成本",
+      "dimensions": {
+        "relevance": 30,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 15,
+        "marketImpact": 12
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "评估印度市场替代方案或价格策略"
     },
     {
       "id": "20260928-241c9d64",
@@ -797,6 +866,41 @@
       "topic": "中东绿色建筑趋势对保温材料出口机会"
     },
     {
+      "id": "20260907-9b05d356",
+      "title": "声学保温材料市场规模及增长预测报告（至2034年）",
+      "titleOriginal": "Acoustic Insulation Market Size, Share | Growth Report [2034]",
+      "summary": "报告预测声学保温材料市场增长，但缺乏具体数据，对中国出口商战略参考价值有限。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "fortunebusinessinsights.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlbzVrZFlJbE5XQlRpUGtUNVVVNlNKYldGWmlKOWR6QTBKaUZ3UU9FR0g3RFRObEpwSzRLXzlHT2V0ODdsNEwzVGV4QjI3d0tLUWFXRS1rVy1sbkltWHo5bk1IcGVodl84UkR2RnJraVdreDZLZzlQVlM4alVkZw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-09-07",
+      "score": 15,
+      "substance": "low",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 3,
+        "marketImpact": 4
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "可作行业背景参考，但非紧急行动点"
+    },
+    {
       "id": "20260903-bdeabccf",
       "title": "越南发布能效标签计划下五类产品能效标准",
       "titleOriginal": "Vietnam Publishes Energy Efficiency Standards for Five Categories under Energy Labeling Program",
@@ -865,41 +969,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪马来西亚能效政策对保温材料进口影响"
-    },
-    {
-      "id": "20260831-07e70a68",
-      "title": "在模块化建筑中应用连续保温的实践指南",
-      "titleOriginal": "Getting Comfortable with Continuous Insulation in Modular Construction",
-      "summary": "介绍模块化建筑中连续保温的应用方法，提示中国保温材料出口商关注北美模块化建筑市场对连续保温的需求。",
-      "category": "技术观点",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "Pro Builder",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFllRzBvSU1wM3JjVTRmeTRhVmg1aHk5ZVdHelpXWjZEaS1qcUdHRndjZl9abmF5TEtQVVB0YXozZDVERFVmMU5UTzFHbm5UZ3RTT3JQRDRlVFVSVTBsdHROT3gtVGc1dGlPZmpTdGFrTjJ2eWY3b3AwbG02VHlYeEFDeFNrNk9qNm1zbXljejdaUzZ5ZlBrRHBVTk4wcnFHVU84OTk2ZzRhUTVXTUVwMmt2NWRmcG5CN3p6OWp2eXhHRnQ5QWc?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-08-31",
-      "score": 22,
-      "substance": "low",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "模块化建筑趋势利好保温材料出口",
-      "dimensions": {
-        "relevance": 22,
-        "authority": 10,
-        "timeliness": 10,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪北美模块化建筑保温需求"
     }
   ]
 }
