@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T02:21:01.665959+00:00",
+  "generatedAt": "2026-10-06T16:51:24.365141+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -118,6 +118,28 @@
           "summary": "越南大型燃煤电厂并网，将带动保温材料需求，利好中国玻璃棉、岩棉出口。",
           "country": "VN",
           "source": "The Investor (Vietnam)",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "企业与展会动态",
+      "icon": "company",
+      "items": [
+        {
+          "id": "20261006-0f3f3691",
+          "title": "圣戈班印度宣布11.4亿美元收购驱动增长计划",
+          "summary": "圣戈班印度计划投资11.4亿美元，通过收购实现业务翻三倍，涵盖保温材料领域，并准备出口。",
+          "country": "IN",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20261006-17396f8a",
+          "title": "巴斯夫与赢创工业进入收购探索性谈判",
+          "summary": "巴斯夫正与赢创工业就全面收购进行探索性谈判，涉及化工及保温材料原料领域。",
+          "country": "DE",
+          "source": "Global Insulation",
           "impact": "medium"
         }
       ]
