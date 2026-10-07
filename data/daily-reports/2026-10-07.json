@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T01:39:43.297920+00:00",
+  "generatedAt": "2026-10-07T17:27:46.064496+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -118,6 +118,14 @@
           "summary": "越南大型燃煤电厂并网，将带动保温材料需求，利好中国玻璃棉、岩棉出口。",
           "country": "VN",
           "source": "The Investor (Vietnam)",
+          "impact": "medium"
+        },
+        {
+          "id": "20261007-2b7d716c",
+          "title": "Al Habtoor Tower 完成最后幕墙板安装，达到重大施工里程碑",
+          "summary": "迪拜超高层住宅项目与中铁十八局合作完成幕墙封顶，预示后续保温材料采购需求。",
+          "country": "AE",
+          "source": "Middle East Construction News",
           "impact": "medium"
         }
       ]

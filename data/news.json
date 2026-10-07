@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-10-07T01:39:43.297920+00:00",
+  "lastUpdated": "2026-10-07T17:27:46.064496+00:00",
   "dailyDate": "2026-10-07",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261007-2b7d716c",
+      "title": "Al Habtoor Tower 完成最后幕墙板安装，达到重大施工里程碑",
+      "titleOriginal": "Al Habtoor Tower reaches major construction milestone with final facade panel",
+      "summary": "迪拜超高层住宅项目与中铁十八局合作完成幕墙封顶，预示后续保温材料采购需求。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "Middle East Construction News",
+      "sourceUrl": "https://meconstructionnews.com/69344/al-habtoor-tower-reaches-major-construction-milestone-with-final-facade-panel",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-07",
+      "score": 73,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "中东地标项目完工，可能带动后续保温材料订单",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注迪拜高层项目完工后的保温材料补货需求"
+    },
     {
       "id": "20261006-0f3f3691",
       "title": "圣戈班印度宣布11.4亿美元收购驱动增长计划",
