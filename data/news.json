@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-10-08T02:04:52.328782+00:00",
+  "lastUpdated": "2026-10-08T17:26:47.307192+00:00",
   "dailyDate": "2026-10-08",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261008-b9391c80",
+      "title": "Nemetschek集团与沙特绿色建筑联盟签署谅解备忘录，加速建筑环境数字化转型",
+      "titleOriginal": "Nemetschek Group, Saudi Green Building Alliance Sign MoU to Accelerate Digital Transformation of the Built Environment",
+      "summary": "Nemetschek与沙特绿色建筑联盟合作推动建筑数字化，利好中国保温材料出口商对接绿色建筑标准与项目。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SA",
+      "region": "中东",
+      "source": "CBNME",
+      "sourceUrl": "https://www.cbnme.com/news/nemetschek-group-saudi-green-building-alliance-mou-digital-transformation/",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-08",
+      "score": 60,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "沙特绿色建筑趋势或增加保温材料需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注沙特绿色建筑标准对保温材料准入要求"
+    },
     {
       "id": "20261008-67042a61",
       "title": "技术、AI提升越南工业地产市场门槛",
