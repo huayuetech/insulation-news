@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-10-07T17:27:46.064496+00:00",
-  "dailyDate": "2026-10-07",
+  "lastUpdated": "2026-10-08T02:04:52.328782+00:00",
+  "dailyDate": "2026-10-08",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261008-67042a61",
+      "title": "技术、AI提升越南工业地产市场门槛",
+      "titleOriginal": "Technology, AI raise the bar for Vietnam’s industrial real estate market",
+      "summary": "越南工业地产租户对电力、基础设施要求提高，数据中心等需求增长，利好中国保温材料出口。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/technology-ai-raise-the-bar-for-vietnams-industrial-real-estate-market-d20177.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-08",
+      "score": 60,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "数据中心建设增加保温材料需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注越南数据中心建设对保温材料需求"
+    },
     {
       "id": "20261007-2b7d716c",
       "title": "Al Habtoor Tower 完成最后幕墙板安装，达到重大施工里程碑",
@@ -1036,41 +1071,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "中东绿色建筑趋势对保温材料出口机会"
-    },
-    {
-      "id": "20260907-9b05d356",
-      "title": "声学保温材料市场规模及增长预测报告（至2034年）",
-      "titleOriginal": "Acoustic Insulation Market Size, Share | Growth Report [2034]",
-      "summary": "报告预测声学保温材料市场增长，但缺乏具体数据，对中国出口商战略参考价值有限。",
-      "category": "技术观点",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "fortunebusinessinsights.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlbzVrZFlJbE5XQlRpUGtUNVVVNlNKYldGWmlKOWR6QTBKaUZ3UU9FR0g3RFRObEpwSzRLXzlHT2V0ODdsNEwzVGV4QjI3d0tLUWFXRS1rVy1sbkltWHo5bk1IcGVodl84UkR2RnJraVdreDZLZzlQVlM4alVkZw?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-09-07",
-      "score": 15,
-      "substance": "low",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 15,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 3,
-        "marketImpact": 4
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "可作行业背景参考，但非紧急行动点"
     }
   ]
 }
