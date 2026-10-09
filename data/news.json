@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-10-09T02:18:39.449428+00:00",
+  "lastUpdated": "2026-10-09T17:03:54.269551+00:00",
   "dailyDate": "2026-10-09",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261009-1264dc58",
+      "title": "欧盟委员会因Kingspan在Trimo收购案中提供不准确信息对其罚款4000万欧元",
+      "titleOriginal": "European Commission fines Kingspan for inaccuracies in Trimo acquisition submissions",
+      "summary": "欧盟因Kingspan在2021年收购Trimo时提供误导信息罚款4000万欧元，凸显欧盟对并购合规的严格审查。",
+      "category": "标准政策",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2247-european-commission-fines-kingspan-for-inaccuracies-in-trimo-acquisition-submissions",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-09",
+      "score": 72,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "警示中企对欧并购需确保信息准确合规",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "欧盟并购合规风险警示"
+    },
     {
       "id": "20261008-b9391c80",
       "title": "Nemetschek集团与沙特绿色建筑联盟签署谅解备忘录，加速建筑环境数字化转型",
