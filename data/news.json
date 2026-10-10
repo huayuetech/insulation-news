@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-09T17:03:54.269551+00:00",
-  "dailyDate": "2026-10-09",
+  "lastUpdated": "2026-10-10T01:48:54.084462+00:00",
+  "dailyDate": "2026-10-10",
   "totalSources": 13,
   "items": [
     {
@@ -1070,76 +1070,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注日本新规对保温材料性能要求变化"
-    },
-    {
-      "id": "20260909-9fd7e008",
-      "title": "阿联酋绿色建筑委员会联合行业领袖与学生共庆世界绿色建筑周",
-      "titleOriginal": "EmiratesGBC is uniting industry leaders and students for World Green Building Week",
-      "summary": "迪拜活动旨在将高层气候愿景转化为实际执行，推动绿色建筑实践，为保温材料出口商提供市场参与机会。",
-      "category": "工程应用",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "AE",
-      "region": "中东",
-      "source": "Middle East Construction News",
-      "sourceUrl": "https://meconstructionnews.com/68959/emiratesgbc-is-uniting-industry-leaders-and-students-for-world-green-building-week",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-09-09",
-      "score": 61,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "绿色建筑活动提升保温材料需求预期",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注阿联酋绿色建筑周对保温材料采购的推动"
-    },
-    {
-      "id": "20260909-7fa83d7a",
-      "title": "ASSA ABLOY与阿联酋绿色建筑委员会深化绿色建筑对话",
-      "titleOriginal": "ASSA ABLOY, EmiratesGBC Deepen Green Building Dialogue",
-      "summary": "ASSA ABLOY与阿联酋绿建委交流可持续制造，预示中东绿色建筑市场对保温材料需求增长。",
-      "category": "技术观点",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "AE",
-      "region": "中东",
-      "source": "CBNME",
-      "sourceUrl": "https://www.cbnme.com/news/assa-abloy-emiratesgbc-deepen-green-building-dialogue/",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-09-09",
-      "score": 59,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "市场趋势信号，非直接订单",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 18,
-        "businessValue": 8,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "中东绿色建筑趋势对保温材料出口机会"
     }
   ]
 }
