@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-10-10T15:53:59.142390+00:00",
-  "dailyDate": "2026-10-10",
+  "lastUpdated": "2026-10-11T01:03:29.263108+00:00",
+  "dailyDate": "2026-10-11",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261010-e3ddd089",
+      "title": "弗吉尼亚州应尽快大幅提高建筑能效标准",
+      "titleOriginal": "Ivy Main Is Absolutely Right: Virginia Should Aggressively Crank Up Its Building Energy Efficiency Standards - ASAP!",
+      "summary": "弗吉尼亚州呼吁立即提高建筑能效标准，利好保温材料出口商，预示美国市场对高性能保温材料需求将增加。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "Blue Virginia",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRWpJalZfMjRnZUVHMU11dTBoUkZpMC1ISThtTWVCT2U5ckxoemRfRkYteWJJMDJ4OWJ3RzVzZF9STE9jN3l5eDdwVTNRbHRZZ1k3bGJ0Si1YTTF4VlRwSnhzRnpBMlB5SHFuVXNPZDFRMWZ3TUhfSW8yQ1VkcnQwdkNvZG9UY3RMbkV5TXZRQ0poU1JSY25xbktMeHVEbnZoT0kwTUlJYnBkRkF2Zlh2MEVJTWRDdkdNTmZoOGl6NFp4QWJsWVd2TWo4cmV3TTlDaGYybWNHTW1XRFZHVVE?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-10",
+      "score": 60,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "美国能效标准趋严，利好保温材料出口。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注弗吉尼亚州能效标准修订进展。"
+    },
     {
       "id": "20261009-1264dc58",
       "title": "欧盟委员会因Kingspan在Trimo收购案中提供不准确信息对其罚款4000万欧元",
@@ -1035,41 +1070,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注生物基保温材料研发进展"
-    },
-    {
-      "id": "20260910-a6660b7b",
-      "title": "日本修订《建筑能源效率法》",
-      "titleOriginal": "Japan Amends Building Energy Efficiency Act",
-      "summary": "日本修订建筑节能法规，将提升保温材料能效标准，为中国出口商带来合规挑战与市场机遇。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "JP",
-      "region": "东亚",
-      "source": "Enviliance ASIA",
-      "sourceUrl": "https://enviliance.com/regions/east-asia/jp/report_17368",
-      "sourceTier": "T2",
-      "sourceType": "法规追踪",
-      "date": "2026-09-10",
-      "score": 88,
-      "substance": "high",
-      "featured": true,
-      "impact": "high",
-      "impactNote": "法规变更直接影响产品准入标准",
-      "dimensions": {
-        "relevance": 28,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 14,
-        "marketImpact": 10
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注日本新规对保温材料性能要求变化"
     }
   ]
 }
