@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-10-12T19:52:45.073842+00:00",
-  "dailyDate": "2026-10-12",
+  "lastUpdated": "2026-10-13T03:04:39.223775+00:00",
+  "dailyDate": "2026-10-13",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261012-ae6430a8",
+      "title": "重新思考弹道框架以应对更严格的能源规范",
+      "titleOriginal": "Rethinking Ballistic Framing for a Tighter Energy Code - Glass Magazine",
+      "summary": "探讨建筑框架设计如何适应更严格的节能规范，涉及玻璃棉等保温材料应用。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "NGA",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXNzZEFPVXd3NzVQbjFyZmtfOGRMRjI3WmxOaExjemxLLTRPbHlna1c3OHRLYVJrdnlaU1ZSdjlwY19VTkRyRGxaNV8tSlIxdkpaWEpMWTR0OFBJb3FWcFMyWTdIWjdKZVRGci13VDZKTWhCNEgydFFTWTZLSVlTdVdPUW5meUViMXdOUGt5Z0ZhUQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-12",
+      "score": 54,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "美国能效标准趋严，利好保温材料出口",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注美国节能规范对保温材料需求影响"
+    },
     {
       "id": "20261010-e3ddd089",
       "title": "弗吉尼亚州应尽快大幅提高建筑能效标准",
@@ -520,6 +554,40 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注欧洲企业并购对供应链影响"
+    },
+    {
+      "id": "20260927-8bfdb291",
+      "title": "工业保温与吸音玻璃棉相关视频内容",
+      "titleOriginal": "#industrialinsulation #thermalinsulation #glasswool #GlassWool #SoundAbsorption #myreal",
+      "summary": "YouTube视频展示玻璃棉在工业保温和吸音中的应用，属产品推广性质。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "YouTube",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkMVNKUU1DMkliN0FESndvU2JEcFZUaEFEcjQ2b2NxSmxTTXdOOTNnQW1rN0NjQUl0aGQ2Q0U5eFF4TzFSb0pYQ1poaE9aTGEwOVNsaXZMZ1psaDJz?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-09-27",
+      "score": 12,
+      "substance": "low",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 10,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 2,
+        "marketImpact": 2
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "玻璃棉在工业吸音领域的应用展示"
     },
     {
       "id": "20260925-6fd7a41e",
