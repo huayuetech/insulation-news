@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T00:36:55.376120+00:00",
+  "lastUpdated": "2026-10-15T15:07:55.775408+00:00",
   "dailyDate": "2026-10-15",
   "totalSources": 13,
   "items": [
@@ -37,6 +37,109 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注印度建筑防火新规对保温材料准入影响"
+    },
+    {
+      "id": "20261015-a0e9a36e",
+      "title": "Tenaris投资1000万美元在尼日利亚建成撒哈拉以南非洲唯一五层保温管厂",
+      "titleOriginal": "Tenaris Invests $10 Million to Commission Sub-Saharan Africa's Only Five-Layer Thermal Insulation Plant in Nigeria",
+      "summary": "Tenaris在尼日利亚投产五层保温管厂，提升当地管道保温产能，对中国保温材料出口商构成竞争压力。",
+      "category": "工程应用",
+      "materials": [
+        "保温管"
+      ],
+      "applications": [],
+      "country": "NG",
+      "region": "非洲",
+      "source": "Head Topics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMVl5dUNibkI5SFJKbHJRQ1Q4TUtrNFJQcUYwQ1RZX3NzWDBiN1VxNThzeVRwR0dvbVhDZFJDVlJmanc1eDdCTjczTUtoclI4OXM1dThhUmRFNG1ZSUhna2tHcS1CVjJjTEVLRjFOZVlSV0UxSk85Zi1SdVk2c3FGZG9BMDRiRlgzUmtubzJRRjA2MkpyT3Vr?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-15",
+      "score": 64,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "当地产能增加，可能减少中国保温管出口机会",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注尼日利亚本地保温管产能对进口替代的影响"
+    },
+    {
+      "id": "20261015-324b9a8e",
+      "title": "Tenaris在尼日利亚扩建1000万美元保温管厂并庆祝成立25周年",
+      "titleOriginal": "Tenaris Expands Capacity with $10m Insulation Plant, Marks 25 Years in Nigeria",
+      "summary": "Tenaris在尼日利亚扩建保温管厂，提升本地化产能，对中国同类产品出口形成竞争。",
+      "category": "工程应用",
+      "materials": [
+        "保温管"
+      ],
+      "applications": [],
+      "country": "NG",
+      "region": "非洲",
+      "source": "THISDAYLIVE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUUJoVVpfaW5lb0ZheEswMHh2VlVtVkJ5ZGREMlpkR183X196NmE3U2lwbUprSWhYbHlpY3ZwTFBfaUEwNy12V2lNVU4wVV9rVDU0S1hjSC1UQUcydm8tYWtxbWZOMnVrVzRxT3NhWEVxYWdHRXY2U3QwdDRlM0duZVBSUDlLWnZnUVUxMVhDTUJtM2x4YTF2ZkpBZno4T0p1Rk5xcE84QVRvWEttUWZodnRUdHBiR2s?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-15",
+      "score": 64,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "本地化生产可能挤压中国出口份额",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "分析尼日利亚保温管市场竞争格局变化"
+    },
+    {
+      "id": "20261015-d3178206",
+      "title": "Nama公司招标地热项目技术研究",
+      "titleOriginal": "Nama invites bids for geothermal project",
+      "summary": "Nama启动地热项目招标，涉及资源评估与开发研究，可能带动地热保温材料需求。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉",
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "Middle East Construction News",
+      "sourceUrl": "https://meconstructionnews.com/69453/nama-invites-bids-for-geothermal-project",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-15",
+      "score": 51,
+      "substance": "medium",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 5,
+        "marketImpact": 4
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注地热项目保温材料采购机会"
     },
     {
       "id": "20261014-0251a111",
