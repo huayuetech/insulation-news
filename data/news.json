@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T15:07:55.775408+00:00",
-  "dailyDate": "2026-10-15",
+  "lastUpdated": "2026-10-16T00:29:51.683460+00:00",
+  "dailyDate": "2026-10-16",
   "totalSources": 13,
   "items": [
     {
@@ -37,6 +37,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注印度建筑防火新规对保温材料准入影响"
+    },
+    {
+      "id": "20261015-396268ec",
+      "title": "Tenaris 在尼日利亚投资1000万美元升级隔热保温工厂，庆祝成立25周年",
+      "titleOriginal": "Tenaris marks 25 years in Nigeria with $10m thermal insulation plant upgrade",
+      "summary": "Tenaris 在尼日利亚投资1000万美元升级其隔热保温工厂，显示当地油气管道保温需求增长，为中国保温材料出口商提供潜在供应链机会。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉",
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "NG",
+      "region": "非洲",
+      "source": "The Guardian Nigeria News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZDNGRmJpMHFveXdFYXNndDBSTTlfdmY0YTlSYS1JSFZMS3lla1NNMkhYSjVsWWlFbG1YQkIxOEFVSlhXZmh3dUZPTjU1LU9qNHFGRVZaSWtWdXRiQmFiN2VFdmJyVEJUM2RnYy1PcDVsRzBZbDM3cWc5QzJTMnhja3RaLUhCa0dDRGRPZWNNREw3dEZVU2E4VmhjQ3M0WEwweklIUVJ4UUpQZGRlVk1tTTljV3o?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-15",
+      "score": 71,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "尼日利亚油气保温需求增加，可关注本地化合作机会。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注尼日利亚油气管道保温材料需求"
     },
     {
       "id": "20261015-a0e9a36e",
