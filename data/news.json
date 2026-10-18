@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T13:48:09.595951+00:00",
-  "dailyDate": "2026-10-17",
+  "lastUpdated": "2026-10-18T00:06:24.280294+00:00",
+  "dailyDate": "2026-10-18",
   "totalSources": 13,
   "items": [
     {
@@ -107,6 +107,40 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪日立能源北美供应链布局"
+    },
+    {
+      "id": "20261016-82903f3e",
+      "title": "日立能源将在安大略省伦敦市建设加拿大首家变压器绝缘材料工厂",
+      "titleOriginal": "Hitachi Energy to build Canada's first transformer insulation factory in London, Ontario",
+      "summary": "日立能源在加拿大建设首家变压器绝缘材料工厂，利好国内绝缘纸板等配套材料出口。",
+      "category": "工程应用",
+      "materials": [
+        "绝缘纸板"
+      ],
+      "applications": [],
+      "country": "CA",
+      "region": "北美",
+      "source": "Invest Ontario",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUUJJaTA2a2Q0My1GdEZzNkJmekIyQ1Z1YXEzU09zMG9BdlZsNnBvUV91QjQzTFZvbzdJeFp5dFJkUHk1c2ludV9Xd3JMTlFsUHVwenpPWHpULU1GVDN3QmJNMWdmLTJoaGRxdkZ0dUUtWnJnU3d0NEhjQ1Y1VDE5SHFuaUtfMi1oZlptMGFNTFdPX3RkSHphUmRYU0VneVp0bkV6SUg5UTZUTHduc0k3YVVkcVgwTnNFajR3ZTJXUG1iNHZuNVFBdFMtUzY0b2c5TXJWd0ZmRDVkYVE3R1E?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-16",
+      "score": 57,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "变压器绝缘材料需求增加，间接利好相关出口",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注加拿大变压器绝缘材料供应链机会"
     },
     {
       "id": "20261015-cc8f3661",
