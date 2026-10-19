@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-10-18T14:03:33.706105+00:00",
-  "dailyDate": "2026-10-18",
+  "lastUpdated": "2026-10-19T00:15:45.357174+00:00",
+  "dailyDate": "2026-10-19",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261018-8697635c",
+      "title": "日立加拿大新保温工厂如何改变其投资故事",
+      "titleOriginal": "How New Canada Insulation Plant At Hitachi (TSE:6501) Has Changed Its Investment Story",
+      "summary": "日立（TSE:6501）在加拿大新建保温材料工厂，可能影响北美市场竞争格局，对中国出口商构成潜在挑战。",
+      "category": "工程应用",
+      "materials": [
+        "保温材料"
+      ],
+      "applications": [],
+      "country": "CA",
+      "region": "北美",
+      "source": "Simply Wall Street",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeFd4Q0NtdlhYWHNlaXl4MUVveU0wVHg5eS11NUxHaWJMRjBsSHRwTFRybUtqdUZfVXlqZWVoaHBBT0RTVElXVlNMMWsxTnF6dGJqRGo3em5RdkNlVVY5eW01NWRsSlVSUkt4Q2dtWl9PLWtrMktzVVhxYVVQckM0XzV4bUY0eVVPVVlzeHB6bHJyS25tbmhrb3FHYkh0eVNCNXV0cUs5TTR3V0x4NlZlSExheHZpcU55UFEzSzJwR19TRmltS3Z6SjhyLVFRUXBJ0gHWAUFVX3lxTFBXQzJFUjZtbVJOdHpZVFFvMVRHWFVWNnpRZ3JTZXNnX3hiSC1ybF9FRkFiYmx0QUFfZURhZzg4TXB2U1B0RXRPSVlLVWEzMGYzendJYjBISGV3cHBOS09lWnFiWExYUjFfRUh3emt2RjhzR3dteFRXZTJabnpNc1JpTGpRMHhscXIwSXpIbzVkMmgtNURFRmVHV2dDWG5IWnprMjVkUHBLREJOSU1EVWpaM0RkZlNrajdrSVdtOW5nc2ctR0Jxdml4Zm9ENllUWC1tT25nTnc?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-18",
+      "score": 64,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "北美新增产能，可能加剧竞争",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注日立加拿大工厂对华出口影响"
+    },
     {
       "id": "20261016-fd7ed006",
       "title": "日立宣布在安大略省伦敦市投资4.79亿美元建设变压器绝缘材料工厂",
