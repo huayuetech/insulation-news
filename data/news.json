@@ -1,8 +1,77 @@
 {
-  "lastUpdated": "2026-10-19T00:15:45.357174+00:00",
+  "lastUpdated": "2026-10-19T17:02:21.027069+00:00",
   "dailyDate": "2026-10-19",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261019-55fb0dd7",
+      "title": "IKK方大联合体赢得奇迪亚世界杯体育场3.06亿美元幕墙合同",
+      "titleOriginal": "IKK Fangda JV Wins US$306 Million Façade Contract for Qiddiya’s World Cup Stadium",
+      "summary": "沙特大型体育场馆幕墙合同落地，带动岩棉等保温材料需求，中国出口商可关注分包机会。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SA",
+      "region": "中东",
+      "source": "CBNME",
+      "sourceUrl": "https://www.cbnme.com/news/ikk-fangda-jv-wins-us306-million-facade-contract-for-qiddiyas-world-cup-stadium/",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-19",
+      "score": 88,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "沙特大型项目带来保温材料采购需求",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 14,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "追踪沙特世界杯场馆保温材料招标"
+    },
+    {
+      "id": "20261019-ffb23bac",
+      "title": "既有建筑改造中能源规范合规触发条件（2026北德克萨斯设施博览会）",
+      "titleOriginal": "When Energy Code Compliance is Triggered in Existing Building Retrofits (North Texas Facilities Expo 2026)",
+      "summary": "北美既有建筑节能改造合规要求趋严，利好中国玻璃棉、岩棉出口商参与翻新市场。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "Buildings",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNU3dQWGU3U3ZuTnhCVTJkZGl1NkF6Z3pxQUlkRXFIZ3JJSXpKVGJyN3BoeFJqSVJXQWxWbHc3ZERRbk1xbklKTHNoY3p4SUs5NGlYeWFOQm1tYVE2Y2puLVlITjVYcVFuamh4NUR4SFBMdFdHT0FpTGZ2MUoxeHdqenp2dkVpa0xaRncxVE1RTjVrNTc2Y1dfV2hKNW8yemRFMHBWSlJ5eS1iOU16NWhVWjhDZWRJOVlJM0RDZXhURWdSN1lheml1LVhzVU9fLUVWM0p4akpQUlNlZXBMeGtNTFBRVHYtYlZ6MHdNaGpmMUFyR3MwZzBYalpTUUlRd2xpQ0t5dDItckNaZ3RvSFVhLVRzRW8?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-19",
+      "score": 60,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "美国既有建筑改造市场机会增加",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注美国既有建筑节能改造合规动态"
+    },
     {
       "id": "20261018-8697635c",
       "title": "日立加拿大新保温工厂如何改变其投资故事",
