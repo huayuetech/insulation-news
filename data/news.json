@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-10-21T00:41:18.331184+00:00",
+  "lastUpdated": "2026-10-21T15:23:02.334360+00:00",
   "dailyDate": "2026-10-21",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261021-0f684dbf",
+      "title": "MH市议会通过更新版阿肯色州能源规范",
+      "titleOriginal": "MH Council adopts updated Arkansas Energy Code",
+      "summary": "美国阿肯色州更新能源规范，可能提高建筑围护结构保温要求，利好中国玻璃棉、岩棉出口。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "Baxter Bulletin",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnpHbUVhbWpXcE54YUhVNy1MWWRGMGF3Nk5vb0FxODF3WmNPRUxQUEpOX2VtV3RZU3JyYjRPOXhpNEdQWU44MFRrTzB4N3RtSkN2V1pjRHpMOFBPV0luTWQ5c294cjc2ZUR5NFZRTk9zRVdqaU1aU0RJWnRnS1BTbXRkUVM4bEU4U3Q1cnRB?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-21",
+      "score": 73,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "规范更新或提升保温材料需求门槛",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪阿肯色州能源规范具体条款变化"
+    },
     {
       "id": "20261021-af50266b",
       "title": "新加坡因全球变暖加强户外工人热应激管理措施",
