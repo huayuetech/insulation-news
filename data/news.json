@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-10-20T15:11:59.504572+00:00",
-  "dailyDate": "2026-10-20",
+  "lastUpdated": "2026-10-21T00:41:18.331184+00:00",
+  "dailyDate": "2026-10-21",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261021-af50266b",
+      "title": "新加坡因全球变暖加强户外工人热应激管理措施",
+      "titleOriginal": "Singapore Strengthens Heat Stress Measures for Outdoor Workers in Response to Global Warming",
+      "summary": "新加坡人力部修订热应激管理框架，加强户外工人保护，可能推动建筑隔热材料需求。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SG",
+      "region": "全球",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/southeast-asia/sg/report_17763",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-10-21",
+      "score": 65,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "建筑隔热需求可能间接增长",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 6,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "新加坡热管理政策对保温材料出口机会"
+    },
     {
       "id": "20261019-55fb0dd7",
       "title": "IKK方大联合体赢得奇迪亚世界杯体育场3.06亿美元幕墙合同",
