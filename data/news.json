@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T00:44:51.686784+00:00",
+  "lastUpdated": "2026-10-22T15:23:40.889875+00:00",
   "dailyDate": "2026-10-22",
   "totalSources": 13,
   "items": [
@@ -211,6 +211,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注美国既有建筑节能改造合规动态"
+    },
+    {
+      "id": "20261019-bc72213e",
+      "title": "加拿大联邦与安大略省投资5000万加元支持日立能源变压器绝缘材料工厂",
+      "titleOriginal": "Feds and Ontario investing up to $50 million in Hitachi Energy Canada’s transformer insulation factory",
+      "summary": "加拿大政府投资5000万加元建设变压器绝缘材料工厂，虽非建筑保温，但绝缘材料技术或间接影响玻璃棉/岩棉在工业领域的应用。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "CA",
+      "region": "北美",
+      "source": "Canadian Biomass Magazine",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWpiVkRhdVFXWFBzRGpHR1R0ejlndkRFcWxELWNYVUVlU2ZfNUxqQ0ozbkIyZHBTSmFaQjJZUVVvMThtUWVkd2NIb254VnJ0YURNVUV2STlmcUtZbjRSZUtUSGRSN3J0YWZQUkpObVFZX3BEc1VwWmZOc09HNlF1XzZ4R0lWUjNxS3lIcmZ5RlR1amd6cTVZdkZDN2dPcHpOSENCd25UaGdtWUo5aExiN2ZDbDM3VmY4dTE1ai1LQVFoY3lQSjdNWFBzQXVIdnNTaVFEdFVmMA?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-19",
+      "score": 34,
+      "substance": "high",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "非直接建筑保温领域，关注度低",
+      "dimensions": {
+        "relevance": 5,
+        "authority": 10,
+        "timeliness": 14,
+        "businessValue": 2,
+        "marketImpact": 3
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注加拿大工业绝缘材料投资动向"
     },
     {
       "id": "20261018-8697635c",
