@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T00:44:26.934142+00:00",
+  "lastUpdated": "2026-10-23T15:13:02.880979+00:00",
   "dailyDate": "2026-10-23",
   "totalSources": 13,
   "items": [
@@ -557,6 +557,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "分析尼日利亚保温管市场竞争格局变化"
+    },
+    {
+      "id": "20261015-86e28f6b",
+      "title": "Tenaris 升级 1000 万美元保温隔热工厂",
+      "titleOriginal": "Tenaris upgrades $10m thermal insulation plant",
+      "summary": "Tenaris 投资 1000 万美元升级其保温隔热工厂，表明工业保温材料需求增长，利好中国出口商。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉",
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "Head Topics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3QtaHZFUmhzOGJaRkxiYUh6WWxaQmhiNHIwTG1tblFjcGRrTHBBODViSXp5UWtOMFZ5TVhWOXNmZGFJVUZHOUJJY1FGSGpkeWFSZVN0OHlSeW5jdm1WR2g1SW5NaVN5VGRrU3lPZVZlMl91TEQ3ZU1KZThEb3B6RjBReVNnUHUxYlBPbHln?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-15",
+      "score": 59,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "工业保温投资增加，或带动出口需求。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注工业保温材料升级趋势"
     },
     {
       "id": "20261015-d3178206",
