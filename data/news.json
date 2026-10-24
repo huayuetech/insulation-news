@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-23T15:13:02.880979+00:00",
-  "dailyDate": "2026-10-23",
+  "lastUpdated": "2026-10-24T00:49:56.447985+00:00",
+  "dailyDate": "2026-10-24",
   "totalSources": 13,
   "items": [
     {
@@ -107,6 +107,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "新加坡热管理政策对保温材料出口机会"
+    },
+    {
+      "id": "20261021-61f08ddd",
+      "title": "富士山电力1.2GW太阳能电池工厂规避中国出口限制",
+      "titleOriginal": "Fujiyama Power’s 1.2 GW solar cell plant insulated from China export curbs",
+      "summary": "日本太阳能电池厂规避中国出口限制，可能减少对中国保温材料需求，需关注替代市场。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "JP",
+      "region": "东亚",
+      "source": "Power Peak Digest",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObWtFazhqaTdlZUZoMWZjaTlGNkdUWmZEdDUycF9KdEtNS3NnY2NiNE15OFNfTDhDZVIyT3h4QWpxcUI1Wjg5NWM4NnRoa0V3OTIyRUV6dXp4R3V1VXp6eDhNZm9IOHloLWNka1lHc1lYcW5XMU1XR2NLOWUtNEl4aw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-21",
+      "score": 58,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "日本光伏项目保温需求可能转移",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 14,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注日本光伏保温材料替代采购"
     },
     {
       "id": "20261021-45409dde",
@@ -557,6 +592,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "分析尼日利亚保温管市场竞争格局变化"
+    },
+    {
+      "id": "20261015-1b968ef6",
+      "title": "Tenaris投资1000万美元在尼日利亚建设保温材料厂",
+      "titleOriginal": "Tenaris invests $10m in Nigeria’s thermal insulation plant",
+      "summary": "尼日利亚热保温厂获千万美元投资，预示当地工业保温需求增长，中国出口商可关注合作机会。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉",
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "NG",
+      "region": "非洲",
+      "source": "Punch Newspapers",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWlLNXkxSFNDNTRCZkwwMk9tcVhjNl9TRDdFUjJ3a0l4bUtkX1dLaUlzdDBMT0E1X2MxaVlJVEtFOS0zN1cxMktpSzhJV0RxdTVXVkFId2RJSWlwc2NBNTNKS1dKY0NiYWdLeDVIWldJU2tTUlVYYVhOdm1CTklpTHpFcw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-15",
+      "score": 61,
+      "substance": "high",
+      "featured": false,
+      "impact": "high",
+      "impactNote": "尼日利亚工业保温市场扩大",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 12,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "评估尼日利亚保温材料市场准入"
     },
     {
       "id": "20261015-86e28f6b",
