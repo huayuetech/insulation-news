@@ -1,8 +1,78 @@
 {
-  "lastUpdated": "2026-10-24T00:49:56.447985+00:00",
+  "lastUpdated": "2026-10-24T14:02:36.802806+00:00",
   "dailyDate": "2026-10-24",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261024-db5ce9ca",
+      "title": "Taseco Land加速扩张越南工业地产市场，打造新一代工业园区",
+      "titleOriginal": "Taseco Land steps up expansion in Vietnam’s industrial real estate market",
+      "summary": "越南工业地产需求升级，新一代工业园区对高品质建材需求增加，为中国保温材料出口商带来潜在B2B客户。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/taseco-land-steps-up-expansion-in-vietnams-industrial-real-estate-market-d20292.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-24",
+      "score": 61,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "工业园建设增加保温材料需求",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注越南工业园建设保温材料采购需求"
+    },
+    {
+      "id": "20261023-97b4756f",
+      "title": "LMD在迪拜谢赫扎耶德路推出Christian A. Rockefeller商务塔，引入“酒店化”概念",
+      "titleOriginal": "LMD Launches Christian A. Rockefeller Business Tower, Bringing ‘Hotelification’ To Sheikh Zayed Road",
+      "summary": "迪拜高端商业地产项目启动，对高品质建筑保温材料有明确需求，为中国出口商提供高端市场机会。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "CBNME",
+      "sourceUrl": "https://www.cbnme.com/news/lmd-launches-christian-rockefeller-business-tower-sheikh-zayed-road/",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-23",
+      "score": 56,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "高端项目带动高品质保温材料需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 18,
+        "businessValue": 7,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注迪拜高端商业项目保温材料采购"
+    },
     {
       "id": "20261021-0f684dbf",
       "title": "MH市议会通过更新版阿肯色州能源规范",
