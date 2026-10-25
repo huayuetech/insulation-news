@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-10-25T00:23:07.322802+00:00",
+  "lastUpdated": "2026-10-25T14:27:02.346845+00:00",
   "dailyDate": "2026-10-25",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261025-5f532103",
+      "title": "越南企业积极应对油价上涨",
+      "titleOriginal": "Businesses take proactive steps to cope with rising oil prices",
+      "summary": "全球能源价格波动推高生产和物流成本，越南企业被迫削减成本、优化运营，可能影响保温材料出口物流与客户采购预算。",
+      "category": "市场价格",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/businesses-take-proactive-steps-to-cope-with-rising-oil-prices-d20255.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-25",
+      "score": 58,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "油价上涨推高物流成本，客户采购预算或收紧",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注越南市场成本压力对保温材料需求的影响"
+    },
     {
       "id": "20261024-db5ce9ca",
       "title": "Taseco Land加速扩张越南工业地产市场，打造新一代工业园区",
