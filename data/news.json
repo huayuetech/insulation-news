@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-24T14:02:36.802806+00:00",
-  "dailyDate": "2026-10-24",
+  "lastUpdated": "2026-10-25T00:23:07.322802+00:00",
+  "dailyDate": "2026-10-25",
   "totalSources": 13,
   "items": [
     {
@@ -1456,41 +1456,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注澳洲MEPS对保温材料出口影响"
-    },
-    {
-      "id": "20260924-a510053e",
-      "title": "德国fischer获沙特15亿美元吉达塔供应合同",
-      "titleOriginal": "Germany’s fischer Wins Supply Deal For Saudi Arabia’s $1.5bn Jeddah Tower",
-      "summary": "吉达塔项目选用德国锚固方案，中国保温材料出口商可关注该超高层建筑保温分包机会。",
-      "category": "工程应用",
-      "materials": [
-        "岩棉",
-        "玻璃棉"
-      ],
-      "applications": [],
-      "country": "SA",
-      "region": "中东",
-      "source": "CBNME",
-      "sourceUrl": "https://www.cbnme.com/suppliers/germanys-fischer-wins-supply-deal-for-saudi-arabias-1-5bn-jeddah-tower/",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-09-24",
-      "score": 81,
-      "substance": "high",
-      "featured": true,
-      "impact": "high",
-      "impactNote": "标志性项目带动中东保温需求",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 16,
-        "timeliness": 18,
-        "businessValue": 12,
-        "marketImpact": 10
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪吉达塔保温材料采购动态"
     }
   ]
 }
