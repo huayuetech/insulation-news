@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-25T14:27:02.346845+00:00",
-  "dailyDate": "2026-10-25",
+  "lastUpdated": "2026-10-26T00:28:46.872396+00:00",
+  "dailyDate": "2026-10-26",
   "totalSources": 13,
   "items": [
     {
@@ -1456,41 +1456,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "玻璃棉在工业吸音领域的应用展示"
-    },
-    {
-      "id": "20260925-6fd7a41e",
-      "title": "澳大利亚发布热泵热水器MEPS实施草案并公开征求意见",
-      "titleOriginal": "Australia Releases Exposure Draft on MEPS Implementation for Heat Pump Water Heaters, Opens Public Consultation",
-      "summary": "澳大利亚拟对热泵热水器实施最低能效标准，可能带动保温材料需求，出口商需关注合规要求。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "AU",
-      "region": "大洋洲",
-      "source": "Enviliance ASIA",
-      "sourceUrl": "https://enviliance.com/regions/oceania/au/report_17525",
-      "sourceTier": "T2",
-      "sourceType": "法规追踪",
-      "date": "2026-09-25",
-      "score": 72,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "能效标准升级或增加保温材料用量",
-      "dimensions": {
-        "relevance": 22,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注澳洲MEPS对保温材料出口影响"
     }
   ]
 }
