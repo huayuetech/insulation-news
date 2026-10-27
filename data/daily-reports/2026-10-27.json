@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T01:31:41.932451+00:00",
+  "generatedAt": "2026-10-27T15:54:52.068936+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -39,11 +39,11 @@
           "impact": "high"
         },
         {
-          "id": "20261021-0f684dbf",
-          "title": "MH市议会通过更新版阿肯色州能源规范",
-          "summary": "美国阿肯色州更新能源规范，可能提高建筑围护结构保温要求，利好中国玻璃棉、岩棉出口。",
-          "country": "US",
-          "source": "Baxter Bulletin",
+          "id": "20261027-aac6e7c0",
+          "title": "Kingspan否认在彭德尔顿改造项目中提供不合格保温材料",
+          "summary": "英国高层建筑保温材料合规争议持续，提醒中国出口商注意产品认证与责任风险。",
+          "country": "GB",
+          "source": "Global Insulation",
           "impact": "medium"
         }
       ]
@@ -52,6 +52,14 @@
       "title": "产品与材料动态",
       "icon": "product",
       "items": [
+        {
+          "id": "20261027-2f162dc4",
+          "title": "Rockwool在巴斯夫路德维希港化工厂试验岩棉保温材料回收",
+          "summary": "岩棉回收技术取得进展，可能推动行业循环经济标准，影响中国出口产品环保要求。",
+          "country": "DE",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
         {
           "id": "20260928-ca530752",
           "title": "塔吉克斯坦 Dilroz Gayur 在粟特州投产5万吨/年矿棉工厂",
@@ -124,6 +132,14 @@
           "summary": "巴斯夫正与赢创工业就全面收购进行探索性谈判，涉及化工及保温材料原料领域。",
           "country": "DE",
           "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20261026-a9938a61",
+          "title": "Knauf投资2亿英镑在Shotton建设保温材料工厂进展顺利",
+          "summary": "欧洲大型保温材料工厂建设推进，可能加剧区域市场竞争，影响中国出口欧洲策略。",
+          "country": "GB",
+          "source": "Deeside.com",
           "impact": "medium"
         }
       ]
