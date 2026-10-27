@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-10-26T16:49:52.949775+00:00",
-  "dailyDate": "2026-10-26",
+  "lastUpdated": "2026-10-27T01:31:41.932451+00:00",
+  "dailyDate": "2026-10-27",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261026-cb44f8a7",
+      "title": "住房机构警告：绿色建筑法规将“加剧”危机",
+      "titleOriginal": "Housing bodies warn that green building regulations will ‘deepen’ crisis",
+      "summary": "英国住房机构警告新绿色建筑法规可能加剧住房危机，提示中国保温材料出口商需关注政策对需求的影响。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GB",
+      "region": "欧洲",
+      "source": "Project Scotland",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTNwSHhIMi1HN3E2U0FpbzJOeFN3Wno0dlFyclZXdDRIZlJyNGx6M3hTMHpBWWdwcFU5S3FyMHdCbEZaYXBRZ0Q1Y3pTUXpZSjZhblZ4Q0ZDVzViZ2tyQ056dmFReGptWUNwYUFmTnhVVmVLX2tUUGxpWnFhcWtwYklHc19vTVVxQmt5cThnUHlHMU5xWXJudWFZU2ljUGdfd09sUjFR?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-26",
+      "score": 71,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "政策或抑制短期需求，但长期利好节能材料。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "英国绿色建筑法规对保温材料出口的影响"
+    },
     {
       "id": "20261025-5f532103",
       "title": "越南企业积极应对油价上涨",
