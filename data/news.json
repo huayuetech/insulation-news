@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-27T15:54:52.068936+00:00",
-  "dailyDate": "2026-10-27",
+  "lastUpdated": "2026-10-28T01:28:37.875840+00:00",
+  "dailyDate": "2026-10-28",
   "totalSources": 13,
   "items": [
     {
@@ -1595,40 +1595,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注欧洲企业并购对供应链影响"
-    },
-    {
-      "id": "20260927-8bfdb291",
-      "title": "工业保温与吸音玻璃棉相关视频内容",
-      "titleOriginal": "#industrialinsulation #thermalinsulation #glasswool #GlassWool #SoundAbsorption #myreal",
-      "summary": "YouTube视频展示玻璃棉在工业保温和吸音中的应用，属产品推广性质。",
-      "category": "产品与材料",
-      "materials": [
-        "玻璃棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "YouTube",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkMVNKUU1DMkliN0FESndvU2JEcFZUaEFEcjQ2b2NxSmxTTXdOOTNnQW1rN0NjQUl0aGQ2Q0U5eFF4TzFSb0pYQ1poaE9aTGEwOVNsaXZMZ1psaDJz?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-09-27",
-      "score": 12,
-      "substance": "low",
-      "featured": false,
-      "impact": "low",
-      "impactNote": "",
-      "dimensions": {
-        "relevance": 10,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 2,
-        "marketImpact": 2
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "玻璃棉在工业吸音领域的应用展示"
     }
   ]
 }
