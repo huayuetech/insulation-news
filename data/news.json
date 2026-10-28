@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T01:28:37.875840+00:00",
+  "lastUpdated": "2026-10-28T16:43:33.319197+00:00",
   "dailyDate": "2026-10-28",
   "totalSources": 13,
   "items": [
@@ -105,6 +105,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注菲律宾本土产能扩张对出口的影响"
+    },
+    {
+      "id": "20261027-e1368182",
+      "title": "赞比亚能源监管机构批准6.623亿美元能源投资",
+      "titleOriginal": "Zambia’s energy regulator approves US$662.3 million in energy investments",
+      "summary": "赞比亚大规模能源投资将带动当地建筑保温材料需求，为中国出口商创造新市场机会。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "ZM",
+      "region": "全球",
+      "source": "Green Building Africa",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWExUE1DMk02cUc5X2JSbzUxVElyclVuaHF4dXM0b0xLOEYwTkRDSXhUeGF6STN2elVSRGxQMk5UWmRjbTJhdXA5OXQzeC1fSkZWOXFhdFgzXzNCZFIySFc3akFyc3B0bm9pcDVPRDNoZ05XV0FRYW1CamdIWlk3ZWItVzhuY1hYZjhBRGpRS3VXUkIzZkdUZzJPdmRsbW1xSDFMYnVYVk1tTHpMbDBZ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-27",
+      "score": 62,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "能源项目可能带动保温材料需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注赞比亚能源项目保温材料采购需求"
     },
     {
       "id": "20261026-a9938a61",
@@ -245,6 +280,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注越南工业园建设保温材料采购需求"
+    },
+    {
+      "id": "20261023-3ad13caa",
+      "title": "华盛顿州官员对山火后重建房屋放宽节能规范意见分歧",
+      "titleOriginal": "WA officials split on easing energy codes for homes rebuilt after wildfires - The Spokesman-Review",
+      "summary": "美国华盛顿州山火重建可能放宽节能标准，影响建筑保温材料需求，需关注政策走向。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0lRVzBfbUhJeEVOZjRabDM1d2oxMjFrUTMwcEtkRmpHQ3VvR1BzUXJTcTFNQlUwczZ1bWZFNDVjNHdNeEh5NDFHa1F4NnJxa0R3WG1WREZFYzNKUEVnMnlqNXQ3WmszZjZDVi1hY1BMcXRpQ1FneDlnV0E1MXAyRDVtU29XbmJqWk5FczNyWG83VGd1YXQ2elkxV1M2QQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-23",
+      "score": 63,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "节能标准放宽可能降低保温材料需求",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 10,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪美国建筑节能政策变化对出口影响"
     },
     {
       "id": "20261023-97b4756f",
