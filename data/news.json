@@ -1,8 +1,78 @@
 {
-  "lastUpdated": "2026-10-30T02:01:10.580325+00:00",
+  "lastUpdated": "2026-10-30T16:44:10.328870+00:00",
   "dailyDate": "2026-10-30",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261030-fa7d7333",
+      "title": "Masterplast 2026年前三季度销售额增长24%",
+      "titleOriginal": "Masterplast raises sales in first nine months of 2026",
+      "summary": "匈牙利保温材料商Masterplast销售额达1.37亿欧元，利润翻倍，显示欧洲市场需求强劲。",
+      "category": "企业展会",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "HU",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2251-masterplast-raises-sales-in-first-nine-months-of-2026",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-30",
+      "score": 79,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "欧洲同行增长印证市场景气，竞争加剧",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "欧洲保温材料龙头业绩增长信号"
+    },
+    {
+      "id": "20261030-bae47562",
+      "title": "专家警告：不要让能源生命线成为越南增长瓶颈",
+      "titleOriginal": "Do not let energy lifeline become bottleneck to growth: expert",
+      "summary": "越南能源专家分析GDP增长目标下的能源供应规模，暗示建筑节能与保温材料需求将上升。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/do-not-let-energy-lifeline-become-bottleneck-to-growth-expert-d20196.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-30",
+      "score": 60,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "越南基建与能源效率议题利好保温材料出口",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "越南能源瓶颈与建筑保温市场机会"
+    },
     {
       "id": "20261027-2f162dc4",
       "title": "Rockwool在巴斯夫路德维希港化工厂试验岩棉保温材料回收",
@@ -1388,6 +1458,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪收购进展及对保温材料原料影响"
+    },
+    {
+      "id": "20261002-e4510034",
+      "title": "新加坡发布建筑能效标准修订版SS 530:2024+A1:2026",
+      "titleOriginal": "Singapore Issues Revised Building Energy Efficiency Standard",
+      "summary": "新加坡更新建筑服务与设备能效标准，对出口保温材料提出更高合规要求。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SG",
+      "region": "全球",
+      "source": "Enviliance ASIA",
+      "sourceUrl": "https://enviliance.com/regions/southeast-asia/sg/report_17608",
+      "sourceTier": "T2",
+      "sourceType": "法规追踪",
+      "date": "2026-10-02",
+      "score": 74,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "标准更新直接影响产品准入与认证成本",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 16,
+        "timeliness": 6,
+        "businessValue": 14,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "新加坡新能效标准对保温材料出口影响"
     },
     {
       "id": "20261001-16ca7a83",

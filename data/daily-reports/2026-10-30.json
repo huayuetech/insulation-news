@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T02:01:10.580325+00:00",
+  "generatedAt": "2026-10-30T16:44:10.328870+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -31,19 +31,19 @@
           "impact": "medium"
         },
         {
+          "id": "20261002-e4510034",
+          "title": "新加坡发布建筑能效标准修订版SS 530:2024+A1:2026",
+          "summary": "新加坡更新建筑服务与设备能效标准，对出口保温材料提出更高合规要求。",
+          "country": "SG",
+          "source": "Enviliance ASIA",
+          "impact": "high"
+        },
+        {
           "id": "20261021-0f684dbf",
           "title": "MH市议会通过更新版阿肯色州能源规范",
           "summary": "美国阿肯色州更新能源规范，可能提高建筑围护结构保温要求，利好中国玻璃棉、岩棉出口。",
           "country": "US",
           "source": "Baxter Bulletin",
-          "impact": "medium"
-        },
-        {
-          "id": "20261009-1264dc58",
-          "title": "欧盟委员会因Kingspan在Trimo收购案中提供不准确信息对其罚款4000万欧元",
-          "summary": "欧盟因Kingspan在2021年收购Trimo时提供误导信息罚款4000万欧元，凸显欧盟对并购合规的严格审查。",
-          "country": "EU",
-          "source": "Global Insulation",
           "impact": "medium"
         }
       ]
@@ -101,6 +101,14 @@
           "title": "圣戈班印度宣布11.4亿美元收购驱动增长计划",
           "summary": "圣戈班印度计划投资11.4亿美元，通过收购实现业务翻三倍，涵盖保温材料领域，并准备出口。",
           "country": "IN",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20261030-fa7d7333",
+          "title": "Masterplast 2026年前三季度销售额增长24%",
+          "summary": "匈牙利保温材料商Masterplast销售额达1.37亿欧元，利润翻倍，显示欧洲市场需求强劲。",
+          "country": "HU",
           "source": "Global Insulation",
           "impact": "medium"
         },
