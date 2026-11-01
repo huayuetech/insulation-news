@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T01:17:34.180818+00:00",
+  "lastUpdated": "2026-11-01T16:51:14.197628+00:00",
   "dailyDate": "2026-11-01",
   "totalSources": 13,
   "items": [
@@ -420,6 +420,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注迪拜高端商业项目保温材料采购"
+    },
+    {
+      "id": "20261023-9f0313a1",
+      "title": "能源效率：降低运营成本的关键",
+      "titleOriginal": "Energy Efficiency: A Key to Lower Operating Costs",
+      "summary": "文章强调能效对降低运营成本的重要性，提示中国保温材料出口商可借此推广节能产品。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "The Textile Magazine",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVpsVzNaYkcybWE0ZXJlbFB2N3MwTlhobGhadFZlVVh1Nm5OREpLcXY1UFlvU2ktRVZyM0o5cTZwejJVRk56c19SSHRkeUJON25OeldXV3FzUWZ5OEdVRHlaM285Ui1fT2ZibWhiVzFOeUx4U2pxMnBtWmp0eVl6QWRRMkw5eU5LSE5GdWk0NA?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-23",
+      "score": 20,
+      "substance": "low",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "能效议题提升保温材料需求，利好出口",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注能效政策，推广保温材料节能价值"
     },
     {
       "id": "20261021-0f684dbf",
@@ -1458,6 +1493,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪收购进展及对保温材料原料影响"
+    },
+    {
+      "id": "20261003-0e00a7c0",
+      "title": "政策制定者正在削弱解决能源可负担性的措施 | 客座评论",
+      "titleOriginal": "Policymakers are undermining steps to address energy affordability | GUEST COMMENTARY",
+      "summary": "评论指出政策阻碍能源可负担性改善，暗示建筑保温法规可能受挫，影响中国出口商市场预期。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "Baltimore Sun",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QMlZnbjRjSHVxczUxMWh5SU5keF80Y3VzZmoxYlhZYVVNNHRaUzMtUkF3X3FKakRIcHA0aHlvcDIxaGdXTTExNVM5X2NxaVR1MTRmc0VlekkxZG1DZUlwOEx0Z3A0THVhNjRlRVBxV1hmSnNKY0lz?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-03",
+      "score": 45,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "政策不确定性可能抑制保温材料需求",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 7,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪美国能效政策变化，评估市场风险"
     },
     {
       "id": "20261002-e4510034",
