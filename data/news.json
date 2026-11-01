@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31T15:47:23.172722+00:00",
-  "dailyDate": "2026-10-31",
+  "lastUpdated": "2026-11-01T01:17:34.180818+00:00",
+  "dailyDate": "2026-11-01",
   "totalSources": 13,
   "items": [
     {
@@ -1493,76 +1493,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "新加坡新能效标准对保温材料出口影响"
-    },
-    {
-      "id": "20261001-16ca7a83",
-      "title": "日本批准修订版《建筑节能法》实施日期及执行细则内阁令",
-      "titleOriginal": "Japan Approves Cabinet Orders on the Enforcement Date and Implementation Provisions of the Amended Building Energy Efficiency Act",
-      "summary": "日本通过建筑节能法修正案内阁令，将推动建筑保温材料需求，利好中国出口商关注合规与市场准入。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "JP",
-      "region": "东亚",
-      "source": "Enviliance ASIA",
-      "sourceUrl": "https://enviliance.com/regions/east-asia/jp/report_17580",
-      "sourceTier": "T2",
-      "sourceType": "法规追踪",
-      "date": "2026-10-01",
-      "score": 88,
-      "substance": "high",
-      "featured": true,
-      "impact": "high",
-      "impactNote": "法规升级将影响产品准入与出口标准",
-      "dimensions": {
-        "relevance": 28,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 14,
-        "marketImpact": 10
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪日本节能法细则，提前调整产品认证"
-    },
-    {
-      "id": "20261001-5fb143ca",
-      "title": "朗盛推出用于保温材料的Purventis阻燃剂系列",
-      "titleOriginal": "Lanxess launches Purventis flame retardants for insulation",
-      "summary": "德国朗盛推出Purventis阻燃剂，适用于PIR和硬质聚氨酯泡沫保温材料，可能影响中国出口保温材料的阻燃合规要求。",
-      "category": "产品与材料",
-      "materials": [
-        "聚氨酯泡沫",
-        "PIR"
-      ],
-      "applications": [],
-      "country": "DE",
-      "region": "欧洲",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2244-lanxess-launches-purventis-flame-retardants-for-insulation",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-10-01",
-      "score": 70,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "阻燃剂新品或影响出口产品配方与认证",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注朗盛阻燃剂对保温材料出口合规影响"
     }
   ]
 }
