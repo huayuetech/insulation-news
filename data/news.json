@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-11-02T01:35:41.375916+00:00",
+  "lastUpdated": "2026-11-02T20:24:58.176270+00:00",
   "dailyDate": "2026-11-02",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261102-6e604efa",
+      "title": "Fibraterre 获 180 万欧元融资，扩大麦秆保温材料生产",
+      "titleOriginal": "Fibraterre raises €1.8 million to scale wheat straw insulation",
+      "summary": "欧洲初创公司获资研发麦秆保温材料，对华跃的玻璃棉、岩棉构成替代竞争，需关注其技术进展。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "Dealroom",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUtPNkU4am5DUzFTb3hpZnFsaWJObnFvWDZXMGtyY0FQOEtzQUtlNnpGSl9MNjRrbEI3Qno5OTcyU0VtRFByZ1AtX1BiYWVORzl5UDlvaG43eFlkVU9aMXJUdmpQN01jWXR1VmpLUkRrRG9UZHJEcVVOdVRwVDNKTk45bTBpRDhydGZvT1FTR0QzQTZqeWItQjlqOA?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-02",
+      "score": 71,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "生物基保温材料可能抢占传统矿棉市场",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注欧洲生物基保温材料竞争动态"
+    },
     {
       "id": "20261102-1d3ea0e3",
       "title": "马来西亚2026版MEPS指南新增电动机与冷热水饮水机",
@@ -34,6 +69,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注马来西亚MEPS对保温材料间接需求"
+    },
+    {
+      "id": "20261101-18faea19",
+      "title": "建筑能效可削减印度冷却需求",
+      "titleOriginal": "Building Energy Efficiency Can Cut India’s Cooling Demand",
+      "summary": "印度建筑节能潜力巨大，利好华跃出口玻璃棉、岩棉等保温材料至印度市场。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "IN",
+      "region": "南亚",
+      "source": "Urban Acres",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2dxZlc5Uy1xRHYwWFFXM2tTVlBvcUh1eUhUWHJndnpYeWppbE4zSjlaWktyOXcyZWJKbWctY3hhLW42SllXNFhRd05uVGthNWgwSEVVUFBXN0pjUGVsalNKQ0lkLTZ0dzJ6cWFOdDh2QUlxR1hPaURUX2FwRkFZT3p5TjNiclhSRm5xS1lB?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-01",
+      "score": 66,
+      "substance": "medium",
+      "featured": false,
+      "impact": "high",
+      "impactNote": "印度节能政策推动保温材料需求增长",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 12,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "印度建筑节能市场机会分析"
     },
     {
       "id": "20261030-fa7d7333",
