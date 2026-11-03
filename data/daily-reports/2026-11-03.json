@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generatedAt": "2026-11-03T03:30:29.747970+00:00",
+  "generatedAt": "2026-11-03T17:55:07.046687+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -12,6 +12,14 @@
           "summary": "德里修订消防服务规则，可能提高建筑保温材料防火标准，利好中国阻燃型玻璃棉、岩棉出口。",
           "country": "IN",
           "source": "Enviliance ASIA",
+          "impact": "high"
+        },
+        {
+          "id": "20261103-4ef085e4",
+          "title": "欧盟委员会呼吁意大利在社会住房计划中加入外墙外保温改造",
+          "summary": "欧盟要求意大利社会住房计划增加外墙外保温改造，利好中国保温材料出口商进入意大利市场。",
+          "country": "EU",
+          "source": "Global Insulation",
           "impact": "high"
         },
         {
