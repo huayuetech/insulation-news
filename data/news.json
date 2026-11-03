@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-02T20:24:58.176270+00:00",
-  "dailyDate": "2026-11-02",
+  "lastUpdated": "2026-11-03T03:30:29.747970+00:00",
+  "dailyDate": "2026-11-03",
   "totalSources": 13,
   "items": [
     {
@@ -1595,41 +1595,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪收购进展及对保温材料原料影响"
-    },
-    {
-      "id": "20261003-0e00a7c0",
-      "title": "政策制定者正在削弱解决能源可负担性的措施 | 客座评论",
-      "titleOriginal": "Policymakers are undermining steps to address energy affordability | GUEST COMMENTARY",
-      "summary": "评论指出政策阻碍能源可负担性改善，暗示建筑保温法规可能受挫，影响中国出口商市场预期。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "Baltimore Sun",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QMlZnbjRjSHVxczUxMWh5SU5keF80Y3VzZmoxYlhZYVVNNHRaUzMtUkF3X3FKakRIcHA0aHlvcDIxaGdXTTExNVM5X2NxaVR1MTRmc0VlekkxZG1DZUlwOEx0Z3A0THVhNjRlRVBxV1hmSnNKY0lz?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-10-03",
-      "score": 45,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "政策不确定性可能抑制保温材料需求",
-      "dimensions": {
-        "relevance": 22,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 7,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪美国能效政策变化，评估市场风险"
     }
   ]
 }
