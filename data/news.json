@@ -1,8 +1,76 @@
 {
-  "lastUpdated": "2026-11-04T02:28:02.614255+00:00",
+  "lastUpdated": "2026-11-04T18:05:27.267264+00:00",
   "dailyDate": "2026-11-04",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261104-9054377c",
+      "title": "玻璃棉废料转化为氧化锆增强水泥，强度达85兆帕",
+      "titleOriginal": "Glass Wool Waste Transformed Into Zirconia-Boosted Cement Reaching 85 MPa",
+      "summary": "玻璃棉废料用于水泥增强，为保温材料回收利用提供新方向，可降低出口商环保成本。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "Bioengineer.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXdNT1dxUy0zQjNvR1ZoVEtLRXBwdXJrc2N0N2Z2MnJfUFZ2OHlrSlZJa3kzek44Q25XRnU1d2sxRzdTVmUwR2ZCNF9Vbkd6b2Q4Zmo1TnZ6OXhpdHAzS25wX1k3dGJzam0zOXlwN21TSktGcUlWZlhHaHdvSnNJazdzalZCSXJwWVVqbXhueG1Jeng2ZDM4SFVjV3VOSkk?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-04",
+      "score": 64,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "推动废料回收技术，降低环保合规成本",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注玻璃棉废料回收技术进展"
+    },
+    {
+      "id": "20261104-58b2f06a",
+      "title": "沙特阿拉伯能源转型：热能与核能角色及电网韧性",
+      "titleOriginal": "Saudi Arabia’s Energy Transition",
+      "summary": "沙特能源转型强调热能与核能，预示对高温保温材料需求增长，利好岩棉等出口。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SA",
+      "region": "中东",
+      "source": "Middle East Construction News",
+      "sourceUrl": "https://meconstructionnews.com/69655/saudi-arabias-energy-transition",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-04",
+      "score": 63,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "能源项目增加保温材料需求",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 9,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注沙特能源项目保温材料采购"
+    },
     {
       "id": "20261103-4ef085e4",
       "title": "欧盟委员会呼吁意大利在社会住房计划中加入外墙外保温改造",
