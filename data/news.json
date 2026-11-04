@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-03T17:55:07.046687+00:00",
-  "dailyDate": "2026-11-03",
+  "lastUpdated": "2026-11-04T02:28:02.614255+00:00",
+  "dailyDate": "2026-11-04",
   "totalSources": 13,
   "items": [
     {
@@ -107,6 +107,40 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注西卡新品对欧洲市场竞争格局影响"
+    },
+    {
+      "id": "20261103-2ff3f5e8",
+      "title": "STEICO任命Ivica Rajković为首席财务官",
+      "titleOriginal": "STEICO appoints Ivica Rajković as chief financial officer",
+      "summary": "德国木纤维保温材料子公司STEICO任命新CFO，管理层变动或影响供应链与采购策略。",
+      "category": "企业展会",
+      "materials": [
+        "木纤维"
+      ],
+      "applications": [],
+      "country": "DE",
+      "region": "欧洲",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2254-steico-appoints-ivica-rajkovic-as-chief-financial-officer",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-03",
+      "score": 42,
+      "substance": "medium",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 10,
+        "authority": 16,
+        "timeliness": 18,
+        "businessValue": 3,
+        "marketImpact": 3
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注STEICO管理层变动对供应链影响"
     },
     {
       "id": "20261102-6e604efa",
@@ -1080,6 +1114,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪日立能源北美供应链布局"
+    },
+    {
+      "id": "20261016-840c1353",
+      "title": "日立能源投资4.79亿加元在安大略建变压器绝缘材料工厂",
+      "titleOriginal": "Hitachi Energy to Invest CA$479 Million to Build Transformer Insulation Factory in Ontario",
+      "summary": "日立能源在加拿大建变压器绝缘材料厂，利好中国玻璃棉、岩棉出口商关注北美供应链机会。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "CA",
+      "region": "北美",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ0VHLVJKMG9ZcklvRERYRHpva1QtWGRLckZLRERWX3diZzl1M1VtRm8wRTNLV1VMMi1PQkZYdlNJTkU2dzRnYW12Z19WVnNEaVV3ZUZMb18wSGt4Z2hKNmNiNE1KU01XLURCOGpUME02Tk1SV1BJaXl2Ynh2ZHc0SjdOWF9SNVVhMnFLRTRR?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-16",
+      "score": 59,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "北美绝缘材料需求增加，出口机会",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪日立能源工厂建设进展及采购需求"
     },
     {
       "id": "20261016-82903f3e",
