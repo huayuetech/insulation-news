@@ -1,8 +1,78 @@
 {
-  "lastUpdated": "2026-11-06T17:34:21.565640+00:00",
-  "dailyDate": "2026-11-06",
+  "lastUpdated": "2026-11-07T02:03:03.179867+00:00",
+  "dailyDate": "2026-11-07",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261107-9fcb59ee",
+      "title": "从“越南制造”到“越南信任”：源头检验成为新贸易优势",
+      "titleOriginal": "From ‘Made in Vietnam’ to ‘Trusted in Vietnam’: Why source-level inspection is becoming a new trade advantage",
+      "summary": "越南2025年进出口额超9300亿美元，强调源头检验成为供应链新优势，提示中国保温材料出口商需关注越南市场质量认证要求。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/from-made-in-vietnam-to-trusted-in-vietnam-why-source-level-inspection-is-becoming-a-new-trade-advantage-d20364.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-07",
+      "score": 60,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "越南贸易增长，可能增加保温材料进口需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "越南市场质量认证趋势分析"
+    },
+    {
+      "id": "20261104-d84a59c2",
+      "title": "卡尔加里市：阿尔伯塔省住宅与小建筑节能规范9.36",
+      "titleOriginal": "Alberta energy code information for houses and small buildings - 9.36",
+      "summary": "加拿大阿尔伯塔省更新住宅节能规范9.36，涉及建筑保温要求，对中国保温材料出口商意味着需符合新标准。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "CA",
+      "region": "北美",
+      "source": "The City of Calgary",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcmpTVVZFTkZQcXlWaWFXMWVvUUhJUDkyMFZLT1Y1cWYzaEFpWWhFTDBfYUxFcUFRNnhvSUpOdmxYcDdQSF9pSHBqLXk5QWJiTXF5emEwV0RHWUJNM2Zocm5kYUNncUZ3cEw2RHBkc2hUT0Vmd25Sa1F1ak1XLXlHdElNWDRBUkVIRXc?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-04",
+      "score": 74,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "新规范可能增加保温材料需求，需关注标准细节",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 10,
+        "timeliness": 14,
+        "businessValue": 12,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "加拿大阿尔伯塔省节能规范更新解读"
+    },
     {
       "id": "20261104-9054377c",
       "title": "玻璃棉废料转化为氧化锆增强水泥，强度达85兆帕",
@@ -1735,41 +1805,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注越南数据中心建设对保温材料需求"
-    },
-    {
-      "id": "20261007-2b7d716c",
-      "title": "Al Habtoor Tower 完成最后幕墙板安装，达到重大施工里程碑",
-      "titleOriginal": "Al Habtoor Tower reaches major construction milestone with final facade panel",
-      "summary": "迪拜超高层住宅项目与中铁十八局合作完成幕墙封顶，预示后续保温材料采购需求。",
-      "category": "工程应用",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "AE",
-      "region": "中东",
-      "source": "Middle East Construction News",
-      "sourceUrl": "https://meconstructionnews.com/69344/al-habtoor-tower-reaches-major-construction-milestone-with-final-facade-panel",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-10-07",
-      "score": 73,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "中东地标项目完工，可能带动后续保温材料订单",
-      "dimensions": {
-        "relevance": 22,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注迪拜高层项目完工后的保温材料补货需求"
     }
   ]
 }
