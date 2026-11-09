@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T01:46:26.559654+00:00",
+  "lastUpdated": "2026-11-09T20:51:53.462840+00:00",
   "dailyDate": "2026-11-09",
   "totalSources": 13,
   "items": [
@@ -1009,6 +1009,40 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注泰国灾后重建保温材料政策"
+    },
+    {
+      "id": "20261020-192289fb",
+      "title": "日立能源投资4.79亿美元在安大略省伦敦市建设变压器绝缘材料工厂",
+      "titleOriginal": "Hitachi Energy to build $479-million transformer insulation plant in London, Ont.",
+      "summary": "日立能源在加拿大新建大型变压器绝缘材料工厂，表明北美电网投资加速，对中国保温材料出口商是工程应用端利好信号。",
+      "category": "工程应用",
+      "materials": [
+        "绝缘材料"
+      ],
+      "applications": [],
+      "country": "CA",
+      "region": "北美",
+      "source": "Ontario Construction News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2R0RHRHUGVpWTBqQlpfWk94VWx5a1BFaWJJZEpmeVUwN1NfM1p4dksxWUs2WWltekFiUTNndkp2a2Z2aWFoS3R1YVJuZ0FtX29WeDZvZkQweU03VEhvbXlEczhXS3hyN3UtUVZkMXd5SmVOcUdRY0Y3U0RkcW1Sd0ZkZHB4VndjOWxqMDlGb1J2M2IyZUVpU0huOFd5dGk1NjdWb2ZoeGROTDJFSlZLV0JLWGlfUQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-20",
+      "score": 52,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "北美电网投资增加，带动保温材料需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注北美电网基建对保温材料需求拉动"
     },
     {
       "id": "20261019-55fb0dd7",
