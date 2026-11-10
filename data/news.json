@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T20:51:53.462840+00:00",
-  "dailyDate": "2026-11-09",
+  "lastUpdated": "2026-11-10T04:11:28.644640+00:00",
+  "dailyDate": "2026-11-10",
   "totalSources": 13,
   "items": [
     {
@@ -1700,41 +1700,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注美国节能规范对保温材料需求影响"
-    },
-    {
-      "id": "20261010-e3ddd089",
-      "title": "弗吉尼亚州应尽快大幅提高建筑能效标准",
-      "titleOriginal": "Ivy Main Is Absolutely Right: Virginia Should Aggressively Crank Up Its Building Energy Efficiency Standards - ASAP!",
-      "summary": "弗吉尼亚州呼吁立即提高建筑能效标准，利好保温材料出口商，预示美国市场对高性能保温材料需求将增加。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "Blue Virginia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRWpJalZfMjRnZUVHMU11dTBoUkZpMC1ISThtTWVCT2U5ckxoemRfRkYteWJJMDJ4OWJ3RzVzZF9STE9jN3l5eDdwVTNRbHRZZ1k3bGJ0Si1YTTF4VlRwSnhzRnpBMlB5SHFuVXNPZDFRMWZ3TUhfSW8yQ1VkcnQwdkNvZG9UY3RMbkV5TXZRQ0poU1JSY25xbktMeHVEbnZoT0kwTUlJYnBkRkF2Zlh2MEVJTWRDdkdNTmZoOGl6NFp4QWJsWVd2TWo4cmV3TTlDaGYybWNHTW1XRFZHVVE?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-10-10",
-      "score": 60,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "美国能效标准趋严，利好保温材料出口。",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 10,
-        "timeliness": 18,
-        "businessValue": 10,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注弗吉尼亚州能效标准修订进展。"
     }
   ]
 }
