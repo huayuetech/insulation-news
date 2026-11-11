@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-11-10T17:58:40.698211+00:00",
-  "dailyDate": "2026-11-10",
+  "lastUpdated": "2026-11-11T01:59:29.572937+00:00",
+  "dailyDate": "2026-11-11",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261110-7192f07a",
+      "title": "Ardara启动AlWadi开发项目第一阶段",
+      "titleOriginal": "Ardara kicks off first phase of AlWadi development",
+      "summary": "中东新住宅项目启动，可能带动保温材料采购需求，值得关注后续建材招标。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SA",
+      "region": "中东",
+      "source": "Middle East Construction News",
+      "sourceUrl": "https://meconstructionnews.com/69717/ardara-kicks-off-first-phase-of-alwadi-development",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-10",
+      "score": 58,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "项目初期，需跟踪后续建材采购计划。",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注AlWadi项目保温材料招标机会"
+    },
     {
       "id": "20261107-9fcb59ee",
       "title": "从“越南制造”到“越南信任”：源头检验成为新贸易优势",
