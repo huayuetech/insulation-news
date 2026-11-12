@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-11T17:56:34.492884+00:00",
-  "dailyDate": "2026-11-11",
+  "lastUpdated": "2026-11-12T03:08:58.925726+00:00",
+  "dailyDate": "2026-11-12",
   "totalSources": 13,
   "items": [
     {
@@ -1701,40 +1701,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪尼日利亚保温材料项目及中国出口机会"
-    },
-    {
-      "id": "20261012-ae6430a8",
-      "title": "重新思考弹道框架以应对更严格的能源规范",
-      "titleOriginal": "Rethinking Ballistic Framing for a Tighter Energy Code - Glass Magazine",
-      "summary": "探讨建筑框架设计如何适应更严格的节能规范，涉及玻璃棉等保温材料应用。",
-      "category": "技术观点",
-      "materials": [
-        "玻璃棉"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "NGA",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXNzZEFPVXd3NzVQbjFyZmtfOGRMRjI3WmxOaExjemxLLTRPbHlna1c3OHRLYVJrdnlaU1ZSdjlwY19VTkRyRGxaNV8tSlIxdkpaWEpMWTR0OFBJb3FWcFMyWTdIWjdKZVRGci13VDZKTWhCNEgydFFTWTZLSVlTdVdPUW5meUViMXdOUGt5Z0ZhUQ?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-10-12",
-      "score": 54,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "美国能效标准趋严，利好保温材料出口",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 18,
-        "businessValue": 8,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注美国节能规范对保温材料需求影响"
     }
   ]
 }
