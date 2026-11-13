@@ -1,8 +1,78 @@
 {
-  "lastUpdated": "2026-11-13T02:42:22.687785+00:00",
+  "lastUpdated": "2026-11-13T17:53:58.817614+00:00",
   "dailyDate": "2026-11-13",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261113-53e84c8c",
+      "title": "越南北部热电厂项目签署BOT合同，目标2030年投运",
+      "titleOriginal": "Northern Vietnam thermal power project signs BOT contract, targets 2030 operations",
+      "summary": "越南1200MW热电厂签署BOT合同，2030年投运，将带动保温材料需求。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/northern-vietnam-thermal-power-project-signs-bot-contract-targets-2030-operations-d20442.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-13",
+      "score": 70,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "越南电力项目增加保温材料采购机会",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注越南火电项目保温材料招标"
+    },
+    {
+      "id": "20261113-370b3559",
+      "title": "日立能源投资超3.3亿美元在安大略建变压器绝缘材料工厂",
+      "titleOriginal": "Hitachi Energy invests over $330M in transformer insulation factory in Ontario",
+      "summary": "日立能源在加拿大建变压器绝缘材料厂，利好玻璃棉、岩棉等保温材料出口。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "CA",
+      "region": "北美",
+      "source": "Evertiq",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0dPQ2ZXdVRtbmg4NEVKbWNCT2ZSQURLSlpabnAtRkN2bXhua1Bfck1mZnhKbVhDMkxrREpIVVRPcjZLTWcwcGZndWdPTkxZUkZOZjduSVowQTdkY3NsWGJ0NnZRMnhNbW0wdDZXc1dKR29NLXN3MWVDdEhFQWt5LTV3Rm9zN204aGJTX2wxVU16eXFXRXR2anZXSXpBa1JUV0NRcFVOZzZuRnVZclYzOUNTOA?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-13",
+      "score": 60,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "北美变压器绝缘材料需求增长",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 7,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注北美变压器保温材料供应链机会"
+    },
     {
       "id": "20261110-7192f07a",
       "title": "Ardara启动AlWadi开发项目第一阶段",
