@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T01:59:13.629968+00:00",
+  "lastUpdated": "2026-11-15T17:16:31.725641+00:00",
   "dailyDate": "2026-11-15",
   "totalSources": 13,
   "items": [
@@ -1044,6 +1044,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "新加坡热管理政策对保温材料出口机会"
+    },
+    {
+      "id": "20261021-ec2d2889",
+      "title": "Tenaris投资1000万美元在尼日利亚建设保温材料工厂，庆祝成立25周年",
+      "titleOriginal": "Tenaris Expands Capacity with $10m Insulation Plant, Marks 25 Years in Nigeria",
+      "summary": "Tenaris在尼日利亚新建保温材料工厂，投资1000万美元，可能增加当地对玻璃棉、岩棉等保温材料的需求。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "NG",
+      "region": "非洲",
+      "source": "Daily Champion Newspaper",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHYyenZnVGpLNFNPQTJsaGZPaFo2RHJITXF5dHhNa2E4SU96VHJxOUNLTVNRTmR0YWRnTzJqQVFySnYyWVRMM0YxejJRcS05TTFuOU5hOEsxNkdWalJwdkNnQzA3T1B6Wm5UOTZCUUtKbThBNjdwUlJZNXBKb3NUYVg4bXc5ck0zUHRFN2xfQ0hHRjYxM2F6UUFLaUpDa1p1RmFPYW5obHc?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-10-21",
+      "score": 59,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "尼日利亚市场新增保温材料产能，可能影响出口竞争格局。",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注尼日利亚保温材料市场投资动态"
     },
     {
       "id": "20261021-61f08ddd",
