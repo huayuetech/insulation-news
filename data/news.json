@@ -1,8 +1,113 @@
 {
-  "lastUpdated": "2026-11-16T20:34:03.551400+00:00",
-  "dailyDate": "2026-11-16",
+  "lastUpdated": "2026-11-17T04:38:18.755984+00:00",
+  "dailyDate": "2026-11-17",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261117-43251139",
+      "title": "越南2025年净能源进口占比达43.9%，能源安全承压",
+      "titleOriginal": "Vietnam’s energy security under pressure as net energy imports near 44%",
+      "summary": "越南能源进口依赖加剧，推动本土节能与工业保温需求，利好中国玻璃棉、岩棉出口。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "VN",
+      "region": "东南亚",
+      "source": "The Investor (Vietnam)",
+      "sourceUrl": "https://theinvestor.vn/vietnams-energy-security-under-pressure-as-net-energy-imports-near-44-d20460.html",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-17",
+      "score": 72,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "能源紧张或催生保温改造需求",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "越南能源缺口对保温材料市场拉动"
+    },
+    {
+      "id": "20261117-62960f5a",
+      "title": "日立能源投资3.3亿美元在加拿大建变压器绝缘材料工厂",
+      "titleOriginal": "Hitachi Energy Invests $330M to Build Transformer Insulation Factory in Canada",
+      "summary": "日立能源在加拿大新建绝缘材料工厂，或带动工业保温材料供应链需求。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "CA",
+      "region": "北美",
+      "source": "https://megaproject.com/",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZm9lRmY5YkxEYUFpTDc1ZTRQOW84bUJqTWVjdzJyUHF3cm1sby00U0kwd3NEVnRKOVZjYmVFX3c2SGlMdXBkakNUYmduMEYyeFU2bVhjRDl2OWN4R1Q0ZF9tQTNjTlpWdjE1SHNkeWloOXBBMXJ5clNDUmdldnlvblZFeVRla05ha2RTeElDcjh6Z0oxNFlsYUZad05pV05kcFdJYmhUZU5nVko4d2tVUjMxMHQtZzVS?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-17",
+      "score": 55,
+      "substance": "high",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 5,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "北美绝缘材料产能扩张动态"
+    },
+    {
+      "id": "20261116-019d3c3f",
+      "title": "HVACR World展会11月23-26日展示气候响应建筑方案",
+      "titleOriginal": "HVACR World to Showcase Climate-Responsive Building Solutions for MEASA from 23 to 26 November",
+      "summary": "中东暖通展汇聚5000+产品，关注节能与保温材料，为中国出口商提供展示与对接机会。",
+      "category": "企业展会",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/events/hvacrworld-climate-build-solutions-measa",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-16",
+      "score": 72,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "中东展会提供B2B对接窗口",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 16,
+        "timeliness": 18,
+        "businessValue": 9,
+        "marketImpact": 7
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "中东暖通展保温材料参展策略"
+    },
     {
       "id": "20261113-53e84c8c",
       "title": "越南北部热电厂项目签署BOT合同，目标2030年投运",
@@ -107,6 +212,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注AlWadi项目保温材料招标机会"
+    },
+    {
+      "id": "20261110-721265ce",
+      "title": "专家呼吁将定期重新调试作为建筑节能标准实践",
+      "titleOriginal": "“Periodic Recommissioning Should Become Standard Practice”",
+      "summary": "建筑系统性能依赖持续调试，推动既有建筑保温改造需求，利好中国保温材料出口。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/opinion/periodic-recommissioning-opinion",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-10",
+      "score": 48,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "推动既有建筑保温改造市场",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 16,
+        "timeliness": 10,
+        "businessValue": 6,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "建筑调试标准对保温材料需求影响"
     },
     {
       "id": "20261107-9fcb59ee",
@@ -696,6 +836,41 @@
       "topic": "关注赞比亚能源项目保温材料采购需求"
     },
     {
+      "id": "20261026-03a48488",
+      "title": "阿布扎比发布工业建筑立面标准，含安全与美观要求",
+      "titleOriginal": "Abu Dhabi Introduces Standards for Industrial Building Facades",
+      "summary": "阿布扎比新规规范工业建筑立面，可能涉及保温材料防火与外观标准，影响出口合规。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/news/abu-dhabi-standards-industrial-buildings",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-26",
+      "score": 72,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "新规可能涉及保温材料防火标准",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 16,
+        "timeliness": 6,
+        "businessValue": 12,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "阿布扎比工业立面标准对保温材料合规要求"
+    },
+    {
       "id": "20261026-a9938a61",
       "title": "Knauf投资2亿英镑在Shotton建设保温材料工厂进展顺利",
       "titleOriginal": "Site work progressing on £200m Knauf insulation factory at former Shotton Steelworks |",
@@ -764,6 +939,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "英国绿色建筑法规对保温材料出口的影响"
+    },
+    {
+      "id": "20261026-f972b8a8",
+      "title": "Azizi报告Beach Oasis II项目进度62%，暖通安装达59%",
+      "titleOriginal": "Azizi Reports 62% Progress at Beach Oasis II Project",
+      "summary": "阿联酋大型住宅项目施工过半，暖通与保温材料采购进入高峰期，出口商可关注。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/projects/azizi-reports-progress-beach-oasis",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-26",
+      "score": 64,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "项目进入暖通安装阶段，保温材料需求释放",
+      "dimensions": {
+        "relevance": 24,
+        "authority": 16,
+        "timeliness": 6,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "阿联酋大型项目保温材料采购机会"
     },
     {
       "id": "20261025-5f532103",
@@ -939,6 +1149,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注能效政策，推广保温材料节能价值"
+    },
+    {
+      "id": "20261022-066d50a7",
+      "title": "中沙合资企业赢得3.06亿美元奇迪亚体育场幕墙合同",
+      "titleOriginal": "China-Saudi JV Wins $306M Qiddiya Stadium Façade Deal",
+      "summary": "方大集团与沙特IKK集团合资，中标奇迪亚大型项目幕墙工程，为保温材料出口商提供配套机会。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "SA",
+      "region": "中东",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/news/fangda-wins-qiddiya-stadium-deal",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-10-22",
+      "score": 70,
+      "substance": "high",
+      "featured": false,
+      "impact": "high",
+      "impactNote": "沙特大型项目落地，带动保温材料配套需求",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 16,
+        "timeliness": 6,
+        "businessValue": 13,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注沙特大型场馆幕墙保温材料采购需求"
     },
     {
       "id": "20261021-0f684dbf",
