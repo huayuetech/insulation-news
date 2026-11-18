@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-17T19:14:26.741934+00:00",
-  "dailyDate": "2026-11-17",
+  "lastUpdated": "2026-11-18T03:44:18.517164+00:00",
+  "dailyDate": "2026-11-18",
   "totalSources": 13,
   "items": [
     {
@@ -74,6 +74,41 @@
       "topic": "北美绝缘材料产能扩张动态"
     },
     {
+      "id": "20261117-c35e66fa",
+      "title": "凉爽建筑，更低账单：柬埔寨为何需要建筑节能规范",
+      "titleOriginal": "Cool Buildings, Lower Bills: Why Cambodia Needs a Building Energy Code",
+      "summary": "柬埔寨呼吁建立建筑节能规范，预示该国建筑保温市场将迎来政策驱动需求，利好中国保温材料出口。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "KH",
+      "region": "全球",
+      "source": "Cambodianess",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWFuYnNGMXZkNThzWnZ4SHItVlVhTTlyRnBhaXRXcHpkRjR5M3MzNk9kS2xUUGhZOHhNR0k3TE1lRGM1bU8wWUJTRzh3YUQyYmF6ZDhpS0ZUbGYwNnFsUnpYYjduQzV3c2Z3Nk1Wd2pqSjk2MksxendyNGVzZUVzTEg0eldGSGtEc1JqT0tfOTQwMFZXQlFDWWhpMFEzN29WRUhR?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-17",
+      "score": 54,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "柬埔寨节能规范将催生保温材料需求。",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注柬埔寨建筑节能政策进展"
+    },
+    {
       "id": "20261116-019d3c3f",
       "title": "HVACR World展会11月23-26日展示气候响应建筑方案",
       "titleOriginal": "HVACR World to Showcase Climate-Responsive Building Solutions for MEASA from 23 to 26 November",
@@ -107,6 +142,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "中东暖通展保温材料参展策略"
+    },
+    {
+      "id": "20261115-0efd5cbe",
+      "title": "州建筑规范委员会暂时放宽斯波坎山火灾民重建的节能标准",
+      "titleOriginal": "State building code council temporarily eases energy code standards for rebuilding Spokane wildfire victims - The Spokesman-Review",
+      "summary": "美国华盛顿州为灾后重建临时放宽节能标准，可能减少对高性能保温材料的短期需求。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYm44Vi1UbUROc3ZfV295cHpydGJ0cW4weDBYZGdiY3hPa194dWJ0OEE3U1pBNEIzZkhCeEcyU0lKeUJzM0hNRVNOMGg2WW9kdkFyUmdMUDYyc3U0Ukg3ajRnU2s4RTctcFJzY01wbk16bS1JbWJHMGJrX05HVVZUbGpPR3VMQlVKMVFRWl9xT2F0UENZckZWWU5QRm1GQQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-15",
+      "score": 50,
+      "substance": "high",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 10,
+        "timeliness": 14,
+        "businessValue": 4,
+        "marketImpact": 4
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注美国地方节能政策临时调整"
     },
     {
       "id": "20261113-53e84c8c",
@@ -1532,40 +1602,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注加拿大工业绝缘材料投资动向"
-    },
-    {
-      "id": "20261018-8697635c",
-      "title": "日立加拿大新保温工厂如何改变其投资故事",
-      "titleOriginal": "How New Canada Insulation Plant At Hitachi (TSE:6501) Has Changed Its Investment Story",
-      "summary": "日立（TSE:6501）在加拿大新建保温材料工厂，可能影响北美市场竞争格局，对中国出口商构成潜在挑战。",
-      "category": "工程应用",
-      "materials": [
-        "保温材料"
-      ],
-      "applications": [],
-      "country": "CA",
-      "region": "北美",
-      "source": "Simply Wall Street",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeFd4Q0NtdlhYWHNlaXl4MUVveU0wVHg5eS11NUxHaWJMRjBsSHRwTFRybUtqdUZfVXlqZWVoaHBBT0RTVElXVlNMMWsxTnF6dGJqRGo3em5RdkNlVVY5eW01NWRsSlVSUkt4Q2dtWl9PLWtrMktzVVhxYVVQckM0XzV4bUY0eVVPVVlzeHB6bHJyS25tbmhrb3FHYkh0eVNCNXV0cUs5TTR3V0x4NlZlSExheHZpcU55UFEzSzJwR19TRmltS3Z6SjhyLVFRUXBJ0gHWAUFVX3lxTFBXQzJFUjZtbVJOdHpZVFFvMVRHWFVWNnpRZ3JTZXNnX3hiSC1ybF9FRkFiYmx0QUFfZURhZzg4TXB2U1B0RXRPSVlLVWEzMGYzendJYjBISGV3cHBOS09lWnFiWExYUjFfRUh3emt2RjhzR3dteFRXZTJabnpNc1JpTGpRMHhscXIwSXpIbzVkMmgtNURFRmVHV2dDWG5IWnprMjVkUHBLREJOSU1EVWpaM0RkZlNrajdrSVdtOW5nc2ctR0Jxdml4Zm9ENllUWC1tT25nTnc?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-10-18",
-      "score": 64,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "北美新增产能，可能加剧竞争",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 18,
-        "businessValue": 8,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注日立加拿大工厂对华出口影响"
     }
   ]
 }
