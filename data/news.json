@@ -1,8 +1,77 @@
 {
-  "lastUpdated": "2026-11-18T03:44:18.517164+00:00",
+  "lastUpdated": "2026-11-18T18:54:24.719550+00:00",
   "dailyDate": "2026-11-18",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261118-3b7e3ba4",
+      "title": "ASHRAE标准90.1为能效目标设定新方向",
+      "titleOriginal": "ASHRAE Standard 90.1 Charts a New Course for Energy Efficiency Goals",
+      "summary": "ASHRAE 90.1更新能效要求，将影响美国建筑保温材料标准，利好高R值产品出口。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "Facilitiesnet",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHQ5Vnc0TXdoT1dhRGNzN3pra19uNV9OVVNiMS1BWnItaWhZSS11bDdNZ0JPQjBmR2FPM09ST0xxWXRWTkVLRVJCNWh6cFF1ZGUxSUp3QVJMcGFSWXBjbEEzMjFwU3JKZzJIWjdOdzVLOXpubDU1Z2t6REFFWE5kQU5uYlVZSGR2OTBVSkYwRUoyQld6YXFYaWV6cTNyM0NOZ3pHYnBUaXl0RWNsUTRhbUFYejdnMVVV?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-18",
+      "score": 83,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "美国能效标准趋严，出口需提前合规",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 14,
+        "marketImpact": 11
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "分析ASHRAE 90.1对保温出口影响"
+    },
+    {
+      "id": "20261118-ef90890d",
+      "title": "可耐福保温材料推出更低导热系数的阁楼卷毡",
+      "titleOriginal": "Knauf Insulation hits new lambda loft roll low",
+      "summary": "可耐福发布更低λ值阁楼卷毡产品，提升保温性能，对中国出口商构成技术竞争压力。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GB",
+      "region": "欧洲",
+      "source": "Builders Merchants Journal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWkNTSnVzNHhxUVM3cllrdjE2T21HT0hmelBRem8xS0hJWjE3T3k5Ty13bExLVk1pS0lkalFvTTZfal9MYnhKTk9YQzNhMWwtdlRtOEpSNUdKZC15amNSdHBIYWFjUlVSTXBWQjFrNkZCaTg5b2hLQkdFTDM5Z3I5NWtHeWNocE5zbXJOcw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-18",
+      "score": 71,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "竞品技术升级，需关注差异化策略",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪竞品低导热产品动态"
+    },
     {
       "id": "20261117-43251139",
       "title": "越南2025年净能源进口占比达43.9%，能源安全承压",

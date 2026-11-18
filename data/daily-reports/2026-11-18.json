@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T03:44:18.517164+00:00",
+  "generatedAt": "2026-11-18T18:54:24.719550+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -12,6 +12,14 @@
           "summary": "欧盟要求意大利社会住房计划增加外墙外保温改造，利好中国保温材料出口商进入意大利市场。",
           "country": "EU",
           "source": "Global Insulation",
+          "impact": "high"
+        },
+        {
+          "id": "20261118-3b7e3ba4",
+          "title": "ASHRAE标准90.1为能效目标设定新方向",
+          "summary": "ASHRAE 90.1更新能效要求，将影响美国建筑保温材料标准，利好高R值产品出口。",
+          "country": "US",
+          "source": "Facilitiesnet",
           "impact": "high"
         },
         {
@@ -37,14 +45,6 @@
           "country": "US",
           "source": "Baxter Bulletin",
           "impact": "medium"
-        },
-        {
-          "id": "20261026-03a48488",
-          "title": "阿布扎比发布工业建筑立面标准，含安全与美观要求",
-          "summary": "阿布扎比新规规范工业建筑立面，可能涉及保温材料防火与外观标准，影响出口合规。",
-          "country": "AE",
-          "source": "MEP Middle East",
-          "impact": "high"
         }
       ]
     },
