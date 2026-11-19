@@ -1,8 +1,76 @@
 {
-  "lastUpdated": "2026-11-19T03:41:33.236770+00:00",
+  "lastUpdated": "2026-11-19T19:03:10.007227+00:00",
   "dailyDate": "2026-11-19",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261119-145891b5",
+      "title": "可耐福肖顿岩棉厂公众咨询期延长，烟囱高度调整",
+      "titleOriginal": "Knauf’s Shotton insulation plant extends consultation",
+      "summary": "可耐福英国岩棉厂投资2.39亿欧元，公众咨询期延长，烟囱高度调整，反映欧洲岩棉产能扩张趋势。",
+      "category": "工程应用",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GB",
+      "region": "欧洲",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2257-knauf-s-shotton-insulation-plant-extends-consultation",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-19",
+      "score": 77,
+      "substance": "high",
+      "featured": true,
+      "impact": "medium",
+      "impactNote": "欧洲岩棉产能扩张，可能加剧竞争",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注欧洲岩棉产能布局变化"
+    },
+    {
+      "id": "20261119-c6686c72",
+      "title": "可耐福推出新型Loft Roll Pro阁楼卷毡，U值达0.09",
+      "titleOriginal": "Knauf Insulation launches lambda loft roll insulation",
+      "summary": "可耐福在英国推出Loft Roll Pro阁楼保温卷毡，400mm厚度即可达0.09 U值，简化翻新施工。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "GB",
+      "region": "欧洲",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2256-knauf-insulation-launches-lambda-loft-roll-insulation",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-19",
+      "score": 71,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "新产品提升能效标准，或影响出口产品对标",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 7,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "对标可耐福新品，优化出口产品参数"
+    },
     {
       "id": "20261118-3b7e3ba4",
       "title": "ASHRAE标准90.1为能效目标设定新方向",
@@ -71,6 +139,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "跟踪竞品低导热产品动态"
+    },
+    {
+      "id": "20261118-5b67be6e",
+      "title": "昆明冬季热舒适度研究揭示显著缺陷",
+      "titleOriginal": "Moderate Climate Study Identifies Major Winter Thermal Comfort Deficit in Kunming",
+      "summary": "研究指出昆明冬季热舒适度不足，凸显建筑保温改善需求，可能推动当地保温材料市场。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "CN",
+      "region": "东亚",
+      "source": "Bioengineer.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUx4SDBWRmFNelpfY3M0REtOMXN5REVncXZKUjk4RzN6TngxOE5CMWJ5LWMyc25SOXhhWWRKUG9OZGtJVTdsX0JRaTlhY1hWbnR2NUFxdThFa3BsN0tSTHRmOTRJbm9OSHc3NUp6dXJVbG52Y3JObnR1WmV4TE00VWpLdXdMN05nclNfTmZhazlDQlBfNWd2SEZFYXlBNWEzQm1HNnhYa3RZZw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-18",
+      "score": 42,
+      "substance": "medium",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 3,
+        "marketImpact": 3
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注国内温和气候区保温市场潜力"
     },
     {
       "id": "20261117-43251139",
