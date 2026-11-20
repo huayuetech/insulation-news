@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T03:33:56.783773+00:00",
+  "lastUpdated": "2026-11-20T18:39:27.351760+00:00",
   "dailyDate": "2026-11-20",
   "totalSources": 13,
   "items": [
@@ -70,6 +70,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "对标可耐福新品，优化出口产品参数"
+    },
+    {
+      "id": "20261119-cdb52f05",
+      "title": "肯尼亚公司在奥尔卡里亚能源园建设地热驱动化肥厂",
+      "titleOriginal": "Firm to build geothermal-powered fertiliser plant at Olkaria Energy Park",
+      "summary": "肯尼亚将建地热化肥厂，带动当地工业建筑保温材料需求，利好中国玻璃棉、岩棉出口。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "KE",
+      "region": "全球",
+      "source": "www.standardmedia.co.ke",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYm9xNWZRSGxLYkY0SzRXQWFwVWdqTW1NNm02R0x6aG1FUFBpZ2NfS3Z1V2JSN1lEdU53UHJfU2N0X1NTWnZfR2RpMFk5cG52bnNDS2NNZHVUU2FXNTZPYWlHZkJYUm5PRGtSdmpzQk5BcXhDWmpPTGdZeG9LWi03SWxjbl9VT0lJa1hqaFF5QVdWRjdqX2NQRjFQLUJiWUEySDVFLXcxYVA5VUxyWFdRQXJZLWhvb3p5VE1yY2lvaEtROTZHTGIxdEduTnI?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-19",
+      "score": 62,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "工业项目增加保温材料采购机会",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注肯尼亚地热项目保温材料招标"
     },
     {
       "id": "20261118-3b7e3ba4",
