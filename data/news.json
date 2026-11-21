@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T03:17:10.901765+00:00",
+  "lastUpdated": "2026-11-21T17:39:29.250754+00:00",
   "dailyDate": "2026-11-21",
   "totalSources": 13,
   "items": [
@@ -699,6 +699,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "加拿大阿尔伯塔省节能规范更新解读"
+    },
+    {
+      "id": "20261104-a41c118d",
+      "title": "加拿大国家建筑节能规范（卡尔加里市实施）",
+      "titleOriginal": "National Energy Code of Canada for buildings",
+      "summary": "加拿大卡尔加里市将实施国家建筑节能规范，提升建筑保温要求，利好中国玻璃棉、岩棉出口。",
+      "category": "标准政策",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "CA",
+      "region": "北美",
+      "source": "The City of Calgary",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSVB1d0UwQ3dpVUNkcXNFdHlXaE9yQ0dkTV9oMENNdnlKb0lWWGNTNXg2NXlWNWxKMWF2WHBIN1RObmpMcmE3Mnh4NnN1TWhodmNyMWRGb0trSFE4UTc1dEcwYjd0cU1QVklhZWc1UmhFSllFa2xkWTlmRkFaUkMzdE1mRjZ6bjhH?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-04",
+      "score": 68,
+      "substance": "high",
+      "featured": false,
+      "impact": "high",
+      "impactNote": "建筑节能标准趋严，保温材料需求增加",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 10,
+        "timeliness": 6,
+        "businessValue": 14,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪加拿大各省建筑节能规范更新"
     },
     {
       "id": "20261104-9054377c",
