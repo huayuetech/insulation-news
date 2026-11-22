@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-21T17:39:29.250754+00:00",
-  "dailyDate": "2026-11-21",
+  "lastUpdated": "2026-11-22T02:22:15.747278+00:00",
+  "dailyDate": "2026-11-22",
   "totalSources": 13,
   "items": [
     {
@@ -1566,41 +1566,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注能效政策，推广保温材料节能价值"
-    },
-    {
-      "id": "20261022-066d50a7",
-      "title": "中沙合资企业赢得3.06亿美元奇迪亚体育场幕墙合同",
-      "titleOriginal": "China-Saudi JV Wins $306M Qiddiya Stadium Façade Deal",
-      "summary": "方大集团与沙特IKK集团合资，中标奇迪亚大型项目幕墙工程，为保温材料出口商提供配套机会。",
-      "category": "工程应用",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "SA",
-      "region": "中东",
-      "source": "MEP Middle East",
-      "sourceUrl": "https://www.mepmiddleeast.com/news/fangda-wins-qiddiya-stadium-deal",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-10-22",
-      "score": 70,
-      "substance": "high",
-      "featured": false,
-      "impact": "high",
-      "impactNote": "沙特大型项目落地，带动保温材料配套需求",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 16,
-        "timeliness": 6,
-        "businessValue": 13,
-        "marketImpact": 10
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注沙特大型场馆幕墙保温材料采购需求"
     }
   ]
 }
