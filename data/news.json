@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-11-22T17:55:05.067137+00:00",
-  "dailyDate": "2026-11-22",
+  "lastUpdated": "2026-11-23T02:54:41.316320+00:00",
+  "dailyDate": "2026-11-23",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261122-f771955b",
+      "title": "曾被禁数十年的建筑材料重返美国住宅，保温性能是混凝土的15倍且可储存CO₂",
+      "titleOriginal": "Once Banned for Decades, This Building Material Returns to U.S. Homes With 15x Concrete’s Insulation and CO₂ Storage",
+      "summary": "一种高性能保温材料重返美国市场，性能远超传统材料，为中国出口商提供新市场机会。",
+      "category": "产品与材料",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "The Daily Galaxy",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2E1RlRtV1NPNEZ6a2NTT3VBako0VlR3aDlQQlpoYU1zWHlQRVJxd3dSM3kxSkdlSVBUc1I4NnQ3MVpHY2RySnFZd0FDUFl6ZzJGVzlNTnRNcThuckNQVVY4VG9DWWV5bVN4dExhWlZxSTZDUFAzY2xmS1RBaXJhY1l4Zw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-22",
+      "score": 60,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "可能开辟美国高端保温材料新需求",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 10,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注该材料具体类型及美国市场准入"
+    },
     {
       "id": "20261120-6923f97b",
       "title": "参与塑造2030能源规范：加入FTI倡导委员会",
@@ -1461,111 +1496,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注越南工业园建设保温材料采购需求"
-    },
-    {
-      "id": "20261023-3ad13caa",
-      "title": "华盛顿州官员对山火后重建房屋放宽节能规范意见分歧",
-      "titleOriginal": "WA officials split on easing energy codes for homes rebuilt after wildfires - The Spokesman-Review",
-      "summary": "美国华盛顿州山火重建可能放宽节能标准，影响建筑保温材料需求，需关注政策走向。",
-      "category": "标准政策",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "US",
-      "region": "北美",
-      "source": "Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0lRVzBfbUhJeEVOZjRabDM1d2oxMjFrUTMwcEtkRmpHQ3VvR1BzUXJTcTFNQlUwczZ1bWZFNDVjNHdNeEh5NDFHa1F4NnJxa0R3WG1WREZFYzNKUEVnMnlqNXQ3WmszZjZDVi1hY1BMcXRpQ1FneDlnV0E1MXAyRDVtU29XbmJqWk5FczNyWG83VGd1YXQ2elkxV1M2QQ?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-10-23",
-      "score": 63,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "节能标准放宽可能降低保温材料需求",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 10,
-        "timeliness": 10,
-        "businessValue": 10,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪美国建筑节能政策变化对出口影响"
-    },
-    {
-      "id": "20261023-97b4756f",
-      "title": "LMD在迪拜谢赫扎耶德路推出Christian A. Rockefeller商务塔，引入“酒店化”概念",
-      "titleOriginal": "LMD Launches Christian A. Rockefeller Business Tower, Bringing ‘Hotelification’ To Sheikh Zayed Road",
-      "summary": "迪拜高端商业地产项目启动，对高品质建筑保温材料有明确需求，为中国出口商提供高端市场机会。",
-      "category": "工程应用",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "AE",
-      "region": "中东",
-      "source": "CBNME",
-      "sourceUrl": "https://www.cbnme.com/news/lmd-launches-christian-rockefeller-business-tower-sheikh-zayed-road/",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-10-23",
-      "score": 56,
-      "substance": "medium",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "高端项目带动高品质保温材料需求",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 18,
-        "businessValue": 7,
-        "marketImpact": 5
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注迪拜高端商业项目保温材料采购"
-    },
-    {
-      "id": "20261023-9f0313a1",
-      "title": "能源效率：降低运营成本的关键",
-      "titleOriginal": "Energy Efficiency: A Key to Lower Operating Costs",
-      "summary": "文章强调能效对降低运营成本的重要性，提示中国保温材料出口商可借此推广节能产品。",
-      "category": "技术观点",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "GLOBAL",
-      "region": "全球",
-      "source": "The Textile Magazine",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVpsVzNaYkcybWE0ZXJlbFB2N3MwTlhobGhadFZlVVh1Nm5OREpLcXY1UFlvU2ktRVZyM0o5cTZwejJVRk56c19SSHRkeUJON25OeldXV3FzUWZ5OEdVRHlaM285Ui1fT2ZibWhiVzFOeUx4U2pxMnBtWmp0eVl6QWRRMkw5eU5LSE5GdWk0NA?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-10-23",
-      "score": 20,
-      "substance": "low",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "能效议题提升保温材料需求，利好出口",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 6,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注能效政策，推广保温材料节能价值"
     }
   ]
 }
