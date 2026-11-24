@@ -1,8 +1,43 @@
 {
-  "lastUpdated": "2026-11-24T06:09:41.839194+00:00",
+  "lastUpdated": "2026-11-24T20:42:56.203330+00:00",
   "dailyDate": "2026-11-24",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261124-8e71efa0",
+      "title": "IndexBox预测：到2035年吹入式保温材料增速仅为喷涂泡沫的一半",
+      "titleOriginal": "IndexBox sees blown-in insulation growing half as much as spray foam by 2035",
+      "summary": "市场研究显示吹入式保温增速低于喷涂泡沫，提示中国出口商关注喷涂泡沫相关材料需求增长。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "MarketScale",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUjZCZ3dKR0pTWGZfV2xSeWdQR0hpM2h4SURQV2EzMF9XZVdPbnEtMnE5RzZzTkJ1X0RvX2xlbnNqNnRqaTBOM1VxR0FYV09zUnN2V1NkMXdsOUZVUG16TEhKWmJHdm4tN1ZhaC1pbnZETW5lSnd6VWlNdDJZSzlxSVpKV09YQWkteGtyU2JWV09DSEo2TTR2WWpmVGEzSTlLQVJaOXVrdHp2NDcyLUgzODRaY21GRjRqMnlVTEZlTzFlUGN2bm9BLWtYRGZETkhkWTFCQVFsSTh5emt0?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-24",
+      "score": 54,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "提示喷涂泡沫需求增速更快，可能影响产品策略",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注喷涂泡沫与吹入式保温增速差异"
+    },
     {
       "id": "20261122-f771955b",
       "title": "曾被禁数十年的建筑材料重返美国住宅，保温性能是混凝土的15倍且可储存CO₂",
