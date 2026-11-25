@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T04:56:23.471740+00:00",
+  "sections": [
+    {
+      "title": "政策法规变动",
+      "icon": "policy",
+      "items": [
+        {
+          "id": "20261103-4ef085e4",
+          "title": "欧盟委员会呼吁意大利在社会住房计划中加入外墙外保温改造",
+          "summary": "欧盟要求意大利社会住房计划增加外墙外保温改造，利好中国保温材料出口商进入意大利市场。",
+          "country": "EU",
+          "source": "Global Insulation",
+          "impact": "high"
+        },
+        {
+          "id": "20261118-3b7e3ba4",
+          "title": "ASHRAE标准90.1为能效目标设定新方向",
+          "summary": "ASHRAE 90.1更新能效要求，将影响美国建筑保温材料标准，利好高R值产品出口。",
+          "country": "US",
+          "source": "Facilitiesnet",
+          "impact": "high"
+        },
+        {
+          "id": "20261104-d84a59c2",
+          "title": "卡尔加里市：阿尔伯塔省住宅与小建筑节能规范9.36",
+          "summary": "加拿大阿尔伯塔省更新住宅节能规范9.36，涉及建筑保温要求，对中国保温材料出口商意味着需符合新标准。",
+          "country": "CA",
+          "source": "The City of Calgary",
+          "impact": "high"
+        },
+        {
+          "id": "20261027-aac6e7c0",
+          "title": "Kingspan否认在彭德尔顿改造项目中提供不合格保温材料",
+          "summary": "英国高层建筑保温材料合规争议持续，提醒中国出口商注意产品认证与责任风险。",
+          "country": "GB",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20261026-03a48488",
+          "title": "阿布扎比发布工业建筑立面标准，含安全与美观要求",
+          "summary": "阿布扎比新规规范工业建筑立面，可能涉及保温材料防火与外观标准，影响出口合规。",
+          "country": "AE",
+          "source": "MEP Middle East",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "产品与材料动态",
+      "icon": "product",
+      "items": [
+        {
+          "id": "20261027-2f162dc4",
+          "title": "Rockwool在巴斯夫路德维希港化工厂试验岩棉保温材料回收",
+          "summary": "岩棉回收技术取得进展，可能推动行业循环经济标准，影响中国出口产品环保要求。",
+          "country": "DE",
+          "source": "Global Insulation",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "工程与应用案例",
+      "icon": "project",
+      "items": [
+        {
+          "id": "20261119-145891b5",
+          "title": "可耐福肖顿岩棉厂公众咨询期延长，烟囱高度调整",
+          "summary": "可耐福英国岩棉厂投资2.39亿欧元，公众咨询期延长，烟囱高度调整，反映欧洲岩棉产能扩张趋势。",
+          "country": "GB",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20261117-43251139",
+          "title": "越南2025年净能源进口占比达43.9%，能源安全承压",
+          "summary": "越南能源进口依赖加剧，推动本土节能与工业保温需求，利好中国玻璃棉、岩棉出口。",
+          "country": "VN",
+          "source": "The Investor (Vietnam)",
+          "impact": "medium"
+        }
+      ]
+    },
+    {
+      "title": "企业与展会动态",
+      "icon": "company",
+      "items": [
+        {
+          "id": "20261030-fa7d7333",
+          "title": "Masterplast 2026年前三季度销售额增长24%",
+          "summary": "匈牙利保温材料商Masterplast销售额达1.37亿欧元，利润翻倍，显示欧洲市场需求强劲。",
+          "country": "HU",
+          "source": "Global Insulation",
+          "impact": "medium"
+        },
+        {
+          "id": "20261116-019d3c3f",
+          "title": "HVACR World展会11月23-26日展示气候响应建筑方案",
+          "summary": "中东暖通展汇聚5000+产品，关注节能与保温材料，为中国出口商提供展示与对接机会。",
+          "country": "AE",
+          "source": "MEP Middle East",
+          "impact": "medium"
+        },
+        {
+          "id": "20261026-a9938a61",
+          "title": "Knauf投资2亿英镑在Shotton建设保温材料工厂进展顺利",
+          "summary": "欧洲大型保温材料工厂建设推进，可能加剧区域市场竞争，影响中国出口欧洲策略。",
+          "country": "GB",
+          "source": "Deeside.com",
+          "impact": "medium"
+        }
+      ]
+    }
+  ]
+}
