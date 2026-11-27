@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-11-26T19:42:43.269595+00:00",
-  "dailyDate": "2026-11-26",
+  "lastUpdated": "2026-11-27T04:20:25.362809+00:00",
+  "dailyDate": "2026-11-27",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261126-0243054b",
+      "title": "联合国呼吁以色列允许保温材料等冬季物资进入加沙",
+      "titleOriginal": "Insulation reportedly among blocked imports into Gaza",
+      "summary": "联合国紧急呼吁以色列允许保温材料等冬季物资进入加沙，以应对暴雨导致的死亡和避难所损失。",
+      "category": "工程应用",
+      "materials": [
+        "保温材料"
+      ],
+      "applications": [],
+      "country": "IL",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2258-insulation-reportedly-among-blocked-imports-into-gaza",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-26",
+      "score": 42,
+      "substance": "high",
+      "featured": false,
+      "impact": "low",
+      "impactNote": "人道主义需求，非商业市场信号",
+      "dimensions": {
+        "relevance": 5,
+        "authority": 16,
+        "timeliness": 18,
+        "businessValue": 1,
+        "marketImpact": 2
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注加沙重建对保温材料的潜在需求"
+    },
     {
       "id": "20261124-8e71efa0",
       "title": "IndexBox预测：到2035年吹入式保温材料增速仅为喷涂泡沫的一半",
@@ -1183,144 +1217,6 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "越南能源瓶颈与建筑保温市场机会"
-    },
-    {
-      "id": "20261027-2f162dc4",
-      "title": "Rockwool在巴斯夫路德维希港化工厂试验岩棉保温材料回收",
-      "titleOriginal": "Rockwool trials stone wool insulation recycling at BASF Ludwigshafen chemicals plant",
-      "summary": "岩棉回收技术取得进展，可能推动行业循环经济标准，影响中国出口产品环保要求。",
-      "category": "产品与材料",
-      "materials": [
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "DE",
-      "region": "欧洲",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2249-rockwool-trials-stone-wool-insulation-recycling-at-basf-ludwigshafen-chemicals-plant",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-10-27",
-      "score": 79,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "回收技术成熟或提高欧洲市场准入壁垒。",
-      "dimensions": {
-        "relevance": 25,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 10,
-        "marketImpact": 8
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "跟踪岩棉回收技术进展及政策影响"
-    },
-    {
-      "id": "20261027-aac6e7c0",
-      "title": "Kingspan否认在彭德尔顿改造项目中提供不合格保温材料",
-      "titleOriginal": "Kingspan denies dishonestly supplying unsafe insulation for Pendleton Regeneration Scheme housing blocks",
-      "summary": "英国高层建筑保温材料合规争议持续，提醒中国出口商注意产品认证与责任风险。",
-      "category": "标准政策",
-      "materials": [
-        "酚醛泡沫"
-      ],
-      "applications": [],
-      "country": "GB",
-      "region": "欧洲",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2248-kingspan-denies-dishonestly-supplying-unsafe-insulation-for-pendleton-regeneration-scheme-housing-blocks",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-10-27",
-      "score": 74,
-      "substance": "high",
-      "featured": true,
-      "impact": "medium",
-      "impactNote": "英国市场对保温材料合规性要求趋严。",
-      "dimensions": {
-        "relevance": 22,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 9,
-        "marketImpact": 7
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注英国建筑保温材料合规动态"
-    },
-    {
-      "id": "20261027-70e176ee",
-      "title": "联合绝缘板公司投资1090万美元在菲律宾Porac建设绝缘板工厂",
-      "titleOriginal": "Union Insulated Panel commissions US$10.9m Porac insulated panel plant",
-      "summary": "菲律宾新工厂投产，可能增加当地保温板供应，对中国出口商构成竞争压力。",
-      "category": "工程应用",
-      "materials": [
-        "岩棉",
-        "玻璃棉"
-      ],
-      "applications": [],
-      "country": "PH",
-      "region": "东南亚",
-      "source": "Global Insulation",
-      "sourceUrl": "https://www.globalinsulation.com/news/2250-union-insulated-panel-commissions-us-10-9m-porac-insulated-panel-plant",
-      "sourceTier": "T2",
-      "sourceType": "行业媒体",
-      "date": "2026-10-27",
-      "score": 70,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "当地产能增加，可能影响中国对菲出口份额。",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 16,
-        "timeliness": 20,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注菲律宾本土产能扩张对出口的影响"
-    },
-    {
-      "id": "20261027-e1368182",
-      "title": "赞比亚能源监管机构批准6.623亿美元能源投资",
-      "titleOriginal": "Zambia’s energy regulator approves US$662.3 million in energy investments",
-      "summary": "赞比亚大规模能源投资将带动当地建筑保温材料需求，为中国出口商创造新市场机会。",
-      "category": "工程应用",
-      "materials": [
-        "玻璃棉",
-        "岩棉"
-      ],
-      "applications": [],
-      "country": "ZM",
-      "region": "全球",
-      "source": "Green Building Africa",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWExUE1DMk02cUc5X2JSbzUxVElyclVuaHF4dXM0b0xLOEYwTkRDSXhUeGF6STN2elVSRGxQMk5UWmRjbTJhdXA5OXQzeC1fSkZWOXFhdFgzXzNCZFIySFc3akFyc3B0bm9pcDVPRDNoZ05XV0FRYW1CamdIWlk3ZWItVzhuY1hYZjhBRGpRS3VXUkIzZkdUZzJPdmRsbW1xSDFMYnVYVk1tTHpMbDBZ?oc=5",
-      "sourceTier": "T3",
-      "sourceType": "市场观察",
-      "date": "2026-10-27",
-      "score": 62,
-      "substance": "high",
-      "featured": false,
-      "impact": "medium",
-      "impactNote": "能源项目可能带动保温材料需求",
-      "dimensions": {
-        "relevance": 20,
-        "authority": 10,
-        "timeliness": 18,
-        "businessValue": 8,
-        "marketImpact": 6
-      },
-      "eventCluster": null,
-      "isMainEvent": true,
-      "relatedIds": [],
-      "topic": "关注赞比亚能源项目保温材料采购需求"
     }
   ]
 }
