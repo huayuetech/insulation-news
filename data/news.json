@@ -1,8 +1,112 @@
 {
-  "lastUpdated": "2026-11-27T04:20:25.362809+00:00",
+  "lastUpdated": "2026-11-27T19:31:12.651774+00:00",
   "dailyDate": "2026-11-27",
   "totalSources": 13,
   "items": [
+    {
+      "id": "20261127-0b50183b",
+      "title": "Rockwool 2026年前三季度销售额28.2亿欧元，同比增长4%",
+      "titleOriginal": "Rockwool raises sales in first nine months of 2026",
+      "summary": "全球龙头增长放缓，欧洲市场Q3意外疲软，提示中国出口商需警惕欧洲需求波动风险。",
+      "category": "市场价格",
+      "materials": [
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "EU",
+      "region": "欧洲",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2260-rockwool-raises-sales-in-first-nine-months-of-2026",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-27",
+      "score": 86,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "欧洲需求放缓信号，需调整出口策略",
+      "dimensions": {
+        "relevance": 28,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 12,
+        "marketImpact": 10
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "Rockwool业绩放缓对岩棉出口的警示"
+    },
+    {
+      "id": "20261127-52896f72",
+      "title": "匈牙利能源公司终止与Masterplast的节能认证协议",
+      "titleOriginal": "Energy company terminates Certified Energy Saving agreement with Masterplast Hungária",
+      "summary": "价值4亿欧元10年期框架协议终止，反映当地节能政策执行风险，影响中国出口商合作信心。",
+      "category": "标准政策",
+      "materials": [
+        "岩棉",
+        "玻璃棉"
+      ],
+      "applications": [],
+      "country": "HU",
+      "region": "全球",
+      "source": "Global Insulation",
+      "sourceUrl": "https://www.globalinsulation.com/news/2259-energy-company-terminates-certified-energy-saving-agreement-with-masterplast-hungaria",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-27",
+      "score": 84,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "政策执行风险上升，中东欧市场需谨慎",
+      "dimensions": {
+        "relevance": 26,
+        "authority": 16,
+        "timeliness": 20,
+        "businessValue": 13,
+        "marketImpact": 9
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "匈牙利节能协议终止对市场准入的影响"
+    },
+    {
+      "id": "20261127-71305db1",
+      "title": "西雅图塔楼模型显示计入框架热流后存在20-30%热缺口",
+      "titleOriginal": "Seattle tower model shows 20–30% thermal gap once framing heat flow is counted",
+      "summary": "研究揭示建筑框架热桥效应导致保温性能高估，提示出口商需关注热桥解决方案产品推广。",
+      "category": "技术观点",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "US",
+      "region": "北美",
+      "source": "MarketScale",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSDNxSEcxdDM2ZzZxM2FEcnRTUHpVWDNyWmlJT3lYVFJvY0MwODNpaHQzWHBYcnI0WjJDTlF6Tk9aRlRQa1hvblJmU2VZd2FzZUR2TnpJOW91ZFRvZDNXR2RYNi1OUV9KczhlT3M2RUphTkNOQUJ3NXdUX0hOUkMwNEtZOVJhblE5Z0tib0dWSDJqUUVLMjl5bm1FdEE4bHlqS1ZuZnIxVkk2aS05M1pGQWJkN0U3c3EyLWh0b0Nsb0x6aVVScUlJUmtWQmhKNkc2Nk53UG5SWWI0WlFjSmE5MG9oeV9fbkE?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-27",
+      "score": 56,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "推动热桥优化产品需求，可作技术营销素材",
+      "dimensions": {
+        "relevance": 22,
+        "authority": 10,
+        "timeliness": 20,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "热桥效应对保温材料选型的影响"
+    },
     {
       "id": "20261126-0243054b",
       "title": "联合国呼吁以色列允许保温材料等冬季物资进入加沙",

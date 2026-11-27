@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "generatedAt": "2026-11-27T04:20:25.362809+00:00",
+  "generatedAt": "2026-11-27T19:31:12.651774+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -11,6 +11,14 @@
           "title": "欧盟委员会呼吁意大利在社会住房计划中加入外墙外保温改造",
           "summary": "欧盟要求意大利社会住房计划增加外墙外保温改造，利好中国保温材料出口商进入意大利市场。",
           "country": "EU",
+          "source": "Global Insulation",
+          "impact": "high"
+        },
+        {
+          "id": "20261127-52896f72",
+          "title": "匈牙利能源公司终止与Masterplast的节能认证协议",
+          "summary": "价值4亿欧元10年期框架协议终止，反映当地节能政策执行风险，影响中国出口商合作信心。",
+          "country": "HU",
           "source": "Global Insulation",
           "impact": "high"
         },
@@ -28,6 +36,20 @@
           "summary": "加拿大阿尔伯塔省更新住宅节能规范9.36，涉及建筑保温要求，对中国保温材料出口商意味着需符合新标准。",
           "country": "CA",
           "source": "The City of Calgary",
+          "impact": "high"
+        }
+      ]
+    },
+    {
+      "title": "市场价格信号",
+      "icon": "market",
+      "items": [
+        {
+          "id": "20261127-0b50183b",
+          "title": "Rockwool 2026年前三季度销售额28.2亿欧元，同比增长4%",
+          "summary": "全球龙头增长放缓，欧洲市场Q3意外疲软，提示中国出口商需警惕欧洲需求波动风险。",
+          "country": "EU",
+          "source": "Global Insulation",
           "impact": "high"
         }
       ]
