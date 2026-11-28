@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-28T04:00:52.694739+00:00",
+  "lastUpdated": "2026-11-28T18:18:12.071997+00:00",
   "dailyDate": "2026-11-28",
   "totalSources": 13,
   "items": [
@@ -73,6 +73,41 @@
       "topic": "匈牙利节能协议终止对市场准入的影响"
     },
     {
+      "id": "20261127-70611b82",
+      "title": "气凝胶水泥复合材料降低导热性但面临耐久性权衡",
+      "titleOriginal": "Aerogel Cement Composites Cut Thermal Conductivity but Face Durability Trade-Offs",
+      "summary": "新型气凝胶水泥复合材料可降低导热性，但耐久性存疑，提示中国保温材料出口商关注技术迭代风险。",
+      "category": "产品与材料",
+      "materials": [
+        "气凝胶",
+        "水泥"
+      ],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "Bioengineer.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNREJGNWs5cVotS0dpWmZqeGlfNHlhcWhKNXJfMW13R1VPUHVDUW1WWFhfdFBfZWlhRnJEX2tvbTJIaG5RZnNQZTMwcktHOV9MdGU5RlpIM2lwUzVJT3B0dy1aVnlpVC1BR0hPSlZ1bzFlZDFfRkUzZjBzM0ZmejZGRGhQOWN2bl9CaWl1RUpLOUhpMXFzWFZ0UXpfdmtBNEZRWUZKb3Y2cHd5Zw?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-27",
+      "score": 62,
+      "substance": "high",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "可能影响传统保温材料竞争格局",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 8,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "跟踪气凝胶复合材料技术进展"
+    },
+    {
       "id": "20261127-71305db1",
       "title": "西雅图塔楼模型显示计入框架热流后存在20-30%热缺口",
       "titleOriginal": "Seattle tower model shows 20–30% thermal gap once framing heat flow is counted",
@@ -108,6 +143,107 @@
       "topic": "热桥效应对保温材料选型的影响"
     },
     {
+      "id": "20261127-800d5399",
+      "title": "Gulf-O-Flex庆祝在阿联酋制造卓越30周年，塑造全球保温未来",
+      "titleOriginal": "Gulf-O-Flex Celebrates 3 Decades of UAE Manufacturing Excellence, Shaping the Future of Global Insulation",
+      "summary": "Gulf-O-Flex在阿联酋的30年制造经验表明中东保温市场成熟，中国出口商需关注本地竞争。",
+      "category": "企业展会",
+      "materials": [
+        "保温材料"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/news/gulf-o-flex-30-rubber-world-industry",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-27",
+      "score": 54,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "中东市场竞争加剧",
+      "dimensions": {
+        "relevance": 18,
+        "authority": 16,
+        "timeliness": 18,
+        "businessValue": 7,
+        "marketImpact": 5
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "分析中东保温市场格局"
+    },
+    {
+      "id": "20261126-21a71aff",
+      "title": "urbanest金丝雀码头成为世界最高被动式房屋建筑",
+      "titleOriginal": "urbanest Canary Wharf becomes the tallest Passivhaus building in the world",
+      "summary": "世界最高被动式房屋认证建筑落成，推动高性能保温材料需求，利好中国出口商高端产品。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GB",
+      "region": "欧洲",
+      "source": "London TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmxLMllZaVJWdkMzUnFSZk5ldHRLVW8zeTBHOVBDc1FRR29lbHpEU29FTVoxYTVPTExUVHBnT2JWZlRoS3lqSkVicDFnc2FZM0cwQk5SVWpDZk1OOVhxQURUbUNvQzRPUUE2dEhKMmZHbkFXaGN3ZWdYbFIyZVduby02UGNaTHRuem5vMmVfS1plQnZMMnNNYzhocW1mVDNu?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-26",
+      "score": 73,
+      "substance": "high",
+      "featured": true,
+      "impact": "high",
+      "impactNote": "高端保温材料需求信号",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 12,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注被动式房屋保温材料标准"
+    },
+    {
+      "id": "20261126-73908808",
+      "title": "新数据库发现室内空气法规主要涉及安全、建筑和能源规范",
+      "titleOriginal": "New database finds indoor air rules mostly sit in safety, building and energy codes",
+      "summary": "室内空气法规与建筑能效规范关联，可能间接推动保温材料标准升级，中国出口商需关注合规。",
+      "category": "标准政策",
+      "materials": [],
+      "applications": [],
+      "country": "GLOBAL",
+      "region": "全球",
+      "source": "MarketScale",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkVmdmhzcDZZRi1XN0d5eWlNSGc1VjNZRmRMdGJrX29vclQ2SGdXS3NsZW1ERTdmYjlROUl5TVdQUzU5eUhiM05mTXRpZmNDT2djQ0d0WXFqVnZPTkNQczcxY3E0U2VyTW9LdFBYV3l0MXJ1NF9YWExxWGNRbmVvNVpreThrUXBQZG5Ld0ktcmdFdmM2dXBVbTBTcXZ0NEY5d0VwcU45dHR3cE5jb1V2dHF2VUFkNU5rOEVqZlI0eHZ5d0c2am5UX2lOaS12cE1WY1BabVVMNEI?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-26",
+      "score": 45,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "可能影响出口产品合规要求",
+      "dimensions": {
+        "relevance": 15,
+        "authority": 10,
+        "timeliness": 18,
+        "businessValue": 6,
+        "marketImpact": 4
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "研究室内空气法规对保温材料影响"
+    },
+    {
       "id": "20261126-0243054b",
       "title": "联合国呼吁以色列允许保温材料等冬季物资进入加沙",
       "titleOriginal": "Insulation reportedly among blocked imports into Gaza",
@@ -140,6 +276,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注加沙重建对保温材料的潜在需求"
+    },
+    {
+      "id": "20261125-fe7b4320",
+      "title": "urbanest金丝雀码头成为世界最高被动式房屋认证建筑",
+      "titleOriginal": "urbanest Canary Wharf becomes the world's tallest fully Passivhaus-certified building",
+      "summary": "世界最高被动式房屋认证建筑落成，推动高性能保温材料需求，利好中国出口商高端产品。",
+      "category": "工程应用",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "GB",
+      "region": "欧洲",
+      "source": "UCL | University College London",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUkNrbXF6VWVBanlnd2NxMms0cldieEFFdUNXUXI0a3BHbzJsMlB2NExrQnpvZEhpMlRYQXNLbl9vSkZ4b0Z3ZENJS2EzYy1IcGJZeEVyN29mcDJ0WGtMX0d3czNJVk1iSTExRGc0ZXpUTkN0YW5HWm9QT1oyTXNuaTVyQVFLWHdWU1otaGNZMFVEUFIxanpSVzh3Q2MxRWVkYzFVSnFWT2FVNUFIeFcyMW1OSjZJejdLaU82UW9KVDBseThtQXlRWmF4Y2NkUQ?oc=5",
+      "sourceTier": "T3",
+      "sourceType": "市场观察",
+      "date": "2026-11-25",
+      "score": 69,
+      "substance": "high",
+      "featured": false,
+      "impact": "high",
+      "impactNote": "高端保温材料需求信号",
+      "dimensions": {
+        "relevance": 25,
+        "authority": 10,
+        "timeliness": 14,
+        "businessValue": 12,
+        "marketImpact": 8
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "关注被动式房屋保温材料标准"
     },
     {
       "id": "20261124-8e71efa0",
@@ -245,6 +416,41 @@
       "isMainEvent": true,
       "relatedIds": [],
       "topic": "关注美国2030能源规范对保温材料要求"
+    },
+    {
+      "id": "20261120-2a772617",
+      "title": "工程师对2026年HVACR世界展的期待",
+      "titleOriginal": "What Engineers Can Expect at HVACR World 2026",
+      "summary": "HVACR世界展2026年移师新场馆，为保温材料出口商提供展示和对接中东市场机会。",
+      "category": "企业展会",
+      "materials": [
+        "玻璃棉",
+        "岩棉"
+      ],
+      "applications": [],
+      "country": "AE",
+      "region": "中东",
+      "source": "MEP Middle East",
+      "sourceUrl": "https://www.mepmiddleeast.com/events/engineers-expect-hvacr-world-2026",
+      "sourceTier": "T2",
+      "sourceType": "行业媒体",
+      "date": "2026-11-20",
+      "score": 48,
+      "substance": "medium",
+      "featured": false,
+      "impact": "medium",
+      "impactNote": "展会提供中东市场拓展机会",
+      "dimensions": {
+        "relevance": 20,
+        "authority": 16,
+        "timeliness": 6,
+        "businessValue": 9,
+        "marketImpact": 6
+      },
+      "eventCluster": null,
+      "isMainEvent": true,
+      "relatedIds": [],
+      "topic": "策划参展HVACR世界展"
     },
     {
       "id": "20261119-145891b5",

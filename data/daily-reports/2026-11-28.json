@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "generatedAt": "2026-11-28T04:00:52.694739+00:00",
+  "generatedAt": "2026-11-28T18:18:12.071997+00:00",
   "sections": [
     {
       "title": "政策法规变动",
@@ -65,6 +65,14 @@
           "country": "GB",
           "source": "Global Insulation",
           "impact": "medium"
+        },
+        {
+          "id": "20261126-21a71aff",
+          "title": "urbanest金丝雀码头成为世界最高被动式房屋建筑",
+          "summary": "世界最高被动式房屋认证建筑落成，推动高性能保温材料需求，利好中国出口商高端产品。",
+          "country": "GB",
+          "source": "London TV",
+          "impact": "high"
         },
         {
           "id": "20261117-43251139",
